@@ -1,0 +1,1934 @@
+{
+    "2015-10-09": [
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 37, 
+            "activity": "youtube.com", 
+            "date": "2015-10-09T09:55:00", 
+            "document": "Is War Over? \u2014 A Paradox Explained - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 119, 
+            "activity": "youtube.com", 
+            "date": "2015-10-09T09:55:00", 
+            "document": "The Ultimate Conspiracy Debunker - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-10-09T09:55:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 3, 
+            "activity": "444.hu", 
+            "date": "2015-10-09T09:55:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-09T09:55:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-09T09:55:00", 
+            "document": "kurzgesagt - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-09T09:55:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 14, 
+            "activity": "444.hu", 
+            "date": "2015-10-09T10:25:00", 
+            "document": "A vil\u00e1g legpuszt\u00edt\u00f3bb fegyvere - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 130, 
+            "activity": "444.hu", 
+            "date": "2015-10-09T10:25:00", 
+            "document": "\u00cdgy n\u00e9z ki val\u00f3j\u00e1ban az, amikor leszakad egy f\u00fcgg\u0151h\u00edd - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 91, 
+            "activity": "444.hu", 
+            "date": "2015-10-09T10:25:00", 
+            "document": "Az amerikai \u00fcgy\u00e9szs\u00e9g szerint egy orosz parlamenti k\u00e9pvisel\u0151 fogyolysz\u00f6ktet\u00e9sre k\u00e9sz\u00fclt az US\u00c1-ban - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T10:30:00", 
+            "document": "toyota hilux - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 18, 
+            "activity": "slack", 
+            "date": "2015-10-09T10:35:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 14, 
+            "activity": "facebook.com", 
+            "date": "2015-10-09T10:35:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T10:35:00", 
+            "document": "glacier sublime theme - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-09T10:35:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 31, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T10:50:00", 
+            "document": "pomojs - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 9, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T10:50:00", 
+            "document": "tasklistmanager.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 56, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T10:50:00", 
+            "document": "tmux.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 79, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T10:55:00", 
+            "document": "helpers.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T10:55:00", 
+            "document": "quitting coffee - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 29, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T11:00:00", 
+            "document": "GaborK \u2014 -zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 43, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T11:00:00", 
+            "document": "Edit configuration"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 12, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T11:00:00", 
+            "document": "GaborK \u2014 node"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T11:00:00", 
+            "document": "update node - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T11:00:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T11:00:00", 
+            "document": "This should not be shown"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T11:00:00", 
+            "document": "GaborK \u2014 sudo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T11:05:00", 
+            "document": "node js versio - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T11:05:00", 
+            "document": "node js - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T11:05:00", 
+            "document": "configure node js webstorm - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T11:05:00", 
+            "document": "for best profiling use node js version 0.11.0 or higher - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T11:05:00", 
+            "document": "for best profiling use node js version 0.11.0 or higher webstorm - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T11:05:00", 
+            "document": "for best profiling use node js version 0.11.0 or higher webstrom - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T11:05:00", 
+            "document": "Node.js"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T12:10:00", 
+            "document": "java annotations - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 131, 
+            "activity": "calendar", 
+            "date": "2015-10-09T12:15:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 40, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T12:20:00", 
+            "document": "bin \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T12:20:00", 
+            "document": "bin \u2014 say"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T12:20:00", 
+            "document": "glacier theme sublime javascript - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T12:20:00", 
+            "document": "pomo \u2014 -zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T12:25:00", 
+            "document": "glacier webstorm - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T12:30:00", 
+            "document": "fitbit waterproof - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 54, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "cweagans/phpstorm-solarized"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 40, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "Search \u00b7 phpstorm color scheme"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 18, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "dd3v/base16-phpstorm-color-schemes"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "KDawg/KATzCool2"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "webstorm color schemes - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "abhimanyusharma003/phpstorm-spacegray"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "negativefix/zenburn"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "dustinmoorman/PHPStorm-color-schemes"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "elfet/oblivion"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "fliptheweb/Dark-Pastels"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "knpuniversity/phpstorm"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:35:00", 
+            "document": "https://github.com/negativefix/zenburn"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "runner.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 57, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "jkaving/intellij-colors-solarized"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 15, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "Preferences"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 51, 
+            "activity": "Finder", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "WebStorm10"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 19, 
+            "activity": "Finder", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "intellij-colors-solarized-master"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "SOL dark.icls \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 19, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "Preferences \u2014 -zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "phpstorm-solarized-master"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 7, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "WebStorm10 \u2014 -zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "webstorm solarized - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "phpstorm-solarized/Solarized Dark.xml at master \u00b7 cweagans/phpstorm-solarized"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "WebStorm 10.0"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T12:40:00", 
+            "document": "pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T12:45:00", 
+            "document": "bin \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 11, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T12:50:00", 
+            "document": "/Users/GaborK/WebstormProjects/pomo/bin/pomojs"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T12:50:00", 
+            "document": "npm commander - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T13:00:00", 
+            "document": ".pomo \u2014 -zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T13:00:00", 
+            "document": "timer.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T13:05:00", 
+            "document": "In Node.js, how to read a file, append a string at a specified line or delete a string from a certain line? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T13:05:00", 
+            "document": "speaker.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T13:05:00", 
+            "document": "remove line from file node js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 49, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T13:05:00", 
+            "document": "Node.js / Delete content in file - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T13:10:00", 
+            "document": "Node.js How to delete first line in file - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T13:10:00", 
+            "document": "empty exception java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:00:00", 
+            "document": "path node js - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T14:05:00", 
+            "document": "EcmaScript.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:05:00", 
+            "document": "array join javascript - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T14:10:00", 
+            "document": "bin \u2014 terminal-notifier"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "tmux - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 23, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "tmux - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "install tmux osx - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "install tmux brew - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "tmux zsh - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "tmux mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "tmux reporting - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "bin \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "bin \u2014 curl"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "install tmux osc - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "sorin-ionescu/prezto"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "bin \u2014 ruby"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "tmux crash course - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-09T14:20:00", 
+            "document": "Array.prototype.join() - JavaScript | MDN"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:25:00", 
+            "document": "commander node js unknown arguments - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 88, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "index.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "running an unknown subcommand does not fail \u00b7 Issue #432 \u00b7 tj/commander.js"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "commander unkownoption - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 24, 
+            "activity": "github.com", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "allow unknown function #138 by zhiyelee \u00b7 Pull Request #310 \u00b7 tj/commander.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "allowUnknownOptions() --- dont process.exit(1) when an unknown option is detected. by matthiasg \u00b7 Pull Request #147 \u00b7 tj/commander.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "Search Results"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 7, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "Find in Path"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "trentm/node-dashdash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "How to avoid `unknown option` error? \u00b7 Issue #426 \u00b7 tj/commander.js"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T14:30:00", 
+            "document": "bin \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 16, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T14:40:00", 
+            "document": "module.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-10-09T14:45:00", 
+            "document": "tj/commander.js"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:45:00", 
+            "document": "commander output commands in help node js - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:45:00", 
+            "document": "commander output commands in help - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T14:50:00", 
+            "document": "bin \u2014 less"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:55:00", 
+            "document": "cli program description - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T14:55:00", 
+            "document": "cli program description conventions - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T14:55:00", 
+            "document": "bin \u2014 pip"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T15:00:00", 
+            "document": "mac osx lock computer - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T15:05:00", 
+            "document": "python - Intercept Tkinter \"Exit\" command? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T15:05:00", 
+            "document": "python - Make a tkinter window fullscreen - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T15:05:00", 
+            "document": "tkinter intercept exit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T15:05:00", 
+            "document": "tkinter full screen - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T15:15:00", 
+            "document": "commander unknown command node js - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T15:15:00", 
+            "document": "commander unknown command - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T15:15:00", 
+            "document": "commander unknown command noe js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-10-09T15:20:00", 
+            "document": "Issues \u00b7 tj/commander.js"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T15:25:00", 
+            "document": "bin \u2014 git"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-10-09T15:25:00", 
+            "document": ".pomotasktest \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T15:35:00", 
+            "document": "q.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T15:40:00", 
+            "document": "bin \u2014 sh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 48, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T15:55:00", 
+            "document": "javascript: plus symbol before variable - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T15:55:00", 
+            "document": "+ operator javascript before variable - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 10, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T16:15:00", 
+            "document": "logger.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T16:25:00", 
+            "document": ".pomo \u2014 rm"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 5, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T16:30:00", 
+            "document": "Rename"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T16:35:00", 
+            "document": "create file and directory if not exist node js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 157, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T16:40:00", 
+            "document": "node.js - node how to create a directory if doesn't exist? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T16:50:00", 
+            "document": "java - Maven packaging without test (skip tests) - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T16:50:00", 
+            "document": "maven package exclude tests - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-09T17:00:00", 
+            "document": "lib"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T17:00:00", 
+            "document": "fs.mkdir - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T17:00:00", 
+            "document": "fs.mkdor - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T17:20:00", 
+            "document": "private functions node js - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 14, 
+            "activity": "w3schools.com", 
+            "date": "2015-10-09T17:40:00", 
+            "document": "JavaScript Array splice() Method"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T17:40:00", 
+            "document": "list splice javascript - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-09T17:40:00", 
+            "document": "node.js - JavaScript Node - Private Module Functions - Code Review Stack Exchange"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 9, 
+            "activity": "sublime text", 
+            "date": "2015-10-09T17:50:00", 
+            "document": "todo \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 74, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:00:00", 
+            "document": "RegEx: Grabbing values between quotation marks - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:00:00", 
+            "document": "regex find characters between \" \" - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:00:00", 
+            "document": "rubular javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:00:00", 
+            "document": "Regex - how to extract text from between quotes and exclude quotes - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:00:00", 
+            "document": "regex match between quotes - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:00:00", 
+            "document": "rubular - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-10-09T18:05:00", 
+            "document": "yolo \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T18:05:00", 
+            "document": "bin \u2014 rm"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:15:00", 
+            "document": "string startswith javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 57, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:25:00", 
+            "document": "html5 - What are the functional differences between NW.js, Brackets-Shell and Electron? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 22, 
+            "activity": "github.com", 
+            "date": "2015-10-09T18:25:00", 
+            "document": "nwjs/nw.js"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:25:00", 
+            "document": "chrome app - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:25:00", 
+            "document": "chrome app vs electron - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:25:00", 
+            "document": "install node webkit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:25:00", 
+            "document": "node webkit - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 57, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T18:30:00", 
+            "document": "node_modules \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 14, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T18:30:00", 
+            "document": "pomo \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 14, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T18:30:00", 
+            "document": "pomo \u2014 npm"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:30:00", 
+            "document": "info about folder terminal - Google Search"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "groups.google.com", 
+            "date": "2015-10-09T18:30:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:35:00", 
+            "document": "Loading basic HTML in Node.js - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 37, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:35:00", 
+            "document": "Can Node.js invoke Chrome? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:35:00", 
+            "document": "run server at local host node - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:35:00", 
+            "document": "display html page with node.js - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 23, 
+            "activity": "gist.github.com", 
+            "date": "2015-10-09T18:35:00", 
+            "document": "web server in node.js"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:35:00", 
+            "document": "node open html file - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:35:00", 
+            "document": "open file in chrome node js - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-09T18:35:00", 
+            "document": "node_modules \u2014 npm"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 11, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T18:40:00", 
+            "document": "index.html - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-10-09T18:40:00", 
+            "document": "pwnall/node-open"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 25, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:40:00", 
+            "document": "javascript - How to use nodejs to open default browser and navigate to a specific URL - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-10-09T18:40:00", 
+            "document": "domenic/opener"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 3, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T18:40:00", 
+            "document": "New Directory"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:40:00", 
+            "document": "get name of default browser node js - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 3, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T18:40:00", 
+            "document": "HTML File"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:45:00", 
+            "document": "javascript - How can I return JSON from node.js backend to frontend without reloading or re-rendering the page? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 2, 
+            "activity": "users", 
+            "date": "2015-10-09T18:45:00", 
+            "document": "index.html"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:45:00", 
+            "document": "node js send json to client - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 47, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T18:50:00", 
+            "document": "script.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 6, 
+            "activity": "webstorm", 
+            "date": "2015-10-09T18:50:00", 
+            "document": "New JavaScript file"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 44, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:55:00", 
+            "document": "how to run node.js client side code - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-09T18:55:00", 
+            "document": "node.js - JavaScript require() on client side - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:55:00", 
+            "document": "node js on client side - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 7, 
+            "activity": "w3schools.com", 
+            "date": "2015-10-09T18:55:00", 
+            "document": "HTML script tag"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-09T18:55:00", 
+            "document": "script tag html - Google Search"
+        }
+    ]
+}

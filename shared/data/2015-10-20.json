@@ -1,0 +1,264 @@
+{
+    "2015-10-20": [
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 48, 
+            "activity": "systemuiserver", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 2, 
+            "activity": "slack", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 10, 
+            "activity": "newtab", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 31, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "112"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 34, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "AirDrop"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "examples"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "karelmartens examples"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "veghel"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "pngs"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "dither"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "dracthen"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "gameOfLife_tests"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "AE"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-20T13:30:00", 
+            "document": "other animations"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-20T16:05:00", 
+            "document": "GaborK \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-20T16:05:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-10-20T16:10:00", 
+            "document": "oneonetwo \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 17, 
+            "activity": "Terminal", 
+            "date": "2015-10-20T16:40:00", 
+            "document": "oneonetwo \u2014 nano"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-20T16:40:00", 
+            "document": "oneonetwo \u2014 git-remote-https"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-20T16:40:00", 
+            "document": "oneonetwo \u2014 git"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 273, 
+            "activity": "calendar", 
+            "date": "2015-10-20T16:50:00", 
+            "document": "Calendar"
+        }
+    ]
+}

@@ -1,0 +1,994 @@
+{
+    "2015-11-13": [
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 32, 
+            "activity": "System Preferences", 
+            "date": "2015-11-13T10:15:00", 
+            "document": "SAMSUNG"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 13, 
+            "activity": "System Preferences", 
+            "date": "2015-11-13T10:15:00", 
+            "document": "Built-in Retina Display"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 3, 
+            "activity": "System Preferences", 
+            "date": "2015-11-13T10:15:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "System Preferences", 
+            "date": "2015-11-13T10:15:00", 
+            "document": "Displays"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 15, 
+            "activity": "RescueTime", 
+            "date": "2015-11-13T11:05:00", 
+            "document": "RescueTime"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-11-13T11:35:00", 
+            "document": "glyphcollector \u2014 -zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-13T12:20:00", 
+            "document": "exported_videos"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 8, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-11-13T12:20:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 44, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-11-13T12:25:00", 
+            "document": "diag-thin.png"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-11-13T12:25:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-13T12:55:00", 
+            "document": "oneonetwo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-13T13:00:00", 
+            "document": "normal"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-11-13T13:00:00", 
+            "document": "normal copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-11-13T13:00:00", 
+            "document": "fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T13:10:00", 
+            "document": "normal-wide"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "quicktime player", 
+            "date": "2015-11-13T14:00:00", 
+            "document": "3-wide-font"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 14, 
+            "activity": "quicktime player", 
+            "date": "2015-11-13T14:00:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 6, 
+            "activity": "quicktime player", 
+            "date": "2015-11-13T14:00:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 7, 
+            "activity": "quicktime player", 
+            "date": "2015-11-13T14:00:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 7, 
+            "activity": "quicktime player", 
+            "date": "2015-11-13T14:00:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T14:00:00", 
+            "document": "normal-3"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 91, 
+            "activity": "quicktime player", 
+            "date": "2015-11-13T14:05:00", 
+            "document": "4-wide-font"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 35, 
+            "activity": "Finder", 
+            "date": "2015-11-13T14:05:00", 
+            "document": "movies"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-13T14:05:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T14:05:00", 
+            "document": "normal-4"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 174, 
+            "activity": "444.hu", 
+            "date": "2015-11-13T14:40:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 7, 
+            "activity": "444.hu", 
+            "date": "2015-11-13T14:40:00", 
+            "document": "http://444.hu/ is not available"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 9, 
+            "activity": "stickies", 
+            "date": "2015-11-13T14:45:00", 
+            "document": "CLOTHINGhumor\n\nmakeitrain.n\u2026"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 32, 
+            "activity": "history", 
+            "date": "2015-11-13T14:45:00", 
+            "document": "History"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "Preview", 
+            "date": "2015-11-13T14:45:00", 
+            "document": "drachten_presentation-141119.pdf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T14:50:00", 
+            "document": "stutterheim - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T14:50:00", 
+            "document": "ilse jacobsen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T14:50:00", 
+            "document": "de bijenkorf - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 173, 
+            "activity": "index.hu", 
+            "date": "2015-11-13T14:55:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 3, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-13T14:55:00", 
+            "document": "*Untitled-3"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-11-13T14:55:00", 
+            "document": "script \u2014 FF, FF2, reveal.js-3.1.0, documents"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 5, 
+            "activity": "index.hu", 
+            "date": "2015-11-13T14:55:00", 
+            "document": "http://index.hu/ is not available"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-11-13T14:55:00", 
+            "document": "main.py - PayPalWaker - [~/PycharmProjects/PayPalWaker]"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 6, 
+            "activity": "index.hu", 
+            "date": "2015-11-13T15:00:00", 
+            "document": "Index - Sport - Hamilton: Kem\u00e9ny buliz\u00e1s a baleset oka"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:05:00", 
+            "document": "ecoalf - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:10:00", 
+            "document": "the north face 1985 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:10:00", 
+            "document": "topman - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:15:00", 
+            "document": "norse projects - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:20:00", 
+            "document": "spectaculum tarsadalmi - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:20:00", 
+            "document": "shine original - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:20:00", 
+            "document": "tretorn - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:20:00", 
+            "document": "spektakulum tarsadalma - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:25:00", 
+            "document": "knowledge cotton apparel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "knowledge cotton - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "documents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "wthx"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "Miro Video Converter"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "Go to Folder"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "conflictmap"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "GlyphMaster"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "mobile - vredespaleis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T15:30:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:35:00", 
+            "document": "jsoup - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:50:00", 
+            "document": "whyred - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T15:55:00", 
+            "document": "the north face gold kazoo - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T16:05:00", 
+            "document": "wemoto gant black - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T16:05:00", 
+            "document": "https://www.google.nl/search?q=wemoto+gant&oq=wemoto+gant&aqs=chrome.0.69i59j69i57j69i60l4.1335j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 failed to load"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 23, 
+            "activity": "Finder", 
+            "date": "2015-11-13T16:25:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-13T16:25:00", 
+            "document": "heartbeats"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 26, 
+            "activity": "slack", 
+            "date": "2015-11-13T16:30:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T16:40:00", 
+            "document": "Fogoule - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-13T16:50:00", 
+            "document": "jquery - How link a javascript file to an html file - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T16:50:00", 
+            "document": "link stylesheet - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 5, 
+            "activity": "w3schools.com", 
+            "date": "2015-11-13T16:50:00", 
+            "document": "CSS How to"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T16:50:00", 
+            "document": "link javascript html - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 21, 
+            "activity": "Terminal", 
+            "date": "2015-11-13T16:55:00", 
+            "document": "VredesPaleis \u2014 -zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T16:55:00", 
+            "document": "jquery link - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-11-13T16:55:00", 
+            "document": "VredesPaleis \u2014 bower"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-11-13T16:55:00", 
+            "document": "VredesPaleis \u2014 git"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-11-13T16:55:00", 
+            "document": "VredesPaleis \u2014 node"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T17:10:00", 
+            "document": "css reset - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 9, 
+            "activity": "meyerweb.com", 
+            "date": "2015-11-13T17:10:00", 
+            "document": "CSS Tools: Reset CSS"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 85, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-13T17:15:00", 
+            "document": "jquery - How to remove the space between inline-block elements? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-13T17:15:00", 
+            "document": "css - How do I remove extra margin space generated by inline blocks? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-13T17:15:00", 
+            "document": "css - display: inline-block extra margin - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T17:15:00", 
+            "document": "div inline-block extra margin - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T17:15:00", 
+            "document": "div column - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T17:15:00", 
+            "document": "div extra margin - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T17:25:00", 
+            "document": "jquery css - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 32, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-13T17:45:00", 
+            "document": "How to get mouse position in jQuery without mouse-events? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T17:45:00", 
+            "document": "jquery mousemoved - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T17:45:00", 
+            "document": "get mouse position jquery - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T18:00:00", 
+            "document": "squash - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T18:00:00", 
+            "document": "squash racket - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T18:05:00", 
+            "document": "Weatherguard - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T18:05:00", 
+            "document": "Weatherguard clothing - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T18:10:00", 
+            "document": "carhartt mosley - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-13T18:15:00", 
+            "document": "patagnoia bivy down - Google Search"
+        }
+    ]
+}

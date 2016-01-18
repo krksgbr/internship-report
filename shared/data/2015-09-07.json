@@ -1,0 +1,1744 @@
+{
+    "2015-09-07": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 128, 
+            "activity": "444.hu", 
+            "date": "2015-09-07T09:10:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 263, 
+            "activity": "444.hu", 
+            "date": "2015-09-07T09:15:00", 
+            "document": "Ezek a sz\u00edrek hol voltak tavaly? \u00c9s meddig j\u00f6nnek m\u00e9g? !!444!!!"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 18, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-07T09:20:00", 
+            "document": "The Fallen of World War II on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T09:20:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T09:20:00", 
+            "document": "HF3320 golite - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T09:20:00", 
+            "document": "kiala - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T09:25:00", 
+            "document": "Continental Ultra Sport II 28 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T09:25:00", 
+            "document": "Continental Ultra Sport II Draadband 28-622 / 700 x 28"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T09:25:00", 
+            "document": "Continental Ultra Sport II - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 57, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T10:15:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T10:15:00", 
+            "document": "UnfoldingMap.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-07T10:15:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-09-07T10:15:00", 
+            "document": "27-04"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-07T10:15:00", 
+            "document": "25-12"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T10:15:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T10:15:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T10:15:00", 
+            "document": "MapDisplayFactory.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T10:15:00", 
+            "document": "Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T10:20:00", 
+            "document": "ClockControl.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-07T10:20:00", 
+            "document": "specialEvents"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 144, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T10:25:00", 
+            "document": "SpecialEvents.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 68, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T10:40:00", 
+            "document": "java - Converting longitude/latitude to X/Y coordinate - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T10:40:00", 
+            "document": "mercator projection java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T10:40:00", 
+            "document": "mercator projection - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 71, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-07T10:45:00", 
+            "document": "List of map projections - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 29, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-07T10:45:00", 
+            "document": "Map projection - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T10:45:00", 
+            "document": "projection map - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T10:45:00", 
+            "document": "projection - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T10:45:00", 
+            "document": "marcator projection java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 195, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T10:50:00", 
+            "document": "java - Covert latitude/longitude point to a pixels (x,y) on mercator projection - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-09-07T10:50:00", 
+            "document": "OpenMap-java/openmap"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-09-07T11:00:00", 
+            "document": "World_Blank_Map_(Mercator_projection).svg*"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 20, 
+            "activity": "Finder", 
+            "date": "2015-09-07T11:00:00", 
+            "document": "mobile - vredespaleis"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 68, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:00:00", 
+            "document": "map mercator projection vector - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 63, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:00:00", 
+            "document": "map mercator vector - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 15, 
+            "activity": "upload.wikimedia.org", 
+            "date": "2015-09-07T11:00:00", 
+            "document": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mercator_Projection.svg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 26, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-09-07T11:00:00", 
+            "document": "World_Blank_Map_(Mercator_projection).svg"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:00:00", 
+            "document": "map mercator svg - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:00:00", 
+            "document": "map mercator projection - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 44, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T11:05:00", 
+            "document": "VredesPaleisSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T11:05:00", 
+            "document": "CAMEO.eventcodes.txt - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 20, 
+            "activity": "Preview", 
+            "date": "2015-09-07T11:10:00", 
+            "document": "world_map.jpg"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-09-07T11:15:00", 
+            "document": "mfeldheim/hermap"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:25:00", 
+            "document": "paypal - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-07T11:30:00", 
+            "document": "Re: Ik heb interesse in 'Philips goLITE BLU energielamp HF3320' - krksgbr - krks.gbr@gmail.com - Gmail"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 27, 
+            "activity": "slack", 
+            "date": "2015-09-07T11:35:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-07T11:35:00", 
+            "document": "resources"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 197, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T11:40:00", 
+            "document": "MercatorProjection.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:45:00", 
+            "document": "Vereniging van Eigenaars Driebergenstr. ongenr./135/137 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:45:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:45:00", 
+            "document": "GEMAK The Hague - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:45:00", 
+            "document": "52\u00b004'28.7\"N 4\u00b018'43.4\"E - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:45:00", 
+            "document": "Pahudstraat 13 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:45:00", 
+            "document": "52.074647, 4.312050 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:45:00", 
+            "document": "gemak - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:45:00", 
+            "document": "Pahudstraat 135, 137 en 139, Valeriusstraat, The Hague - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:50:00", 
+            "document": "Budapest - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T11:50:00", 
+            "document": "budapest - Google Maps"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T11:55:00", 
+            "document": "ClosingComponent.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T11:55:00", 
+            "document": "AvatarSketch2.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T11:55:00", 
+            "document": "kpnsketches - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T11:55:00", 
+            "document": "Writer.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 72, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T12:05:00", 
+            "document": "world map svg - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 32, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-07T12:05:00", 
+            "document": "Transverse Mercator projection - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T12:05:00", 
+            "document": "world map mercator svg - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-07T12:05:00", 
+            "document": "MercNormSph - Transverse Mercator projection - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T12:05:00", 
+            "document": "java mercator projection - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T12:05:00", 
+            "document": "projections map - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 69, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-09-07T12:10:00", 
+            "document": "Mercator_Projection.svg*"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 6, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-09-07T12:10:00", 
+            "document": "Mercator_Projection.svg"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 5, 
+            "activity": "Preview", 
+            "date": "2015-09-07T12:10:00", 
+            "document": "mercator.jpg"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T12:10:00", 
+            "document": "mercator.jpg - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "users", 
+            "date": "2015-09-07T12:10:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T12:20:00", 
+            "document": "Component.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 43, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T12:20:00", 
+            "document": "paris lat long - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T12:20:00", 
+            "document": "Paris - Google Maps"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 24, 
+            "activity": "Terminal", 
+            "date": "2015-09-07T12:25:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 10, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-07T12:25:00", 
+            "document": "welcomescreen intrude extrude.mov"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T12:25:00", 
+            "document": "csvjson - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-09-07T12:25:00", 
+            "document": "GaborK \u2014 Python"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-07T12:25:00", 
+            "document": "GaborK \u2014 man"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 59, 
+            "activity": "Terminal", 
+            "date": "2015-09-07T12:30:00", 
+            "document": "Downloads \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 7, 
+            "activity": "sublime text", 
+            "date": "2015-09-07T12:30:00", 
+            "document": "myjson.json"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 40, 
+            "activity": "Terminal", 
+            "date": "2015-09-07T12:30:00", 
+            "document": "Downloads \u2014 Python"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-09-07T12:30:00", 
+            "document": "darwin/csv2json"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T12:30:00", 
+            "document": "csv2json - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T13:05:00", 
+            "document": "json too big for sublime - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-07T13:05:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T13:35:00", 
+            "document": "filter noise gdelt - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 62, 
+            "activity": "github.com", 
+            "date": "2015-09-07T13:40:00", 
+            "document": "Global Database of Events, Language, and Tone \u00b7 timrdf/snoozl Wiki"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 45, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-07T13:40:00", 
+            "document": "Global Database of Events, Language, and Tone - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 42, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T13:40:00", 
+            "document": "get title of the event gdelt - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T13:40:00", 
+            "document": "gdelt event title - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T13:40:00", 
+            "document": "get title of the event - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T13:45:00", 
+            "document": "in the pipeline - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T13:45:00", 
+            "document": "pipeline - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T14:30:00", 
+            "document": "sql - Should I use != or <> for not equal in TSQL? - Stack Overflow"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 8, 
+            "activity": "w3schools.com", 
+            "date": "2015-09-07T14:30:00", 
+            "document": "SQL NULL Values - IS NULL and IS NOT NULL"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T14:30:00", 
+            "document": "not equal sql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T14:30:00", 
+            "document": "not null sql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T14:35:00", 
+            "document": "goldstein scale - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-09-07T14:40:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 109, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T14:45:00", 
+            "document": "Data.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 61, 
+            "activity": "sublime text", 
+            "date": "2015-09-07T14:45:00", 
+            "document": "results-20150907-144519.json"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 26, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T14:45:00", 
+            "document": "vredespaleis - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T14:45:00", 
+            "document": "AwData.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T14:45:00", 
+            "document": "Gson.class - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T14:45:00", 
+            "document": "hubbub-sketch - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 170, 
+            "activity": "sublime text", 
+            "date": "2015-09-07T15:00:00", 
+            "document": "untitled"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:05:00", 
+            "document": "Event.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 52, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T15:10:00", 
+            "document": "java - How to print color in console using System.out.println? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:10:00", 
+            "document": "FileReader.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T15:10:00", 
+            "document": "java - How to color System.out.println output? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:10:00", 
+            "document": "system out println formatting output - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:10:00", 
+            "document": "system out println formatting output red - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 36, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T15:15:00", 
+            "document": "java - how to read text file relative path - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:15:00", 
+            "document": "results-20150907-144519.json - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:15:00", 
+            "document": "filereader relative path - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:15:00", 
+            "document": "gson from json - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 75, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T15:20:00", 
+            "document": "Java FileReader not finding files - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 39, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:20:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:20:00", 
+            "document": "filereader no such path - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T15:25:00", 
+            "document": "how to Locate the path of the Current project in Java, Eclipse? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:25:00", 
+            "document": "print classpath - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:25:00", 
+            "document": "print project directory java - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 3, 
+            "activity": "superuser.com", 
+            "date": "2015-09-07T15:25:00", 
+            "document": "How to print the default java classpath from the command line in windows - Super User"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T15:25:00", 
+            "document": "Quota Policy - BigQuery \u2014 Google Cloud Platform"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 40, 
+            "activity": "sublime text", 
+            "date": "2015-09-07T15:30:00", 
+            "document": "results-20150907-144519.json \u2014 IdeaProjects/\u2026/resources"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 188, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:40:00", 
+            "document": "Plotter.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:40:00", 
+            "document": "plotter - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:40:00", 
+            "document": "Visualizer.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:40:00", 
+            "document": "DataMapper.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:40:00", 
+            "document": "visualization.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 40, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-07T15:45:00", 
+            "document": "Factory method pattern - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:45:00", 
+            "document": "factory method - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:45:00", 
+            "document": "sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T15:45:00", 
+            "document": "hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T15:55:00", 
+            "document": "Change Name of Import in Java, or import two classes with the same name - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T15:55:00", 
+            "document": "import with different name java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 64, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T16:10:00", 
+            "document": "How do I define a method which takes a lambda as a parameter in Java 8? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T16:10:00", 
+            "document": "pass boolean lambda as parameter - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T16:10:00", 
+            "document": "boolean operators java lambda - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T16:10:00", 
+            "document": "java - How to pass a Lambda expression as a method argument in JDK8 with reflection - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T16:10:00", 
+            "document": "boolean operators java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T16:10:00", 
+            "document": "pass lambda expression as parameter java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T16:15:00", 
+            "document": "predicate java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:20:00", 
+            "document": "SketchGL3.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 71, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T16:20:00", 
+            "document": "java - Detecting mouse enter/exit events anywhere on JPanel - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T16:20:00", 
+            "document": "mouseenter java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T16:20:00", 
+            "document": "mouseenter javascript - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-07T16:20:00", 
+            "document": "How to use Predicate in java 8 - HowToDoInJava"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 31, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:25:00", 
+            "document": "Button.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 82, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:25:00", 
+            "document": "Control.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:25:00", 
+            "document": "SelectableButton.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:25:00", 
+            "document": "SketchDelegate.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:25:00", 
+            "document": "SketchDelegateInterface.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 129, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:30:00", 
+            "document": "Marker.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:30:00", 
+            "document": "UnaryEvent.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:30:00", 
+            "document": "App.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:30:00", 
+            "document": "Director.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:30:00", 
+            "document": "SceneController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T16:55:00", 
+            "document": "DrawerGL3.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T17:00:00", 
+            "document": "gdelt conflict map - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T17:00:00", 
+            "document": "Budapest Hungary violence - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T17:05:00", 
+            "document": "GLWindow.class - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-07T17:05:00", 
+            "document": "MouseListener.class - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T17:20:00", 
+            "document": "mouseentered java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T17:20:00", 
+            "document": "java - Why methods mouseExited and mouseEntered run together when I enter or exit JDialog? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T17:25:00", 
+            "document": "How to Write a Mouse Listener (The Java\u2122 Tutorials > Creating a GUI With JFC/Swing > Writing Event Listeners)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T17:30:00", 
+            "document": "jogamp mouselistener example - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T17:30:00", 
+            "document": "jogamp mouselistener mouseEntered - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T17:30:00", 
+            "document": "jogl mouseenterered - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 79, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-07T17:35:00", 
+            "document": "Java Swing - Get object that the mouse hovers over - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-07T17:35:00", 
+            "document": "detect hover on element java - Google Search"
+        }
+    ]
+}

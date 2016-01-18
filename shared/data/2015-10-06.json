@@ -1,0 +1,764 @@
+{
+    "2015-10-06": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T10:05:00", 
+            "document": "subcommander - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T10:05:00", 
+            "document": "subcommander without flag - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 99, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-06T10:10:00", 
+            "document": "Node.js - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T10:10:00", 
+            "document": "node js - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 74, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-06T10:15:00", 
+            "document": "Runtime system - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 43, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T10:50:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T10:50:00", 
+            "document": "CFCF - The colours of Life (Full Album) - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 20, 
+            "activity": "github.com", 
+            "date": "2015-10-06T10:50:00", 
+            "document": "rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-10-06T10:50:00", 
+            "document": "rstacruz/rscss"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-06T10:50:00", 
+            "document": "hours-fix by mroedel \u00b7 Pull Request #1 \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T10:50:00", 
+            "document": "cfcf - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-06T10:50:00", 
+            "document": "rstacruz (Rico Sta. Cruz)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-06T10:50:00", 
+            "document": "Pull Requests \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-06T10:50:00", 
+            "document": "Issues \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T10:55:00", 
+            "document": "processing - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T11:00:00", 
+            "document": "boards of canada - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T11:00:00", 
+            "document": "Boards of Canada - Gemini - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T11:00:00", 
+            "document": "boards of canada tomorrow's harvest full album - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T11:55:00", 
+            "document": "node js commander - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-06T11:55:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T11:55:00", 
+            "document": "Boards of Canada - Come To Dust - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-06T12:00:00", 
+            "document": "commander.js/examples at master \u00b7 tj/commander.js"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T12:00:00", 
+            "document": "variadic arguments - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 55, 
+            "activity": "Terminal", 
+            "date": "2015-10-06T12:05:00", 
+            "document": "GaborK \u2014 node"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-10-06T12:05:00", 
+            "document": "History for examples/pizza - tj/commander.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-06T12:05:00", 
+            "document": "tj (TJ Holowaychuk)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-06T12:05:00", 
+            "document": "commander.js/pizza at master \u00b7 tj/commander.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-06T12:05:00", 
+            "document": "typos \u00b7 tj/commander.js@250eebe"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-06T12:05:00", 
+            "document": "marble \u00b7 tj/commander.js@05a1816"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 5, 
+            "activity": "webstorm", 
+            "date": "2015-10-06T12:10:00", 
+            "document": "Find in Path"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "webstorm", 
+            "date": "2015-10-06T12:20:00", 
+            "document": "tmux.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-10-06T12:55:00", 
+            "document": "TestWeatherFacade.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-10-06T12:55:00", 
+            "document": "OfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-10-06T12:55:00", 
+            "document": "FakeWeatherDataSourceOld.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-10-06T12:55:00", 
+            "document": "TestOfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-10-06T12:55:00", 
+            "document": "IntelliJ IDEA 14.1.5"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-10-06T12:55:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-10-06T13:35:00", 
+            "document": "Welcome to IntelliJ IDEA"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T13:35:00", 
+            "document": "wunderlist - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 50, 
+            "activity": "sublime text", 
+            "date": "2015-10-06T14:00:00", 
+            "document": ".zshrc \u2014 pomo"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T14:00:00", 
+            "document": "Reach For The Dead (Boards of Canada Guitar Cover) - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-10-06T14:00:00", 
+            "document": "pomo.log \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-10-06T14:00:00", 
+            "document": "untitled \u2014 .pomo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 102, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-06T14:05:00", 
+            "document": "LUSTlab / lightcontroller / commit / a9c47c04b263 \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 29, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-06T14:05:00", 
+            "document": "LUSTlab / lightcontroller / Commits \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 10, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-06T14:05:00", 
+            "document": "LUSTlab / lightcontroller \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T14:05:00", 
+            "document": "Boards of Canada - Nothing Is Real - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-06T14:05:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 4, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-06T14:05:00", 
+            "document": "Log in \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-06T14:05:00", 
+            "document": "GaborK \u2014 login"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-06T14:05:00", 
+            "document": "Bitbucket \u2014 The Git solution for professional teams"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-06T14:05:00", 
+            "document": "Boards of Canada - Uritual - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 18, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-06T14:15:00", 
+            "document": "List of weather records - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T14:15:00", 
+            "document": "highest temperature netherlands - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 84, 
+            "activity": "slack", 
+            "date": "2015-10-06T15:00:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "System Preferences", 
+            "date": "2015-10-06T15:40:00", 
+            "document": "General"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "System Preferences", 
+            "date": "2015-10-06T15:40:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:05:00", 
+            "document": "default method interface java - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-06T17:05:00", 
+            "document": "RevSpace: Hacker Space Hague"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:20:00", 
+            "document": "circle around rectangle java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:20:00", 
+            "document": "find circle around rectangle - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-06T17:20:00", 
+            "document": "Is there a circle class in Java like the Rectangle class - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 51, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-06T17:25:00", 
+            "document": "java - Calculating the distance between two points - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:25:00", 
+            "document": "distance between two points vectors java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-06T17:30:00", 
+            "document": "algorithm - How do I calculate a point on a circle\u2019s circumference? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:30:00", 
+            "document": "find point on circle given angle - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:35:00", 
+            "document": "radians - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:45:00", 
+            "document": "normalized to radians - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 16, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-06T17:50:00", 
+            "document": "Wind direction - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:50:00", 
+            "document": "wind direction relative to - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:50:00", 
+            "document": "windbearing - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 8, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-06T17:50:00", 
+            "document": "Apparent wind - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 48, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:55:00", 
+            "document": "GEMAK The Hague to RevSpace - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:55:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-06T17:55:00", 
+            "document": "RevSpace - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "google.com", 
+            "date": "2015-10-06T17:55:00", 
+            "document": "https://www.google.com/maps"
+        }
+    ]
+}

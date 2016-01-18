@@ -1,0 +1,1294 @@
+{
+    "2015-09-17": [
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 96, 
+            "activity": "newtab", 
+            "date": "2015-09-17T09:55:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T09:55:00", 
+            "document": "Archive.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 8, 
+            "activity": "newtab", 
+            "date": "2015-09-17T09:55:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 60, 
+            "activity": "444.hu", 
+            "date": "2015-09-17T10:00:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-17T10:00:00", 
+            "document": "The Room Soundboard"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 3, 
+            "activity": "444.hu", 
+            "date": "2015-09-17T10:05:00", 
+            "document": "8 dolog, ami sokkolta az ENSZ-f\u0151titk\u00e1rt a r\u00f6szkei magyar rend\u0151ri fell\u00e9p\u00e9sen k\u00edv\u00fcl !!444!!!"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 53, 
+            "activity": "Preview", 
+            "date": "2015-09-17T10:25:00", 
+            "document": "schermen09.pdf"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 33, 
+            "activity": "sublime text", 
+            "date": "2015-09-17T10:25:00", 
+            "document": "untitled \u2014 WTHX"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 45, 
+            "activity": "slack", 
+            "date": "2015-09-17T10:25:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-17T10:25:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-09-17T10:25:00", 
+            "document": "team.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-09-17T10:25:00", 
+            "document": "[\"Alpha\",\"Bravo\",\"Charlie\",\"Delta\",\"Echo\",\"Foxtrot \u2014 WTHX"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-17T10:25:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 25, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T10:30:00", 
+            "document": "WTHX2015App.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 61, 
+            "activity": "phpstorm", 
+            "date": "2015-09-17T10:30:00", 
+            "document": "admin/index.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 47, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T10:45:00", 
+            "document": "Controller.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 18, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-17T10:45:00", 
+            "document": "LUSTlab / WTHX-Interactive \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 3, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-17T10:45:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:00:00", 
+            "document": "Config.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 66, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:00:00", 
+            "document": "Team.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 172, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:05:00", 
+            "document": "Model.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:05:00", 
+            "document": "Post.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 32, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T11:15:00", 
+            "document": "java - Convert JSONArray to String Array - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T11:15:00", 
+            "document": "jsonarray to string array java - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-09-17T11:15:00", 
+            "document": "WTHX Interactive"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 44, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:45:00", 
+            "document": "IView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:45:00", 
+            "document": "package-info.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 55, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:50:00", 
+            "document": "View.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T11:50:00", 
+            "document": "model view controller - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:50:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:50:00", 
+            "document": "wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:50:00", 
+            "document": "IntelliJ IDEA 14.1.4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:50:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T11:50:00", 
+            "document": "Director.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T12:15:00", 
+            "document": "ProgressView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T12:15:00", 
+            "document": "SessionOverView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T12:15:00", 
+            "document": "PresentationView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 47, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T12:15:00", 
+            "document": "TeamsView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 21, 
+            "activity": "Finder", 
+            "date": "2015-09-17T12:35:00", 
+            "document": "full"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T12:45:00", 
+            "document": "ISubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T12:45:00", 
+            "document": "pibeacon.local - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 7, 
+            "activity": "Terminal", 
+            "date": "2015-09-17T12:50:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 28, 
+            "activity": "phpstorm", 
+            "date": "2015-09-17T12:50:00", 
+            "document": "public/index.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-17T12:50:00", 
+            "document": "wthx-front \u2014 mongo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T13:30:00", 
+            "document": "jpeg stream java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 10, 
+            "activity": "devtools", 
+            "date": "2015-09-17T13:30:00", 
+            "document": "Developer Tools - http://pibeacon.local:8081/"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T13:30:00", 
+            "document": "stream jpeg from web stream - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 8, 
+            "activity": "java2s.com", 
+            "date": "2015-09-17T13:30:00", 
+            "document": "Writes an image to an output stream as a JPEG file. The JPEG quality can be specified in percent. : JPEG\u00a0\u00ab\u00a02D Graphics GUI\u00a0\u00ab\u00a0Java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 8, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-17T13:50:00", 
+            "document": "edwinlust / rndr-examples / source / \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 10, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-17T13:50:00", 
+            "document": "edwinlust / rndr-examples \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T13:50:00", 
+            "document": "JPEGDecoder.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-17T13:50:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-17T13:50:00", 
+            "document": "edwinlust / rndr-examples / source / async-images / src / main / java / net / lustlab / rndr / examples \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-17T13:50:00", 
+            "document": "edwinlust / rndr-examples / source / async-images \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-09-17T13:55:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-09-17T13:55:00", 
+            "document": "Vladislav Delay - Huone [Uncut] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-17T13:55:00", 
+            "document": "vladislav delay - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:00:00", 
+            "document": "java queue - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:00:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 105, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T14:05:00", 
+            "document": "BaseSubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 54, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T14:05:00", 
+            "document": "BaseView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T14:05:00", 
+            "document": "android - java howto ArrayList push, pop, shift, and unshift - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T14:05:00", 
+            "document": "collections - Last In Last Out in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:05:00", 
+            "document": "first in last out ajva - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:05:00", 
+            "document": "java list pop - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:05:00", 
+            "document": "first in last out - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 8, 
+            "activity": "phpstorm", 
+            "date": "2015-09-17T14:10:00", 
+            "document": "uploadFakerScript.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-17T14:10:00", 
+            "document": "image.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-17T14:10:00", 
+            "document": "post.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-17T14:10:00", 
+            "document": "Upload.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T14:15:00", 
+            "document": "Tables.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T14:15:00", 
+            "document": "java - How can I sort a List alphabetically? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:15:00", 
+            "document": "add all array to list java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 17, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T14:15:00", 
+            "document": "Adding array to a list in Java - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T14:15:00", 
+            "document": "java - What is the best way of using Arrays.asList() to initialize a List - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T14:15:00", 
+            "document": "java - Create ArrayList from array - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:15:00", 
+            "document": "arrays aslist - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:15:00", 
+            "document": "arrays as kist - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:15:00", 
+            "document": "sort string list alphabetically java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T14:20:00", 
+            "document": "sorting - How can I sort an ArrayList of Strings in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:20:00", 
+            "document": "sort java list string - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:20:00", 
+            "document": "sort java list - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T14:40:00", 
+            "document": "SubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 52, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T14:45:00", 
+            "document": "java - Synchronization on the local variables - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 43, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T14:45:00", 
+            "document": "Can you safely synchronize on a Java method parameter? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T14:45:00", 
+            "document": "synchronization on method parameter - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T14:50:00", 
+            "document": "Utils.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T15:00:00", 
+            "document": "model view contoller - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T15:40:00", 
+            "document": "ArrayList.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-17T15:55:00", 
+            "document": "uploads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-17T15:55:00", 
+            "document": "thumb"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-17T15:55:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T15:55:00", 
+            "document": "remove files from folder - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T15:55:00", 
+            "document": "remove files from current directory linux - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 29, 
+            "activity": "Terminal", 
+            "date": "2015-09-17T16:00:00", 
+            "document": "public \u2014 zsh"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 47, 
+            "activity": "tldp.org", 
+            "date": "2015-09-17T16:00:00", 
+            "document": "Creating and running a script"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 45, 
+            "activity": "sublime text", 
+            "date": "2015-09-17T16:00:00", 
+            "document": "cleardirs \u2014 WTHX"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 19, 
+            "activity": "Terminal", 
+            "date": "2015-09-17T16:00:00", 
+            "document": "wthx-interactive \u2014 zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-09-17T16:00:00", 
+            "document": "public"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T16:00:00", 
+            "document": "remove files bash script - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T16:00:00", 
+            "document": "execute bash script - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-17T16:00:00", 
+            "document": "public \u2014 git"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T16:05:00", 
+            "document": "VideoExample.java - rndrexamples - [~/IdeaProjects/rndrexamples]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 39, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T16:05:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T16:05:00", 
+            "document": "ColorMatrixExample.java - rndrexamples - [~/IdeaProjects/rndrexamples]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T16:05:00", 
+            "document": "hubbub-sketch - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T16:05:00", 
+            "document": "hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 18, 
+            "activity": "phpstorm", 
+            "date": "2015-09-17T16:40:00", 
+            "document": "_fonts.scss - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T16:55:00", 
+            "document": "ImgStack.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 184, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T17:00:00", 
+            "document": "Img.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T17:10:00", 
+            "document": "Animatable.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T17:25:00", 
+            "document": "inherit constructor - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T17:25:00", 
+            "document": "SketchGL3.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 35, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T17:30:00", 
+            "document": "java - how to inherit Constructor from super class to sub class - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T17:30:00", 
+            "document": "inherit constructor java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T17:30:00", 
+            "document": "java inherit constructor from abstract class - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-17T17:40:00", 
+            "document": "public \u2014 rm"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T18:10:00", 
+            "document": "java - How can I make an object available to all classes in my project without including it as a field? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T18:10:00", 
+            "document": "make object availabel to all classes in package - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T18:15:00", 
+            "document": "ImageLoader.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 27, 
+            "activity": "intellij idea", 
+            "date": "2015-09-17T18:35:00", 
+            "document": "WeatherChart.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T18:35:00", 
+            "document": "Java enum with multiple value types - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T18:35:00", 
+            "document": "enum with multiple values - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T18:40:00", 
+            "document": "Naming of enums in Java: Singular or Plural? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T18:40:00", 
+            "document": "enum name pluaral - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-17T18:40:00", 
+            "document": "Terminal \u2014 zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-17T18:55:00", 
+            "document": "Is There a method that finds first matched element with a condition In List In Java 8 like C# Enumerable#First and Scala List#find? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T18:55:00", 
+            "document": "return element from array matching java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-17T18:55:00", 
+            "document": "return element from array matching condition java - Google Search"
+        }
+    ]
+}

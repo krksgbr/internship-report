@@ -1,0 +1,1424 @@
+{
+    "2015-07-29": [
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-29T09:05:00", 
+            "document": "GaborK \u2014 09."
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T09:20:00", 
+            "document": "D3.js tutorial - 5 - Scales - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T09:20:00", 
+            "document": "D3.js tutorial - 2 - Select and Append - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 33, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T09:20:00", 
+            "document": "d3Vienno - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T09:20:00", 
+            "document": "D3.js tutorial - 1 - Introduction - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T09:20:00", 
+            "document": "D3.js tutorial - 4 - Visualizing data - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T09:20:00", 
+            "document": "d3 js - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T09:20:00", 
+            "document": "Watch Later - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T09:20:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 23, 
+            "activity": "System Preferences", 
+            "date": "2015-07-29T09:50:00", 
+            "document": "Mouse"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 6, 
+            "activity": "System Preferences", 
+            "date": "2015-07-29T09:50:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T09:55:00", 
+            "document": "ssh from remote - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 7, 
+            "activity": "stickies", 
+            "date": "2015-07-29T09:55:00", 
+            "document": "P\t\tCRYPTODESIGN\n___________\u2026"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T10:00:00", 
+            "document": "ssh to raspberry pi remotely - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T10:00:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T10:00:00", 
+            "document": "ping terminal - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T10:00:00", 
+            "document": "ssh to raspberry pi from remote network - Google Search"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 35, 
+            "activity": "discussions.apple.com", 
+            "date": "2015-07-29T10:05:00", 
+            "document": "How to specify port when ssh to server | Apple Support Communities"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T10:05:00", 
+            "document": "ssh to specific port - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T10:10:00", 
+            "document": "ssh lag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T10:10:00", 
+            "document": "gall gall - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 89, 
+            "activity": "VLC Media Player", 
+            "date": "2015-07-29T10:15:00", 
+            "document": "SWA0715_2x1_V4-lowres.mov"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "drive.google.com", 
+            "date": "2015-07-29T10:15:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 17, 
+            "activity": "drive.google.com", 
+            "date": "2015-07-29T10:15:00", 
+            "document": "My Drive - Google Drive"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-29T10:15:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-29T10:15:00", 
+            "document": "Desktop"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-29T10:15:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "drive.google.com", 
+            "date": "2015-07-29T10:15:00", 
+            "document": "Google Drive"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-29T10:15:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-29T10:15:00", 
+            "document": "videowissel KPN pilotstores juli"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 47, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T12:45:00", 
+            "document": "present ideas - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-07-29T12:45:00", 
+            "document": "Stack Layout \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T12:45:00", 
+            "document": "gifts for geeks - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T12:45:00", 
+            "document": "gifst for women - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T12:45:00", 
+            "document": "gifst for geeks - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 169, 
+            "activity": "index.hu", 
+            "date": "2015-07-29T12:50:00", 
+            "document": "Index - Tudom\u00e1ny - Murphy t\u00f6rv\u00e9nye miatt esett sz\u00e9t az \u0171rrep\u00fcl\u0151"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 18, 
+            "activity": "index.hu", 
+            "date": "2015-07-29T12:50:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 4, 
+            "activity": "444.hu", 
+            "date": "2015-07-29T12:50:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-29T12:50:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 136, 
+            "activity": "facebook.com", 
+            "date": "2015-07-29T12:55:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 60, 
+            "activity": "444.hu", 
+            "date": "2015-07-29T12:55:00", 
+            "document": "A mal\u00e1j korm\u00e1nyf\u0151 lev\u00e1ltotta azokat, akik k\u00edv\u00e1ncsiak r\u00e1, hogy mi\u00e9rt utalt mag\u00e1nsz\u00e1ml\u00e1ira 700 milli\u00f3 doll\u00e1r \u00e1llami p\u00e9nzt !!444!!!"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-07-29T12:55:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 58, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-29T13:00:00", 
+            "document": "smart wall in videos on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T13:00:00", 
+            "document": "zwack unicum den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T13:00:00", 
+            "document": "unicum - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 7, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-29T13:00:00", 
+            "document": "Sebastian Schmieg\u2019s Videos on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-29T13:00:00", 
+            "document": "Watch, share and upload your high quality videos | Vimeo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 274, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T13:45:00", 
+            "document": "D3.js tutorial - 7 - Enter, Update, Exit - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 35, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T14:00:00", 
+            "document": "D3.js tutorial - 13 - The Pie Layout - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 157, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T14:00:00", 
+            "document": "Rapid D3.js Tutorial 3: Data Binding - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 54, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T14:00:00", 
+            "document": "D3.js tutorial - 16 - Cluster, Pack & Bubble layouts - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-07-29T14:00:00", 
+            "document": "VIDA IO - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 59, 
+            "activity": "sublime text", 
+            "date": "2015-07-29T14:05:00", 
+            "document": "hosts \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T14:10:00", 
+            "document": "ping a port - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 34, 
+            "activity": "phpstorm", 
+            "date": "2015-07-29T14:20:00", 
+            "document": "csi/script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-07-29T14:20:00", 
+            "document": "index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 36, 
+            "activity": "github.com", 
+            "date": "2015-07-29T14:25:00", 
+            "document": "Colors \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 34, 
+            "activity": "github.com", 
+            "date": "2015-07-29T14:25:00", 
+            "document": "Bundle Layout \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 27, 
+            "activity": "github.com", 
+            "date": "2015-07-29T14:25:00", 
+            "document": "Core \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T14:25:00", 
+            "document": "d3 bind color to shape - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 20, 
+            "activity": "phpstorm", 
+            "date": "2015-07-29T14:30:00", 
+            "document": "d3.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-07-29T14:30:00", 
+            "document": "https://github.com/mbostock/d3/wiki/Colors"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 27, 
+            "activity": "github.com", 
+            "date": "2015-07-29T14:35:00", 
+            "document": "Ordinal Scales \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T14:35:00", 
+            "document": "ordinal colors d3 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T14:35:00", 
+            "document": "d3 color - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "System Preferences", 
+            "date": "2015-07-29T14:35:00", 
+            "document": "Network"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-07-29T14:40:00", 
+            "document": "API Reference \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T14:45:00", 
+            "document": "d3 color ordinal - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 73, 
+            "activity": "phpstorm", 
+            "date": "2015-07-29T15:15:00", 
+            "document": "style.css - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 51, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T15:15:00", 
+            "document": "javascript - Invoke a callback at the end of a transition - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:15:00", 
+            "document": "d3.add class - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:15:00", 
+            "document": "d3 transition callback - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 54, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T15:20:00", 
+            "document": "javascript - d3 - Change text label when data updates - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:20:00", 
+            "document": "d3 change text value - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 22, 
+            "activity": "github.com", 
+            "date": "2015-07-29T15:25:00", 
+            "document": "Transitions \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 89, 
+            "activity": "groups.google.com", 
+            "date": "2015-07-29T15:30:00", 
+            "document": "Single event at end of transition? (call vs each) - Google Groups"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:30:00", 
+            "document": "before end of transition d3 - Google Search"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "groups.google.com", 
+            "date": "2015-07-29T15:30:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:35:00", 
+            "document": "reduce - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:35:00", 
+            "document": "map filter reduce - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:35:00", 
+            "document": "filter array - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:35:00", 
+            "document": "filter - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:35:00", 
+            "document": "map array - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 25, 
+            "activity": "w3schools.com", 
+            "date": "2015-07-29T15:40:00", 
+            "document": "JavaScript String concat() Method"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 8, 
+            "activity": "w3schools.com", 
+            "date": "2015-07-29T15:40:00", 
+            "document": "JavaScript Array join() Method"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:40:00", 
+            "document": "join string javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 54, 
+            "activity": "github.com", 
+            "date": "2015-07-29T15:45:00", 
+            "document": "Gallery \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-07-29T15:45:00", 
+            "document": "mbostock/d3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T15:50:00", 
+            "document": "javascript - D3.js prepend (similar to jQuery prepend) - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:50:00", 
+            "document": "d3 prepend - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 35, 
+            "activity": "github.com", 
+            "date": "2015-07-29T15:55:00", 
+            "document": "Create DOM element without appending it? \u00b7 Issue #825 \u00b7 mbostock/d3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T15:55:00", 
+            "document": "Create element \"in memory\", like jQuery does, in D3.js - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:55:00", 
+            "document": "append d3 return value - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T15:55:00", 
+            "document": "d3.js - d3 retrieve and add to current selection's attribute value - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T15:55:00", 
+            "document": "d3.js - Appending multiple svg text with d3 - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:55:00", 
+            "document": "d3 create dom element - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T15:55:00", 
+            "document": "d3 append multiple elements - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T16:00:00", 
+            "document": "javascript - Appending multiple non-nested elements for each data member with D3.js - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T16:25:00", 
+            "document": "palinka den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T16:25:00", 
+            "document": "unicum den haag - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T16:30:00", 
+            "document": "dynamic - Appending multiple elements in D3 - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T16:30:00", 
+            "document": "append multiple elements d3 - Google Search"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 18, 
+            "activity": "groups.google.com", 
+            "date": "2015-07-29T16:30:00", 
+            "document": "How to generate a object consisting of multiple DOM Elements - Google Groups"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 19, 
+            "activity": "w3schools.com", 
+            "date": "2015-07-29T16:35:00", 
+            "document": "HTML DOM appendChild() Method"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T16:35:00", 
+            "document": "append element javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T16:35:00", 
+            "document": "append element javasript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T16:40:00", 
+            "document": "prepend javascript node - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T16:40:00", 
+            "document": "prepend javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T16:45:00", 
+            "document": "html - How do I get a div to float to the bottom of its container? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T16:45:00", 
+            "document": "sink div to bottom of page - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T17:00:00", 
+            "document": "maps - How can I use SVG translate to center a d3.js projection to given latitude and longitude values? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T17:00:00", 
+            "document": "svg - D3 transform scale and translate - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:00:00", 
+            "document": "translate svg d3 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:00:00", 
+            "document": "d3 translate - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:10:00", 
+            "document": "kolor - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:10:00", 
+            "document": "kolor adobe - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 4, 
+            "activity": "quicktime player", 
+            "date": "2015-07-29T17:20:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 3, 
+            "activity": "quicktime player", 
+            "date": "2015-07-29T17:20:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-07-29T17:20:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 59, 
+            "activity": "Activity Monitor", 
+            "date": "2015-07-29T17:25:00", 
+            "document": "Activity Monitor (All Processes)"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:25:00", 
+            "document": "export webpage as jpeg javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 77, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T17:30:00", 
+            "document": "python - Webdriver Screenshot - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 56, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T17:30:00", 
+            "document": "Using HTML5/Canvas/JavaScript to take screenshots - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T17:30:00", 
+            "document": "How to screenshot website in JavaScript client-side / how Google did it? (no need to access HDD) - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-29T17:30:00", 
+            "document": "Take a screenshot with Selenium WebDriver - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:30:00", 
+            "document": "selenium screenshot python - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:30:00", 
+            "document": "selenium screenshot - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 24, 
+            "activity": "slack.com", 
+            "date": "2015-07-29T17:35:00", 
+            "document": "Slack + Screenhero | Slack"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 8, 
+            "activity": "slack.com", 
+            "date": "2015-07-29T17:35:00", 
+            "document": "Sign In | Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:35:00", 
+            "document": "screenhero slack - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:35:00", 
+            "document": "screenhero - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 56, 
+            "activity": "VLC Media Player", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "Untitled.mov"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 29, 
+            "activity": "VLC Media Player", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 21, 
+            "activity": "Finder", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 4, 
+            "activity": "quicktime player", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "Export Progress"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "PhpstormProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-29T17:45:00", 
+            "document": "Hubbub"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-29T17:50:00", 
+            "document": "streamgraph - Google Search"
+        }
+    ]
+}

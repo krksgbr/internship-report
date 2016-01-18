@@ -1,0 +1,614 @@
+{
+    "2015-08-13": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:00:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T09:00:00", 
+            "document": "\u00e9jf\u00e9l el\u0151tti alv\u00e1s - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:00:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-08-13T09:00:00", 
+            "document": "Skateb\u00e5rd - Ta-Ta Arr - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T09:05:00", 
+            "document": "Pahudstraat 13 to Zandvlietcollege - Google Maps"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 5, 
+            "activity": "time.com", 
+            "date": "2015-08-13T09:05:00", 
+            "document": "Costa Rica\u2019s Soccer Coach Paulo Wanchope Resigns After a Brawl | TIME"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 2, 
+            "activity": "time.com", 
+            "date": "2015-08-13T09:05:00", 
+            "document": "What Time Should I Go to Bed"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 59, 
+            "activity": "444.hu", 
+            "date": "2015-08-13T09:10:00", 
+            "document": "Brut\u00e1lis a t\u00e1j a tiencsini robban\u00e1s ut\u00e1n !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 53, 
+            "activity": "444.hu", 
+            "date": "2015-08-13T09:10:00", 
+            "document": "T\u0171zlabd\u00e1v\u00e1 v\u00e1ltozott az \u00e9g K\u00edn\u00e1ban !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-13T09:10:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 73, 
+            "activity": "444.hu", 
+            "date": "2015-08-13T15:55:00", 
+            "document": "Ma \u00e9jf\u00e9lt\u0151l m\u00e1r csak a tartal\u00e9kaib\u00f3l \u00e9l a F\u00f6ld !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T15:55:00", 
+            "document": "50 gbp to eur - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-13T15:55:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T16:05:00", 
+            "document": "Pahudstraat 13 to GEMAK The Hague - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T16:05:00", 
+            "document": "Pahudstraat 13 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:00:00", 
+            "document": "weather den haag - Google Search"
+        }, 
+        {
+            "category": "Maps & Regional", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "accuweather.com", 
+            "date": "2015-08-13T17:00:00", 
+            "document": "The Hague Weather - AccuWeather Forecast for South Holland Netherlands"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "Preview", 
+            "date": "2015-08-13T17:00:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "time.com", 
+            "date": "2015-08-13T17:00:00", 
+            "document": "Mopidy Alarm Clock"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 24, 
+            "activity": "phpstorm", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "script2.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 3, 
+            "activity": "devtools", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "Developer Tools - http://localhost:63343/Hubbub/index.html"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 25, 
+            "activity": "phpstorm", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "csi/script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 16, 
+            "activity": "phpstorm", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 39, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "Free java data visualization library? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "KPN materiaal"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "data visualization framework java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "data visualization framework javascript - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "sketches"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "Music"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-13T17:05:00", 
+            "document": "rollingcube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 115, 
+            "activity": "github.com", 
+            "date": "2015-08-13T17:10:00", 
+            "document": "Gallery \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 35, 
+            "activity": "github.com", 
+            "date": "2015-08-13T17:10:00", 
+            "document": "Home \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-13T17:10:00", 
+            "document": "https://github.com/mbostock/d3/wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 27, 
+            "activity": "github.com", 
+            "date": "2015-08-13T17:15:00", 
+            "document": "API Reference \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:15:00", 
+            "document": "intro to d3 js - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:15:00", 
+            "document": "d3 circles - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:25:00", 
+            "document": "generate array of random numbers javascript functional style - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:25:00", 
+            "document": "generate array of random numbers javascript functional - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-13T17:25:00", 
+            "document": "Create array of all integers between two numbers, inclusive, in Javascript/jQuery - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:25:00", 
+            "document": "generate array of random numbers javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-13T17:25:00", 
+            "document": "create a array with random values in javascript - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-13T17:25:00", 
+            "document": "javascript - array of random numbers - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:25:00", 
+            "document": "generate range of numbers javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:25:00", 
+            "document": "array map javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-13T17:30:00", 
+            "document": "javascript - d3 circle pack: setting circle colors - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:30:00", 
+            "document": "d3 set color - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 31, 
+            "activity": "phpstorm", 
+            "date": "2015-08-13T17:35:00", 
+            "document": "style.css - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 21, 
+            "activity": "phpstorm", 
+            "date": "2015-08-13T17:35:00", 
+            "document": "style2.css - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-08-13T17:35:00", 
+            "document": "chrome-devtools://devtools/bundled/devtools.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@200126/&can_dock=true&dockSide=undocked&toolbarColor=rgba(227,227,227,1)&textColor=rgba(102,102,102,1)"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:35:00", 
+            "document": "create circles d3 - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-08-13T17:40:00", 
+            "document": "Component.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 52, 
+            "activity": "intellij idea", 
+            "date": "2015-08-13T17:45:00", 
+            "document": "Grid.java - Drachten - [~/IdeaProjects/Drachten]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-13T17:45:00", 
+            "document": "Cell.java - Drachten - [~/IdeaProjects/Drachten]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-13T17:45:00", 
+            "document": "GameOfLife2.java - Drachten - [~/IdeaProjects/Drachten]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-13T17:45:00", 
+            "document": "Main.java - Drachten - [~/IdeaProjects/Drachten]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-13T17:45:00", 
+            "document": "Square.java - Drachten - [~/IdeaProjects/Drachten]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-13T17:45:00", 
+            "document": "PApplet.class - Drachten - [~/IdeaProjects/Drachten]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-13T17:45:00", 
+            "document": "GameOfLife.java - Drachten - [~/IdeaProjects/Drachten]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:50:00", 
+            "document": "trollface quest - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 82, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T17:55:00", 
+            "document": "baby meme - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 8, 
+            "activity": "thesaurus.com", 
+            "date": "2015-08-13T18:00:00", 
+            "document": "Looking forward Synonyms, Looking forward Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-13T18:00:00", 
+            "document": "looking forward thesaurus - Google Search"
+        }
+    ]
+}

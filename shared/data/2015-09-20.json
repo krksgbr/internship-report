@@ -1,0 +1,1394 @@
+{
+    "2015-09-20": [
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "newtab", 
+            "date": "2015-09-20T14:20:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 98, 
+            "activity": "youtube.com", 
+            "date": "2015-09-20T14:20:00", 
+            "document": "How to get Paint out of Carpet - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 82, 
+            "activity": "youtube.com", 
+            "date": "2015-09-20T14:20:00", 
+            "document": "Carpet Cleaning : Removing Paint From Carpet - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:20:00", 
+            "document": "remove acrylic paint from carpet - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 28, 
+            "activity": "youtube.com", 
+            "date": "2015-09-20T14:20:00", 
+            "document": "Carpet Cleaning & Installation : How to Remove Dried Acrylic Paint from Carpet - YouTube"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-20T14:20:00", 
+            "document": "Raspberry Pi \u2022 View topic - set hostname on dhcp"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 86, 
+            "activity": "stain-removal-101.com", 
+            "date": "2015-09-20T14:25:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 11, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-20T14:25:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:25:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:25:00", 
+            "document": "How to send HTTP request GET/POST in Java"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:25:00", 
+            "document": "gamma - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-20T14:25:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Voice Chat", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 38, 
+            "activity": "Skype", 
+            "date": "2015-09-20T14:40:00", 
+            "document": "Skype"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 89, 
+            "activity": "hu.wikipedia.org", 
+            "date": "2015-09-20T14:40:00", 
+            "document": "Szem\u00f6lcs \u2013 Wikip\u00e9dia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 72, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:40:00", 
+            "document": "szem\u00f6lcs - Google Search"
+        }, 
+        {
+            "category": "Voice Chat", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 10, 
+            "activity": "Skype", 
+            "date": "2015-09-20T14:40:00", 
+            "document": "Current Call"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 43, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:45:00", 
+            "document": "wart types - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:45:00", 
+            "document": "wart - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:45:00", 
+            "document": "valacyclovir nl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:45:00", 
+            "document": "wart mouth - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 9, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-20T14:45:00", 
+            "document": "Wart - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:45:00", 
+            "document": "valacyclovir - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-20T14:45:00", 
+            "document": "Valaciclovir - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:50:00", 
+            "document": "cold sore - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:50:00", 
+            "document": "Zelitrex - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:50:00", 
+            "document": "https://www.google.nl/search?q=Zelitrex&oq=Zelitrex&aqs=chrome..69i57j0l5.410j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:55:00", 
+            "document": "nicorette - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T14:55:00", 
+            "document": "apotheek - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 91, 
+            "activity": "444.hu", 
+            "date": "2015-09-20T15:00:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:00:00", 
+            "document": "penciclovir vs acyclovir - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 50, 
+            "activity": "444.hu", 
+            "date": "2015-09-20T15:05:00", 
+            "document": "L\u00e1z\u00e1r J\u00e1nos val\u00f3sz\u00edn\u0171leg nem mond le, de sarokba szorult, \u00e9s ezt mag\u00e1nak is k\u00f6sz\u00f6nheti !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:05:00", 
+            "document": "ing rente - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 33, 
+            "activity": "slack", 
+            "date": "2015-09-20T15:10:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 62, 
+            "activity": "teamviewer", 
+            "date": "2015-09-20T15:10:00", 
+            "document": "743 086 101"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 42, 
+            "activity": "teamviewer", 
+            "date": "2015-09-20T15:10:00", 
+            "document": "TeamViewer"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-09-20T15:10:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:10:00", 
+            "document": "teamviewer - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 294, 
+            "activity": "444.hu", 
+            "date": "2015-09-20T15:20:00", 
+            "document": "Nyomoz\u00e1s indult N\u00e9metorsz\u00e1gban egy sz\u00edriai mened\u00e9kk\u00e9r\u0151 \u00fcgy\u00e9ben, mert az Iszl\u00e1m \u00c1llam harcosa lehetett !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 82, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:25:00", 
+            "document": "union fixie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 65, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:25:00", 
+            "document": "union single speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 41, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:30:00", 
+            "document": "union sakai - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 44, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T15:40:00", 
+            "document": "Controller.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 41, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T15:40:00", 
+            "document": "java - How to parse a date? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:40:00", 
+            "document": "java date from string - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:40:00", 
+            "document": "parse date java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:40:00", 
+            "document": "java util date - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:40:00", 
+            "document": "parse date java T Z - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 70, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T15:45:00", 
+            "document": "date - Java SimpleDateFormat(\"yyyy-MM-dd'T'HH:mm:ss'Z'\") gives timezone as IST - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 94, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T15:45:00", 
+            "document": "Java SimpleDateFormat pattern for W3C XML dates with timezone - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 53, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T15:45:00", 
+            "document": "date - Java SimpleDateFormat for YYYY-MM-DDThh:mm:ssTZD - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 45, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T15:45:00", 
+            "document": "java - Converting string to date with timezone - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:45:00", 
+            "document": "yyyy-mm-ddthh-mm-ssz java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T15:45:00", 
+            "document": "stackoverflow.com/questions/19112357/java-simpledateformatyyyy-mm-ddthhmmssz-gives-timezone-as-ist"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 88, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T15:50:00", 
+            "document": "Post.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 62, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T15:50:00", 
+            "document": "java - How can I convert a timestamp from yyyy-MM-ddThh:mm:ss:SSSZ format to MM/dd/yyyy hh:mm:ss.SSS format? From ISO8601 to UTC - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 17, 
+            "activity": "w3.org", 
+            "date": "2015-09-20T15:50:00", 
+            "document": "Date and Time Formats"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:50:00", 
+            "document": "utc time format - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T15:50:00", 
+            "document": "java yyyy-mm-ddthh-mm-ssz - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T15:50:00", 
+            "document": "Java string to date conversion - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 60, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T16:00:00", 
+            "document": "Converting ISO 8601-compliant String to java.util.Date - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 21, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-20T16:00:00", 
+            "document": "ISO 8601 - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 21, 
+            "activity": "w3schools.com", 
+            "date": "2015-09-20T16:00:00", 
+            "document": "JavaScript toJSON() Method"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T16:00:00", 
+            "document": "date ISO 8601 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T16:00:00", 
+            "document": "javascript date to json - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T16:00:00", 
+            "document": "java date parse ISO-8601 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T16:00:00", 
+            "document": "ISO 8601 - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 172, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T16:05:00", 
+            "document": "TestStuff.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T16:05:00", 
+            "document": "HTTPTest.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T16:10:00", 
+            "document": "java - Convert ISO 8601 Date to a Standard String Format - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T16:10:00", 
+            "document": "java 8 parse date iso ISO 8601 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T16:10:00", 
+            "document": "jodatime maven - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T16:10:00", 
+            "document": "Maven Repository: joda-time \u00bb joda-time"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T16:15:00", 
+            "document": "Model.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 30, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T16:15:00", 
+            "document": "datetime - How to parse/format dates with LocalDateTime? (Java 8) - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T16:15:00", 
+            "document": "wthx2015display - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T16:15:00", 
+            "document": "datetime - Parse ISO date by Period in Java 8 - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T16:20:00", 
+            "document": "ISO 8601 Z - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 202, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T17:05:00", 
+            "document": "ConnectionManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T17:05:00", 
+            "document": "socket http - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T17:05:00", 
+            "document": "connection package java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 31, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T17:10:00", 
+            "document": "HttpClient.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T17:10:00", 
+            "document": "Events.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 34, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T17:15:00", 
+            "document": "Connection.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 104, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T17:20:00", 
+            "document": "WTHX2015App.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T17:35:00", 
+            "document": "live template insert class name - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T17:40:00", 
+            "document": "unix time converter - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-20T17:45:00", 
+            "document": "image.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T17:50:00", 
+            "document": "mongodb date format - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 48, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:15:00", 
+            "document": "gbr@raspi: ~ \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 7, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:15:00", 
+            "document": "public \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:15:00", 
+            "document": "public \u2014 pi@PiBeacon:"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:15:00", 
+            "document": "Terminal \u2014 ssh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:15:00", 
+            "document": "wthx2015display \u2014 zsh"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:15:00", 
+            "document": "string replace java - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:20:00", 
+            "document": "gbr@raspi: / \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:20:00", 
+            "document": "gbr@raspi: /mnt/mediabox/music \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:20:00", 
+            "document": "gbr@raspi: /mnt/mediabox/music/Boxcutter \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:20:00", 
+            "document": "gbr@raspi: /mnt/mediabox \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:20:00", 
+            "document": "gbr@raspi: /mnt \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:20:00", 
+            "document": "gbr@raspi: /media \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 28, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:25:00", 
+            "document": "gbr@raspi: /mnt/mediabox/music/Boxcutter/Oneiric \u2014"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:25:00", 
+            "document": "mopidy index folder - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:25:00", 
+            "document": "mopidy re-index - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 14, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:30:00", 
+            "document": "wthx-front \u2014 mongo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:30:00", 
+            "document": "mongodb phpstorm - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:30:00", 
+            "document": "mongodb list entries - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:30:00", 
+            "document": "mongodb delete entries - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T18:35:00", 
+            "document": "Config.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 104, 
+            "activity": "github.com", 
+            "date": "2015-09-20T18:35:00", 
+            "document": "dboissier/mongo4idea"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 49, 
+            "activity": "phpstorm", 
+            "date": "2015-09-20T18:35:00", 
+            "document": "wthx/wthx/posts - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 11, 
+            "activity": "phpstorm", 
+            "date": "2015-09-20T18:35:00", 
+            "document": "wthx/wthx/teams - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 31, 
+            "activity": "phpstorm", 
+            "date": "2015-09-20T18:35:00", 
+            "document": "wthx/\u2026/posts - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:35:00", 
+            "document": "mongodb delete database - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-20T18:35:00", 
+            "document": "Apache HttpComponents - HttpClient Quick Start"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-20T18:35:00", 
+            "document": "Advanced Java: Multi-threading Part 7 - Producer-Consumer - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-20T18:35:00", 
+            "document": "Luomo - Tessio - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 107, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T18:40:00", 
+            "document": "Tables.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T18:40:00", 
+            "document": "Team.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 26, 
+            "activity": "sublime text", 
+            "date": "2015-09-20T18:40:00", 
+            "document": "untitled \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T18:40:00", 
+            "document": "Archive.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 88, 
+            "activity": "phpstorm", 
+            "date": "2015-09-20T18:45:00", 
+            "document": "public/index.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 40, 
+            "activity": "Terminal", 
+            "date": "2015-09-20T18:45:00", 
+            "document": "wthx-front \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 41, 
+            "activity": "phpstorm", 
+            "date": "2015-09-20T18:45:00", 
+            "document": "config.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 21, 
+            "activity": "phpstorm", 
+            "date": "2015-09-20T18:45:00", 
+            "document": "wthx/\u2026/system.indexes - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-09-20T18:45:00", 
+            "document": "wthx/wthx/system.indexes - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 30, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-09-20T18:50:00", 
+            "document": "MongoDB - Create Database"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-09-20T18:50:00", 
+            "document": "uploadFaker.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T18:50:00", 
+            "document": "database - Is mongodb running? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T18:50:00", 
+            "document": "mongodb - How to stop mongo DB in one command - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:50:00", 
+            "document": "check if monog is running - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:50:00", 
+            "document": "shut down monogd - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-09-20T18:50:00", 
+            "document": "Developer Tools - http://localhost:9849/uploadFaker.html"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-20T18:50:00", 
+            "document": "mongo create db - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-20T18:50:00", 
+            "document": "stackoverflow.com/questions/11774887/how-to-stop-mongo-db-in-one-command"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 23, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T18:55:00", 
+            "document": "ViewManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 34, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T18:55:00", 
+            "document": "ProgressView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T18:55:00", 
+            "document": "SubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T18:55:00", 
+            "document": "ImgStack.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-20T18:55:00", 
+            "document": "Utils.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }
+    ]
+}

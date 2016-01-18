@@ -1,0 +1,2664 @@
+{
+    "2015-10-28": [
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:00:00", 
+            "time_spent": 72, 
+            "activity": "pi.local:6680", 
+            "date": "2015-10-28T09:00:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:00:00", 
+            "time_spent": 3, 
+            "activity": "newtab", 
+            "date": "2015-10-28T09:00:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:00:00", 
+            "time_spent": 28, 
+            "activity": "444.hu", 
+            "date": "2015-10-28T09:00:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 13, 
+            "activity": "index.hu", 
+            "date": "2015-10-28T09:15:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 218, 
+            "activity": "index.hu", 
+            "date": "2015-10-28T09:20:00", 
+            "document": "Index - Gazdas\u00e1g - T\u00f6rtfeh\u00e9r sarokb\u00fatort k\u00e9r sz\u00e1mon a NAV a nyolc\u00e9ves kisfi\u00fat\u00f3l"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 43, 
+            "activity": "index.hu", 
+            "date": "2015-10-28T09:20:00", 
+            "document": "Index - Gazdas\u00e1g - Ez az igazi luxusaut\u00f3: az egymilli\u00e1rd doll\u00e1ros Ferrari"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 23, 
+            "activity": "444.hu", 
+            "date": "2015-10-28T09:25:00", 
+            "document": "Azt hitt\u00e9k, hogy szem\u00e9t, ez\u00e9rt kidobt\u00e1k az install\u00e1ci\u00f3t a m\u00fazeum takar\u00edt\u00f3i - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 32, 
+            "activity": "444.hu", 
+            "date": "2015-10-28T09:25:00", 
+            "document": "Keresik a b\u00e9k\u00e9scsabai NWA-t. Vigy\u00e1zat, nagyon vesz\u00e9lyesek! - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 17, 
+            "activity": "444.hu", 
+            "date": "2015-10-28T09:25:00", 
+            "document": "Elsz\u00f6k\u00f6tt, visszahozt\u00e1k, \u00e9s ut\u00e1na \u00f6lt a Mer\u00e9nyiben - 444"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 11, 
+            "activity": "app store", 
+            "date": "2015-10-28T09:25:00", 
+            "document": "App Store"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 6, 
+            "activity": "index.hu", 
+            "date": "2015-10-28T09:25:00", 
+            "document": "Index - K\u00fclf\u00f6ld"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 5, 
+            "activity": "index.hu", 
+            "date": "2015-10-28T09:25:00", 
+            "document": "Index - Tech"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 3, 
+            "activity": "index.hu", 
+            "date": "2015-10-28T09:25:00", 
+            "document": "Index - Gazdas\u00e1g"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 124, 
+            "activity": "facebook.com", 
+            "date": "2015-10-28T09:40:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 29, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T09:40:00", 
+            "document": "BlitzWolf\u2122 GV18 Pro Smart Bluetooth Watch NFC Camera TF Card Wristwatch--banggood.com - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 25, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T09:40:00", 
+            "document": "Top 5 Best Smartwatches to Buy in 2015 - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T09:40:00", 
+            "document": "open source smart watc - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-28T09:40:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T09:40:00", 
+            "document": "blitzwolf - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T09:40:00", 
+            "document": "blitzwolf smartwatch - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T09:40:00", 
+            "document": "https://www.youtube.com/watch?v=6WtuAqdsvvk"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 20, 
+            "activity": "wired.com", 
+            "date": "2015-10-28T09:45:00", 
+            "document": "Build your own open-source, networked, wearable, smart watch | WIRED"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T09:45:00", 
+            "document": "chronos eco - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T09:45:00", 
+            "document": "weloop tommy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T09:45:00", 
+            "document": "Weloop Tommy/Chronos Eco - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T10:15:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T10:15:00", 
+            "document": "intellij interface brightness - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T10:15:00", 
+            "document": "intellij css - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 47, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "Search Results"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 41, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 64, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/ProjectStructureSelectInTarget.java at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "bluemetal theme intellij - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/java at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/java/idea-ui/src/com/intellij at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/idea-ui.iml at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/cobalt.xml at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij source code - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/java/idea-ui at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/colorSchemes at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/java/idea-ui/src/com/intellij/ide at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/colorSchemes/src/colorSchemes at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "bluemetal theme - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/java/idea-ui/src/com/intellij/ide/impl at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/colorSchemes.iml at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:20:00", 
+            "document": "intellij-community/java/idea-ui/src/com/intellij/ide/projectWizard at master \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "Applications"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 31, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "intellij-community/__init__.py at 210e0ed138627926e10094bb9c76026319cec178 \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "intellij-community/CustomizeUIThemeStepPanel.java at 1bfe5269ee09cf21e6bbdb2c211d3d74aad98a2f \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 24, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "intellij-community/darcula.properties at a0474597d9129b7b1eb98bf8eedafdcfa0ab95ad \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "intellij-community/UseJBColor.html at 210e0ed138627926e10094bb9c76026319cec178 \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "lib"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "bin"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "Contents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "jre"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "Resources"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "MacOS"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "intellij-community/__base__ at 210e0ed138627926e10094bb9c76026319cec178 \u00b7 JetBrains/intellij-community"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "license"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "IntelliJ IDEA 15 CE EAP"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "Broki"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "plugins"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:25:00", 
+            "document": "redist"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 67, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "repository - Why do people fork repositories on GitHub? - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 49, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "krksgbr/intellij-community"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 35, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "Options"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "unfork github - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "git - Unfork a Github fork without deleting - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "GitHub"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "krksgbr (Gabor K)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "src"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "_CodeSignature"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "Home"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "ant"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "include"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T10:30:00", 
+            "document": "jdk"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 139, 
+            "activity": "calendar", 
+            "date": "2015-10-28T10:35:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-28T10:35:00", 
+            "document": "Normal distribution - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 44, 
+            "activity": "technologyreview.com", 
+            "date": "2015-10-28T10:35:00", 
+            "document": "Why We Can't Solve Big Problems | MIT Technology Review"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T10:35:00", 
+            "document": "java - Initialize a static final field in the constructor - Stack Overflow"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 27, 
+            "activity": "slack", 
+            "date": "2015-10-28T10:45:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-10-28T10:45:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Preview", 
+            "date": "2015-10-28T10:50:00", 
+            "document": "login_Tax.pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 56, 
+            "activity": "Preview", 
+            "date": "2015-10-28T10:55:00", 
+            "document": "Adorno-Culture-Industry.pdf"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 14, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-28T10:55:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 15, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-28T11:00:00", 
+            "document": "Learn | Codecademy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-10-28T11:00:00", 
+            "document": "Books"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T11:00:00", 
+            "document": "This page contains renderable text. - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T11:00:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T11:00:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T11:00:00", 
+            "document": "basiljs"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 6, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-28T11:05:00", 
+            "document": "Learn the Command Line | Codecademy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T11:05:00", 
+            "document": "free pdf ocr - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-28T11:05:00", 
+            "document": "yo"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 5, 
+            "activity": "Adobe Acrobat", 
+            "date": "2015-10-28T11:05:00", 
+            "document": "Combine Files"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 66, 
+            "activity": "wired.com", 
+            "date": "2015-10-28T11:10:00", 
+            "document": "Letter From the Editor: Why Design Matters More Now Than Ever Before | WIRED"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T11:10:00", 
+            "document": "does design matter - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T11:10:00", 
+            "document": "relational design - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 14, 
+            "activity": "medium.com", 
+            "date": "2015-10-28T11:10:00", 
+            "document": "Why does design matter? \u2014 Medium"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T11:10:00", 
+            "document": "culture industry - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 57, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:15:00", 
+            "document": "Sun Araw's Ancient Romans - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:15:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 34, 
+            "activity": "Adobe Acrobat", 
+            "date": "2015-10-28T11:15:00", 
+            "document": "Binder1.pdf"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 18, 
+            "activity": "last.fm", 
+            "date": "2015-10-28T11:15:00", 
+            "document": "Sun Araw \u2014 Free listening, videos, concerts, stats and pictures at Last.fm"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:15:00", 
+            "document": "Macintosh Plus - Floral Shoppe *FULL ALBUM* - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T11:15:00", 
+            "document": "sun araw - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:15:00", 
+            "document": "sun araw ancient romans - YouTube"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-10-28T11:15:00", 
+            "document": "112.mov"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T11:15:00", 
+            "document": "lastfm sun araw - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T11:20:00", 
+            "document": "changing from graphic design to computer science - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 26, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:25:00", 
+            "document": "Com Truise - In Decay - Full Album - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:30:00", 
+            "document": "William Basinski - Cascade (2015) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 22, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:30:00", 
+            "document": "Christopher Bissonette-Comfortable expectations - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:30:00", 
+            "document": "Stars of the Lid - Gravitational Pull vs The Desire for an Aquatic Life - Full Album - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:30:00", 
+            "document": "christopher bissonnette - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T11:30:00", 
+            "document": "christopher bissonnette periphery - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T12:25:00", 
+            "document": "inculcate - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T12:25:00", 
+            "document": "fitness theresiastraat - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T12:25:00", 
+            "document": "William Basinski - Watermusic II - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T12:30:00", 
+            "document": "adorno free time - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T13:55:00", 
+            "document": "Stars Of The Lid - ...and Their Refinement of the Decline (Full Album) - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 48, 
+            "activity": "index.hu", 
+            "date": "2015-10-28T14:00:00", 
+            "document": "Index - K\u00fclf\u00f6ld - \u00c9rtik? Ausztria nem ker\u00edt\u00e9st \u00e9p\u00edt, hanem ajt\u00f3csk\u00e1t oldalelemekkel"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T14:00:00", 
+            "document": "Inbox - krks.gbr@gmail.com - Gmail"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 23, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "*content.indd"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "Pictures"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "PHPStromProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "PhpstormProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "Movies"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "PycharmProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "WebstormProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "AirDrop"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:05:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-10-28T14:10:00", 
+            "document": "G\u00e1bor Kerekes"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:10:00", 
+            "document": "davero yourfacts - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:10:00", 
+            "document": "zenmap - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:10:00", 
+            "document": "webstorm - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:10:00", 
+            "document": "CoGe"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:10:00", 
+            "document": "Visual Paradigm 12.0"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:10:00", 
+            "document": "Utilities"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:15:00", 
+            "document": "webstorm early access - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:15:00", 
+            "document": "eap jetbrains - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 97, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-28T14:20:00", 
+            "document": "JetBrains - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:20:00", 
+            "document": "jetbrains - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:30:00", 
+            "document": "hello - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:30:00", 
+            "document": "WebStorm 11 EAP"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 5, 
+            "activity": "System Preferences", 
+            "date": "2015-10-28T14:30:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:35:00", 
+            "document": "squash partner den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:35:00", 
+            "document": "train more - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:45:00", 
+            "document": "Alphen aan den Rijn - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:45:00", 
+            "document": "Alphen aan den Rijn - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T14:50:00", 
+            "document": "Onra Ft. Reggie B - High Hopes - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T14:50:00", 
+            "document": "Nexus 6P Review! - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:50:00", 
+            "document": "prints"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:50:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:50:00", 
+            "document": "Life"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:50:00", 
+            "document": "Backgrounds"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-28T14:50:00", 
+            "document": "info"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 91, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "wthx-interactive \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 31, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "wthx-interactive \u2014 mongod"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "Zoetermeer - Google Maps"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "Little Brother - Not Enough - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "GaborK \u2014 -zsh"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "Onra - Moving - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "wthx-interactive \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "wthx-interactive \u2014 ps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "zoetermeer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T14:55:00", 
+            "document": "https://www.google.nl/maps/place/Zoetermeer/data=!4m2!3m1!1s0x47c5c926360f6fe1:0x4b5ea24437f4c52c?sa=X&ved=0CJUBEPIBMA5qFQoTCNmLn9ao5cgCFUZ_Ggodv80IPA"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 16, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:00:00", 
+            "document": "wthx-interactive \u2014 mongo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:00:00", 
+            "document": "list mongo - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:00:00", 
+            "document": "the streets - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T15:00:00", 
+            "document": "mongodb - How to list all databases in the mongo shell? - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:00:00", 
+            "document": "wthx-interactive \u2014 login"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:00:00", 
+            "document": "Onra - Fight or Die - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 51, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "Kano - P's and Q's (Official Music Video) - YouTube"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 35, 
+            "activity": "last.fm", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "Similar artists to The Streets \u2014 Last.fm"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "mongo list databases - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 18, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "MongoDB - Create Database"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "kano - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 22, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "london track hip hop - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "onra long distance - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "british hip hop london track - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "British hip hop - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "mongodb - How to list all collections in the mongo shell? - Stack Overflow"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 7, 
+            "activity": "last.fm", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "The Streets \u2014 Free listening, videos, concerts, stats and pictures at Last.fm"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "british hip hop - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "show dbs mongo - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "Typical Me - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "the streets - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:05:00", 
+            "document": "Onra - Long Distance ft. Olivier Daysoul - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 45, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 curl"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "Show database in mongodb show it empty while I can acess and query data - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 12, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 ruby"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 grep"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 tar"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 python"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "list mongodb - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "show dbs mongo shows nothing - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 java"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 ld"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 git"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 clang"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T15:10:00", 
+            "document": "wthx-interactive \u2014 awk"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 51, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:20:00", 
+            "document": "model view presenter - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T15:25:00", 
+            "document": "java ui model view presenter example project - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 14, 
+            "activity": "codeproject.com", 
+            "date": "2015-10-28T15:25:00", 
+            "document": "UI Design Using Model-View-Presenter - CodeProject"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:30:00", 
+            "document": "Flying Lotus - Fall In Love - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:30:00", 
+            "document": "flying lotus - 1983 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:35:00", 
+            "document": "Onra - Intro - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:35:00", 
+            "document": "Flying Lotus - Slow it Down - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:35:00", 
+            "document": "Onra - Rock On - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T15:55:00", 
+            "document": "Onra - Mechanical - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 19, 
+            "activity": "github.com", 
+            "date": "2015-10-28T16:15:00", 
+            "document": "MVCExample/View.java at master \u00b7 JaffeAPCS/MVCExample"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-10-28T16:15:00", 
+            "document": "MVCExample/Model.java at master \u00b7 JaffeAPCS/MVCExample"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-10-28T16:15:00", 
+            "document": "Search \u00b7 mvc example"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-28T16:15:00", 
+            "document": "JaffeAPCS/MVCExample"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T16:15:00", 
+            "document": "Onra Feat. Walter Mecca - To The Beat - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-28T16:15:00", 
+            "document": "MVCExample/src/com/mrjaffesclass/apcs/mvc/template at master \u00b7 JaffeAPCS/MVCExample"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-28T16:15:00", 
+            "document": "Search \u00b7 mvc example java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-28T16:15:00", 
+            "document": "MVCExample/View.form at master \u00b7 JaffeAPCS/MVCExample"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-10-28T16:40:00", 
+            "document": "design - In MVC should a model contain subview models? - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 56, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:40:00", 
+            "document": "java - How can I switch between JPanels in a CardLayout using MVC? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:40:00", 
+            "document": "subviews mvc - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:40:00", 
+            "document": "switching between views mvc java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:40:00", 
+            "document": "switching between views mvc - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:40:00", 
+            "document": "asp.net - C# ASP MVC : navigate between different controllers views from HTML - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "different views mvc - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "viewmanager mvc - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "asp.net mvc - How to have a sub view in MVC? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "c# - MVC Calling a view from a different controller - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "asp.net - Return Different Views From MVC Controller - Stack Overflow"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 8, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "mvc - Doing the same thing from different views - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "mvc return different view - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "Calling another different view from the controller using ASP.NET MVC 4 - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "c# - How to use a subview with a different model than that of the main view? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:45:00", 
+            "document": "ASP.NET MVC ViewManager equivalent - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 63, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:50:00", 
+            "document": "model view presenter concrete example - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 68, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:50:00", 
+            "document": "model view presenter example - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:50:00", 
+            "document": "c# - Best approach for complex model/submodel validation (MVC) - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:50:00", 
+            "document": "submodels mvc - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 91, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T16:55:00", 
+            "document": "model view controller - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T16:55:00", 
+            "document": "java - Concrete Code Example of MVP - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 59, 
+            "activity": "Terminal", 
+            "date": "2015-10-28T17:00:00", 
+            "document": "wthx2015display \u2014 -zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-10-28T17:00:00", 
+            "document": "Create a new branch with git and manage branches \u00b7 Kunena/Kunena-Forum Wiki"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T17:00:00", 
+            "document": "create branch git - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T17:00:00", 
+            "document": "git branch - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T17:05:00", 
+            "document": "asp.net mvc - What is ViewModel in MVC? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T17:05:00", 
+            "document": "viewmodels - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T17:05:00", 
+            "document": "subviews submodels mvc - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T17:10:00", 
+            "document": "viewmodel java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T17:10:00", 
+            "document": "viewmodel - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T17:10:00", 
+            "document": "asp.net mvc - ViewModel in Java (Spring) - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-28T17:30:00", 
+            "document": "java - Fetch first element which matches criteria - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T17:30:00", 
+            "document": "find first object in stream matchin criteria - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T18:05:00", 
+            "document": "where should i synchronize threads - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T18:05:00", 
+            "document": "at what point should i synchronize threads - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-28T18:25:00", 
+            "document": "Onra - Cherry (Outro) - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 78, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-28T18:30:00", 
+            "document": "Factory (object-oriented programming) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 24, 
+            "activity": "VLC Media Player", 
+            "date": "2015-10-28T18:30:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-28T18:30:00", 
+            "document": "factory pattern - Google Search"
+        }
+    ]
+}

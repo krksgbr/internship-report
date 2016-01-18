@@ -1,0 +1,2104 @@
+{
+    "2015-07-23": [
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 60, 
+            "activity": "slack", 
+            "date": "2015-07-23T10:05:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 12, 
+            "activity": "facebook.com", 
+            "date": "2015-07-23T10:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 81, 
+            "activity": "index.hu", 
+            "date": "2015-07-23T10:10:00", 
+            "document": "Index - Belf\u00f6ld - M\u00e9g durv\u00e1bb fokozatra kapcsol a k\u00e1nikula"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-07-23T10:10:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 49, 
+            "activity": "index.hu", 
+            "date": "2015-07-23T10:10:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-07-23T10:10:00", 
+            "document": "RoundedWindow"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-07-23T10:10:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-07-23T10:45:00", 
+            "document": "fw6siypv.default"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T10:45:00", 
+            "document": "https://www.google.nl/search?q=hubbub+group&oq=hubbub+group&aqs=chrome..69i57.3367j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T10:45:00", 
+            "document": "https://www.google.nl/search?q=hubbub+group&oq=hubbub+group&aqs=chrome..69i57.3367j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 failed to load"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T10:45:00", 
+            "document": "hubbub group - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "answers"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 33, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "0ed06aac-f487-4fb7-90d4-73c299031300.json \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 36, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "Amijs.json \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 31, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "questions.json \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "recovery.js \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "hubbub_data_spring_2015"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "participants"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T10:50:00", 
+            "document": "README.md \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 104, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T10:55:00", 
+            "document": "sql syntax - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T10:55:00", 
+            "document": "sql - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 6, 
+            "activity": "w3schools.com", 
+            "date": "2015-07-23T10:55:00", 
+            "document": "SQL Syntax"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 96, 
+            "activity": "Preview", 
+            "date": "2015-07-23T11:00:00", 
+            "document": "Getting-Started.pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 65, 
+            "activity": "Preview", 
+            "date": "2015-07-23T11:00:00", 
+            "document": "Late_setup.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 61, 
+            "activity": "Finder", 
+            "date": "2015-07-23T11:15:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 19, 
+            "activity": "Preview", 
+            "date": "2015-07-23T11:15:00", 
+            "document": "TOD14-binnenwerk-def-PDF.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-23T11:15:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-23T11:15:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 45, 
+            "activity": "facebook.com", 
+            "date": "2015-07-23T11:20:00", 
+            "document": "(1) University of Amsterdam"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 29, 
+            "activity": "Finder", 
+            "date": "2015-07-23T11:20:00", 
+            "document": "books"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 19, 
+            "activity": "facebook.com", 
+            "date": "2015-07-23T11:20:00", 
+            "document": "(1) Institute of Network Cultures"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-07-23T11:20:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:40:00", 
+            "document": "(13) Project: Design a store database | SQL basics | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 16, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:40:00", 
+            "document": "Khan Academy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T11:40:00", 
+            "document": "resquetime - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:40:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 6, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:40:00", 
+            "document": "(13) Intro to SQL: Querying and managing data | Computer programming | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 5, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:40:00", 
+            "document": "Sign Up | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:40:00", 
+            "document": "(13) Dashboard | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:40:00", 
+            "document": "Log in | Khan Academy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T11:40:00", 
+            "document": "https://www.google.nl/search?q=resquetime&oq=resq&aqs=chrome.1.69i57j69i59.3119j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 24, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:45:00", 
+            "document": "(13) More complex queries with AND/OR | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T11:45:00", 
+            "document": "json to csv - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:45:00", 
+            "document": "More complex queries with AND/OR | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 174, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:50:00", 
+            "document": "(13) Challenge: Karaoke song selector | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T11:50:00", 
+            "document": "csv to sql - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-07-23T11:50:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 29, 
+            "activity": "youtube.com", 
+            "date": "2015-07-23T11:50:00", 
+            "document": "Tim Hecker - Mirages [Full Album] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-07-23T11:50:00", 
+            "document": "Suicide - Suicide 1977 (Full Album) - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T11:50:00", 
+            "document": "Generate Insert SQL statements from a csv file - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-07-23T11:50:00", 
+            "document": "suicide full album - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-07-23T11:50:00", 
+            "document": "tim hecker - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-07-23T11:50:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 200, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T11:55:00", 
+            "document": "(13) Querying IN subqueries | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 86, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:00:00", 
+            "document": "(13) Challenge: Playlist maker | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 27, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:05:00", 
+            "document": "(13) Restricting grouped results with HAVING | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 49, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:15:00", 
+            "document": "(13) Challenge: The wordiest author | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T12:15:00", 
+            "document": "csvkit 0.9.1 \u2014 csvkit 0.9.1 documentation"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 152, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:20:00", 
+            "document": "(14) Challenge: The wordiest author | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 22, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:20:00", 
+            "document": "(14) Restricting grouped results with HAVING | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 5, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:20:00", 
+            "document": "(14) Spin-off of \"Restricting grouped results with HAVING\" | Computer programming | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:20:00", 
+            "document": "Restricting grouped results with HAVING | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 55, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:25:00", 
+            "document": "Run/Debug Configurations"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:25:00", 
+            "document": "weather.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 42, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:25:00", 
+            "document": "(15) Who issues SQL queries? | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 19, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:25:00", 
+            "document": "app_logger - [~/PycharmProjects/app_logger]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 12, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:25:00", 
+            "document": "(15) Calculating results with CASE | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 6, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-23T12:25:00", 
+            "document": "(15) Challenge: The wordiest author | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 48, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T12:30:00", 
+            "document": "osx - How many versions of python are pre-installed on OS X? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T12:30:00", 
+            "document": "\"/System/Library/Frameworks/Python.framework/Versions/2.6/\" - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T12:30:00", 
+            "document": "urllib - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 69, 
+            "activity": "github.com", 
+            "date": "2015-07-23T12:35:00", 
+            "document": "\"A Python is installed\" \u00b7 Issue #27146 \u00b7 Homebrew/homebrew"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T12:35:00", 
+            "document": "\"/Library/Frameworks/Python.framework/\" - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T12:35:00", 
+            "document": "osx - Homebrew brew doctor warning about /Library/Frameworks/Python.framework, even with brew's Python installed - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T12:35:00", 
+            "document": "Frameworks \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 6, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:35:00", 
+            "document": "ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T12:35:00", 
+            "document": "Default \u2014 sudo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:35:00", 
+            "document": "PyCharm 4.0.5"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 46, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:40:00", 
+            "document": "json_to_csv.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T12:40:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:40:00", 
+            "document": "test.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 37, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T12:40:00", 
+            "document": "GaborK \u2014 ruby"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 35, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:40:00", 
+            "document": "browser_tab.py - app_logger - [~/PycharmProjects/app_logger]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 9, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:40:00", 
+            "document": "PostgreSQL - hello@localhost - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 7, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T12:40:00", 
+            "document": "GaborK \u2014 sh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T12:40:00", 
+            "document": "GaborK \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:40:00", 
+            "document": "Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T12:45:00", 
+            "document": "ff3895c1-0601-45d2-9a00-d8f0bf9484ea.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 15, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T13:45:00", 
+            "document": "weather.py - weather - [~/PycharmProjects/ScrapBook/random/weather]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 14, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T13:45:00", 
+            "document": "weather - [~/PycharmProjects/ScrapBook/random/weather]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T13:45:00", 
+            "document": "PyCharm"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T13:50:00", 
+            "document": "https://www.google.nl/search?q=os.walk&oq=os.walk&aqs=chrome..69i57j69i65j69i60l4.1175j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 failed to load"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T13:50:00", 
+            "document": "os.walk - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 33, 
+            "activity": "github.com", 
+            "date": "2015-07-23T13:55:00", 
+            "document": "goodybag/mongo-sql"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 28, 
+            "activity": "quora.com", 
+            "date": "2015-07-23T13:55:00", 
+            "document": "(4) What is the best way to convert JSON to an SQL Query? - Quora"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T13:55:00", 
+            "document": "json to sql - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "quora.com", 
+            "date": "2015-07-23T13:55:00", 
+            "document": "www.quora.com/What-is-the-best-way-to-convert-JSON-to-an-SQL-Query"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:00:00", 
+            "document": "json to sql db - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 63, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T14:15:00", 
+            "document": "questions.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 12, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T14:15:00", 
+            "document": "participants.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 43, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T14:15:00", 
+            "document": "test.csv \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T14:15:00", 
+            "document": "ReadingList_archive.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 48, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T14:20:00", 
+            "document": "Wouter.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T14:20:00", 
+            "document": "GaborK \u2014 Python"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 132, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T14:30:00", 
+            "document": "test.csv - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T14:30:00", 
+            "document": "string - How to get the filename without the extension from a path in Python? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 17, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T14:30:00", 
+            "document": "linux - How do I pipe a subprocess call in Python to a text file? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:30:00", 
+            "document": "subprocess write to file - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:30:00", 
+            "document": "basename without extension python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 65, 
+            "activity": "github.com", 
+            "date": "2015-07-23T14:35:00", 
+            "document": "evidens/json2csv"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 66, 
+            "activity": "github.com", 
+            "date": "2015-07-23T14:35:00", 
+            "document": "JSON -> CSV: JSON documents with top-level list element... What to list? \u00b7 Issue #361 \u00b7 onyxfish/csvkit"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-07-23T14:35:00", 
+            "document": "evidens (F. Gabriel Gosselin)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-07-23T14:35:00", 
+            "document": "https://github.com/evidens/json2csv.git failed to load"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:35:00", 
+            "document": "When converting a JSON document with a top-level dictionary element, a key must be specified. - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "System Preferences", 
+            "date": "2015-07-23T14:35:00", 
+            "document": "General"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 45, 
+            "activity": "github.com", 
+            "date": "2015-07-23T14:40:00", 
+            "document": "vinay20045/json-to-csv"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T14:40:00", 
+            "document": "python - Parsing nested JSON and writing it to CSV - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:40:00", 
+            "document": "nested json to csv - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:40:00", 
+            "document": "jq csv - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T14:40:00", 
+            "document": "GaborK \u2014 curl"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:40:00", 
+            "document": "jqu csv - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-07-23T14:45:00", 
+            "document": "json2csv-master"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T14:45:00", 
+            "document": "github - git download, not clone fetch etc - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:45:00", 
+            "document": "clone vs download git - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:45:00", 
+            "document": "git download link - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T14:45:00", 
+            "document": "git download zip command line - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T14:45:00", 
+            "document": "stackoverflow.com/questions/4161692/git-download-not-clone-fetch-etc"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 51, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T14:50:00", 
+            "document": "Do a \"git export\" (like \"svn export\")? - Stack Overflow"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 45, 
+            "activity": "Finder", 
+            "date": "2015-07-23T14:50:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-07-23T14:50:00", 
+            "document": "Dropbox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-07-23T14:50:00", 
+            "document": "YNAB4.v4.3.351-OSX"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-07-23T14:50:00", 
+            "document": "extenssion_tweet_IdCrwaler _fromstaticpage"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-23T14:50:00", 
+            "document": "git"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-23T14:50:00", 
+            "document": "tools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T15:10:00", 
+            "document": "python - adding directory to sys.path /PYTHONPATH - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:10:00", 
+            "document": "add directory to path python - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 39, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T15:15:00", 
+            "document": "json2csv-master \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T15:15:00", 
+            "document": "python - PYTHONPATH vs. sys.path - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T15:15:00", 
+            "document": "tools \u2014 bash"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:15:00", 
+            "document": "Your PYTHONPATH points to a site-packages dir for Python 2.x but you are running Python 3.x! - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T15:15:00", 
+            "document": "requirements.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T15:15:00", 
+            "document": "json2csv.py \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 36, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T15:20:00", 
+            "document": "environment.plist \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 15, 
+            "activity": "groups.google.com", 
+            "date": "2015-07-23T15:20:00", 
+            "document": "PYTHONPATH issues - Google Groups"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 7, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T15:20:00", 
+            "document": "LaunchAgents \u2014 bash"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 4, 
+            "activity": "groups.google.com", 
+            "date": "2015-07-23T15:20:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T15:20:00", 
+            "document": "LaunchAgents \u2014 sudo"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 1, 
+            "activity": "RescueTime", 
+            "date": "2015-07-23T15:20:00", 
+            "document": "RescueTime"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-07-23T15:35:00", 
+            "document": "Calculating results with CASE | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:35:00", 
+            "document": "google scholar - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 85, 
+            "activity": "youtube.com", 
+            "date": "2015-07-23T15:40:00", 
+            "document": "Cathedral vs. Bazaar - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-07-23T15:40:00", 
+            "document": "cathedral and the bazaar - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 43, 
+            "activity": "google.com", 
+            "date": "2015-07-23T15:45:00", 
+            "document": "Google Trends"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 87, 
+            "activity": "google.com", 
+            "date": "2015-07-23T15:45:00", 
+            "document": "Google Trends - Web Search interest: open source - Worldwide, 2004 - present"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 70, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:45:00", 
+            "document": "osp open source publishing - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:45:00", 
+            "document": "google keyword tool - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:45:00", 
+            "document": "osp - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:45:00", 
+            "document": "google keyword chart - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T15:50:00", 
+            "document": "json2csv-master \u2014 Python"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:50:00", 
+            "document": "libre graphics - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 36, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T15:55:00", 
+            "document": "homebrew - python pip still looking for previous installation - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T15:55:00", 
+            "document": "How to use pip with Python 3.x alongside Python 2.x - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 21, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T15:55:00", 
+            "document": "pip \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:55:00", 
+            "document": "pip is linked to python3 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T15:55:00", 
+            "document": "pip bad interpreter: No such file or directory - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-07-23T15:55:00", 
+            "document": "json2csv-master \u2014 ruby"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-07-23T15:55:00", 
+            "document": "https://github.com/evidens/json2csv is not available"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 32, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T16:00:00", 
+            "document": "How to include external Python code to use in other files? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T16:00:00", 
+            "document": "link external module python - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T16:00:00", 
+            "document": "add folder to path python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T16:25:00", 
+            "document": "how to add existing files to an python project using pycharm? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T16:25:00", 
+            "document": "add folder to project python - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-07-23T16:25:00", 
+            "document": "README.md \u2014 tools/json2csv-master \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-23T16:25:00", 
+            "document": "fixtures"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 33, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T16:30:00", 
+            "document": "Run a python script from another python script, passing in args - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 26, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:30:00", 
+            "document": "gen_outline.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 62, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:30:00", 
+            "document": "json2csv.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T16:30:00", 
+            "document": "running a python file with arguments from another python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 80, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T16:35:00", 
+            "document": "eval - What is the best way to call a python script from another python script? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 21, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:40:00", 
+            "document": "Amijs.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 127, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:50:00", 
+            "document": "tests.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 29, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:50:00", 
+            "document": "deeply_nested.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:50:00", 
+            "document": "different_keys_per_row.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:50:00", 
+            "document": "line_delimited.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 9, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:50:00", 
+            "document": "outline.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:50:00", 
+            "document": "data.csv - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T16:50:00", 
+            "document": "bare_data.csv - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T17:00:00", 
+            "document": "json postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T17:00:00", 
+            "document": "json postregsql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T17:10:00", 
+            "document": "mission workshop - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 46, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T17:20:00", 
+            "document": "0bd9b54b-3400-4655-8bd8-27dc6bb760c9.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 62, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T17:25:00", 
+            "document": "0d7e2266-4652-4a8c-a480-895cdf2829f4.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T17:25:00", 
+            "document": "9ee2ce75-e668-4fd3-be97-5fdfb86f65e3.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 35, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T17:25:00", 
+            "document": "questions.csv - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T17:25:00", 
+            "document": "participants.csv - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 45, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T17:30:00", 
+            "document": "relational database - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T17:30:00", 
+            "document": "relational databse - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T17:40:00", 
+            "document": "relational database quantified self - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 39, 
+            "activity": "pycharm", 
+            "date": "2015-07-23T17:45:00", 
+            "document": "Amijs.outline.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T17:45:00", 
+            "document": "relational database heartrate - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 57, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T17:50:00", 
+            "document": "relational database twitter - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T17:50:00", 
+            "document": "learn sql the hard way - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 94, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T18:05:00", 
+            "document": "parent child relationship database - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 108, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-23T18:05:00", 
+            "document": "php - What is a Parent table and a Child table in Database? - Stack Overflow"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 59, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-07-23T18:10:00", 
+            "document": "*Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 35, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-07-23T18:10:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 62, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-23T18:15:00", 
+            "document": "Database design - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-07-23T18:15:00", 
+            "document": "database design principles - Google Search"
+        }
+    ]
+}

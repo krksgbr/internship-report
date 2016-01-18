@@ -1,0 +1,1104 @@
+{
+    "2015-10-30": [
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 2, 
+            "activity": "localhost:9849", 
+            "date": "2015-10-30T10:05:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 22, 
+            "activity": "444.hu", 
+            "date": "2015-10-30T10:05:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 3, 
+            "activity": "newtab", 
+            "date": "2015-10-30T10:05:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 85, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-30T10:05:00", 
+            "document": "2010 University of Alabama in Huntsville shooting - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 41, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T10:10:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T10:10:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 267, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T10:15:00", 
+            "document": "Index - Belf\u00f6ld - Enn\u00e9l m\u00e9g a hal\u00e1l is jobb"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 32, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T10:15:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 51, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T10:25:00", 
+            "document": "Index - Bulv\u00e1r - Orb\u00e1n titokban egy hajl\u00e9ktalansz\u00e1ll\u00f3n j\u00e1rt"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 89, 
+            "activity": "velvet.hu", 
+            "date": "2015-10-30T10:30:00", 
+            "document": "Velvet - Helysz\u00ednel\u0151 - Rejt\u00e9ly: saj\u00e1t szalonj\u00e1ban fagyott meg egy 24 \u00e9ves l\u00e1ny"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 96, 
+            "activity": "444.hu", 
+            "date": "2015-10-30T10:30:00", 
+            "document": "M\u00e1ris kezdik a kuncsaftszopat\u00e1st az internetszolg\u00e1ltat\u00f3k - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 52, 
+            "activity": "444.hu", 
+            "date": "2015-10-30T10:30:00", 
+            "document": "Colleen Bell: K\u00e9rj\u00fck, hogy a korrupt szem\u00e9lyeket \u00e1ll\u00edts\u00e1k b\u00edr\u00f3s\u00e1g el\u00e9 - 444"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 28, 
+            "activity": "velvet.hu", 
+            "date": "2015-10-30T10:30:00", 
+            "document": "Velvet - Gumicukor - Metzker Vikinek t\u00f6k\u00e9letes Barbie-arca van"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "velvet.hu", 
+            "date": "2015-10-30T10:30:00", 
+            "document": "velvet.hu/gumicukor/2015/10/28/metzker_vikinek_tokeletes_barbie-arca_van/"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 66, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T10:35:00", 
+            "document": "Index - Kult\u00far"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 5, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T10:35:00", 
+            "document": "Index - Tech"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 4, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T10:35:00", 
+            "document": "Index - Tudom\u00e1ny"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 20, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T10:45:00", 
+            "document": "Index - Kult\u00far - M\u00e1sf\u00e9l \u00e9vtized rap \u00e9s met\u00e1l"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 95, 
+            "activity": "facebook.com", 
+            "date": "2015-10-30T10:50:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 49, 
+            "activity": "facebook.com", 
+            "date": "2015-10-30T10:50:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-30T10:50:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 82, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-30T10:55:00", 
+            "document": "Learn Git | Codecademy"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 18, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-30T10:55:00", 
+            "document": "Learn | Codecademy"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 9, 
+            "activity": "facebook.com", 
+            "date": "2015-10-30T10:55:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 27, 
+            "activity": "444.hu", 
+            "date": "2015-10-30T11:40:00", 
+            "document": "Mohamed gyilkosa egy hat\u00e9ves kisfi\u00fa meg\u00f6l\u00e9s\u00e9t is bevallotta - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T11:40:00", 
+            "document": "sensitive skin - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T11:45:00", 
+            "document": "Baby husky Papi talks - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 32, 
+            "activity": "444.hu", 
+            "date": "2015-10-30T11:45:00", 
+            "document": "Egy okos magyar csal\u00e1d mindenf\u00e9le felszerel\u00e9s n\u00e9lk\u00fcl nekiv\u00e1gott a Magas-T\u00e1tra legmagasabb cs\u00facs\u00e1nak - 444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 101, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T11:45:00", 
+            "document": "10 Funniest Bulldog Videos - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 58, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T11:45:00", 
+            "document": "10 Funniest Husky Videos #3 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 45, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T11:45:00", 
+            "document": "Skateboarding Dog - HD Redux - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T11:45:00", 
+            "document": "https://www.youtube.com/watch?v=R8XAlSp838Y&feature=player_embedded"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 37, 
+            "activity": "slack", 
+            "date": "2015-10-30T11:50:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T13:00:00", 
+            "document": "Stars Of The Lid - ...and Their Refinement of the Decline (Full Album) - YouTube"
+        }, 
+        {
+            "category": "Business", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 103, 
+            "activity": "bloomberg.com", 
+            "date": "2015-10-30T13:05:00", 
+            "document": "Apple\u2019s Secrecy Hurts Its AI Software Development - Bloomberg Business"
+        }, 
+        {
+            "category": "Business", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 54, 
+            "activity": "bloomberg.com", 
+            "date": "2015-10-30T13:05:00", 
+            "document": "You're Waking Up Wrong - Bloomberg Business"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 7, 
+            "activity": "stickies", 
+            "date": "2015-10-30T13:05:00", 
+            "document": "BEV\u00c1S\u00c1RL\u00d3LISTA\n____________\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 3, 
+            "activity": "stickies", 
+            "date": "2015-10-30T13:05:00", 
+            "document": "+361 25 10 765"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T13:05:00", 
+            "document": "java - Initialize a static final field in the constructor - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T13:45:00", 
+            "document": "cottered crank - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T13:45:00", 
+            "document": "cottored crank - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T14:00:00", 
+            "document": "how to buy brake cables - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-30T14:00:00", 
+            "document": "wthx-interactive \u2014 mongo"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 32, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-30T14:05:00", 
+            "document": "Influenza-like illness - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 17, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-30T14:05:00", 
+            "document": "Sepsis - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T14:05:00", 
+            "document": "flu-like syndrome - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T14:05:00", 
+            "document": "https://www.google.nl/search?q=flu-like+syndrome&oq=flu-like+syndrome&aqs=chrome..69i57j0l5.317j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T14:10:00", 
+            "document": "weak muscles waking up - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 8, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-30T14:10:00", 
+            "document": "Measles - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 6, 
+            "activity": "stickies", 
+            "date": "2015-10-30T14:10:00", 
+            "document": "Lifestyle changes\n\nwww.live\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-10-30T14:10:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-10-30T14:10:00", 
+            "document": "Lifesty"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-10-30T14:10:00", 
+            "document": "Lifestyle"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-10-30T14:10:00", 
+            "document": "Life"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-10-30T14:10:00", 
+            "document": "Lifestyle changes\n\n"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-10-30T14:10:00", 
+            "document": "Lifestyle changes\n"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T14:20:00", 
+            "document": "Watch Later - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T14:30:00", 
+            "document": "broadcast - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T14:30:00", 
+            "document": "Broadcast - The Black Session (full) [Radio Paris, 4/5/2000] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T14:35:00", 
+            "document": "Broadcast - Work And Non Work (1997) Full Album - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 29, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-30T14:35:00", 
+            "document": "Shivering - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T14:35:00", 
+            "document": "shivering - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T14:40:00", 
+            "document": "view state in model - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 48, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T14:50:00", 
+            "document": "viewcontroller - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 39, 
+            "activity": "developer.apple.com", 
+            "date": "2015-10-30T14:50:00", 
+            "document": "UIViewController Class Reference"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T14:50:00", 
+            "document": "viewmanager - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 41, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T14:55:00", 
+            "document": "Android SimpleUI - The model-view-controller principle - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 28, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T14:55:00", 
+            "document": "Android Application Programming: Model View Controller - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T14:55:00", 
+            "document": "model view controller android - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T15:05:00", 
+            "document": "John Beltran - Ten Days Of Blue [full album] - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T15:10:00", 
+            "document": "ViewFactory - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T15:10:00", 
+            "document": "Viewfactory - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T15:10:00", 
+            "document": "Jan Jelinek - Loop Finding Jazz Records (Full Album) - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T15:15:00", 
+            "document": "how to pass data to view in mvc - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 14, 
+            "activity": "asp.net", 
+            "date": "2015-10-30T15:15:00", 
+            "document": "Accessing your Model's Data from a Controller | The ASP.NET Site"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 17, 
+            "activity": "asp.net", 
+            "date": "2015-10-30T15:15:00", 
+            "document": "Adding a Create Method and Create View | The ASP.NET Site"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T15:15:00", 
+            "document": "create views mvc - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 98, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T15:20:00", 
+            "document": "java - Model, View & Controller - what should create what? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T15:20:00", 
+            "document": "controller create view - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 40, 
+            "activity": "github.com", 
+            "date": "2015-10-30T15:40:00", 
+            "document": "Nancy/DefaultViewFactory.cs at master \u00b7 NancyFx/Nancy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T15:40:00", 
+            "document": "swtiching from art to engineering - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-10-30T15:40:00", 
+            "document": "Custodians of the Super-Duper-Happy-Path"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T15:40:00", 
+            "document": "defaultviewfactory - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-30T15:40:00", 
+            "document": "Nancy - Lightweight Web Framework for .net"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 118, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T16:30:00", 
+            "document": "Factory Pattern. When to use factory methods? - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 16, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-30T16:30:00", 
+            "document": "Factory (object-oriented programming) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T16:30:00", 
+            "document": "factory class - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T16:30:00", 
+            "document": "factory method - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 20, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T17:15:00", 
+            "document": "Index - Tudom\u00e1ny - Az e-cigaretta is vesz\u00e9lyes"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 103, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T17:25:00", 
+            "document": "Index - Belf\u00f6ld - Ung\u00e1r Kl\u00e1ra k\u00e9t milli\u00f3t fizet Kocsisnak a melegez\u00e9s\u00e9rt"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 51, 
+            "activity": "index.hu", 
+            "date": "2015-10-30T17:25:00", 
+            "document": "Index - Belf\u00f6ld - Index-olvas\u00f3k seg\u00edtettek az autista kisfi\u00fan"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T17:25:00", 
+            "document": "monitor memory usage intellij - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T17:25:00", 
+            "document": "java - Ways to measure memory consumption while running JUnit tests - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T17:30:00", 
+            "document": "qt filter model - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T17:35:00", 
+            "document": "clone object java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 201, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T17:40:00", 
+            "document": "How do I copy an object in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 31, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T17:45:00", 
+            "document": "Cloning in Java - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 37, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T17:45:00", 
+            "document": "Java Collections copy list - I don't understand - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T17:45:00", 
+            "document": "java - How to clone ArrayList and also clone its contents? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T17:45:00", 
+            "document": "How to make a deep copy of Java ArrayList - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-30T17:45:00", 
+            "document": "clone - Java : Issue with Object Cloning? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T17:45:00", 
+            "document": "deep copy list java java 8 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T17:45:00", 
+            "document": "problems with cloning java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T17:45:00", 
+            "document": "deep copy list java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-30T17:45:00", 
+            "document": "copy list java - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 140, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-30T17:55:00", 
+            "document": "clone (Java method) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 157, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T18:55:00", 
+            "document": "Everything We Think We Know About Addiction Is Wrong - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 17, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T18:55:00", 
+            "document": "Artificial Intelligence: Are we engineering our own obsolescence? - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T18:55:00", 
+            "document": "In a Nutshell \u2013 Kurzgesagt - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-30T18:55:00", 
+            "document": "kurzgesagt - YouTube"
+        }
+    ]
+}

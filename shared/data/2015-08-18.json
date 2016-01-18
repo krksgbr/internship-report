@@ -1,0 +1,1554 @@
+{
+    "2015-08-18": [
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T09:10:00", 
+            "document": "AverageCalculator.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 29, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T09:10:00", 
+            "document": "Collector.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:10:00", 
+            "document": "weather den haag - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 12, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T09:10:00", 
+            "document": "svgparser.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Travel & Outdoors", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 11, 
+            "activity": "weather.com", 
+            "date": "2015-08-18T09:10:00", 
+            "document": "The Hague, Netherlands 10 Day Weather Forecast - weather.com"
+        }, 
+        {
+            "category": "Travel & Outdoors", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 1, 
+            "activity": "weather.com", 
+            "date": "2015-08-18T09:10:00", 
+            "document": "10 Day Weather Forecast - weather.com"
+        }, 
+        {
+            "category": "Travel & Outdoors", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 1, 
+            "activity": "weather.com", 
+            "date": "2015-08-18T09:10:00", 
+            "document": "www.weather.com/weather/tenday/l/The+Hague+Netherlands+NLXX0016:1:NL"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 157, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T09:15:00", 
+            "document": "collection_handler.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:15:00", 
+            "document": "collector is not callable pytohn - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T09:35:00", 
+            "document": "python - Error with __init__ 'module' object is not callable - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:35:00", 
+            "document": "constructor is not callable pytohn - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T09:40:00", 
+            "document": "Vectorizer.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 46, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T09:40:00", 
+            "document": "collector.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:40:00", 
+            "document": "where should a program keep temporary files - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 6, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T09:45:00", 
+            "document": "helpers.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 153, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T09:50:00", 
+            "document": "vectorize.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-18T09:50:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-08-18T09:50:00", 
+            "document": "pulsechart/index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:50:00", 
+            "document": "popen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:50:00", 
+            "document": "potrace - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 50, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-18T09:55:00", 
+            "document": "Standard streams - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:55:00", 
+            "document": "subprocess stdout stdin - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T09:55:00", 
+            "document": "linux - Python subprocess command with pipe - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T09:55:00", 
+            "document": "Python Popen sending to process on stdin, receiving on stdout - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:55:00", 
+            "document": "subprocess PIPE - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:55:00", 
+            "document": "what is standard input - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:55:00", 
+            "document": "subprocess what is stdout stdin - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T09:55:00", 
+            "document": "stdout python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T09:55:00", 
+            "document": "printing - Python - The difference between sys.stdout.write and print - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 53, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T10:00:00", 
+            "document": "testingstuff.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 41, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T10:00:00", 
+            "document": "main2.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-18T10:00:00", 
+            "document": "vectorize"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 39, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T10:00:00", 
+            "document": "ScreenshotAutomator.py - ScreenShot_Automator - [~/PycharmProjects/ScreenShot_Automator]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-18T10:00:00", 
+            "document": "output"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T10:00:00", 
+            "document": "ScreenShot_Automator - [~/PycharmProjects/ScreenShot_Automator]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T10:05:00", 
+            "document": "string - How to get the filename without the extension from a path in Python? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T10:05:00", 
+            "document": "svgparser/__init__.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T10:05:00", 
+            "document": "basename python - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T10:05:00", 
+            "document": "popenpotrace - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T10:05:00", 
+            "document": "tools/__init__.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 25, 
+            "activity": "Terminal", 
+            "date": "2015-08-18T10:25:00", 
+            "document": "vectorize \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 40, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T10:30:00", 
+            "document": "Create empty file using python - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T10:30:00", 
+            "document": "utility - Implement touch using Python? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T10:30:00", 
+            "document": "python create file - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-08-18T10:30:00", 
+            "document": "controller_combinations \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T10:30:00", 
+            "document": "python touch file - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 9, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T11:05:00", 
+            "document": "backup/\u2026/Main.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 9, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T11:05:00", 
+            "document": "/Users/GaborK/PycharmProjects/glyphcollector/glyphcollector/tools/collection_handler.py"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 5, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T11:05:00", 
+            "document": "collection_handler.py - PyCharm 4.0.5"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T11:10:00", 
+            "document": "UFOExporter.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-08-18T11:10:00", 
+            "document": "svg/svg.py at master \u00b7 cjlano/svg"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-08-18T11:10:00", 
+            "document": "cjlano/svg"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T11:10:00", 
+            "document": "open svg python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-18T11:10:00", 
+            "document": "svg/svg at master \u00b7 cjlano/svg"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-18T11:15:00", 
+            "document": "cjlano (CJlano)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 68, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T11:20:00", 
+            "document": "svgexample.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-18T11:25:00", 
+            "document": "a_avg0.svg \u2014 vectorize \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T11:25:00", 
+            "document": "elementtree find element - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-08-18T11:30:00", 
+            "document": "a_avg0.svg \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-18T11:30:00", 
+            "document": "examples"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T11:30:00", 
+            "document": "find path element svg python - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T11:30:00", 
+            "document": "find path element svg - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 44, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T11:50:00", 
+            "document": "python - Selecting element by ID, in .svg xml - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 42, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T11:50:00", 
+            "document": "find g element in svg etree - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T11:50:00", 
+            "document": "svg - python lxml inkscape namespace tags - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T11:50:00", 
+            "document": "find g element in svg ettree - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T11:50:00", 
+            "document": "find g element in svg - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 10, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-18T12:05:00", 
+            "document": "Siouxsie and the Banshees - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T12:05:00", 
+            "document": "lousy noise lyrics - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 4, 
+            "activity": "stickies", 
+            "date": "2015-08-18T12:05:00", 
+            "document": "SUMMER\n____________________\u2026"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T12:05:00", 
+            "document": "lousy noise - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T12:05:00", 
+            "document": "sioux and the banshees - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-08-18T12:05:00", 
+            "document": "P\t\tLUSTLAB\n________________\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 4, 
+            "activity": "stickies", 
+            "date": "2015-08-18T12:10:00", 
+            "document": "https://en.wikipedia.org/wi\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-08-18T12:10:00", 
+            "document": "Siouxsie and the Banshees\n"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-08-18T12:10:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T12:15:00", 
+            "document": "Python: Importing modules from parent folder - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T12:15:00", 
+            "document": "import from package above - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T12:20:00", 
+            "document": "svgparser/parser.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T12:20:00", 
+            "document": "fontexport/__init__.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T12:40:00", 
+            "document": "robofab - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 27, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T12:45:00", 
+            "document": "world.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 15, 
+            "activity": "pycharm", 
+            "date": "2015-08-18T13:35:00", 
+            "document": "TODO - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-18T13:45:00", 
+            "document": "svg.path/src/svg at master \u00b7 regebro/svg.path"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 30, 
+            "activity": "phpstorm", 
+            "date": "2015-08-18T13:50:00", 
+            "document": "pulsechart/script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 5, 
+            "activity": "phpstorm", 
+            "date": "2015-08-18T13:50:00", 
+            "document": "fiveMinutely.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 81, 
+            "activity": "phpstorm", 
+            "date": "2015-08-18T13:50:00", 
+            "document": "streamgraph/script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 20, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-18T13:50:00", 
+            "document": "Unix shell - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 8, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-18T13:50:00", 
+            "document": "TcshAndShScreenCaptureCropped - Unix shell - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-08-18T13:50:00", 
+            "document": "tab.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-08-18T13:50:00", 
+            "document": "d3.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 49, 
+            "activity": "devtools", 
+            "date": "2015-08-18T13:55:00", 
+            "document": "Developer Tools - http://localhost:63343/Hubbub/pulsechart/index.html"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 31, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-18T13:55:00", 
+            "document": "Tachycardia - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-08-18T13:55:00", 
+            "document": "pulsechart/style.css - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 24, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-18T13:55:00", 
+            "document": "Heart rate - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T13:55:00", 
+            "document": "heart rate minimum - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-08-18T13:55:00", 
+            "document": "streamgraph/style.css - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 33, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T14:00:00", 
+            "document": "JavaScript: min & max Array values? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T14:00:00", 
+            "document": "coffee tachycardia - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T14:00:00", 
+            "document": "return max from array javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 36, 
+            "activity": "github.com", 
+            "date": "2015-08-18T14:05:00", 
+            "document": "Quantitative Scales \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T14:05:00", 
+            "document": "d3 scale - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-18T14:05:00", 
+            "document": "Ordinal Scales \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-18T14:05:00", 
+            "document": "Scales \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-08-18T14:15:00", 
+            "document": "chrome-devtools://devtools/bundled/devtools.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@200126/&can_dock=true&dockSide=undocked&toolbarColor=rgba(227,227,227,1)&textColor=rgba(102,102,102,1)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 26, 
+            "activity": "github.com", 
+            "date": "2015-08-18T14:20:00", 
+            "document": "Arrays \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T14:20:00", 
+            "document": "d3 join arrays - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-08-18T14:25:00", 
+            "document": "Developer Tools - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T14:30:00", 
+            "document": "javascript - How to scroll the window using JQuery $.scrollTo() function - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T14:30:00", 
+            "document": "animate window scroll jquery - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T14:35:00", 
+            "document": "jQuery Scroll to bottom of page/iframe - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T14:35:00", 
+            "document": "scroll to bottom jquery - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T14:35:00", 
+            "document": "jQuery Scroll To bottom of the page - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T14:35:00", 
+            "document": "stackoverflow.com/questions/1890995/jquery-scroll-to-bottom-of-page-iframe"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T14:40:00", 
+            "document": "d3.js - Modifying SVG path opacity and it's marker - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T14:40:00", 
+            "document": "d3 opacity - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T14:45:00", 
+            "document": "cancel animation jquery - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T15:00:00", 
+            "document": "reduce javascript - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T15:05:00", 
+            "document": "jquery animate easing - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T15:45:00", 
+            "document": "svg - How to use D3 selectAll with multiple class names - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T15:45:00", 
+            "document": "d3.js - How to select multiple selectors with selectAll? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T15:45:00", 
+            "document": "select multiple classes d3 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T15:45:00", 
+            "document": "select multiple classes jquery - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T15:45:00", 
+            "document": "stackoverflow.com/questions/15702724/how-to-select-multiple-selectors-with-selectall"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T15:45:00", 
+            "document": "stackoverflow.com/questions/17435838/how-to-use-d3-selectall-with-multiple-class-names"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 91, 
+            "activity": "github.com", 
+            "date": "2015-08-18T15:50:00", 
+            "document": "Transitions \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T15:50:00", 
+            "document": "transition - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T15:50:00", 
+            "document": "transition d3 example - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T15:50:00", 
+            "document": "d3 transition - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T16:00:00", 
+            "document": "javascript - Looping transition in D3 - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T16:00:00", 
+            "document": "looping animation d3 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-18T16:00:00", 
+            "document": "D3.js - Trying to loop animations with duration time - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 175, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T16:10:00", 
+            "document": "karel martens - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T16:10:00", 
+            "document": "karel martesn - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T16:25:00", 
+            "document": "d3 select circles with class name - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-18T16:35:00", 
+            "document": "112"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 15, 
+            "activity": "Activity Monitor", 
+            "date": "2015-08-18T16:35:00", 
+            "document": "Activity Monitor (All Processes)"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 9, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-18T16:35:00", 
+            "document": "stock2.jpg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 3, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-18T16:35:00", 
+            "document": "Screen Shot 2015-08-12 at 11.29.08.png"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-18T16:35:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 66, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T16:55:00", 
+            "document": "data sculpture - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-18T16:55:00", 
+            "document": "white blackout - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T16:55:00", 
+            "document": "niels schrader - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T16:55:00", 
+            "document": "visual complexity - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-18T16:55:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-08-18T17:00:00", 
+            "document": "catalogtree money and speed - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T17:00:00", 
+            "document": "white blackout minddesign - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 17, 
+            "activity": "youtube.com", 
+            "date": "2015-08-18T17:00:00", 
+            "document": "white blackout mindesign - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T17:00:00", 
+            "document": "white blackout mindesing - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-18T17:00:00", 
+            "document": "Mind Design / Gedankendesign"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 85, 
+            "activity": "youtube.com", 
+            "date": "2015-08-18T17:10:00", 
+            "document": "Genomineerde Rotterdam designprijs 2011: Catalogtree - TouchDoc 'Money & Speed' - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-18T17:10:00", 
+            "document": "adafruit - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 22, 
+            "activity": "slack", 
+            "date": "2015-08-18T17:20:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 26, 
+            "activity": "444.hu", 
+            "date": "2015-08-18T18:15:00", 
+            "document": "Szinte megsemmis\u00fclt a h\u00e9tf\u0151i viharban Buda legjobb halas \u00e9tterme !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "index.hu", 
+            "date": "2015-08-18T18:20:00", 
+            "document": "index.hu"
+        }
+    ]
+}

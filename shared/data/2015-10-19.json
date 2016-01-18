@@ -1,0 +1,524 @@
+{
+    "2015-10-19": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 33, 
+            "activity": "444.hu", 
+            "date": "2015-10-19T09:10:00", 
+            "document": "Tibi atya extr\u00e9msutty\u00f3humor-startupja: \u201e95 sz\u00e1zal\u00e9k v\u00e9res prolis\u00e1g \u00e9s 5 sz\u00e1zal\u00e9k intelligencia\u201d - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 2, 
+            "activity": "444.hu", 
+            "date": "2015-10-19T09:10:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 83, 
+            "activity": "index.hu", 
+            "date": "2015-10-19T09:15:00", 
+            "document": "Index - Tech - A Facebook legy\u0151z\u00e9s\u00e9nek titka"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 99, 
+            "activity": "facebook.com", 
+            "date": "2015-10-19T09:15:00", 
+            "document": "(3) Tibi atya"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 28, 
+            "activity": "facebook.com", 
+            "date": "2015-10-19T09:15:00", 
+            "document": "(2) G\u00e1bor Kerekes"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 14, 
+            "activity": "facebook.com", 
+            "date": "2015-10-19T09:15:00", 
+            "document": "(2) Tibi atya"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-10-19T09:15:00", 
+            "document": "Tibi atya"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-10-19T09:15:00", 
+            "document": "G\u00e1bor Kerekes"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-19T09:15:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 2, 
+            "activity": "index.hu", 
+            "date": "2015-10-19T09:20:00", 
+            "document": "Index - Tech - Itt az \u00faj Snowden, \u00e9s dr\u00f3nokr\u00f3l sziv\u00e1rogtat"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T09:55:00", 
+            "document": "idimposer - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 91, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-19T10:10:00", 
+            "document": "Syllogism - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T10:10:00", 
+            "document": "nicotine gum pain - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T10:10:00", 
+            "document": "The Aristotelian logic of the simple syllogism - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-19T10:15:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-19T10:15:00", 
+            "document": "Categorical proposition - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "calendar", 
+            "date": "2015-10-19T11:25:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 48, 
+            "activity": "thesaurus.com", 
+            "date": "2015-10-19T11:30:00", 
+            "document": "Fascinating Synonyms, Fascinating Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 13, 
+            "activity": "thesaurus.com", 
+            "date": "2015-10-19T11:30:00", 
+            "document": "Gripping Synonyms, Gripping Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 12, 
+            "activity": "thesaurus.com", 
+            "date": "2015-10-19T11:30:00", 
+            "document": "Thought provoking Synonyms, Thought provoking Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-19T11:30:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 5, 
+            "activity": "Dictionary.com", 
+            "date": "2015-10-19T11:30:00", 
+            "document": "Gripping | Define Gripping at Dictionary.com"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "Dictionary.com", 
+            "date": "2015-10-19T11:30:00", 
+            "document": "Dictionary.com | Find the Meanings and Definitions of Words at Dictionary.com"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "thesaurus.com", 
+            "date": "2015-10-19T11:30:00", 
+            "document": "Thesaurus.com | Find Synonyms and Antonyms of Words at Thesaurus.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T11:40:00", 
+            "document": "simple syllogism - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 11, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-19T11:50:00", 
+            "document": "Alphabet - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-19T11:50:00", 
+            "document": "Letter (alphabet) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T11:50:00", 
+            "document": "alphabet - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T11:50:00", 
+            "document": "alphabet wiki - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 3, 
+            "activity": "slack", 
+            "date": "2015-10-19T13:45:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-10-19T13:45:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-19T14:15:00", 
+            "document": "health"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-19T14:15:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-19T14:15:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-19T14:20:00", 
+            "document": "veghel"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-19T14:20:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-10-19T14:55:00", 
+            "document": "Music\n\nSiouxsie and the Ban\u2026"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-19T15:00:00", 
+            "document": "how to sort Map values by key in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-19T15:00:00", 
+            "document": "Tim Hecker - The Ravedeath 1972 [Full Album] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-19T15:00:00", 
+            "document": "tim hcker - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T15:00:00", 
+            "document": "sort map by key - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 25, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-19T15:05:00", 
+            "document": "reflection - How do I read all classes from a Java package in the classpath? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T15:05:00", 
+            "document": "get all classes in package java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-19T15:05:00", 
+            "document": "java - Can you find all classes in a package using reflection? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T16:10:00", 
+            "document": "strong rain - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 111, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-19T16:20:00", 
+            "document": "Rain - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-19T16:20:00", 
+            "document": "Beaufort scale - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T16:20:00", 
+            "document": "wind speed classification - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T16:20:00", 
+            "document": "rain intensity - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T16:20:00", 
+            "document": "beaufort scale - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-19T18:00:00", 
+            "document": "rain warning - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-19T18:00:00", 
+            "document": "The UWV can help you if you want to work in the Netherlands"
+        }
+    ]
+}

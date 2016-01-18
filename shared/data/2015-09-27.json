@@ -1,0 +1,724 @@
+{
+    "2015-09-27": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 5, 
+            "activity": "444.hu", 
+            "date": "2015-09-27T12:35:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T13:20:00", 
+            "document": "supermoon - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 33, 
+            "activity": "444.hu", 
+            "date": "2015-09-27T13:20:00", 
+            "document": "Egyszerre lesz holdfogyatkoz\u00e1s \u00e9s szuperhold hajnalban !!444!!!"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 162, 
+            "activity": "facebook.com", 
+            "date": "2015-09-27T13:40:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-09-27T13:40:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T14:40:00", 
+            "document": "union fixie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T14:40:00", 
+            "document": "union kyoto fixie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T14:40:00", 
+            "document": "union kyoto - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T14:45:00", 
+            "document": "Schwalbe Racing Ralph Evolution Cyclocross - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 42, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T14:45:00", 
+            "document": "28c tire - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T14:45:00", 
+            "document": "30c tire - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 63, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T14:50:00", 
+            "document": "35 c tire - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "goodreads.com", 
+            "date": "2015-09-27T15:25:00", 
+            "document": "Goodreads | My Friend Updates Email Preference"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 3, 
+            "activity": "Google+", 
+            "date": "2015-09-27T15:25:00", 
+            "document": "Unsubscribe from Email Notifications"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "coursera.org", 
+            "date": "2015-09-27T15:30:00", 
+            "document": "Unsubscribe from Email Notifications | Coursera"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "coursera.org", 
+            "date": "2015-09-27T15:30:00", 
+            "document": "https://www.coursera.org/account/unsubscribe/yINxitN7NXvmHK6hLmHnFblut8gyj9mWg2g-XxIteOo-TOj0zrF7aUKcAQ3DbNzTvcZ_e7YXBpCIAyZRpI_G7w.GcrrgkBQ2sVNyP8jObYSTQ.j3pPZLmUOfxtLtGvR_T00ti-UqeUO9xHjWWaELI5_8KeUnzpWs9X5vDD2MoieWOOZORvIrrPjgC0MgyBmJEnCPtoHO_KC7w23aWm"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 10, 
+            "activity": "tutsplus.com", 
+            "date": "2015-09-27T15:35:00", 
+            "document": "Email Preferences"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "tutsplus.com", 
+            "date": "2015-09-27T15:35:00", 
+            "document": "tutsplus.com/email_preferences?hash=24559d9ed0f4c26e0e8f123ebb3b1e5f&token=e84f2fa7757a4d2f82bfbb820438e3f6&unsubscribed_from=offers"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 46, 
+            "activity": "index.hu", 
+            "date": "2015-09-27T15:40:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-09-27T15:40:00", 
+            "document": "Watch Later - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-27T15:40:00", 
+            "document": "Inbox (40) - krks.gbr@gmail.com - Gmail"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 126, 
+            "activity": "index.hu", 
+            "date": "2015-09-27T15:45:00", 
+            "document": "Index - Sport - Senki, de senki nem tudta, hol a labda"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 39, 
+            "activity": "444.hu", 
+            "date": "2015-09-27T15:45:00", 
+            "document": "Benne volt a porsch\u00e9s \u00e1mokfut\u00f3 a Bulinegyed-balh\u00e9ban !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 41, 
+            "activity": "index.hu", 
+            "date": "2015-09-27T15:45:00", 
+            "document": "Index - Mindek\u00f6zben - Ez a sof\u0151r megpr\u00f3b\u00e1lt elijeszteni egy p\u00f3kot, felgy\u00fajtotta a benzinkutat"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 40, 
+            "activity": "index.hu", 
+            "date": "2015-09-27T15:45:00", 
+            "document": "Index - Belf\u00f6ld - Mad\u00e1rrajba rep\u00fclt egy Wizz Air g\u00e9p Budapesten"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 128, 
+            "activity": "index.hu", 
+            "date": "2015-09-27T15:50:00", 
+            "document": "Index - Tech - Most m\u00e1r T\u00c9NYLEG nincs t\u00f6bb hely az interneten"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 31, 
+            "activity": "index.hu", 
+            "date": "2015-09-27T15:50:00", 
+            "document": "Index - Tech"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T15:50:00", 
+            "document": "jolla tablet forum - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T15:50:00", 
+            "document": "jolla tablet blog - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T15:50:00", 
+            "document": "jolla - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T15:55:00", 
+            "document": "qHD - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T15:55:00", 
+            "document": "jolla phone resolution - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T15:55:00", 
+            "document": "https://www.google.nl/search?q=qHD&oq=qHD&aqs=chrome..69i57.476j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-09-27T16:00:00", 
+            "document": "breach/breach_core"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-09-27T16:00:00", 
+            "document": "breach-v0.3.22-alpha.6-darwin-ia32"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T16:00:00", 
+            "document": "open source browser - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-09-27T16:00:00", 
+            "document": "Contributors to breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-27T16:00:00", 
+            "document": "Pulse \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T16:00:00", 
+            "document": "open source browser written in javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 110, 
+            "activity": "github.com", 
+            "date": "2015-09-27T16:05:00", 
+            "document": "Thrust will be rebasing off of Atom Shell \u00b7 Issue #272 \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-09-27T16:05:00", 
+            "document": "Electric Youth - Faces - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 20, 
+            "activity": "github.com", 
+            "date": "2015-09-27T16:05:00", 
+            "document": "Issues \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-09-27T16:05:00", 
+            "document": "Project alive? \u00b7 Issue #228 \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-09-27T16:05:00", 
+            "document": "Breach"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-09-27T16:05:00", 
+            "document": "website down \u00b7 Issue #231 \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-09-27T16:05:00", 
+            "document": "Missing images on the website \u00b7 Issue #234 \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 74, 
+            "activity": "wired.com", 
+            "date": "2015-09-27T16:10:00", 
+            "document": "Hands-On With the Open Source Smartphone Powered by Ubuntu | WIRED"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T16:10:00", 
+            "document": "open source smartphone - Google Search"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 7, 
+            "activity": "omgubuntu.co.uk", 
+            "date": "2015-09-27T16:10:00", 
+            "document": "Ubuntu Phone Sells Out During First Flash Sale - OMG! Ubuntu!"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "omgubuntu.co.uk", 
+            "date": "2015-09-27T16:10:00", 
+            "document": "www.omgubuntu.co.uk/2015/02/96735"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 88, 
+            "activity": "Preview", 
+            "date": "2015-09-27T16:30:00", 
+            "document": "Eco_Umberto_The_Open_Work.pdf"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "amazon.com", 
+            "date": "2015-09-27T17:35:00", 
+            "document": "Amazon.com: spokes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-27T17:45:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-09-27T17:45:00", 
+            "document": "how to read.txt \u2014 WTHX"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-27T17:45:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-27T17:45:00", 
+            "document": "fonts"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 74, 
+            "activity": "Preview", 
+            "date": "2015-09-27T17:50:00", 
+            "document": "conditional_design.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 51, 
+            "activity": "Finder", 
+            "date": "2015-09-27T17:50:00", 
+            "document": "Books"
+        }, 
+        {
+            "category": "Presentation", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 46, 
+            "activity": "prezi.com", 
+            "date": "2015-09-27T17:50:00", 
+            "document": "Scattered Subjectivities Ghost in the Shell and Distributed by Blue Monk on Prezi"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T17:50:00", 
+            "document": "ghost in the machine distributing subjectivity - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 32, 
+            "activity": "Finder", 
+            "date": "2015-09-27T17:50:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-27T17:50:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Presentation", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "prezi.com", 
+            "date": "2015-09-27T17:50:00", 
+            "document": "https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0CDsQFjAFahUKEwjC4--tyZfIAhVL1SwKHaCyAzI&url=https://prezi.com/yepvys3srszu/scattered-subjectivities-ghost-in-the-shell-and-distributed/&usg=AFQjCNHJDV3f4K497JT7XYM1NihrotD9Hg&sig2=Qzi5d-R"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 42, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-27T17:55:00", 
+            "document": "Ghost in the machine - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T17:55:00", 
+            "document": "ghost in the machine - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T18:00:00", 
+            "document": "to work with a plan that is preset - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T18:05:00", 
+            "document": "Jonathan puckey on tools - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "Adobe Acrobat", 
+            "date": "2015-09-27T18:05:00", 
+            "document": "Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-27T18:15:00", 
+            "document": "garbage in garbage out - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 37, 
+            "activity": "thesaurus.com", 
+            "date": "2015-09-27T18:25:00", 
+            "document": "Distributed Synonyms, Distributed Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 8, 
+            "activity": "slack", 
+            "date": "2015-09-27T18:25:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 6, 
+            "activity": "thesaurus.com", 
+            "date": "2015-09-27T18:25:00", 
+            "document": "Thesaurus.com | Find Synonyms and Antonyms of Words at Thesaurus.com"
+        }
+    ]
+}

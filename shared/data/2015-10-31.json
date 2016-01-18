@@ -1,0 +1,1174 @@
+{
+    "2015-10-31": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T11:40:00", 
+            "document": "miche primato - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 102, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T11:45:00", 
+            "document": "miche crankset - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 83, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-31T11:45:00", 
+            "document": "Nicotine poisoning - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T12:05:00", 
+            "document": "smooth braking - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 140, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T12:10:00", 
+            "document": "Orosz utassz\u00e1ll\u00edt\u00f3 zuhant le a S\u00ednai-f\u00e9lszigetn\u00e9l - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 62, 
+            "activity": "index.hu", 
+            "date": "2015-10-31T12:15:00", 
+            "document": "Index - Tech - Most 58 ezer luxus Porsch\u00e9t kell visszah\u00edvnia a VW-nek"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 51, 
+            "activity": "index.hu", 
+            "date": "2015-10-31T12:15:00", 
+            "document": "Index - Sport - Csak n\u00e9ztek, ahogy \u00e1llva hagyja \u0151ket a bayernes brazil"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 10, 
+            "activity": "index.hu", 
+            "date": "2015-10-31T12:15:00", 
+            "document": "Index - Sport - Hihetetlen, hogy egy gyerek a legt\u00f6k\u00f6sebb az F1-ben"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 9, 
+            "activity": "bbc.com", 
+            "date": "2015-10-31T12:15:00", 
+            "document": "Chile seizes erotic version of Little Red Riding Hood - BBC News"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 1, 
+            "activity": "bbc.com", 
+            "date": "2015-10-31T12:15:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 143, 
+            "activity": "velvet.hu", 
+            "date": "2015-10-31T12:20:00", 
+            "document": "Velvet - \u00c9let - Ismerj\u00e9k meg Leonardo DiCaprio magyar hasonm\u00e1s\u00e1t!"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 124, 
+            "activity": "velvet.hu", 
+            "date": "2015-10-31T12:20:00", 
+            "document": "Velvet - Gumicukor - Meddig n\u0151het m\u00e9g a celebn\u0151k segge?"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 255, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T12:25:00", 
+            "document": "The Banach\u2013Tarski Paradox - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T12:45:00", 
+            "document": "Field Day - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 250, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T12:50:00", 
+            "document": "Home Sweet Whittier | Vsauce's Michael Stevens Has A Field Day - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 5, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T12:55:00", 
+            "document": "61 milli\u00f3t vesztett sportfogad\u00e1son a j\u00e1t\u00e9kf\u00fcgg\u0151 budapesti p\u00e9nzsz\u00e1ll\u00edt\u00f3 - 444"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-31T13:00:00", 
+            "document": "The Drop (2014) [1080p]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 299, 
+            "activity": "VLC Media Player", 
+            "date": "2015-10-31T13:05:00", 
+            "document": "The.Drop.2014.1080p.BluRay.x264.YIFY.mp4"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 23, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T14:45:00", 
+            "document": "Megsz\u00f6k\u00f6tt egy farkas a p\u00e9csi \u00e1llatkertb\u0151l - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 163, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T14:50:00", 
+            "document": "A jobbikos Volner J\u00e1nosnak van diplom\u00e1ja. Csak \u00e9pp a vil\u00e1g egyik legviccesebb egyetem\u00e9n szerezte - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T14:50:00", 
+            "document": "traffic.outbrain.com/network/redir?p=geyqhwgrOS02TL4OXyAwlrNabC-f_B4wB9qlq5cZUzM9FI1LOSvji3xU6u7rZYxjUPJ0GiUTuMiM3o12xs3BUG5787wPcVNYSSyBK12kr62AqplHihAICO6K9Gp1zp0XiIyhnMqif-_H5IkN85YEXn16RBqMxcSsthJXq9WcbCiSLU0btuxm6WXxhwO_lf6R3xQA-poDX3v9ILxBRqllPFztPL"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 32, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T15:25:00", 
+            "document": "N\u00e9gysz\u00e1z milli\u00f3 forintos Ferrarit t\u00f6rtek \u00f6ssze a V\u00e1ci \u00faton - 444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 107, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T15:30:00", 
+            "document": "How do hard drives work? - Kanawat Senanan - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 86, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T15:30:00", 
+            "document": "A Fidesz-KDNP egyik k\u00e9pvisel\u0151je sem szavazott igennel a Snowdent v\u00e9d\u0151 hat\u00e1rozatra - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 17, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T15:30:00", 
+            "document": "Kegyetlen bossz\u00fat \u00e1llt a kardhal - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T15:30:00", 
+            "document": "444.hu/2015/10/31/a-fidesz-kdnp-egyik-kepviseloje-sem-szavazott-igennel-a-snowdent-vedo-hatarozatra"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 83, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T15:35:00", 
+            "document": "SSDs vs Hard Drives as Fast As Possible - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 237, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T15:40:00", 
+            "document": "You Can Grow New Brain Cells. Here's How | Sandrine Thuret | TED Talks - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T15:40:00", 
+            "document": "Design at the Intersection of Technology and Biology | Neri Oxman | TED Talks - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T15:50:00", 
+            "document": "exercise for neurogenesis lifting weights - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 48, 
+            "activity": "ted.com", 
+            "date": "2015-10-31T15:50:00", 
+            "document": "Siddharthan Chandran: Can the damaged brain repair itself? | TED Talk | TED.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T15:50:00", 
+            "document": "exercise for neurogenesis - Google Search"
+        }, 
+        {
+            "category": "Health & Medicine", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 68, 
+            "activity": "sparkpeople.com", 
+            "date": "2015-10-31T15:55:00", 
+            "document": "High Intensity Interval Training | SparkPeople"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 13, 
+            "activity": "facebook.com", 
+            "date": "2015-10-31T16:00:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:00:00", 
+            "document": "running vs weights for brain - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 32, 
+            "activity": "facebook.com", 
+            "date": "2015-10-31T16:00:00", 
+            "document": "Climate Regime Map"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 153, 
+            "activity": "444.hu", 
+            "date": "2015-10-31T16:25:00", 
+            "document": "Az Iszl\u00e1m \u00c1llam egyiptomi sejtje azt \u00e1ll\u00edtja, \u0151k l\u0151tt\u00e9k le az orosz rep\u00fcl\u0151t - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 12, 
+            "activity": "nlm.nih.gov", 
+            "date": "2015-10-31T16:25:00", 
+            "document": "Flu: MedlinePlus Medical Encyclopedia"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "nlm.nih.gov", 
+            "date": "2015-10-31T16:25:00", 
+            "document": "https://www.nlm.nih.gov/medlineplus/ency/article/000080.htm"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:40:00", 
+            "document": "Frederik Hendriklaan - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:40:00", 
+            "document": "frederik hendriklaan - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:40:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:45:00", 
+            "document": "one day fevr - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:45:00", 
+            "document": "s&s - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:45:00", 
+            "document": "s&s infection - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 69, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:50:00", 
+            "document": "Pahudstraat 13 to Frederik Hendrikplein, 2582 Den Haag - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:50:00", 
+            "document": "Frederik Hendrikplein - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:50:00", 
+            "document": "Frederik hendrikplein, Den Haag - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:55:00", 
+            "document": "find sport buddy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:55:00", 
+            "document": "sport partner nl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T16:55:00", 
+            "document": "sport partner nl vind - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 23, 
+            "activity": "facebook.com", 
+            "date": "2015-10-31T17:00:00", 
+            "document": "G\u00e1bor Kerekes"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-31T17:00:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T17:15:00", 
+            "document": "fintess den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T17:15:00", 
+            "document": "fitness den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T17:15:00", 
+            "document": "train more - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 35, 
+            "activity": "index.hu", 
+            "date": "2015-10-31T17:20:00", 
+            "document": "Index - Sport - Elek \u00c1kos k\u00e1pr\u00e1zatos g\u00f3lja z\u00e1rta a szezont"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 96, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T17:50:00", 
+            "document": "SKYFALL - Official Trailer - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T17:50:00", 
+            "document": "skyfall - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T17:50:00", 
+            "document": "007 Quantum Of Solace(2008) Official Trailer - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 18, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-31T17:50:00", 
+            "document": "James Bond - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T17:50:00", 
+            "document": "skyfall trailer - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T17:50:00", 
+            "document": "skyfall - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T17:50:00", 
+            "document": "quantum of solace - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T17:50:00", 
+            "document": "james bond - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T17:55:00", 
+            "document": "SARTRE ON: Bad Faith - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T17:55:00", 
+            "document": "The School of Life - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-31T17:55:00", 
+            "document": "clone (Java method) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 115, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:00:00", 
+            "document": "The Wisdom of Pessimism - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 251, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:05:00", 
+            "document": "How to become a better person - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 138, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:10:00", 
+            "document": "Digital Sabbath - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:10:00", 
+            "document": "fitness tracker - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-31T18:10:00", 
+            "document": "java - Model, View & Controller - what should create what? - Stack Overflow"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 109, 
+            "activity": "telegraph.co.uk", 
+            "date": "2015-10-31T18:15:00", 
+            "document": "The best films of 2015 (so far)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:15:00", 
+            "document": "best movies of 2015 - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 17, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:15:00", 
+            "document": "Ant-Man Official Teaser Trailer #1 (2015) - Paul Rudd Marvel Movie HD - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:15:00", 
+            "document": "ant man movie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:15:00", 
+            "document": "tomorrowland movie - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 1, 
+            "activity": "telegraph.co.uk", 
+            "date": "2015-10-31T18:15:00", 
+            "document": "www.telegraph.co.uk/film/what-to-watch/best-movies/"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 141, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:20:00", 
+            "document": "sicario - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:20:00", 
+            "document": "american ultra - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:20:00", 
+            "document": "hitman agent 47 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:20:00", 
+            "document": "jupiter ascending - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 11, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-31T18:25:00", 
+            "document": "Category:Films set in the Soviet Union - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:25:00", 
+            "document": "shaun the sheep movie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:25:00", 
+            "document": "soviet union movie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:25:00", 
+            "document": "john wic - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:25:00", 
+            "document": "jurrasic worl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:25:00", 
+            "document": "maze runner scorch trials - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:25:00", 
+            "document": "crimson peak - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:30:00", 
+            "document": "10 Best Movies of 2015 (So Far) - YouTube"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 98, 
+            "activity": "wired.com", 
+            "date": "2015-10-31T18:30:00", 
+            "document": "Our Picks for the Best Movies of 2014 | WIRED"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:30:00", 
+            "document": "wired top movies - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:30:00", 
+            "document": "top movies 2015 - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-10-31T18:30:00", 
+            "document": "WIRED - Have you seen all 13 movies on our \"Best of 2014\" list"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 82, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:35:00", 
+            "document": "10 Safest Countries If WW3 Breaks Out - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 122, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:40:00", 
+            "document": "Humans Need Not Apply - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 25, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:40:00", 
+            "document": "CGP Grey - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:40:00", 
+            "document": "H.I. #35: Are My Teeth Real? - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:40:00", 
+            "document": "Bravetown 2015 full movie - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:40:00", 
+            "document": "Hackers Game (2015) FULL MOVIE - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:40:00", 
+            "document": "humans need not apply - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:40:00", 
+            "document": "hackers game - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 127, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:45:00", 
+            "document": "First-class functions in Java 8 - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 21, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:45:00", 
+            "document": "filter data java 8 - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:45:00", 
+            "document": "passing data from view to controller - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:45:00", 
+            "document": "iOS 5 - Passing Data Between View Controllers - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:45:00", 
+            "document": "filter data java - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 137, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:50:00", 
+            "document": "Functional Programming with Java 8 - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-10-31T18:50:00", 
+            "document": "java 8 - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 51, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-31T18:55:00", 
+            "document": "c# - When is a shallow copy desirable (instead of a deep copy)? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:55:00", 
+            "document": "using Java 8 Function - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:55:00", 
+            "document": "when to use shallow copy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:55:00", 
+            "document": "shallow copy - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:55:00", 
+            "document": "return object with filtered list java 8 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-31T18:55:00", 
+            "document": "return object with filtered list - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-31T18:55:00", 
+            "document": "stackoverflow.com/questions/3351018/when-is-a-shallow-copy-desirable-instead-of-a-deep-copy"
+        }
+    ]
+}

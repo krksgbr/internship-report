@@ -1,0 +1,27 @@
+{
+  "name": "internship_report",
+  "authors": [
+    "GaborK <gabor@lustlab.net>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "less": "~2.5.3",
+    "css-grid-polyfill-binaries": "~1.1.2",
+    "moment": "momentjs#~2.10.6",
+    "chroma-js": "~1.1.1",
+    "css-reset": "~2.5.1"
+  }
+}

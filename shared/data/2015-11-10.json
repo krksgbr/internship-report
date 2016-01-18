@@ -1,0 +1,1364 @@
+{
+    "2015-11-10": [
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 34, 
+            "activity": "System Preferences", 
+            "date": "2015-11-10T09:25:00", 
+            "document": "Network"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 27, 
+            "activity": "network diagnostics", 
+            "date": "2015-11-10T09:25:00", 
+            "document": "Network Diagnostics"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 3, 
+            "activity": "444.hu", 
+            "date": "2015-11-10T09:30:00", 
+            "document": "http://444.hu/ is not available"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-11-10T09:50:00", 
+            "document": "s \u2014 FF, FF2, reveal.js-3.1.0"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-10T10:10:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 42, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:50:00", 
+            "document": "Folio Std"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:50:00", 
+            "document": "Fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 16, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:50:00", 
+            "document": "Apercu Mono"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:50:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:50:00", 
+            "document": "Apercu Bold"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:50:00", 
+            "document": "Nice"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:50:00", 
+            "document": "Anthony"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:50:00", 
+            "document": "Apercu Regular"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 42, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:55:00", 
+            "document": "FONT ANGENCE"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 21, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:55:00", 
+            "document": "Searching \u201cAll My Files\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:55:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:55:00", 
+            "document": "AdobeFontCollection_OTF"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:55:00", 
+            "document": "Facade Condensed 1343"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:55:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:55:00", 
+            "document": "Agfa Monotype Font Folio Mac Osx"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-10T12:55:00", 
+            "document": "A-I"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 35, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "Folio"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 14, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "data - Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 7, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "Sharing - Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 13, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "Secure file sharing and cloud storage | Dropbox Business"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 6, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "gabor's work - Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "RESET - Dropbox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "civic_city"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "dropbox - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "mobile - vredespaleis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:00:00", 
+            "document": "wthx"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 33, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "Research"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 16, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "RESET"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 21, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "Dropbox - Forgot password"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 10, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "Dropbox Help Center"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 10, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "Forgot password - Dropbox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "Retracing News"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "LifeData"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 4, 
+            "activity": "dropbox", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "Account"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 2, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "Dropbox - Sign in"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 3, 
+            "activity": "dropbox", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "General"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "YNAB"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "oblique design"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "dropbox.com", 
+            "date": "2015-11-10T13:05:00", 
+            "document": "https://www.dropbox.com/share"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 50, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-10T13:10:00", 
+            "document": "*presentation_1_v.2.indd"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 25, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:10:00", 
+            "document": "gabor's work"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 20, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:10:00", 
+            "document": "Presentations"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:10:00", 
+            "document": "pulse park-rafael_lozano_hemmer"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T13:10:00", 
+            "document": "version control indesign - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:10:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:10:00", 
+            "document": "Inspiration"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T13:10:00", 
+            "document": "git indesign - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:10:00", 
+            "document": "text_and_space-amir"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 107, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "main.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 65, 
+            "activity": "console", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "All Messages"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "glyphcollector \u2014 -zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 19, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "Reopen Project"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "tools"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 8, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "Pull Changes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "glyphcollector"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 6, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "main.py - PayPalWaker - [~/PycharmProjects/PayPalWaker]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "/Users/GaborK/PycharmProjects/glyphcollector/glyphcollector"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "PayPalWaker - [~/PycharmProjects/PayPalWaker]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "main2.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "PyCharm 4.0.5"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:15:00", 
+            "document": "glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 36, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "collection_handler.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "averagecalculator.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 21, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "helpers.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 11, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "Revert Changes"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 26, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "AverageCalculator.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 11, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "Run/Debug Configurations"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "collector.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 8, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "Add File to Git"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "Rename"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-11-10T13:20:00", 
+            "document": "glyphcollector \u2014 git"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 86, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:25:00", 
+            "document": "backup/\u2026/Main.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 90, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:30:00", 
+            "document": "FontBuilder.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 31, 
+            "activity": "sourceforge.net", 
+            "date": "2015-11-10T13:30:00", 
+            "document": "Download GlyphCollector from SourceForge.net"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:30:00", 
+            "document": "Resources"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 3, 
+            "activity": "sourceforge.net", 
+            "date": "2015-11-10T13:30:00", 
+            "document": "GlyphCollector download | SourceForge.net"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:30:00", 
+            "document": "/Users/GaborK/PycharmProjects/glyphcollector"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-11-10T13:30:00", 
+            "document": "This should not be shown"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 106, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T13:35:00", 
+            "document": "renewable energy art installation - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 91, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T13:35:00", 
+            "document": "energy grid - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 27, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-11-10T13:40:00", 
+            "document": "Screen Shot 2015-11-10 at 00.50.40.png"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 16, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-11-10T13:40:00", 
+            "document": "hamburgefons.jpg"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "dropbox", 
+            "date": "2015-11-10T13:40:00", 
+            "document": "Share Your Screenshots Using Dropbox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 19, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:45:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 5, 
+            "activity": "Preview", 
+            "date": "2015-11-10T13:45:00", 
+            "document": "Screen Shot 2015-11-10 at 13.47.41"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:45:00", 
+            "document": "GlyphCollector"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:45:00", 
+            "document": "GlyphCollector-0.9-beta"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-10T13:45:00", 
+            "document": "gabor_scraper"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 106, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T13:55:00", 
+            "document": "carbon cycle - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T13:55:00", 
+            "document": "natural cycle - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 56, 
+            "activity": "Finder", 
+            "date": "2015-11-10T14:15:00", 
+            "document": "work-overview"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-10T14:15:00", 
+            "document": "overview"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-10T14:15:00", 
+            "document": "presentation-1 Folder"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-10T14:15:00", 
+            "document": "GlyphCollector - Type Revival Tool_files"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 93, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T14:20:00", 
+            "document": "natural cycle diagram - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T14:20:00", 
+            "document": "nitrogen cycle - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T14:25:00", 
+            "document": "circular economy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T14:25:00", 
+            "document": "natural circuit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T14:25:00", 
+            "document": "next nature - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-10T14:35:00", 
+            "document": "Typothe\u0300que"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-10T14:35:00", 
+            "document": "Maxim"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 254, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T15:05:00", 
+            "document": "smart grid - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T15:05:00", 
+            "document": "smart meter interface - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T15:05:00", 
+            "document": "user as power source - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 96, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-10T16:15:00", 
+            "document": "Distributed generation - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T16:15:00", 
+            "document": "distributed energy - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 22, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-10T16:15:00", 
+            "document": "Tesla Powerwall - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 157, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T16:20:00", 
+            "document": "energy prosumer - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 28, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-10T16:25:00", 
+            "document": "Down to Earth- Anthropocene Observatory Episode 3 on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 17, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-10T16:25:00", 
+            "document": "Anthropocene Observatory on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T16:30:00", 
+            "document": "james corner drawing - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 106, 
+            "activity": "pinterest.com", 
+            "date": "2015-11-10T16:30:00", 
+            "document": "Pinterest: Discover and save creative ideas"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 27, 
+            "activity": "wired.co.uk", 
+            "date": "2015-11-10T16:30:00", 
+            "document": "Enthusiasm for solar panels is contagious (Wired UK)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 48, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T16:30:00", 
+            "document": "solar panel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T16:30:00", 
+            "document": "solar panels on houses - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T16:30:00", 
+            "document": "solar panels on houses netherlands - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T16:30:00", 
+            "document": "james corner diagrams - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T16:30:00", 
+            "document": "james corner - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "pinterest.com", 
+            "date": "2015-11-10T16:30:00", 
+            "document": "https://www.pinterest.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T16:35:00", 
+            "document": "wind turbines - Google Search"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 9, 
+            "activity": "wired.co.uk", 
+            "date": "2015-11-10T16:35:00", 
+            "document": "www.wired.co.uk/news/archive/2012-10/19/solar-power-contagious/viewgallery/291357"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 4, 
+            "activity": "upload.wikimedia.org", 
+            "date": "2015-11-10T16:35:00", 
+            "document": "Lamma_wind_turbine.jpg (4400\u00d75770)"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 3, 
+            "activity": "wired.co.uk", 
+            "date": "2015-11-10T16:35:00", 
+            "document": "www.wired.co.uk/news/archive/2012-10/19/solar-power-contagious"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 166, 
+            "activity": "ted.com", 
+            "date": "2015-11-10T16:40:00", 
+            "document": "Lorie Wigle: Weaving a strong smart grid | TED@Intel | TED Institute | Watch | TED"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 56, 
+            "activity": "ted.com", 
+            "date": "2015-11-10T16:40:00", 
+            "document": "smart grid | Search Results | TED.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 116, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T17:00:00", 
+            "document": "touch screen wall - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T17:00:00", 
+            "document": "interactive architecture wall - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T17:00:00", 
+            "document": "smart wall - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-10T17:00:00", 
+            "document": "touch screen table - Google Search"
+        }
+    ]
+}

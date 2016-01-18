@@ -1,0 +1,1324 @@
+{
+    "2015-08-08": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 91, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T10:00:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-08T10:00:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 64, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T10:05:00", 
+            "document": "Meg\u00fassz\u00e1k a manchesteri horrorikrek !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 27, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T10:05:00", 
+            "document": "Orosz hekkerek felt\u00f6rt\u00e9k a Pentagon rendszer\u00e9t !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 4, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T10:05:00", 
+            "document": "Hell\u00f3sztok! Mit hell\u00f3ztok? !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 66, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T10:10:00", 
+            "document": "Horv\u00e1t f\u00e9rfi kiv\u00e9gz\u00e9s\u00e9vel fenyeget\u0151zik az Iszl\u00e1m \u00c1llam !!444!!!"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 36, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T10:10:00", 
+            "document": "\u00c1KOS - HELLO (1993) :: Official video - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 30, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T10:10:00", 
+            "document": "A brit f\u00e9rfi \u00e9pp b\u00e1r\u00e1ny\u00e1val az aut\u00f3j\u00e1ban ment a McDonald's-ba vacsor\u00e1\u00e9rt, amikor meg\u00e1ll\u00edtott\u00e1k a rend\u0151r\u00f6k !!444!!!"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-08T10:10:00", 
+            "document": "git \u2014 05."
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 132, 
+            "activity": "theatlantic.com", 
+            "date": "2015-08-08T10:15:00", 
+            "document": "The Biggest Question of 'Mr. Robot' Is About Morality, Not Reality - The Atlantic"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T10:15:00", 
+            "document": "enron - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T10:15:00", 
+            "document": "mr robot actor - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 226, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T10:35:00", 
+            "document": "Mike Bostock - Design is a Search Problem - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 29, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T10:35:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T10:35:00", 
+            "document": "Watch Later - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 196, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T10:40:00", 
+            "document": "Thomas Piketty Believes There\u2019s Still Time to Save the Middle Class - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 135, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T10:45:00", 
+            "document": "Mars is the Next \u201cNew World,\" And We\u2019ll Set Foot on it Soon. - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 205, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T10:50:00", 
+            "document": "I Am Just Waiting For A Mate (Original Video) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T10:50:00", 
+            "document": "mate - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:05:00", 
+            "document": "mate nl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:10:00", 
+            "document": "yerba mate den haag - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 28, 
+            "activity": "facebook.com", 
+            "date": "2015-08-08T11:10:00", 
+            "document": "(1) Delaplata - Waar vind je alle Argentijnse soorten Yerba Mate en..."
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 7, 
+            "activity": "translate.google.com", 
+            "date": "2015-08-08T11:10:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-08-08T11:10:00", 
+            "document": "Delaplata - Waar vind je alle Argentijnse soorten Yerba Mate en..."
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-08T11:10:00", 
+            "document": "https://www.facebook.com/Delaplatanl/posts/112186662267222"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:15:00", 
+            "document": "argentina winkel den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:15:00", 
+            "document": "AnnaWandrina Strubbe Deimanstraat 309 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:15:00", 
+            "document": "yerba mate - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:15:00", 
+            "document": "yeba mate den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:15:00", 
+            "document": "https://www.google.nl/search?q=AnnaWandrina+Strubbe+Deimanstraat+309&oq=AnnaWandrina+Strubbe+Deimanstraat+309&aqs=chrome..69i57.573j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:20:00", 
+            "document": "World Natural Products - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:20:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:20:00", 
+            "document": "World Natural Products - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:25:00", 
+            "document": "afhalen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:25:00", 
+            "document": "alva noto - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T11:25:00", 
+            "document": "inception city - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "index.hu", 
+            "date": "2015-08-08T11:25:00", 
+            "document": "Index - Mindek\u00f6zben - Rejt\u00e9lyes, lev\u00e9lszem\u00e9tre eml\u00e9keztet\u0151 pap\u00edrokat kaptak a budai aut\u00f3sok"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:25:00", 
+            "document": "illusions nietzsche - Google Search"
+        }, 
+        {
+            "category": "Voice Chat", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 16, 
+            "activity": "Skype", 
+            "date": "2015-08-08T11:30:00", 
+            "document": "Skype"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-08-08T11:30:00", 
+            "document": "Let\u2019s Decide the Future of the Internet Before It\u2019s Decided for Us - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:30:00", 
+            "document": "cube hittest processing - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:35:00", 
+            "document": "kpn smart winkel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:35:00", 
+            "document": "kpn smar winkel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:35:00", 
+            "document": "kpn beeldbank - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:45:00", 
+            "document": "vitamin b12 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:50:00", 
+            "document": "vitamin b12 repletion duration - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:50:00", 
+            "document": "vitamin b12 repletion - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 19, 
+            "activity": "ncbi.nlm.nih.gov", 
+            "date": "2015-08-08T11:50:00", 
+            "document": "How I Treat: How I treat cobalamin (vitamin B12) deficiency"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:50:00", 
+            "document": "vitamin b12 repletion how long - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:50:00", 
+            "document": "how long does it take to replete vitamin b12 - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-08T11:50:00", 
+            "document": "Vitamin B12 deficiency - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "ncbi.nlm.nih.gov", 
+            "date": "2015-08-08T11:50:00", 
+            "document": "www.ncbi.nlm.nih.gov/pmc/articles/PMC2532799/"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T11:55:00", 
+            "document": "alternative to bread - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 11, 
+            "activity": "huffingtonpost.com", 
+            "date": "2015-08-08T11:55:00", 
+            "document": "Low-Carb? Don't Starve: Veggie Alternatives to Pasta, Rice and Bread\u00a0|\u00a0Cynthia Dagnal-Myron"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 185, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-08T12:05:00", 
+            "document": "Folic acid - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 42, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-08T12:05:00", 
+            "document": "Current Call"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:05:00", 
+            "document": "folic acid - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:05:00", 
+            "document": "folic acid overdose - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 148, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-08T12:10:00", 
+            "document": "Vitamin B6 - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:10:00", 
+            "document": "vitamin b6 - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-08T12:15:00", 
+            "document": "Biotin - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:15:00", 
+            "document": "5 mg in mcg - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:15:00", 
+            "document": "biotin - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 9, 
+            "activity": "sublime text", 
+            "date": "2015-08-08T12:20:00", 
+            "document": "shopping list.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 39, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-08T12:20:00", 
+            "document": "Passiflora - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:20:00", 
+            "document": "valerian vs melatonin - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:20:00", 
+            "document": "passion flower - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:20:00", 
+            "document": "valerian root - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:25:00", 
+            "document": "l glutamine and l tryptophan - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:25:00", 
+            "document": "l tryptophan - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:30:00", 
+            "document": "magnesiumdosage - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:30:00", 
+            "document": "magnesium supplements - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:30:00", 
+            "document": "magnesium dosage - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:40:00", 
+            "document": "swanson - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 48, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-08T12:45:00", 
+            "document": "Swanson Health Products - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:45:00", 
+            "document": "swanson health - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 80, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:55:00", 
+            "document": "iron deficiency tongue - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:55:00", 
+            "document": "iron deficiency toungue - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:55:00", 
+            "document": "iron deficiency supplement dosage - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T12:55:00", 
+            "document": "iron deficiency - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:00:00", 
+            "document": "treating iron deficiency - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:05:00", 
+            "document": "valerian vs passion flower - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:05:00", 
+            "document": "passion flower vs valerian root - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 23, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-08T13:10:00", 
+            "document": "Glutamine - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:10:00", 
+            "document": "glutamine depression - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:10:00", 
+            "document": "glutamine - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:15:00", 
+            "document": "glutamine adhd - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:15:00", 
+            "document": "glutamine attention - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-08-08T13:15:00", 
+            "document": "krks_gbr \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-08-08T13:15:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:15:00", 
+            "document": "glutamine attantion - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:15:00", 
+            "document": "binpacking - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:15:00", 
+            "document": "raster noton covers - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 119, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:20:00", 
+            "document": "mct - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 199, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-08T13:25:00", 
+            "document": "Medium-chain triglyceride - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:30:00", 
+            "document": "mct or coconut oil - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 48, 
+            "activity": "index.hu", 
+            "date": "2015-08-08T13:50:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 40, 
+            "activity": "facebook.com", 
+            "date": "2015-08-08T13:55:00", 
+            "document": "Szandra Ivan - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 97, 
+            "activity": "facebook.com", 
+            "date": "2015-08-08T13:55:00", 
+            "document": "(1) Szandra Ivan - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 51, 
+            "activity": "facebook.com", 
+            "date": "2015-08-08T13:55:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:55:00", 
+            "document": "phillips blue lite - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:55:00", 
+            "document": "philips blu lite - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T13:55:00", 
+            "document": "syrian restaurant berlin - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-08T14:00:00", 
+            "document": "D\u00f3ra Kerekes - Messages"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-08-08T16:20:00", 
+            "document": "git \u2014 ncmpcpp"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T16:20:00", 
+            "document": "hifiberry - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T16:40:00", 
+            "document": "hdmi to 3.5 mm jack - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T16:40:00", 
+            "document": "hdmi to jack - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T17:10:00", 
+            "document": "ShadeStyle.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T17:10:00", 
+            "document": "DrawerGL3.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-08T17:10:00", 
+            "document": "git \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 73, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T17:15:00", 
+            "document": "Cub.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T17:15:00", 
+            "document": "intellij shortcuts - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T17:20:00", 
+            "document": "Avatar.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T17:20:00", 
+            "document": "create new interface in intellij shortcut - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 119, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T17:25:00", 
+            "document": "Avatar1.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 36, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T17:25:00", 
+            "document": "Rotations.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 23, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T17:30:00", 
+            "document": "Avatar2.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-08T17:30:00", 
+            "document": "Java: when to use static methods - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T17:30:00", 
+            "document": "static method - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 246, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T18:10:00", 
+            "document": "Na kinek van ilyen ocsm\u00e1ny tetov\u00e1l\u00e1sa? !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 36, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T18:10:00", 
+            "document": "R\u00e9szeg volt a szem\u00e9lyzet, nem engedt\u00e9k felsz\u00e1llni a rep\u00fcl\u0151t !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T18:10:00", 
+            "document": "traffic.outbrain.com/network/redir?p=zIiDCg4y52_6BEtFuhkH8zvLxoglVb6asNrumC0DESIrsTxgIVk3YjKSFG1dlXXv8gB_Js7d6YqHJSIDlI2tyHMCAceEt9b2Uzr4HaVaYvY8W_Ruo1Kyhqu87jXmjU7LEK2Uei03fl7mj77Y21UZOO_YDHeAB__WLV0H5taYtEBXiLcFoWI5VutLbI30xrvSo1JrKyWbqjfMWKTjaEYRjCPYzv"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-08T18:10:00", 
+            "document": "444.hu/2015/08/08/reszeg-volt-a-szemelyzet-nem-engedtek-felszallni-a-repulot/"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 161, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T18:15:00", 
+            "document": "Avatar3.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T18:15:00", 
+            "document": "Animatable.class - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-08-08T18:35:00", 
+            "document": "MouseEvent.class - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T18:35:00", 
+            "document": "java get mouse wheel - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "quicktime player", 
+            "date": "2015-08-08T18:35:00", 
+            "document": "avatar3"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T18:40:00", 
+            "document": "jogamp mousewheel event - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T18:40:00", 
+            "document": "jogamp mousewheel - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-08T18:40:00", 
+            "document": "jogamp mousewheel java - Google Search"
+        }
+    ]
+}

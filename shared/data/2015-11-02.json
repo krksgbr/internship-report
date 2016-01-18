@@ -1,0 +1,494 @@
+{
+    "2015-11-02": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T10:20:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 15, 
+            "activity": "444.hu", 
+            "date": "2015-11-02T10:25:00", 
+            "document": "D\u00edszt\u00e1rgyk\u00e9nt tartotta otthon a vil\u00e1gh\u00e1bor\u00fas gr\u00e1n\u00e1tokat - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 187, 
+            "activity": "index.hu", 
+            "date": "2015-11-02T10:30:00", 
+            "document": "Index - Sport - Minden id\u0151k: a legr\u00f6hejesebb ki\u00e1ll\u00edt\u00e1s"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 66, 
+            "activity": "index.hu", 
+            "date": "2015-11-02T10:30:00", 
+            "document": "Index - Sport - C. Ronaldo 20 milli\u00f3 eur\u00f3t kap, hogy ne szerepeljen egy filmben"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 27, 
+            "activity": "theguardian.com", 
+            "date": "2015-11-02T10:30:00", 
+            "document": "If all the world's wealth were divided equally amongst its population, how much would everyone receive? | Notes and Queries | guardian.co.uk"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T10:30:00", 
+            "document": "how much would everybody earn if divided equally - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 116, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T10:35:00", 
+            "document": "Koninklijke Academie van Beeldende Kunsten / Royal Academy of Art, The Hague to Leeuwendaallaan 14, 2281 GP Rijswijk - Google Maps"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 120, 
+            "activity": "quora.com", 
+            "date": "2015-11-02T10:35:00", 
+            "document": "(6) If we took all the money in the world and shared it equally with everyone, what would everyone have? - Quora"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T10:35:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "quora.com", 
+            "date": "2015-11-02T10:35:00", 
+            "document": "https://www.quora.com/Wealth-Redistribution/If-we-took-all-the-money-in-the-world-and-shared-it-equally-with-everyone-what-would-everyone-have"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "google.com", 
+            "date": "2015-11-02T10:35:00", 
+            "document": "https://www.google.com/maps"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 64, 
+            "activity": "youtube.com", 
+            "date": "2015-11-02T13:35:00", 
+            "document": "http://www.youtube.com/ failed to load"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 69, 
+            "activity": "youtube.com", 
+            "date": "2015-11-02T14:15:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-02T14:20:00", 
+            "document": "http://www.youtube.com/ is not available"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 61, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T14:35:00", 
+            "document": "miche primato take off cup - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-02T14:45:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 95, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T14:50:00", 
+            "document": "take off cup miche primato - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T14:55:00", 
+            "document": "how to install sealed bearings - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T14:55:00", 
+            "document": "miche primato - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T15:10:00", 
+            "document": "miche primato doesn't fit through - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-02T15:30:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 13, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-02T17:00:00", 
+            "document": "Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T17:20:00", 
+            "document": "oksel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T17:25:00", 
+            "document": "mouse diseases - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-02T17:25:00", 
+            "document": "Bradycardia - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T17:25:00", 
+            "document": "mouse deceleration - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 49, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-02T17:30:00", 
+            "document": "Leptospirosis - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 39, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-02T17:30:00", 
+            "document": "Murine typhus - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 24, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-02T17:30:00", 
+            "document": "Salmonella - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T17:30:00", 
+            "document": "salmonella - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T17:30:00", 
+            "document": "Murine Typhus - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T17:30:00", 
+            "document": "Leptospirosis - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 79, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-02T17:35:00", 
+            "document": "Hantavirus - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T17:35:00", 
+            "document": "Hantavirus - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 59, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T17:40:00", 
+            "document": "thermometer mouth or armpit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T17:40:00", 
+            "document": "thermometer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-02T18:10:00", 
+            "document": "tore - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 235, 
+            "activity": "444.hu", 
+            "date": "2015-11-02T18:25:00", 
+            "document": "Ellen\u0151rz\u00f6tt bel\u00f6v\u0151szob\u00e1kat nyitnak \u00cdrorsz\u00e1gban - 444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 110, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-02T18:30:00", 
+            "document": "The.Lookout.2007.BRRip.XvidHD.720p-NPW-muxed.mkv"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-02T18:30:00", 
+            "document": "The Lookout (2007)"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 195, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-02T18:40:00", 
+            "document": "The.Town.EXTENDED.2010.720p.BrRip.x264.YIFY.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 48, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-02T18:40:00", 
+            "document": "haideaf-computer chess (1)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-02T18:40:00", 
+            "document": "The Town EXTENDED (2010)"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 259, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-02T18:45:00", 
+            "document": "hannah.arendt-galt.mkv"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-02T18:45:00", 
+            "document": "Hannah.Arendt.2012.LiMiTED.DVDRip.x264-GALT[rarbg]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 9, 
+            "activity": "sublime text", 
+            "date": "2015-11-02T18:50:00", 
+            "document": "hannah.arendt-galt.nfo \u2014 FF, FF2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-11-02T18:50:00", 
+            "document": "RARBG.com.txt \u2014 FF, FF2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-02T18:50:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 204, 
+            "activity": "444.hu", 
+            "date": "2015-11-02T18:55:00", 
+            "document": "Breaking: \u00dajabb Bentley parkol tilosban a 444 szerkeszt\u0151s\u00e9ge el\u0151tt - 444"
+        }
+    ]
+}

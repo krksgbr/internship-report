@@ -1,0 +1,122 @@
+/* Here you can put your specific typography, layout styles. */
+@import "../html2print/less/html2print";
+
+
+@sidebar-width: 4mm;
+@sidebar-x: 5mm;
+@day-header-height: 15mm;
+@sidebar-text-top: @day-header-height + 20mm;
+
+html {
+    font-family: "Fira Mono", "Menlo", monospace ;
+}
+
+#loading-indicator{
+    position: fixed;
+    z-index: 9999999;
+    top: 10mm;
+    left: 10mm;
+    background-color: black;
+    color: white;
+}
+
+.coding {
+    color: #00b0c1
+}
+
+.log-container {
+    font-size: 1.5mm;
+}
+
+
+
+.sidebar {
+    display: flex;
+    justify-items: center;
+    width: @sidebar-width;
+    height: @content-area-height;
+    position: absolute;
+    background-color: white;
+    font-size: 0.7em;
+
+    .sidebar-contents {
+        transform-origin: 0 0;
+        position: absolute;
+        transform: rotate(90deg);
+        width: @content-area-height;
+
+        h1 {
+            display: inline-block;
+        }
+
+        h1:first-child{
+            margin-left: @sidebar-text-top;
+            margin-right: 7.5mm;
+        }
+    }
+}
+
+
+.entry{
+    height: 2mm;
+    line-height: 2.5mm;
+    padding-left: 20mm;
+    padding-top: 0.2mm;
+    padding-bottom: 0.2mm;
+    color: white;
+}
+
+
+.day-header{
+    height: @day-header-height;
+    width: 100%;
+    //background-color: deeppink;
+    padding-left: 20mm;
+    padding-top: 10mm;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+
+.day-header.inbetween{
+    padding-top: 20mm;
+}
+
+.day-title-page{
+
+    .sidebar{
+        h1:first-child{
+            margin-left: @sidebar-text-top;
+        }
+    }
+}
+
+
+.paper {
+
+    &:nth-child(even) {
+
+
+        .sidebar {
+            .sidebar-contents {
+                left: 3.5mm;
+            }
+
+            left: @sidebar-x;
+        }
+
+    }
+
+    &:nth-child(odd){
+
+        .sidebar {
+            .sidebar-contents {
+                left: 3.5mm;;
+            }
+            right: @sidebar-x;
+        }
+
+    }
+}
+
+

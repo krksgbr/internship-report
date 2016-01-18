@@ -1,0 +1,3594 @@
+{
+    "2015-07-26": [
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 73, 
+            "activity": "facebook.com", 
+            "date": "2015-07-26T12:15:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-07-26T12:15:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-07-26T12:15:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 34, 
+            "activity": "444.hu", 
+            "date": "2015-07-26T12:25:00", 
+            "document": "N\u00e9meth Zsolt visszak\u00fcldhette a tr\u00e9far\u00e9p\u00e1t az asszonnyal a konyh\u00e1ba !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 41, 
+            "activity": "444.hu", 
+            "date": "2015-07-26T12:25:00", 
+            "document": "Aut\u00f3 hajtott a Tour de France-on a kordonba, a rend\u0151r\u00f6k t\u00fczet nyitottak !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T12:30:00", 
+            "document": "open standard pdf - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 73, 
+            "activity": "youtube.com", 
+            "date": "2015-07-26T12:40:00", 
+            "document": "Dynasty - Here I Am (1981) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-07-26T12:40:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-07-26T12:45:00", 
+            "document": "madlib black soul - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-07-26T12:50:00", 
+            "document": "Madlib - To Promote Illogical Thinking - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T12:50:00", 
+            "document": "format hard drive for raspberry pi - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 8, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T12:50:00", 
+            "document": "linux - Raspberry Pi how to format HDD - Super User"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 93, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-26T12:55:00", 
+            "document": "Comparison of file systems - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T12:55:00", 
+            "document": "fat32 or ntfs for raspberry pi - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 15, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T12:55:00", 
+            "document": "external hard drive - Cross-platform usable filesystem with large file support - Super User"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T12:55:00", 
+            "document": "fat32 vs ntfs - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T12:55:00", 
+            "document": "cross platform file system - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:00:00", 
+            "document": "fat32 or ntfs for raspbian - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 136, 
+            "activity": "slack", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "Gabor\u2019s MacBook Pro"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 28, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "Remote Disc"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "External1"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "Graphic Design"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "E\u0301let"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "IdeaProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "copytomac"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "meesterknecht - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "LACIE"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "2008.02.19._17.Szu\u0308lete\u0301snapom"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "temporary"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "Homeland"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "DaisyDisk.v3.0.1.MacOSX.Cracked-CORE"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "PHPStromProjects"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:05:00", 
+            "document": "https://www.google.nl/search?q=meesterknecht&oq=meesterknecht&aqs=chrome..69i57j0l5.348j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 3, 
+            "activity": "sourceforge.net", 
+            "date": "2015-07-26T13:10:00", 
+            "document": "fuse-ext2 download | SourceForge.net"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 6, 
+            "activity": "VLC Media Player", 
+            "date": "2015-07-26T13:10:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:10:00", 
+            "document": "copy files to ext4 from mac os - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 1, 
+            "activity": "sourceforge.net", 
+            "date": "2015-07-26T13:10:00", 
+            "document": "sourceforge.net/projects/fuse-ext2/"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 97, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:15:00", 
+            "document": "LaCie"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:15:00", 
+            "document": "2tb hard drive - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 52, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:15:00", 
+            "document": "hard drive - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 20, 
+            "activity": "github.com", 
+            "date": "2015-07-26T13:15:00", 
+            "document": "alperakcan/fuse-ext2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:15:00", 
+            "document": "Time Machine"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:15:00", 
+            "document": "Time Machine Info"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:20:00", 
+            "document": "hsf+ format raspbian - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-07-26T13:20:00", 
+            "document": "LaCie Info"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 118, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:25:00", 
+            "document": "transmission - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 39, 
+            "activity": "github.com", 
+            "date": "2015-07-26T13:25:00", 
+            "document": "fagga/transmission-remote-cli"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:25:00", 
+            "document": "torrent with console interface - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:25:00", 
+            "document": "beslist - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 48, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:30:00", 
+            "document": "hard drive enclosure - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 84, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T13:40:00", 
+            "document": "bin \u2014 ssh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T13:40:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:40:00", 
+            "document": "why use scala - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "quora.com", 
+            "date": "2015-07-26T13:40:00", 
+            "document": "(4) What are the best use cases for using Scala for new development? - Quora"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:45:00", 
+            "document": "find my raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T13:45:00", 
+            "document": "hosts \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T13:45:00", 
+            "document": "settings.js \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 29, 
+            "activity": "lifehacker.com", 
+            "date": "2015-07-26T13:50:00", 
+            "document": "The Raspberry Pi Finder Easily Locates Your Pi's IP Address"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 9, 
+            "activity": "System Preferences", 
+            "date": "2015-07-26T13:50:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-07-26T13:50:00", 
+            "document": "Release v2.0.1-beta \u00b7 adafruit/Adafruit-Pi-Finder"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:50:00", 
+            "document": "find my raspberry pi mac os - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 5, 
+            "activity": "System Preferences", 
+            "date": "2015-07-26T13:50:00", 
+            "document": "Network"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:50:00", 
+            "document": "https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&es_th=1&ie=UTF-8#q=find my raspberry pi&es_th=1"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-07-26T13:50:00", 
+            "document": "https://github.com/adafruit/Adafruit-Pi-Finder/releases/tag/v2.0.1-beta"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 63, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-26T13:55:00", 
+            "document": "Why nmap sometimes does not show device name? - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 66, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T13:55:00", 
+            "document": "bin \u2014 nmap"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T13:55:00", 
+            "document": "nmap device names - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 70, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T14:00:00", 
+            "document": "networking - Find computer names on a private network (with nmap?) - Super User"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:00:00", 
+            "document": "nmap device names doesn't show - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:00:00", 
+            "document": "nmap doesn't show hostname - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T14:05:00", 
+            "document": "bin \u2014 sudo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 86, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:15:00", 
+            "document": "using macbook pro as monitor for raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 73, 
+            "activity": "youtube.com", 
+            "date": "2015-07-26T14:15:00", 
+            "document": "Using a Macintosh as Display for a Raspberry Pi (and Debugging Mac Internet Sharing) - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:15:00", 
+            "document": "raspberry pi act - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 47, 
+            "activity": "reddit.com", 
+            "date": "2015-07-26T14:20:00", 
+            "document": "Is there any way to fix my raspberry pi? (Solid red light, possibly faded green light) : raspberry_pi"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:20:00", 
+            "document": "raspberry pi act led solid - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:20:00", 
+            "document": "led always on raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:20:00", 
+            "document": "act led always on raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-07-26T14:20:00", 
+            "document": "Lesson OK01 turning my 'OK' led solid green on Raspberry pi board - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-07-26T14:20:00", 
+            "document": "https://www.youtube.com/watch?v=dwaoAbEd8N0"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:25:00", 
+            "document": "raspberry pi won't boot - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:25:00", 
+            "document": "how can raspberry pi image corrupted - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:30:00", 
+            "document": "raspberry pi corrupted sd card - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 30, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:35:00", 
+            "document": "boot"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 51, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:35:00", 
+            "document": "raspberry pi corrupted sd card recovery - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 16, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T14:35:00", 
+            "document": "boot \u2014 bash"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:35:00", 
+            "document": "cd to external drive mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:35:00", 
+            "document": "access ext4 file system mac fuse - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:35:00", 
+            "document": "overlays"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T14:35:00", 
+            "document": "Macintosh HD \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T14:35:00", 
+            "document": "Users \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T14:35:00", 
+            "document": "Volumes \u2014 bash"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 47, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:40:00", 
+            "document": "browser files on fat16 partition mac os - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:40:00", 
+            "document": "browser files on ext4 partition - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:40:00", 
+            "document": "power cut raspberry pi no boot - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:40:00", 
+            "document": "format sd card raspberry pi - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:40:00", 
+            "document": "boot Info"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:40:00", 
+            "document": "install raspbian - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:40:00", 
+            "document": "raspbian vs pidora - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:45:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:45:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:45:00", 
+            "document": "pulling the plug raspberry pi - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 26, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "RaspberryPi"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "microsd hc 16gb I 1 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "microsdhc 16gb - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 15, 
+            "activity": "tweakers.net", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "Transcend microSDHC 16GB Class 10 + Adapter - Reviews - Tweakers"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "microsd hc 16gb - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "Learn"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "boot \u2014 nmap"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "install cozy cloud - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "raspberry pi kit - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "Frameworks"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "IDEconfigs"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "Projects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "newReader"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T14:50:00", 
+            "document": "Color Schemes etc"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 55, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "sd card classes - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 47, 
+            "activity": "dpreview.com", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "Class 10 vs UHS-1: Micro Four Thirds Talk Forum: Digital Photography Review"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 22, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "Secure Digital - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "y16ge51 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "sd card classes uhs - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 8, 
+            "activity": "facebook.com", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "HOUSING for KABK students"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "sd card marks - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "uhs 1 vs class 10 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "uhs speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T14:55:00", 
+            "document": "https://www.google.nl/search?q=sd+card+classes&safe=off&espv=2&biw=1440&bih=801&source=lnms&tbm=isch&sa=X&sqi=2&ved=0CAYQ_AUoAWoVChMIz7jpluz4xgIVCNVyCh2DLwvZ"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 73, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:00:00", 
+            "document": "install cozy on raspbian - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 44, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:00:00", 
+            "document": "2.4. The Docker Way \u00b7 cozy/cozy-setup Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 18, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:00:00", 
+            "document": "Home \u00b7 cozy/cozy-setup Wiki"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 107, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T15:05:00", 
+            "document": "osx - How do you format a 2GB SD card to FAT32? (Preferably with Disk Utility) - Super User"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:05:00", 
+            "document": "flash vs format - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:05:00", 
+            "document": "MBR-formatted - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:05:00", 
+            "document": "format sd card for raspberry pi on mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:05:00", 
+            "document": "format sd card terminal mac - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 36, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T15:10:00", 
+            "document": "partitioning - Do you need to format a flash drive before dd an image to it? - Super User"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:10:00", 
+            "document": "should i format bfore using dd - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:10:00", 
+            "document": "bs dd raspbian - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:15:00", 
+            "document": "periodic backup of raspbian image - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T15:15:00", 
+            "document": "GaborK \u2014 sudo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:15:00", 
+            "document": "raspbian dd block size - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T15:15:00", 
+            "document": "GaborK \u2014 dd"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:15:00", 
+            "document": "progress dd mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:15:00", 
+            "document": "dd progress - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T15:15:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 78, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-26T15:20:00", 
+            "document": "Can I use Python as a bash replacement? - Stack Overflow"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 50, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T15:20:00", 
+            "document": "linux - When to use Bash and when to use Perl/Python/Ruby? - Super User"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 36, 
+            "activity": "quora.com", 
+            "date": "2015-07-26T15:20:00", 
+            "document": "(4) Can Python fully replace a shell script such as Bash or zsh in Linux administration? - Quora"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:20:00", 
+            "document": "bash vs python - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 1, 
+            "activity": "quora.com", 
+            "date": "2015-07-26T15:20:00", 
+            "document": "www.quora.com/Can-Python-fully-replace-a-shell-script-such-as-Bash-or-zsh-in-Linux-administration"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 31, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:35:00", 
+            "document": "billw2/rpi-clone"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 58, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:35:00", 
+            "document": "diffra/Raspi-Backup"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:35:00", 
+            "document": "raspibackup github - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 30, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:35:00", 
+            "document": "pgottinger/raspibackup"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:35:00", 
+            "document": "raspibackup/urls.py at master \u00b7 pgottinger/raspibackup"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:35:00", 
+            "document": "raspibackup/raspibackup at master \u00b7 pgottinger/raspibackup"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:40:00", 
+            "document": "aweijnitz/pi_backup"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:40:00", 
+            "document": "Raspi-Backup/backup.sh at master \u00b7 diffra/Raspi-Backup"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 43, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:40:00", 
+            "document": "raspberry pi backup github - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:40:00", 
+            "document": "raspbi backup github - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:40:00", 
+            "document": "raspbibackup - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:40:00", 
+            "document": "raspbi backup - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:40:00", 
+            "document": "raspberry pi backup git - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 53, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:45:00", 
+            "document": "pi_backup/backup.sh at master \u00b7 aweijnitz/pi_backup"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:45:00", 
+            "document": "Raspberry Pi Backup Capture Agent \u00b7 lkiesow/pyCA Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T15:55:00", 
+            "document": "rsnapshot backup raspbian image - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-07-26T15:55:00", 
+            "document": "Page not found \u00b7 GitHub"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 47, 
+            "activity": "github.com", 
+            "date": "2015-07-26T16:00:00", 
+            "document": "rpi-clone/rpi-clone at master \u00b7 billw2/rpi-clone"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "GaborK \u2014 pi@raspberrypi:"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 18, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "GaborK \u2014 ssh"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "default ssh password raspberry pi - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "disk2s2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "bin"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "srv"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "lib"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "dev"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "sbin"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "proc"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "home"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "tmp"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "root"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "opt"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "media"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "var"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T16:05:00", 
+            "document": "lost+found"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 18, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:10:00", 
+            "document": "known_hosts \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 21, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T16:10:00", 
+            "document": ".ssh \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-26T16:10:00", 
+            "document": "shell - \"Warning: Permanently added to the list of known hosts\" message from Git - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T16:10:00", 
+            "document": ".ssh \u2014 less"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T16:10:00", 
+            "document": "GaborK \u2014 login"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:10:00", 
+            "document": "(RSA) to the list of known hosts - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T16:25:00", 
+            "document": "GaborK \u2014 pi@raspi:"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 42, 
+            "activity": "computerhope.com", 
+            "date": "2015-07-26T16:25:00", 
+            "document": "Linux and Unix useradd command help and examples"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:25:00", 
+            "document": "useradd - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 14, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "sudo useradd -m -G adm,dialout,cdrom,sudo,audio,vi \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "adm dialout cdrom sudo audio video plugdev games u \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "adm,dialout,cdrom,sudo,audio,video,plugdev,games,u \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "static ip to raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "sudo useradd -madm,dialout,cdrom,sudo,audio,video, \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "sudo useraddadm,dialout,cdrom,sudo,audio,video,plu \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "sudo useradd adm,dialout,cdrom,sudo,audio,video,pl \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "sudo uadm,dialout,cdrom,sudo,audio,video,plugdev,g \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "admdialoutcdromsudoaudiovideoplugdevgamesusersnetd \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:30:00", 
+            "document": "sudo useradd -m adm,dialout,cdrom,sudo,audio,video \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 78, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T16:35:00", 
+            "document": "GaborK \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:35:00", 
+            "document": "ssh lag raspberry pi - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 46, 
+            "activity": "reddit.com", 
+            "date": "2015-07-26T16:35:00", 
+            "document": "SSH lag (beginner) : raspberry_pi"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:35:00", 
+            "document": "ssh lag since reinstall raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:35:00", 
+            "document": "ssh slow raspberry pi - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 19, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T16:35:00", 
+            "document": "linux - Raspberry Pi SSH Lag - Super User"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:35:00", 
+            "document": "ssh slow since reinstall raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:40:00", 
+            "document": "deluser cannot handle special file - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 33, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T16:45:00", 
+            "document": "id_rsa.pub \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:45:00", 
+            "document": "ssh rsa mac os - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 22, 
+            "activity": "computerhope.com", 
+            "date": "2015-07-26T16:50:00", 
+            "document": "Linux and Unix chown command help and examples"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:50:00", 
+            "document": "chown example - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 12, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T16:50:00", 
+            "document": ".ssh \u2014 ssh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:50:00", 
+            "document": "chown example user:user - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:50:00", 
+            "document": "chown computerhope - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T16:55:00", 
+            "document": "chmod 700 - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 60, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T17:00:00", 
+            "document": ".ssh \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:00:00", 
+            "document": "list known hosts - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:00:00", 
+            "document": "Add correct host key in - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 12, 
+            "activity": "lifehacker.com", 
+            "date": "2015-07-26T17:05:00", 
+            "document": "Easily Backup and Clone Raspberry Pi SD Cards"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:05:00", 
+            "document": "system backup raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:05:00", 
+            "document": "raspberry pi shutdown - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:10:00", 
+            "document": "backup raspberry pi sd card mac - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:10:00", 
+            "document": "backup raspberry pi sd card - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:15:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:15:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:15:00", 
+            "document": "sd card formatter command line - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:15:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:15:00", 
+            "document": "class 10 sd card slow - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:15:00", 
+            "document": "class 10 sd card slow raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 77, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T17:20:00", 
+            "document": "GaborK \u2014 cp"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 22, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T17:20:00", 
+            "document": "command line - Move files and folders recursively in linux - Super User"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:20:00", 
+            "document": "mv recursive - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:20:00", 
+            "document": "mv -r - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:20:00", 
+            "document": "Website Info"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-07-26T17:20:00", 
+            "document": "Symphony No. 9 ~ Beethoven - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 2, 
+            "activity": "444.hu", 
+            "date": "2015-07-26T17:20:00", 
+            "document": "Ez a kanadai t\u00f3 mindj\u00e1rt beleugrik abba a szakad\u00e9kba, ott! !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 1, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T17:20:00", 
+            "document": "superuser.com/questions/273254/move-files-and-folders-recursively-in-linux"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-26T17:20:00", 
+            "document": "Humans (TV series) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 26, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 29, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "Website"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 21, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "*Untitled-1"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "2nd"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "PyCharm"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "KABK"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "2013-2014"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "2014-2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "2012-2013"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "raspi_backup_260715 Info"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "json_to_postgresql.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "1st"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:25:00", 
+            "document": "Type_Revival_Tool"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:30:00", 
+            "document": "speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:30:00", 
+            "document": "sd card formatter - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:30:00", 
+            "document": "does cloning an image preserve - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:30:00", 
+            "document": "https://www.google.nl/search?q=speed&oq=speed&aqs=chrome..69i57j69i60j69i65l3j69i60.493j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 215, 
+            "activity": "444.hu", 
+            "date": "2015-07-26T17:35:00", 
+            "document": "Az NSA nagyot hib\u00e1zott szeptember 11. el\u0151tt, de elhazudta az \u00fcgyet, hogy alapot teremtsen a lehallgat\u00e1sokhoz !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 33, 
+            "activity": "444.hu", 
+            "date": "2015-07-26T17:35:00", 
+            "document": "Ilyen gyorsan halad a f\u00e9ny a Naprendszerben !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 28, 
+            "activity": "444.hu", 
+            "date": "2015-07-26T17:35:00", 
+            "document": "\u00dcres medenc\u00e9be ugrott a toronyugr\u00f3 emelv\u00e9nyr\u0151l k\u00e9t n\u00e9met f\u00e9rfi !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:40:00", 
+            "document": "13148909568 bytes - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:45:00", 
+            "document": "Image"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 62, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:50:00", 
+            "document": "Music"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:50:00", 
+            "document": "import"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:50:00", 
+            "document": "lentils salad - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:50:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:50:00", 
+            "document": "salad recipe - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-07-26T17:55:00", 
+            "document": "History - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-26T17:55:00", 
+            "document": "Second Storey"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:55:00", 
+            "document": "python music - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T17:55:00", 
+            "document": "python music tagger - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 13, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T18:00:00", 
+            "document": "config \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:00:00", 
+            "document": "pipe output to open - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:00:00", 
+            "document": "pipe path to open with program - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 9, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T18:00:00", 
+            "document": "config.yaml \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 9, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T18:00:00", 
+            "document": "windows - How can I pipe console output directly to Notepad? - Super User"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:00:00", 
+            "document": "open path with program - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 7, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T18:00:00", 
+            "document": "subl stdin 2zwo16.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-07-26T18:00:00", 
+            "document": "beet \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 27, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:05:00", 
+            "document": "lossless"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 19, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:05:00", 
+            "document": "lossy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:05:00", 
+            "document": "Double Divide"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:05:00", 
+            "document": "import beets - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:05:00", 
+            "document": "Matthew Herbert"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:05:00", 
+            "document": "0181"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:05:00", 
+            "document": "beets python - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:05:00", 
+            "document": "Rod Modell and Michael Mantra"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:05:00", 
+            "document": "Four Tet"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Aphex Twin - Syro (2014) FLAC-Web"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "(NDCD01) Robag Wruhme - Olgamikks - CD (2012)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "BOOT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Skateba\u030ard"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Ada"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "(PAMPA002) Jackmate The Missing Linkx - Discodisco2- WEB-2010"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Papercuts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Shlohmo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "sudo dd - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Andy Stott"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "BOOT Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Zelienople"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Panda Bear"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Ableton"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "phonophani"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "2013 - Knxwledge - Kauliflowr"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Sami Koivikko"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Compilations"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Call Super"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Karinthy Frigyes - Jelbesze\u0301d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Mark E"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Solo Andata"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Doctor Rockit"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Solvent"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Spacemen 3"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Valet"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "iTunes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Pixies"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "(PAMPA001) Die Vogel - Blaue Moschee - WEB- 2009"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "The Suburbs"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Wishmountain"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Telefon Tel Aviv"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:10:00", 
+            "document": "Andreas Tilliander"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 42, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T18:15:00", 
+            "document": "linux - Why is \u201c/dev/rdisk\u201d about 20 times faster than \u201c/dev/disk\u201d in Mac OS X - Super User"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:15:00", 
+            "document": "disk vs rdisk - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 212, 
+            "activity": "Terminal", 
+            "date": "2015-07-26T18:20:00", 
+            "document": "GaborK \u2014 Python"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:25:00", 
+            "document": "D\u00fcrerstuben - Sheets Of Rane - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:25:00", 
+            "document": "discogs dntel herbet it's only - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:25:00", 
+            "document": "Ricardo Villalobos - Vasco - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:25:00", 
+            "document": "D\u00fcrerstuben - Sheets Of Rane discogs - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:30:00", 
+            "document": "Aphex Twin"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:30:00", 
+            "document": "andreas tilliander show discogs - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:30:00", 
+            "document": "Non-Album"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:30:00", 
+            "document": "andreas tilliander show - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:30:00", 
+            "document": "Remixes By Die Vo\u0308gel, DJ Koze"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:30:00", 
+            "document": "Covers"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:30:00", 
+            "document": "Dntel _ Matthew Herbert"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 21, 
+            "activity": "superuser.com", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "osx - Command to unlock \"Locked\" files on OS X - Super User"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "Exai"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "09. bladelores.mp3 Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "Autechre"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "09. 18 (keyosc).mp3 Info"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "unlock files mac terminal - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "07. recks on.mp3 Info"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "unlock files mac - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "05. T ess xi.mp3 Info"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "unlock files mac termina - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "06. deco Loc.mp3 Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-26T18:35:00", 
+            "document": "08. tuinorizn.mp3 Info"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:40:00", 
+            "document": "Duererstuben - Shuffins Deaf EP - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:40:00", 
+            "document": "Duererstuben - Shuffins Deaf EP discogs - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:50:00", 
+            "document": "format and mount external hard drive to raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:50:00", 
+            "document": "attach external hard drive to raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:55:00", 
+            "document": "format drive as hfs raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:55:00", 
+            "document": "hsf linux - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:55:00", 
+            "document": "ntfs linux - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-26T18:55:00", 
+            "document": "format drive as hfs+ raspberry pi - Google Search"
+        }
+    ]
+}

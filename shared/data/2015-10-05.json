@@ -1,0 +1,1034 @@
+{
+    "2015-10-05": [
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 6, 
+            "activity": "System Preferences", 
+            "date": "2015-10-05T10:35:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 10, 
+            "activity": "System Preferences", 
+            "date": "2015-10-05T10:35:00", 
+            "document": "iCloud"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 7, 
+            "activity": "calendar", 
+            "date": "2015-10-05T10:35:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-10-05T10:40:00", 
+            "document": "LiveWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 21, 
+            "activity": "app store", 
+            "date": "2015-10-05T10:40:00", 
+            "document": "App Store"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T10:40:00", 
+            "document": "intellij el capitan - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T10:40:00", 
+            "document": "iCloud Keychain availability by country - Apple Support"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "alternativeto.net", 
+            "date": "2015-10-05T10:40:00", 
+            "document": "MindTags Alternatives and Similar Software - AlternativeTo.net"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-05T10:50:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-05T10:50:00", 
+            "document": "rstacruz/pomo.js"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-10-05T10:55:00", 
+            "document": "Preferences"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T10:55:00", 
+            "document": "intellij el capitan dark - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T11:00:00", 
+            "document": "intellij 14 el capitan too dark - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-05T11:00:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-10-05T11:00:00", 
+            "document": "IntelliJ IDEA 14 CE"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-10-05T11:00:00", 
+            "document": "Platform and Plugin Updates"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T11:00:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T11:05:00", 
+            "document": "intellij idea 14 el capitan dark - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-10-05T11:10:00", 
+            "document": "IntelliJ IDEA 15 CE EAP"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-05T11:20:00", 
+            "document": "IDEA 15 EAP - IntelliJ IDEA - Confluence"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T11:25:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T11:25:00", 
+            "document": "Daso & Pawas - Brazil To Detroit - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 52, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T11:40:00", 
+            "document": "instantiate list with values java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 47, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T11:40:00", 
+            "document": "java - How to declare an ArrayList with values? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 34, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T11:40:00", 
+            "document": "Python-like list comprehension in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T11:40:00", 
+            "document": "list creation java 8 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T11:40:00", 
+            "document": "list comprehension java 8 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T11:40:00", 
+            "document": "java - Cannot instantiate the type List - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T11:40:00", 
+            "document": "java 8 - Instantiate list of objects with CDI - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T11:40:00", 
+            "document": "lambda - Get last not null element of list by using Java 8 - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T11:40:00", 
+            "document": "Daso - live in Lyon 2015 - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T11:55:00", 
+            "document": "1444039200000 - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 21, 
+            "activity": "slack", 
+            "date": "2015-10-05T12:20:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 35, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T12:20:00", 
+            "document": "Java Break Statements - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 36, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T12:20:00", 
+            "document": "break statement in \"if else\" - java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T12:20:00", 
+            "document": "break if statement java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 32, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T12:35:00", 
+            "document": "java - Setting a static final variable in constructor - Stack Overflow"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-10-05T12:35:00", 
+            "document": "MA\n________________________\u2026"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T12:35:00", 
+            "document": "java assign value to final variable in constructor - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 61, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-05T12:40:00", 
+            "document": "Singleton pattern - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 37, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T12:40:00", 
+            "document": "java - Why is it mandatory to have private Constructor inside a Singleton class - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T12:40:00", 
+            "document": "singleton pattern without constructor - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T13:40:00", 
+            "document": "java - Getting Keyboard Input - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T13:40:00", 
+            "document": "terminate java program on keypress - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T13:40:00", 
+            "document": "terminate java program - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T13:40:00", 
+            "document": "java - How to terminate program? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T13:40:00", 
+            "document": "key input java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T13:40:00", 
+            "document": "java - Close window on pressing of certain key - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T13:40:00", 
+            "document": "running thread java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T13:45:00", 
+            "document": "Advanced Java: Multi-threading Part 2 -- Basic Thread Synchronization - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T13:45:00", 
+            "document": "java - how to interrupt a scanner.nextline() call - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T13:45:00", 
+            "document": "java - How could I read input from the console using the Scanner class? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T13:45:00", 
+            "document": "Advanced Java: Multi-threading Part 1 -- Starting Threads - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T13:45:00", 
+            "document": "threading java - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T13:45:00", 
+            "document": "stop thread on keypress scanner - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T13:45:00", 
+            "document": "Raresh & Praslea [DanceTrippin] Sunwaves (Romania) DJ Set - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T13:45:00", 
+            "document": "using scanner java - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T13:45:00", 
+            "document": "threading - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T13:50:00", 
+            "document": "multithreading - How to properly stop the Thread in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T13:50:00", 
+            "document": "terminate thread java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T13:55:00", 
+            "document": "Defining and Starting a Thread (The Java\u2122 Tutorials > Essential Classes > Concurrency)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-10-05T14:00:00", 
+            "document": "TestWeatherFacade.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 48, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T14:10:00", 
+            "document": "JUnit Testing in Eclipse - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T14:10:00", 
+            "document": "junit intellij - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T14:10:00", 
+            "document": "junit - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-10-05T14:10:00", 
+            "document": "JUnit 4 Tutorial - Your first Java Unit Test - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T14:45:00", 
+            "document": "gam - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T14:50:00", 
+            "document": "ocr font - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T14:50:00", 
+            "document": "ocr - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 17, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T15:50:00", 
+            "document": "Pretty-Print JSON in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T15:50:00", 
+            "document": "prettify json java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 31, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T16:10:00", 
+            "document": "java - get enum name from enum value - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:10:00", 
+            "document": "get value of enum - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:20:00", 
+            "document": "javascript vs java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:20:00", 
+            "document": "javascript vs java list - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:20:00", 
+            "document": "javascript vs java getting somewhere - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:20:00", 
+            "document": "java 8 list creation - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 12, 
+            "activity": "facebook.com", 
+            "date": "2015-10-05T16:30:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:30:00", 
+            "document": "open source license intellj - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:30:00", 
+            "document": "intellij idea 15 roadmap - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-10-05T16:30:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:30:00", 
+            "document": "intellij idea - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:40:00", 
+            "document": "1443996000 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T16:40:00", 
+            "document": "1444053600 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T17:30:00", 
+            "document": "overwrite - Overwriting txt file in java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T17:30:00", 
+            "document": "overwrite file java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T17:30:00", 
+            "document": "stackoverflow.com/questions/13729625/overwriting-txt-file-in-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 40, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-05T17:35:00", 
+            "document": "java - read and write data with GSON - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T17:35:00", 
+            "document": "gson save to file - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T17:40:00", 
+            "document": "gson filewriter - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "node_modules"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "2014_new"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "weatherData"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "veghel"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "Notes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "Movies"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-05T17:50:00", 
+            "document": "report"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T18:10:00", 
+            "document": "1444061105 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-05T18:20:00", 
+            "document": "1444062080 - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-05T18:35:00", 
+            "document": "5 Ways of Creating a Stream in Java 8"
+        }
+    ]
+}

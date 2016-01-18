@@ -1,0 +1,1024 @@
+{
+    "2015-09-26": [
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 17, 
+            "activity": "facebook.com", 
+            "date": "2015-09-26T11:50:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-26T11:50:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T11:50:00", 
+            "document": "brake levers for fixies - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-26T11:50:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T11:50:00", 
+            "document": "https://www.google.nl/search?q=Dia-Compe&safe=off&es_sm=91&biw=1076&bih=801&source=lnms&sa=X&ved=0CAwQ_AUoADgUahUKEwj-vOTZoJPIAhVI7RQKHfVWCTE&bav=on.2,or.r_cp.&bvm=bv.103627116,d.d2s&ech=1&psi=LM0FVqGaOYqRaJbJlrgN.1443220834878.9&ei=hM0FVv7qNsjaU_WtpYgD&e"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-26T11:55:00", 
+            "document": "https://translate.google.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:00:00", 
+            "document": "m wave crankset - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 51, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:05:00", 
+            "document": "single speed conversion - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:05:00", 
+            "document": "handlbar kinds - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:10:00", 
+            "document": "single speed kit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:10:00", 
+            "document": "single speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:15:00", 
+            "document": "Reverse Single Speed Kit Reverse Single Speed Kit black Reverse Single Speed Kit black\\ - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:20:00", 
+            "document": "single speed conversion kit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:25:00", 
+            "document": "surly single speed kit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:25:00", 
+            "document": "single speed conersion - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:30:00", 
+            "document": "Reverse Single Speed Kit - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "pinterest.com", 
+            "date": "2015-09-26T12:45:00", 
+            "document": "Pinterest: Discover and save creative ideas"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T12:55:00", 
+            "document": "Onguard Akita 8042 - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 42, 
+            "activity": "lifehacker.com", 
+            "date": "2015-09-26T13:00:00", 
+            "document": "The Proper Way to Lock Your Bicycle"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:00:00", 
+            "document": "Onguard Akita 8042 review - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:00:00", 
+            "document": "TiGr lock - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:00:00", 
+            "document": "lock wheels - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:00:00", 
+            "document": "TiG - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:00:00", 
+            "document": "TiGr loc - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 139, 
+            "activity": "amazon.com", 
+            "date": "2015-09-26T13:10:00", 
+            "document": "Amazon.com: Onguard Terrier Combination 4 Cable Lock"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:10:00", 
+            "document": "Onguard Akita 8039 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:10:00", 
+            "document": "Onguard Terrier Combo 4 review - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:10:00", 
+            "document": "2001 space odyssey how it was made - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 1, 
+            "activity": "amazon.com", 
+            "date": "2015-09-26T13:10:00", 
+            "document": "www.amazon.com/Onguard-Terrier-Combination-Cable-Lock/dp/B009BIRB2M"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 40, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:25:00", 
+            "document": "kryptonite u lock - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T13:55:00", 
+            "document": "radius inline 24mm - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-26T14:00:00", 
+            "document": "java - How to debug a multi-threaded app in IntelliJ? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:00:00", 
+            "document": "tektro 720 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 58, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:05:00", 
+            "document": "brake lever diameter - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:10:00", 
+            "document": "25.4 mm brake lever - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:10:00", 
+            "document": "Satori Bullhorn - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:10:00", 
+            "document": "diatech brake lever - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:10:00", 
+            "document": "https://www.google.nl/search?q=Satori+Bullhorn&oq=Satori+Bullhorn&aqs=chrome..69i57j69i60j0j69i60j69i59j0.318j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:15:00", 
+            "document": "brake lever handlebar compatibility - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:20:00", 
+            "document": "Satori Bullhorn brake lever - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 50, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:25:00", 
+            "document": "Satori Bullhorn lever clamp - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 13, 
+            "activity": "ebay.com", 
+            "date": "2015-09-26T14:25:00", 
+            "document": "Manillar Bullhorn Satori Blanco Bullhorn Satori Handlebar White | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:30:00", 
+            "document": "brake lever inline barrel head - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:30:00", 
+            "document": "brake lever inline - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:35:00", 
+            "document": "amsterdam fixie - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 9, 
+            "activity": "facebook.com", 
+            "date": "2015-09-26T14:35:00", 
+            "document": "KABK GOVT 4"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:45:00", 
+            "document": "single speed crankset - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 62, 
+            "activity": "youtube.com", 
+            "date": "2015-09-26T14:45:00", 
+            "document": "Remove Rust from Chrome in Seconds with Coke and ...... - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:45:00", 
+            "document": "building fixie cost - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:45:00", 
+            "document": "clean rust from chrome - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:45:00", 
+            "document": "crankset - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 105, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T14:55:00", 
+            "document": "moustache handlebars - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "pinterest.com", 
+            "date": "2015-09-26T14:55:00", 
+            "document": "https://www.pinterest.com/pin/create/extension/?url=https://www.google.nl/search?q=moustache+handlebars&safe=off&espv=2&biw=1438&bih=801&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMIxd6FieCUyAIVxPNyCh2j9QzL#imgdii=XU2vpmAjUonBQM%3A%3BXU2vpmAjUonBQM%3A%3"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 47, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:00:00", 
+            "document": "moustache handlebars fixie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:00:00", 
+            "document": "bullhorn handlebars fixie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:00:00", 
+            "document": "mustache stuur - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:00:00", 
+            "document": "moustache stur - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:00:00", 
+            "document": "mustache stur - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:10:00", 
+            "document": "sks raceblades - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 44, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:10:00", 
+            "document": "Zefal Mudguard Croozer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 57, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:15:00", 
+            "document": "zefal croozer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:15:00", 
+            "document": "zefal croozer road - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:15:00", 
+            "document": "Zefal Shield R30s - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 21, 
+            "activity": "youtube.com", 
+            "date": "2015-09-26T15:20:00", 
+            "document": "zefal croozer - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-09-26T15:20:00", 
+            "document": "zefal croozer road - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-26T15:20:00", 
+            "document": "https://www.youtube.com/watch?v=ks458iZMn_c"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:25:00", 
+            "document": "sKS Beavertail Mudguard XL Set SKS Beavertail - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:25:00", 
+            "document": "Loading...SKS Beavertail Mudguard XL Set SKS Beavertail - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:25:00", 
+            "document": "https://www.google.nl/search?q=sKS+Beavertail+Mudguard+XL+Set+SKS+Beavertail&safe=off&es_sm=91&biw=1438&bih=801&tbm=isch&tbo=u&source=univ&sa=X&ved=0CB8QsARqFQoTCLfao73mlMgCFWeecgod2uEDRg"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T15:30:00", 
+            "document": "studio brisant - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 55, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T16:15:00", 
+            "document": "radius brake lever - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 30, 
+            "activity": "aliexpress.com", 
+            "date": "2015-09-26T16:15:00", 
+            "document": "Online Buy Wholesale radius brake lever from China radius brake lever Wholesalers | Aliexpress.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T16:15:00", 
+            "document": "tektro vs radius - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 8, 
+            "activity": "aliexpress.com", 
+            "date": "2015-09-26T16:15:00", 
+            "document": "Shop zefal croozer online - Buy zefal croozer for unbeatable low prices on AliExpress.com"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 8, 
+            "activity": "aliexpress.com", 
+            "date": "2015-09-26T16:15:00", 
+            "document": "AliExpress.com - Online Shopping for Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles from China."
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 13, 
+            "activity": "reddit.com", 
+            "date": "2015-09-26T16:20:00", 
+            "document": "Is banggood legit? : MechanicalKeyboards"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T16:20:00", 
+            "document": "bangood - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T16:20:00", 
+            "document": "bangood wiki - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T16:20:00", 
+            "document": "bangoood - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 63, 
+            "activity": "youtube.com", 
+            "date": "2015-09-26T16:25:00", 
+            "document": "Banggood.com... Is it as Dirty as it Sounds? - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T16:30:00", 
+            "document": "crankset from bangood - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T16:30:00", 
+            "document": "crankset from bagood - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T16:40:00", 
+            "document": "bangood bikr chain - Google Search"
+        }, 
+        {
+            "category": "Voice Chat", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "Skype", 
+            "date": "2015-09-26T16:50:00", 
+            "document": "Skype"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T16:50:00", 
+            "document": "taya chain - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 66, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:05:00", 
+            "document": "satori bullhorn - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:20:00", 
+            "document": "point single speed kit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:20:00", 
+            "document": "point single speed - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 26, 
+            "activity": "ebay.com", 
+            "date": "2015-09-26T17:25:00", 
+            "document": "Single Speed Conversion: Bicycle Components & Parts | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:25:00", 
+            "document": "converter for 10 speed hub single speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:25:00", 
+            "document": "converter for 10 speed hub - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:35:00", 
+            "document": "point sprocket - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:35:00", 
+            "document": "Point Single Speed Sprocket - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:35:00", 
+            "document": "https://www.google.nl/search?q=Point+Single+Speed+Sprocket&oq=Point+Single+Speed+Sprocket&aqs=chrome..69i57j69i60l2.307j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:40:00", 
+            "document": "a2z kit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T17:40:00", 
+            "document": "A2Z DISC BRAKE COMPONENTS"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T18:05:00", 
+            "document": "18 vs 16 cog - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 44, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T18:10:00", 
+            "document": "gear ratio single speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T18:30:00", 
+            "document": "unofix - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T18:40:00", 
+            "document": "reverse single speed kit .de - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T18:55:00", 
+            "document": "conversion kit single speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-26T18:55:00", 
+            "document": "ng sport single speed kit - Google Search"
+        }
+    ]
+}

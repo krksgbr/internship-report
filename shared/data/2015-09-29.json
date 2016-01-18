@@ -1,0 +1,184 @@
+{
+    "2015-09-29": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-29T10:20:00", 
+            "document": "Pahudstraat 13 to Peace Palace - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-29T10:20:00", 
+            "document": "Peace Palace - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-29T10:20:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "google.com", 
+            "date": "2015-09-29T10:20:00", 
+            "document": "https://www.google.com/maps"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 193, 
+            "activity": "slack", 
+            "date": "2015-09-29T10:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 6, 
+            "activity": "dropbox.com", 
+            "date": "2015-09-29T10:40:00", 
+            "document": "Home - Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "dropbox.com", 
+            "date": "2015-09-29T10:40:00", 
+            "document": "Dropbox - Sign in"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "dropbox.com", 
+            "date": "2015-09-29T10:40:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "dropbox.com", 
+            "date": "2015-09-29T10:40:00", 
+            "document": "https://www.dropbox.com/login?cont=https://www.dropbox.com/home/Vredespaleis/Presentations"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 49, 
+            "activity": "intellij idea", 
+            "date": "2015-09-29T12:50:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-29T12:50:00", 
+            "document": "java - How to sort an array of ints using a custom comparator? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-29T12:50:00", 
+            "document": "java - Using comparator to make custom sort - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-29T12:50:00", 
+            "document": "Website is offline | 521: Web server is down"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-29T12:50:00", 
+            "document": "java sort array custom comparator - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-29T12:50:00", 
+            "document": "Java: Sort an array - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-29T12:50:00", 
+            "document": "lightcontroller - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-29T12:50:00", 
+            "document": "sort array java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-29T12:50:00", 
+            "document": "sort array javascript - Google Search"
+        }
+    ]
+}

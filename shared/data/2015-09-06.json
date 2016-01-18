@@ -1,0 +1,734 @@
+{
+    "2015-09-06": [
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 48, 
+            "activity": "facebook.com", 
+            "date": "2015-09-06T14:50:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-09-06T14:50:00", 
+            "document": "(4) Facebook"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 41, 
+            "activity": "tudnodkell.info", 
+            "date": "2015-09-06T14:55:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 238, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T15:00:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 36, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T15:05:00", 
+            "document": "B\u00e9ke = Gyilkoss\u00e1g 28 percenk\u00e9nt !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 1, 
+            "activity": "index.hu", 
+            "date": "2015-09-06T15:05:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T15:05:00", 
+            "document": "ENSZ-sz\u00f3viv\u0151: Besz\u00e9lni kellett volna a p\u00e1lyaudvarn\u00e1l l\u00e9v\u0151 menek\u00fcltekkel, nem ker\u00edt\u00e9st \u00e9p\u00edteni nekik !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 10, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T15:05:00", 
+            "document": "Menj\u00e9l vissza Szerbi\u00e1ba! - mondj\u00e1k, majd beg\u00e1zsprayznek a gyerekek k\u00f6z\u00e9 !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 31, 
+            "activity": "index.hu", 
+            "date": "2015-09-06T15:05:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 1, 
+            "activity": "index.hu", 
+            "date": "2015-09-06T15:05:00", 
+            "document": "index.hu"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 8, 
+            "activity": "newyorker.com", 
+            "date": "2015-09-06T15:20:00", 
+            "document": "The Executioners of El Salvador - The New Yorker"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 56, 
+            "activity": "newyorker.com", 
+            "date": "2015-09-06T15:25:00", 
+            "document": "Why You Hate Google\u2019s New Logo - The New Yorker"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 51, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T15:25:00", 
+            "document": "google - Google Search"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 36, 
+            "activity": "theverge.com", 
+            "date": "2015-09-06T15:25:00", 
+            "document": "Google and Lenovo fell in love with the same 'e' | The Verge"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "theverge.com", 
+            "date": "2015-09-06T15:25:00", 
+            "document": "www.theverge.com/2015/9/5/9266805/google-lenovo-e-logo-design"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 142, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T15:30:00", 
+            "document": "A menek\u00fcltek \u00e1tt\u00f6rtek a korm\u00e1ny ellen\u00e1ll\u00e1s\u00e1n !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 66, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T15:30:00", 
+            "document": "H\u00f6lgyeim \u00e9s Uraim, \u00edme N\u00e9metorsz\u00e1g legbunk\u00f3bb aut\u00f3sa !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 11, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T15:30:00", 
+            "document": "A v\u00e9szhelyzetre val\u00f3 tekintettel Ausztria \u00e9s N\u00e9metorsz\u00e1g beengedi a menek\u00fclteket !!444!!!"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 51, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:35:00", 
+            "document": "Herbert \"Back To The Start\" 2006 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 35, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:35:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:35:00", 
+            "document": "studio1 volfgang voigt - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:35:00", 
+            "document": "studio ein - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:35:00", 
+            "document": "studio - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:35:00", 
+            "document": "back to the start herbert - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:35:00", 
+            "document": "studio 1 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:35:00", 
+            "document": "back to the start - YouTube"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 4, 
+            "activity": "slack", 
+            "date": "2015-09-06T15:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "edition.cnn.com", 
+            "date": "2015-09-06T15:40:00", 
+            "document": "Drowned toddler's image stops us in our tracks - CNN.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:40:00", 
+            "document": "GDELT & BigQuery: Understand the world - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-06T15:40:00", 
+            "document": "wadetb/Sublime-Text-Advanced-CSV"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-06T15:40:00", 
+            "document": "api - Java equivalent of OpenLayers - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T15:40:00", 
+            "document": "Teniersstraat - Google Maps"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T15:40:00", 
+            "document": "google maps java - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-06T15:40:00", 
+            "document": "Conflict and Mediation Event Observations - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T15:40:00", 
+            "document": "weather den haag - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 68, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:45:00", 
+            "document": "Studio 1 Gelb - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 40, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:45:00", 
+            "document": "The Matthew Herbert Big Band - The Audience - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 39, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:45:00", 
+            "document": "Matthew Dear - Beams (Full Deluxe Album) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:45:00", 
+            "document": "Studio 1 - Yellow - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:45:00", 
+            "document": "matthew dear beams - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 49, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:50:00", 
+            "document": "Andy Stott - Luxury Problems [Full Album] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 28, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:50:00", 
+            "document": "Studio 1 Blue - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:50:00", 
+            "document": "Andy Stott - Faith In Strangers (Full Album) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:50:00", 
+            "document": "Andy Stott live in the Boiler Room - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:50:00", 
+            "document": "Studio 1 - Untitled B [Orange EP] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:50:00", 
+            "document": "Studio 1 - Orange - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:50:00", 
+            "document": "andy stott - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-09-06T15:50:00", 
+            "document": "studio 1 - lila a1 - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 19, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T16:05:00", 
+            "document": "5 dolog, amit megtanulhatunk a menek\u00fcltv\u00e1ls\u00e1gb\u00f3l !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 82, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T16:05:00", 
+            "document": "Mintha mi sem t\u00f6rt\u00e9nt volna, szombaton \u00fajra megtelt menek\u00fcltekkel a Keleti !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 51, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T16:05:00", 
+            "document": "Ez a k\u00e9t sv\u00e9d l\u00e1ny nyaralni indult Budapestre, de azt\u00e1n ink\u00e1bb gy\u0171jt\u00f6ttek egy csom\u00f3 p\u00e9nzt a menek\u00fclteknek !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 18, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T16:05:00", 
+            "document": "Menek\u00fcltek mentek el K\u00f6tcse mellett !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-06T16:10:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 14, 
+            "activity": "444.hu", 
+            "date": "2015-09-06T16:10:00", 
+            "document": "\u00dajabb gyan\u00fas figura \u00e9rkezett Budapestre !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T16:15:00", 
+            "document": "single speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T16:25:00", 
+            "document": "lee chi brake - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T16:25:00", 
+            "document": "lee chi - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T16:25:00", 
+            "document": "lee chi break - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 9, 
+            "activity": "facebook.com", 
+            "date": "2015-09-06T16:35:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 4, 
+            "activity": "openoffice", 
+            "date": "2015-09-06T16:35:00", 
+            "document": "OpenOffice 4.1.1 "
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T16:45:00", 
+            "document": "campagnolo 80ths - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T16:45:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 105, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T16:50:00", 
+            "document": "fixie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 88, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T17:10:00", 
+            "document": "aero bar fixie - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T17:10:00", 
+            "document": "time handlebar - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T17:10:00", 
+            "document": "aero bar - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 191, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T17:15:00", 
+            "document": "bullhorn fixie - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 109, 
+            "activity": "facebook.com", 
+            "date": "2015-09-06T17:30:00", 
+            "document": "(1) Facebook - Facebook Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 5, 
+            "activity": "facebook.com", 
+            "date": "2015-09-06T17:30:00", 
+            "document": "Facebook - Facebook Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-06T17:30:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 109, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T17:45:00", 
+            "document": "peugeot fixie - Google Search"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 76, 
+            "activity": "flickr.com", 
+            "date": "2015-09-06T17:45:00", 
+            "document": "Peugeot fixie | Flickr - Photo Sharing!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-06T18:05:00", 
+            "document": "ritchey handlebar - Google Search"
+        }
+    ]
+}

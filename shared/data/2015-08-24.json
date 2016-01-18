@@ -1,0 +1,374 @@
+{
+    "2015-08-24": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 11, 
+            "activity": "Gmail", 
+            "date": "2015-08-24T09:55:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 22, 
+            "activity": "slack", 
+            "date": "2015-08-24T09:55:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 6, 
+            "activity": "newtab", 
+            "date": "2015-08-24T09:55:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 40, 
+            "activity": "intellij idea", 
+            "date": "2015-08-24T09:55:00", 
+            "document": "FadingText.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T09:55:00", 
+            "document": "vera molnar - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "history", 
+            "date": "2015-08-24T09:55:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "history", 
+            "date": "2015-08-24T09:55:00", 
+            "document": "Loading..."
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "history", 
+            "date": "2015-08-24T09:55:00", 
+            "document": "History"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 19, 
+            "activity": "Finder", 
+            "date": "2015-08-24T10:00:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 9, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-24T10:00:00", 
+            "document": "layered_stream.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-08-24T17:40:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 8, 
+            "activity": "imdb.com", 
+            "date": "2015-08-24T17:40:00", 
+            "document": "Tommy Wiseau - IMDb"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-24T17:40:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 3, 
+            "activity": "444.hu", 
+            "date": "2015-08-24T17:40:00", 
+            "document": "Mondjuk ki v\u00e9gre: meg\u00e9rett a vil\u00e1g a pusztul\u00e1sra !!444!!!"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-24T17:40:00", 
+            "document": "CC_website"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "chrome.google.com", 
+            "date": "2015-08-24T17:40:00", 
+            "document": "Chrome Web Store - Apps"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-24T17:40:00", 
+            "document": "amazondark"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-24T17:40:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-24T17:40:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T17:45:00", 
+            "document": "georg nees - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T17:45:00", 
+            "document": "paragraphs on conceptual art - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T17:45:00", 
+            "document": "sentences on conceptual art - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T17:45:00", 
+            "document": "ronald davis - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T17:45:00", 
+            "document": "manfred mohr - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "pinterest.com", 
+            "date": "2015-08-24T17:45:00", 
+            "document": "Pinterest: Discover and save creative ideas"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 31, 
+            "activity": "intellij idea", 
+            "date": "2015-08-24T18:00:00", 
+            "document": "Animation.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-08-24T18:00:00", 
+            "document": "Ticker.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-24T18:05:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 19, 
+            "activity": "RescueTime", 
+            "date": "2015-08-24T18:15:00", 
+            "document": "RescueTime"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T18:15:00", 
+            "document": "ZAC 19 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T18:20:00", 
+            "document": "gipiemme pista - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 9, 
+            "activity": "quicktime player", 
+            "date": "2015-08-24T18:35:00", 
+            "document": "rndrglitch2"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 8, 
+            "activity": "quicktime player", 
+            "date": "2015-08-24T18:35:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 4, 
+            "activity": "quicktime player", 
+            "date": "2015-08-24T18:35:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-08-24T18:35:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T18:40:00", 
+            "document": "two inches in mm - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-24T18:40:00", 
+            "document": "Google"
+        }
+    ]
+}

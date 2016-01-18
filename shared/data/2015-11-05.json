@@ -1,0 +1,1594 @@
+{
+    "2015-11-05": [
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 4, 
+            "activity": "newtab", 
+            "date": "2015-11-05T11:00:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 35, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T11:00:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 41, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T11:00:00", 
+            "document": "Egymilli\u00f3t lopott a f\u0151n\u00f6kt\u0151l, hotelben aludt, aut\u00f3t vett, azt\u00e1n megb\u00e1nta az eg\u00e9szet - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 8, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T11:00:00", 
+            "document": "Akci\u00f3ban Tomcat k\u00ednai konkurenci\u00e1ja - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T11:00:00", 
+            "document": "memory leak intellij - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T11:00:00", 
+            "document": "traffic.outbrain.com/network/redir?p=wVELIijn1WF6DM6aHztC_QzrSSRSTELDonFAhgy8LONz-wO2CDWagL4Rw4vfYdl-BTqCj7cVoTGI1_zdwGGRaN8yldItXVyQCGyh8IDhCcQr83pEEt5CHAjrPRX5UzYojOusWFiAT-_yhIofZN5tJ-CSTqgD4w6LI_vioFiMzhYVPUlkSd2bn-jLsSLk-5wDZsh-pgaayPkV7S0WJrEQQupWWZ"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 21, 
+            "activity": "facebook.com", 
+            "date": "2015-11-05T11:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 31, 
+            "activity": "calendar", 
+            "date": "2015-11-05T11:10:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 31, 
+            "activity": "facebook.com", 
+            "date": "2015-11-05T11:10:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 3, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-11-05T11:10:00", 
+            "document": "b.jpg"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 7, 
+            "activity": "translate.google.com", 
+            "date": "2015-11-05T11:10:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-11-05T11:10:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-11-05T11:10:00", 
+            "document": "Gezondheidscentrum Hubertusduin"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 55, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T11:30:00", 
+            "document": "quill stem kinds - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T11:30:00", 
+            "document": "quill handlebar stems - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 81, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T11:35:00", 
+            "document": "quill stem | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 5, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T11:35:00", 
+            "document": "Elektronik, Autos, Mode, Sammlerst\u00fccke, Gutscheine und mehr Online-Shopping | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 19, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T11:35:00", 
+            "document": "VINTAGE SR BLACK & CHROME C-89 QUILL STEM IN NICE CONDITION NO NUT | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T11:35:00", 
+            "document": "www.ebay.de/sch/i.html?_from=R40&_sacat=0&_nkw=quill+stem&_sop=15"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 78, 
+            "activity": "slack", 
+            "date": "2015-11-05T11:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 99, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-05T11:40:00", 
+            "document": "LUSTlab / greyhat-platform \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 25, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-05T11:40:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T11:40:00", 
+            "document": "drop database mongodb - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-11-05T11:40:00", 
+            "document": "WTHX Controller"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 119, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T11:45:00", 
+            "document": "Putyin legnagyobb washingtoni rajong\u00f3ja v\u00e9dte meg a magyar korm\u00e1nyt az Egyes\u00fclt \u00c1llamokban - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 36, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T11:45:00", 
+            "document": "Galandf\u00e9reg-r\u00e1kba halt bele egy HIV-fert\u0151z\u00f6tt kolumbiai - 444"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 14, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-05T11:50:00", 
+            "document": "Cestoda - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T11:50:00", 
+            "document": "galandferege - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-05T11:50:00", 
+            "document": "Proglottid - Cestoda - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T11:50:00", 
+            "document": "Cestoda - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 64, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-05T11:55:00", 
+            "document": "*VREDESPALEIS 3.indd"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 49, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-05T11:55:00", 
+            "document": "*content.indd"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 14, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-05T11:55:00", 
+            "document": "content.indd"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 9, 
+            "activity": "System Preferences", 
+            "date": "2015-11-05T11:55:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "System Preferences", 
+            "date": "2015-11-05T11:55:00", 
+            "document": "General"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:00:00", 
+            "document": "render html in java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T12:00:00", 
+            "document": "Java HTML Rendering Engine - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 18, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:05:00", 
+            "document": "radkovo/CSSBox"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:05:00", 
+            "document": "kinext javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:05:00", 
+            "document": "java html renderer library - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:05:00", 
+            "document": "CSSBox/src/main at master \u00b7 radkovo/CSSBox"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:05:00", 
+            "document": "CSSBox/src/main/java/org/fit/cssbox at master \u00b7 radkovo/CSSBox"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T12:05:00", 
+            "document": "node.js - Any way of getting Kinect V2 tracking data with javascript? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:05:00", 
+            "document": "CSSBox/src at master \u00b7 radkovo/CSSBox"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:05:00", 
+            "document": "CSSBox - Java HTML rendering engine"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:05:00", 
+            "document": "java html renderer - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 72, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:10:00", 
+            "document": "embed web browser in java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 62, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:10:00", 
+            "document": "CSSBox/Box.java at master \u00b7 radkovo/CSSBox"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T12:10:00", 
+            "document": "Embedding a Web Browser/HTML Engine in Java - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:10:00", 
+            "document": "CSSBox/src/main/java/org/fit/cssbox/layout at master \u00b7 radkovo/CSSBox"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T12:10:00", 
+            "document": "Is there a way to embed a browser in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:10:00", 
+            "document": "JxBrowser - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 72, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "chromiumembedded / cef / wiki / Tutorial \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "html parser java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 34, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "Markdown Cheatsheet \u00b7 adam-p/markdown-here Wiki"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "markdown - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "markdown parser java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 16, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "chromiumembedded / java-cef \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "HTML parsing using DOM-Java - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "markdown viewer - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "caiiiycuk/jbrowser"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 7, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "chromiumembedded / cef \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "html parsen java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-05T12:15:00", 
+            "document": "https://bitbucket.org/chromiumembedded/java-cef"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 173, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:20:00", 
+            "document": "atlassian/commonmark-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-11-05T12:20:00", 
+            "document": "Home \u00b7 sirthias/parboiled Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:25:00", 
+            "document": "jsoup - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T12:40:00", 
+            "document": "java - IDEA and Eclipse : How to automatic generate method when extends a class - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:40:00", 
+            "document": "intellij extend - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:40:00", 
+            "document": "intellij extend class - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T12:40:00", 
+            "document": "intellij extend mehotd - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T12:50:00", 
+            "document": "Parse HTML with Java - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-11-05T12:55:00", 
+            "document": "wthx-interactive \u2014 -zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 19, 
+            "activity": "sublime text", 
+            "date": "2015-11-05T12:55:00", 
+            "document": "rndr3639476716590498961.fs \u2014 FF, FF2"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 156, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T13:30:00", 
+            "document": "karel martens - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 92, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T13:35:00", 
+            "document": "java - Implements vs. Extends. When to use? What's the Difference? - Stack Overflow"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 8, 
+            "activity": "facebook.com", 
+            "date": "2015-11-05T14:05:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-11-05T14:05:00", 
+            "document": "2015 November"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-05T14:05:00", 
+            "document": "Desktop"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T14:10:00", 
+            "document": "stucni - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T14:30:00", 
+            "document": "income tax netherlands - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T14:30:00", 
+            "document": "national insurance netherlands - Google Search"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 39, 
+            "activity": "imgur.com", 
+            "date": "2015-11-05T14:35:00", 
+            "document": "Starting a paper the night before it is due. - GIF on Imgur"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 153, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:00:00", 
+            "document": "shader cosine - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 72, 
+            "activity": "ebay.com", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "Your Guide to Buying a Quill vs. Threadless Stem | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 92, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "schaftvorbau | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 24, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "Schaftvorbau OCL 1\" Vorbau Stem Fixie Fixed Single Speed Race Road Rennrad | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 14, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "J&L fixed gear Vintage/Classic 70/80's Threaded Quill Stem-25.4mm* 90 | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "ebay.com", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "1\" Threadless Fork | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "1 inch fork - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "stem compatibility quill - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 6, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "Schaftvorbau UNO 1\" Stem Vorbau Fixie Fixed Single Speed Race Road Rennrad | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "stem compatibility - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "www.ebay.de/sch/i.html?_sacat=0&_nkw=schaftvorbau&_sop=15"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "ebay.com", 
+            "date": "2015-11-05T15:15:00", 
+            "document": "www.ebay.com/bhp/1-threadless-fork"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:20:00", 
+            "document": "stuurpen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 59, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:20:00", 
+            "document": "stuurpen quill - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:25:00", 
+            "document": "Kalloy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:25:00", 
+            "document": "Randonneurs - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:25:00", 
+            "document": "Randoneurs - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T15:25:00", 
+            "document": "https://www.google.nl/search?q=Randonneurs&safe=off&es_sm=91&biw=1440&bih=801&source=lnms&sa=X&ved=0CAYQ_AUoAGoVChMIyNaw8775yAIVREQUCh072gfe&dpr=2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-11-05T15:30:00", 
+            "document": "PyCharm"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 26, 
+            "activity": "facebook.com", 
+            "date": "2015-11-05T15:50:00", 
+            "document": "Robin Smits"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 13, 
+            "activity": "facebook.com", 
+            "date": "2015-11-05T15:50:00", 
+            "document": "(2) Robin Smits"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-11-05T15:50:00", 
+            "document": "(2) Bahman Eslami"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 5, 
+            "activity": "facebook.com", 
+            "date": "2015-11-05T15:50:00", 
+            "document": "(1) Bahman Eslami"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-11-05T15:50:00", 
+            "document": "Bahman Eslami"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:00:00", 
+            "document": "x_fill shader - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 40, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:25:00", 
+            "document": "glyph vs character - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:25:00", 
+            "document": "fietsenwinkel boekhorststraat - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 9, 
+            "activity": "graphicdesign.stackexchange.com", 
+            "date": "2015-11-05T16:25:00", 
+            "document": "typography - What's the practical difference between a 'glyph' and a 'character'? - Graphic Design Stack Exchange"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:25:00", 
+            "document": "boekhorststraat den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 108, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:30:00", 
+            "document": "quill stem wedge nut - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-05T16:30:00", 
+            "document": "Stem (bicycle part) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 51, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:30:00", 
+            "document": "fixie stem - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:30:00", 
+            "document": "quill stem without nut - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 39, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:35:00", 
+            "document": "1 inch fork vs - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:35:00", 
+            "document": "how does the quill stem work - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 71, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T16:45:00", 
+            "document": "R\u00e9v\u00e9sz M\u00e1riusz: Sv\u00e1jcban is vannak \u00e9hez\u0151 gyerekek - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T16:45:00", 
+            "document": "threadless chrome fork - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T16:45:00", 
+            "document": "http://444.hu/2015/11/05/revesz-mariusz-svajcban-is-vannak-ehezo-gyerekek failed to load"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 131, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T17:05:00", 
+            "document": "Vereked\u00e9s, v\u00e9r \u00e9s hiszt\u00e9ria a V\u00f6r\u00f6smarty t\u00e9ri H&M-\u00fczletben - 444"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 13, 
+            "activity": "codecademy.com", 
+            "date": "2015-11-05T17:05:00", 
+            "document": "Learn | Codecademy"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 150, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T17:10:00", 
+            "document": "Vil\u00e1gszerte esz\u00fcket vesz\u00edtett\u00e9k az emberek az \u00faj H&M-kollekci\u00f3 miatt - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 152, 
+            "activity": "index.hu", 
+            "date": "2015-11-05T17:15:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 28, 
+            "activity": "index.hu", 
+            "date": "2015-11-05T17:15:00", 
+            "document": "Index - Tudom\u00e1ny - Uram, 30 perc van h\u00e1tra az \u00e9let\u00e9b\u0151l"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 63, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T17:15:00", 
+            "document": "Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T17:15:00", 
+            "document": "Featured Questions - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-11-05T17:15:00", 
+            "document": "Contributors to radkovo/CSSBox"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T17:15:00", 
+            "document": "Log In - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-11-05T17:15:00", 
+            "document": "Pulse \u00b7 radkovo/CSSBox"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 81, 
+            "activity": "index.hu", 
+            "date": "2015-11-05T17:20:00", 
+            "document": "Index - Mindek\u00f6zben - Saj\u00e1t bar\u00e1tja lopta meg, k\u00f6zel k\u00e9tsz\u00e1zezret bukott egyetlen szelfi miatt"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T17:20:00", 
+            "document": "Newest 'java' Questions - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T17:20:00", 
+            "document": "java - Error after importing an external library into Android Studio - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-05T17:20:00", 
+            "document": "Newest Questions - Stack Overflow"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 1, 
+            "activity": "index.hu", 
+            "date": "2015-11-05T17:20:00", 
+            "document": "Index - K\u00fclf\u00f6ld - A Kreml bizony\u00edt\u00e9kot k\u00f6vetel a bombamer\u00e9nyletre"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T17:25:00", 
+            "document": "threaded stem - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-05T17:25:00", 
+            "document": "quill stem - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 79, 
+            "activity": "ebay.de", 
+            "date": "2015-11-05T17:30:00", 
+            "document": "Vorbau Schaftvorbau Stem Fixed Fixie Singlespeed Classic Rennrad Road 1\" 80mm | eBay"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 93, 
+            "activity": "New York Times", 
+            "date": "2015-11-05T17:35:00", 
+            "document": "Diagnosis - The Heat of the Night - NYTimes.com"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "New York Times", 
+            "date": "2015-11-05T17:35:00", 
+            "document": "https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CC8QFjACahUKEwiuw9_O2_nIAhXJXBoKHVo4B7M&url=http://www.nytimes.com/2010/09/12/magazine/12FOB-diagnosis-t.html&usg=AFQjCNFgSSVpglK3IbYkYMyePJBUf3IyPQ&sig2=x4RT8yu1gnFgGvIKrnTbdQ&bvm=bv.106"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 77, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:05:00", 
+            "document": "Benzema bevallotta, hogy r\u00e9szt vett csapatt\u00e1rsa megzsarol\u00e1s\u00e1ban - \u00f6t \u00e9vet is kaphat - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 96, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:05:00", 
+            "document": "K\u00e9t ember jetpackkel rep\u00fclt egy Airbus A380 mellett Dubajban - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 25, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:05:00", 
+            "document": "Elvitte az anyja a 6 \u00e9ves Szalai Benc\u00e9t - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 35, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:10:00", 
+            "document": "Brit tud\u00f3sok szerint nem felt\u00e9tlen\u00fcl eg\u00e9szs\u00e9ges napokon \u00e1t bedrogozva szexelni t\u00f6bb partnerrel - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 45, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:10:00", 
+            "document": "Egy francia f\u00e9rfi feltal\u00e1lta a k\u0151m\u0171ves-dekolt\u00e1zs elleni boxert - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 58, 
+            "activity": "index.hu", 
+            "date": "2015-11-05T18:15:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Putyin r\u00e1c\u00e1fol a terrorist\u00e1kra, nehogy be\u00e9gjen"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 69, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:15:00", 
+            "document": "Ezt ne csin\u00e1ld soha r\u00e9szegen: ne l\u00f6kd a rend\u0151rt a vir\u00e1g\u00e1gy\u00e1sba - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 53, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:15:00", 
+            "document": "Kett\u00e9robbantotta mag\u00e1t az ISIS terrorist\u00e1ja, \u00e9s m\u00e9g mindig \u00e9lt - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:15:00", 
+            "document": "traffic.outbrain.com/network/redir?p=Quas4kBk8fSkH_BO5ZLi4tqG4QdrsL61oZLpAorDfMCyGO2P012lRTyi0TQBbBLy2bLuDqXMmxqYfxzNpAJXCUDKv_hhCz5L2g0XbezXTp645xf1v8tsCJUv-GzRlx_C3xikV8AJhB0cfWu5dOngu_tK-3kM6oKSTYAaZWJWZpmQ_t1ouUKbZnMfBp2ZS3Loa1bUZ9o-Wip-IZl5AdAa_KRL7D"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 174, 
+            "activity": "index.hu", 
+            "date": "2015-11-05T18:20:00", 
+            "document": "Index - Mindek\u00f6zben - Leengedt\u00e9k az \u00e1llatkerti Nagy tavat. Tudj\u00e1k mit tal\u00e1ltak a fenek\u00e9n?"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 53, 
+            "activity": "index.hu", 
+            "date": "2015-11-05T18:20:00", 
+            "document": "Index - Mindek\u00f6zben - Mit \u00e9rdemes csin\u00e1lni a vil\u00e1g egykori leghatalmasabb drogb\u00e1r\u00f3j\u00e1nak h\u00e1z\u00e1ban?"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 18, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:25:00", 
+            "document": "K\u0151hasad\u00e9kban vacogva tal\u00e1ltak a civiliz\u00e1ci\u00f3b\u00f3l kiszakadni v\u00e1gy\u00f3 olasz p\u00e1rra - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 99, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:30:00", 
+            "document": "Eg\u00e9szen durv\u00e1n sok p\u00e9nzt nyerhet a magyar \u00e1llamt\u00f3l egy portug\u00e1l s\u00fctigy\u00e1rt\u00f3 - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 117, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:30:00", 
+            "document": "H\u00fasz sz\u00e1zal\u00e9kot ugrott ma a Bitcoin, mert el\u0151ker\u00fclt egy k\u00ednai-orosz piramisj\u00e1t\u00e9kban - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 24, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:30:00", 
+            "document": "Exkluz\u00edv luxusteret alak\u00edt ki az MNB az \u00e1ltala birtokolt luxus-pr\u00e9mium irodah\u00e1z tetej\u00e9n - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 7, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:30:00", 
+            "document": "J\u00f6n egy t\u00f6rv\u00e9ny, amivel az amerikai korm\u00e1ny majd \u00e9l\u0151ben n\u00e9zheti, hogy mit csin\u00e1lsz a munkahelyeden - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:30:00", 
+            "document": "traffic.outbrain.com/network/redir?p=-QvWvvBIwm86cQIXeafQEtaMmgtNc7qEVPWQnaJQy00ck35eKl6Q9Cwi0twurCAYdSkMZ6LojOc7VtqbrxhNtMBxpQXsnNhQb3KXEMU8lne-jPBsbAg0TaAeSx70xFbwTaaOexXRT0sZaH2WxqUFyBx54EtuFJ8oP82wKrj7A1ur0uOcHNKvUee717MaK0KlwRDkJKP7vlHO6holctCeZvYM5Y"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-11-05T18:30:00", 
+            "document": "traffic.outbrain.com/network/redir?p=AnluVHq_P2KGyRy2Wbnd4qec0xI5oAN0aTR1XGVHagaOF-uxZoR16hX4FiMsVioY5EZjSwqvHQVvdfz9ojpjHoBnlEygWNk5SA66gSJ_wFS9PH39wURDjteAq_wiGFRJy2nCcN2mr4MamhuwApkqbhlDRx0tU4xS3PdDtAerCBGzJ6mYEI2Bdci5KqQAU3XWCFtPk-il2DBB6QJxR1gI-XUglF"
+        }
+    ]
+}

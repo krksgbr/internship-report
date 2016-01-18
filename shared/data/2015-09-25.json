@@ -1,0 +1,1354 @@
+{
+    "2015-09-25": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 23, 
+            "activity": "Gmail", 
+            "date": "2015-09-25T14:10:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 153, 
+            "activity": "facebook.com", 
+            "date": "2015-09-25T14:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 5, 
+            "activity": "newtab", 
+            "date": "2015-09-25T14:10:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-25T14:10:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T14:15:00", 
+            "document": "NullaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 49, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T14:20:00", 
+            "document": "Config.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 35, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "Tables.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "uploads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "full"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 9, 
+            "activity": "phpstorm", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "sockets.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 24, 
+            "activity": "Terminal", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "public \u2014 zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "src"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 16, 
+            "activity": "Terminal", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "git \u2014 zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "src \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "stacklayout.json - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "rndr \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "wthx-interactive \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-25T14:25:00", 
+            "document": "wthx-front \u2014 mongod"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 83, 
+            "activity": "444.hu", 
+            "date": "2015-09-25T14:30:00", 
+            "document": "Felf\u00fcggesztett\u00e9k a sulib\u00f3l, \u00e9s kir\u00fagt\u00e1k a focicsapatb\u00f3l a h\u0151st, aki ki\u00fct\u00f6tte a vak oszt\u00e1lyt\u00e1rs\u00e1ra t\u00e1mad\u00f3 barmot !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 97, 
+            "activity": "444.hu", 
+            "date": "2015-09-25T14:30:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 19, 
+            "activity": "Finder", 
+            "date": "2015-09-25T14:30:00", 
+            "document": "fonts"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 53, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-09-25T14:35:00", 
+            "document": "design - In MVC should a model contain subview models? - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 45, 
+            "activity": "phpstorm", 
+            "date": "2015-09-25T14:35:00", 
+            "document": "uploadFakerScript.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 66, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T14:35:00", 
+            "document": "model view controller subview - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 28, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-09-25T14:35:00", 
+            "document": "object oriented - How Should a model and controller be distributed between subviews of the View? - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T14:35:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-25T14:35:00", 
+            "document": "ios - Using a View Controller for a subView - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 38, 
+            "activity": "oracle.com", 
+            "date": "2015-09-25T14:45:00", 
+            "document": "A Swing Architecture Overview"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 54, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-25T14:45:00", 
+            "document": "Model\u2013view\u2013controller - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 42, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-25T14:45:00", 
+            "document": "Hierarchical model\u2013view\u2013controller - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T14:45:00", 
+            "document": "hmvc - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T14:45:00", 
+            "document": "should i learn java - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "index.hu", 
+            "date": "2015-09-25T14:45:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Az EU d\u00f6nt\u00f6tt, v\u00e9ge a nyitott ajt\u00f3k politik\u00e1j\u00e1nak, Orb\u00e1n \u00f6r\u00fclhet"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-25T14:50:00", 
+            "document": "java - Concrete Code Example of MVP - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 29, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-25T14:50:00", 
+            "document": "Model\u2013view\u2013presenter - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T14:50:00", 
+            "document": "mvp pattern - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T14:50:00", 
+            "document": "mvp pattern java example - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T14:50:00", 
+            "document": "mvpo - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 56, 
+            "activity": "vaadin.com", 
+            "date": "2015-09-25T14:55:00", 
+            "document": "Model-View-Presenter Pattern with Vaadin - Marko Gr\u00f6nroos @ Vaadin - vaadin.com"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "ViewManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "ProgressView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 95, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "WTHX2015App.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "TeamsView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 9, 
+            "activity": "phpstorm", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "wthx/wthx/posts - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "EventBase.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "TernaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "UnaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:00:00", 
+            "document": "QuinaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-25T15:15:00", 
+            "document": "resources"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-25T15:15:00", 
+            "document": "IdeaProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-25T15:15:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-25T15:30:00", 
+            "document": "full Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-25T15:30:00", 
+            "document": "imgs"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:35:00", 
+            "document": "SessionOverView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 80, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:35:00", 
+            "document": "SlideShow.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 27, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:35:00", 
+            "document": "ImgStack.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:35:00", 
+            "document": "Img.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 73, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:40:00", 
+            "document": "SessionDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:40:00", 
+            "document": "SqImg.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 44, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-25T15:50:00", 
+            "document": "assertions - What does the Java assert keyword do, and when should it be used? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T15:50:00", 
+            "document": "assert java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 24, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:55:00", 
+            "document": "PresentationView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:55:00", 
+            "document": "ProjectView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 25, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:55:00", 
+            "document": "SubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 53, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:55:00", 
+            "document": "FilteredOverView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:55:00", 
+            "document": "PresentationSubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:55:00", 
+            "document": "OverView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T15:55:00", 
+            "document": "PresentationDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:00:00", 
+            "document": "IView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:00:00", 
+            "document": "ISubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:00:00", 
+            "document": "progressview.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:00:00", 
+            "document": "Display.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:00:00", 
+            "document": "ShiftableImg.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:00:00", 
+            "document": "IDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 48, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:05:00", 
+            "document": "IViewManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:05:00", 
+            "document": "view/ViewManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:05:00", 
+            "document": "Utils.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T16:10:00", 
+            "document": "mainview mvc - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T16:10:00", 
+            "document": "mainview - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 24, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:15:00", 
+            "document": "ImgDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 63, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:30:00", 
+            "document": "View.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:35:00", 
+            "document": "sub/ViewManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:35:00", 
+            "document": "GridDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 117, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:40:00", 
+            "document": "MainViewManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 30, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T16:40:00", 
+            "document": "Controller.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-25T16:45:00", 
+            "document": "Can I make an abstract enum in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T16:45:00", 
+            "document": "abstract enum java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 40, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-25T17:10:00", 
+            "document": "java - Why would an Enum implement an Interface? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:10:00", 
+            "document": "Enum.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:10:00", 
+            "document": "Class.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T17:10:00", 
+            "document": "enum implement interface - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 76, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:15:00", 
+            "document": "ViewState.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-25T17:15:00", 
+            "document": "java - How to extend enum class from abstract class? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:15:00", 
+            "document": "IViewState.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:25:00", 
+            "document": "VideoStreamer.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T17:40:00", 
+            "document": "qt filtermodel - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 182, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:50:00", 
+            "document": "Model.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:50:00", 
+            "document": "Archive.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:50:00", 
+            "document": "Filters.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 36, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:55:00", 
+            "document": "Post.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-25T17:55:00", 
+            "document": "Events.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 214, 
+            "activity": "slack", 
+            "date": "2015-09-25T18:10:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 9, 
+            "activity": "facebook.com", 
+            "date": "2015-09-25T18:10:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 12, 
+            "activity": "imgur.com", 
+            "date": "2015-09-25T18:15:00", 
+            "document": "Imgur: The most awesome images on the Internet"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 1, 
+            "activity": "imgur.com", 
+            "date": "2015-09-25T18:15:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 80, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:20:00", 
+            "document": "model view controller pattern - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 21, 
+            "activity": "Finder", 
+            "date": "2015-09-25T18:20:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-09-25T18:20:00", 
+            "document": "Search \u00b7 java mvc"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-09-25T18:20:00", 
+            "document": "GitHub"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-25T18:20:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-25T18:20:00", 
+            "document": "view"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-25T18:20:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-25T18:20:00", 
+            "document": "https://github.com"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "Intentional programming - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 41, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "Android Studio - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 40, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "IntelliJ IDEA - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 32, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "Android Hello World Example"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 26, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "JetBrains MPS - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 23, 
+            "activity": "codeproject.com", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "Hello Android - The Hello World Application - CodeProject"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "android hello world - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 10, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "Android Studio 1211 - Android Studio - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "android studio - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:25:00", 
+            "document": "Building Your First App | Android Developers"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:30:00", 
+            "document": "synchronizing threads java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:30:00", 
+            "document": "model view controller - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:30:00", 
+            "document": "The Model-View-Controller (MVC) Design Pattern | Build a Blog Reader Android App | Treehouse"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:35:00", 
+            "document": "highlight threads intellij - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 39, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:35:00", 
+            "document": "intellij view threads - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:35:00", 
+            "document": "intellij view threads syntax highlight - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:35:00", 
+            "document": "hightlight threads - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:35:00", 
+            "document": "hightlight threads intellij - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-25T18:40:00", 
+            "document": "visualize threads - Google Search"
+        }
+    ]
+}

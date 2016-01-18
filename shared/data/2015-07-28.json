@@ -1,0 +1,2154 @@
+{
+    "2015-07-28": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T09:10:00", 
+            "document": "nootra.brain - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T09:10:00", 
+            "document": "olmifon - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 6, 
+            "activity": "ebay.com", 
+            "date": "2015-07-28T09:10:00", 
+            "document": "eBay Profile - error"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 1, 
+            "activity": "ebay.com", 
+            "date": "2015-07-28T09:10:00", 
+            "document": "www.ebay.com/usr/nootra.brain"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 1, 
+            "activity": "reddit.com", 
+            "date": "2015-07-28T09:15:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 28, 
+            "activity": "reddit.com", 
+            "date": "2015-07-28T09:20:00", 
+            "document": "Depression Regimens: Research, Discussion, and Anecdotes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "System Preferences", 
+            "date": "2015-07-28T10:00:00", 
+            "document": "Network"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 68, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-28T10:05:00", 
+            "document": "Search by Image, Recursively, Transparent PNG, #1 on Vimeo"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 5, 
+            "activity": "slack", 
+            "date": "2015-07-28T10:05:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 46, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:05:00", 
+            "document": "Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:05:00", 
+            "document": "google images - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:05:00", 
+            "document": "google images spring flowers - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:05:00", 
+            "document": "fr\u00fchling wallpaper 1920x1080 - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 5, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-28T10:10:00", 
+            "document": "Sebastian Schmieg\u2019s Videos on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 100, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-28T10:10:00", 
+            "document": "81 Points of View | With Introduction on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 5, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-28T10:10:00", 
+            "document": "Sebastian Schmieg on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 46, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-28T10:15:00", 
+            "document": "Similar Images, Associatively, Transparent GIF on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 5, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-28T10:15:00", 
+            "document": "Parallel Universes, Screensaver Version (Excerpt) on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-28T10:20:00", 
+            "document": "Decentralized / Open-source cloud services - hackpad.com"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 117, 
+            "activity": "groups.google.com", 
+            "date": "2015-07-28T10:25:00", 
+            "document": "Why would I use bup and not rsync/rsnapshot? - Google Groups"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 40, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:25:00", 
+            "document": "attic vs rsync - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:25:00", 
+            "document": "rsync vs bup - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 4, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:25:00", 
+            "document": "(15) Settings | Khan Academy"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "groups.google.com", 
+            "date": "2015-07-28T10:25:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:25:00", 
+            "document": "Settings | Khan Academy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:30:00", 
+            "document": "ssh from remote computer - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 161, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:35:00", 
+            "document": "(15) Combining multiple joins | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 36, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:35:00", 
+            "document": "(15) Intro to SQL: Querying and managing data | Computer programming | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 2, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:35:00", 
+            "document": "(15) Dashboard | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:35:00", 
+            "document": "Dashboard | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 77, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:40:00", 
+            "document": "(15) Challenge: FriendBook | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-07-28T10:40:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-07-28T10:40:00", 
+            "document": "sudo useradd -m -G adm,dialout,cdrom,sudo,audio,vi \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-07-28T10:40:00", 
+            "document": "SELECT a.title, b.title FROM project_pairs \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-28T10:40:00", 
+            "document": "mopidy.conf \u2014 rsub-b3frgg \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-28T10:40:00", 
+            "document": "settings.js \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-28T10:40:00", 
+            "document": "07-15.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 16, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:45:00", 
+            "document": "(15) Joining tables to themselves with self-joins | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 9, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:45:00", 
+            "document": "(15) Project: Famous people | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:45:00", 
+            "document": "Project: Famous people | Relational | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 38, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:50:00", 
+            "document": "(15) Challenge: FriendBook | Computer programming | Khan Academy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:50:00", 
+            "document": "khan academy sql solution - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:50:00", 
+            "document": "khan academy challenge friendbook solution forum - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:50:00", 
+            "document": "khan academy sql friendbook solution forum - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:50:00", 
+            "document": "khanacademy challenge friendbook solution - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:50:00", 
+            "document": "khanacademy challenge friendbook solution forum - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-28T10:50:00", 
+            "document": "Challenge: FriendBook | Computer programming | Khan Academy"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 16, 
+            "activity": "reddit.com", 
+            "date": "2015-07-28T10:55:00", 
+            "document": "Taking beginner khan academy SQL course, and totally stumped on IN statement.. Please help : SQL"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:55:00", 
+            "document": "khan academy sql solution friendbook - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T10:55:00", 
+            "document": "khan academy sql reddit friendbook - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T11:15:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 5, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T11:15:00", 
+            "document": "Heathered Pearls - Abandoned Mall Utopia (ft. Shigeto) by ghostly"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T11:15:00", 
+            "document": "SoundCloud \u2013 Hear the world\u2019s sounds"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T11:15:00", 
+            "document": "Authorize access to your account on SoundCloud - Create, record and share your sounds for free"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 5, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T11:15:00", 
+            "document": "Your stream on SoundCloud"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 43, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T11:20:00", 
+            "document": "pgadmin - How do I store a set of queries inside PostgreSQL so I can easily run it again? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T11:20:00", 
+            "document": "postgresql query editor - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T11:20:00", 
+            "document": "sql query editor - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T11:20:00", 
+            "document": "store queries phpstorm - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T11:20:00", 
+            "document": "save postgresql queries - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 20, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:25:00", 
+            "document": "test3.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 5, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T11:25:00", 
+            "document": "Si\u0301sy\u0301 Ey \"Do It Good\" - Boiler Room Debuts by BOILER ROOM"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:30:00", 
+            "document": "index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 13, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:30:00", 
+            "document": "hubbub.public.participants - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 32, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:40:00", 
+            "document": "rest_rates_per_person.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 25, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:40:00", 
+            "document": "avg_rest_rate.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 12, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:40:00", 
+            "document": "hubbub.public.measurements - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T11:45:00", 
+            "document": "control key to json object postgresql - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 9, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:45:00", 
+            "document": "daily_measurements.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T11:45:00", 
+            "document": "Gavin Guthrie a.k.a TX Connect - Tales From The Dark Side by lower parts"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 20, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:50:00", 
+            "document": "avg_rest_rate2.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 36, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T11:50:00", 
+            "document": "postgresql - Create json with column values as object keys - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T11:50:00", 
+            "document": "user value as key to json object postgresql - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:50:00", 
+            "document": "daily_measurements2.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T11:55:00", 
+            "document": "sql - Using group by on multiple columns - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 14, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:55:00", 
+            "document": "avg_rest_rate3.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T11:55:00", 
+            "document": "sql - MySQL combine two columns into one column - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T11:55:00", 
+            "document": "group by clause in sql - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T11:55:00", 
+            "document": "avg_daily_measurements.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T11:55:00", 
+            "document": "multiple group by clause in sql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T11:55:00", 
+            "document": "select merge columns sql - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 6, 
+            "activity": "pycharm", 
+            "date": "2015-07-28T12:05:00", 
+            "document": "0bd9b54b-3400-4655-8bd8-27dc6bb760c9.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 56, 
+            "activity": "pycharm", 
+            "date": "2015-07-28T12:05:00", 
+            "document": "Amijs.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-07-28T12:05:00", 
+            "document": "json_to_postgresql.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:05:00", 
+            "document": "how to use postgresql in web ap - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 23, 
+            "activity": "quora.com", 
+            "date": "2015-07-28T12:05:00", 
+            "document": "(4) Which database should I use for a killer web application: MongoDB, PostgreSQL, or MySQL? - Quora"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 62, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T12:10:00", 
+            "document": "sql - must appear in the GROUP BY clause or be used in an aggregate function - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:10:00", 
+            "document": "must appear in the GROUP BY clause or be used in an aggregate function - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 50, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T12:15:00", 
+            "document": "sql - PostgreSQL - GROUP BY clause or be used in an aggregate function - Stack Overflow"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T12:15:00", 
+            "document": "Upfront 031: Bob Moses by BOILER ROOM"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 25, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T12:20:00", 
+            "document": "postgresql - Can't aggregate arrays - Stack Overflow"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 12, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T12:20:00", 
+            "document": "Adult Swim on The Green Mix 1 in Ghostly International x Adult Swim on The Green at Comic-Con 2015"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:20:00", 
+            "document": "could not find array type for data type integer[] - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T12:25:00", 
+            "document": "hourlies.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:25:00", 
+            "document": "export nested json sql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T12:25:00", 
+            "document": "sql - how to concat two columns into one with the existing column name in mysql? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:25:00", 
+            "document": "export nested json - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:25:00", 
+            "document": "export values per date as json sql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T12:25:00", 
+            "document": "sql - concatenate two database columns into one resultset column - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:25:00", 
+            "document": "concat columns in sql - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 20, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T12:35:00", 
+            "document": "hourlies2.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 34, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T12:35:00", 
+            "document": "ruby on rails 3.1 - PostgreSQL -must appear in the GROUP BY clause or be used in an aggregate function - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:35:00", 
+            "document": "must appear in the group by clause or be used in an aggregate function postgresql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T12:40:00", 
+            "document": "SQL - having VS where - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:40:00", 
+            "document": "where max postgresql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T12:40:00", 
+            "document": "having vs where - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 46, 
+            "activity": "pycharm", 
+            "date": "2015-07-28T13:40:00", 
+            "document": "answers_to_db.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 15, 
+            "activity": "pycharm", 
+            "date": "2015-07-28T13:40:00", 
+            "document": "measurements_to_db.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-28T13:40:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-07-28T13:40:00", 
+            "document": "quieries.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T13:40:00", 
+            "document": "Adult Swim On The Green Mix 3 (Fixed!) in Ghostly International x Adult Swim on The Green at Comic-Con 2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-28T13:40:00", 
+            "document": "GlyphMaster"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-28T13:40:00", 
+            "document": "Internship LustLab"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 44, 
+            "activity": "sublime text", 
+            "date": "2015-07-28T13:45:00", 
+            "document": "rates.json \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 16, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T13:45:00", 
+            "document": "rates.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-28T13:45:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 86, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T13:50:00", 
+            "document": "five_minutely_rates.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 19, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T13:50:00", 
+            "document": "Miguel Senquiz Live @ Movement Detroit 2015 by htmiguel"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T13:55:00", 
+            "document": "streamgraph - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 53, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T13:55:00", 
+            "document": "steamgraph - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T13:55:00", 
+            "document": "animated infographics - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T13:55:00", 
+            "document": "infographic motion - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 84, 
+            "activity": "github.com", 
+            "date": "2015-07-28T14:00:00", 
+            "document": "Gallery \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 6, 
+            "activity": "New York Times", 
+            "date": "2015-07-28T14:00:00", 
+            "document": "Drought and Deluge in the Lower 48 - Interactive Feature - NYTimes.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-07-28T14:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 20, 
+            "activity": "facebook.com", 
+            "date": "2015-07-28T14:10:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 15, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-28T14:10:00", 
+            "document": "Streamgraph - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T14:10:00", 
+            "document": "script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-07-28T14:10:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 52, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T14:15:00", 
+            "document": "csi/script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-07-28T14:15:00", 
+            "document": "leebyron (Lee Byron)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 28, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T14:15:00", 
+            "document": "script/script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T14:15:00", 
+            "document": "style.css - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-07-28T14:15:00", 
+            "document": "leebyron/ecmascript-more-export-from"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 6, 
+            "activity": "w3schools.com", 
+            "date": "2015-07-28T14:15:00", 
+            "document": "HTML link tag"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T14:15:00", 
+            "document": "csi - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:15:00", 
+            "document": "link tag - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-28T14:20:00", 
+            "document": "queries.sql \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T14:20:00", 
+            "document": "hourly_rates.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:20:00", 
+            "document": "window onload - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T14:20:00", 
+            "document": "Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T14:20:00", 
+            "document": "PhpStorm 8.0.3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 72, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T14:25:00", 
+            "document": "d3.js - How to properly add and use D3 Events? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T14:25:00", 
+            "document": "d3.js - d3.select(\"#element\") not working when code above the html element - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T14:25:00", 
+            "document": "javascript - Attaching 'onclick' event to D3 chart background - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:25:00", 
+            "document": "attach event handler d3 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:25:00", 
+            "document": "select element by id d3 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:25:00", 
+            "document": "attach event listener d3 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 55, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T14:30:00", 
+            "document": "jquery - Javascript lambda functions - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:30:00", 
+            "document": "lambda expressions javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-07-28T14:35:00", 
+            "document": "Arrays \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:35:00", 
+            "document": "https://www.google.nl/search?q=d3+range&oq=d3+range&aqs=chrome..69i57.1114j0j4&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:35:00", 
+            "document": "https://www.google.nl/search?q=d3+range&oq=d3+range&aqs=chrome..69i57.855j0j9&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:35:00", 
+            "document": "javascript map - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:35:00", 
+            "document": "d3 range - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-07-28T14:35:00", 
+            "document": "https://github.com/mbostock/d3/wiki/Arrays"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 176, 
+            "activity": "github.com", 
+            "date": "2015-07-28T14:40:00", 
+            "document": "Stack Layout \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:40:00", 
+            "document": "d3 stack - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:40:00", 
+            "document": "d3.layout.stack() - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T14:40:00", 
+            "document": "d3 stacked bar - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T14:40:00", 
+            "document": "javascript - Using d3.layout.stack() and parsing csv for bar chart - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 23, 
+            "activity": "github.com", 
+            "date": "2015-07-28T14:50:00", 
+            "document": "API Reference \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T14:50:00", 
+            "document": "Black Nite Podcast 003 : Shadow Dancer by BLACK NITE"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 46, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:00:00", 
+            "document": "Mr. G - My Farthers Farda (G's Sound Boyz Dub) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 20, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:00:00", 
+            "document": "Mr. G - My Farda's Father (Sound Boyz Dub) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:00:00", 
+            "document": "Mr. G \u2013 My Father's Farda - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:00:00", 
+            "document": "Mr. G \u2013 \"My Father's Farda\" - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T15:00:00", 
+            "document": "Miguel Senquiz Live @ Movement Detroit 2015 by htmiguel | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T15:15:00", 
+            "document": "d3 streamgraph tutorial - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T15:15:00", 
+            "document": "javascript - D3 Real-Time streamgraph (Graph Data Visualization) - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 30, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:20:00", 
+            "document": "D3.js tutorial - 5 - Scales - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:20:00", 
+            "document": "D3.js tutorial - 1 - Introduction - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:20:00", 
+            "document": "d3 js - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T15:20:00", 
+            "document": "d3 scale linear - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:20:00", 
+            "document": "d3 - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 8, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T15:30:00", 
+            "document": "EcmaScript5.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T15:30:00", 
+            "document": "javascript foreach - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T15:30:00", 
+            "document": "D3.js Scales | DashingD3js.com"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T15:35:00", 
+            "document": "d3.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 32, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:35:00", 
+            "document": "Visualizing Multidimensional Data with D3.js - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 25, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:35:00", 
+            "document": "Mike Bostock - Design is a Search Problem - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:35:00", 
+            "document": "Introduction to D3 - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T15:35:00", 
+            "document": "d3.max - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T15:35:00", 
+            "document": "https://www.google.nl/search?q=d3.max&oq=d3.max&aqs=chrome..69i57.1255j0j4&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T15:40:00", 
+            "document": "mike bostock cv - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T15:40:00", 
+            "document": "mike bostock wiki - Google Search"
+        }, 
+        {
+            "category": "Professional Networking", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 6, 
+            "activity": "linkedin.com", 
+            "date": "2015-07-28T15:40:00", 
+            "document": "Michael Bostock profiles | LinkedIn"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T15:40:00", 
+            "document": "mike bostock - Google Search"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 8, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T15:45:00", 
+            "document": "https://soundcloud.com/htmiguel/miguel-senquiz-live-movement-2015 is not available"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:50:00", 
+            "document": "d3 stack - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T15:50:00", 
+            "document": "d3 streamchart - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T16:30:00", 
+            "document": "d3.js - How to find the max/min of a nested array in javascript? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 31, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T16:30:00", 
+            "document": "d3 js max - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T16:30:00", 
+            "document": "d3 max - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T16:30:00", 
+            "document": "d3 max - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T16:30:00", 
+            "document": "d3.js max accessor - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T16:35:00", 
+            "document": "EcmaScript.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T16:45:00", 
+            "document": "harmony in ultraviolet - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T16:45:00", 
+            "document": "SSH Tunnel - Local and Remote Port Forwarding Explained With Examples - Trackets Blog"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-28T16:45:00", 
+            "document": "GhostlyCast #59: BMG - Return To The Source by ghostly"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T17:00:00", 
+            "document": "d3.json - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 85, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T17:05:00", 
+            "document": "hourly.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-07-28T17:05:00", 
+            "document": "Requests \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 68, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T17:15:00", 
+            "document": "Remove Duplicates from JavaScript Array - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T17:15:00", 
+            "document": "de-duplicate array - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T17:15:00", 
+            "document": "de-duplicate array javascript - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 41, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T18:25:00", 
+            "document": "fiveMinutely.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "drive.google.com", 
+            "date": "2015-07-28T18:45:00", 
+            "document": "onzekapel-f5206f"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-07-28T18:45:00", 
+            "document": "Tim Hecker - Haunt Me, Haunt Me Do It Again - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-07-28T18:50:00", 
+            "document": "SELECT_participants_lastname__measuremen.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T18:55:00", 
+            "document": "list only once sql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T18:55:00", 
+            "document": "mysql - SQL Select to make a value appear only once - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-28T18:55:00", 
+            "document": "SQL Show duplicate records only once in a result set - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-28T18:55:00", 
+            "document": "https://www.google.nl/search?q=list+only+once+sql&oq=list+only+once+sql&aqs=chrome..69i57.3529j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-07-28T18:55:00", 
+            "document": "localhost:63342/Hubbub/index.html"
+        }
+    ]
+}

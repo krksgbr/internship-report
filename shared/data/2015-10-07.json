@@ -1,0 +1,934 @@
+{
+    "2015-10-07": [
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 5, 
+            "activity": "slack", 
+            "date": "2015-10-07T11:05:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 50, 
+            "activity": "amazon.com", 
+            "date": "2015-10-07T11:10:00", 
+            "document": "Amazon.com: Aruba Networks Inc. Aruba Ap-225 Wireless Access Point: Computers & Accessories"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 15, 
+            "activity": "amazon.com", 
+            "date": "2015-10-07T11:10:00", 
+            "document": "Amazon.com: Sturmey Archer Fct-26 Track 46X165Mm Crankset Sqt Black/Silver: Sports & Outdoors"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 14, 
+            "activity": "amazon.com", 
+            "date": "2015-10-07T11:10:00", 
+            "document": "Amazon.com: Aruba Networks Inc. Aruba Instant Iap-215 Wireless Access Point 802.11n/ac 3x3:3 Dual Radio I: Computers & Accessories"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:10:00", 
+            "document": "artnet 4 j - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:10:00", 
+            "document": "aruba router - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 7, 
+            "activity": "amazon.com", 
+            "date": "2015-10-07T11:10:00", 
+            "document": "Amazon.com: Aruba Networks Inc. Wireless Router - IEEE 802.11n RAP-3WNP: Computers & Accessories"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:10:00", 
+            "document": "node js commander - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 3, 
+            "activity": "amazon.com", 
+            "date": "2015-10-07T11:10:00", 
+            "document": "Mevis & Van Deursen: Recycled Works 1990-2005: Paul Elliman: 9789085460312: Amazon.com: Books"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "amazon.com", 
+            "date": "2015-10-07T11:10:00", 
+            "document": "www.amazon.com/Aruba-Networks-Inc-Wireless-Router/dp/B00QUED0GQ"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "mathsisfun.com", 
+            "date": "2015-10-07T11:25:00", 
+            "document": "Equation of a Line from 2 Points"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:25:00", 
+            "document": "get points of line give start and end points - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 72, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-07T11:30:00", 
+            "document": "math - How to calculate end points of perpendicular line segments? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:30:00", 
+            "document": "get perpendicular line java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:30:00", 
+            "document": "get perpendicular vector - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 8, 
+            "activity": "mathworld.wolfram.com", 
+            "date": "2015-10-07T11:30:00", 
+            "document": "Perpendicular Vector -- from Wolfram MathWorld"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 115, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-07T11:35:00", 
+            "document": "math - calculate a perpendicular offset from a diagonal line - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-07T11:35:00", 
+            "document": "java - Calculate a point which is perpendicular to a line - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:35:00", 
+            "document": "perpendicular line processing - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:40:00", 
+            "document": "perpendicular line java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-07T11:40:00", 
+            "document": "math - Draw perpendicular line from starting point of Line - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 71, 
+            "activity": "sublime text", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "class_Ray.pde \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 20, 
+            "activity": "sublime text", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "class_LineMachine.pde \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "Processing"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 11, 
+            "activity": "sublime text", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "pomojs \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 10, 
+            "activity": "sublime text", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "class_EruptionMachine.pde \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "bin"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "Reach For The Dead (Boards of Canada Guitar Cover) - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "WebstormProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-07T11:50:00", 
+            "document": "Projects"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 56, 
+            "activity": "github.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "processing/PVector.java at master \u00b7 processing/processing"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "i can't wait for the weekend to begin - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "Michael Gray - The Weekend (Official Video) - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "pvector processing - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "processing/core/src/processing/core at master \u00b7 processing/processing"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "Processing Foundation"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "i can't wait - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "processing/core at master \u00b7 processing/processing"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "processing/core/src/processing at master \u00b7 processing/processing"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "processing github - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "calendar", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "processing/core/src at master \u00b7 processing/processing"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-07T11:55:00", 
+            "document": "processing/processing"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:05:00", 
+            "document": "New Electro & House 2013 Dance Mix #75 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:05:00", 
+            "document": "Michael Gray - Borderline (Official Video) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:05:00", 
+            "document": "Eric Prydz - Call On Me - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:10:00", 
+            "document": "Phats & Small - Turn Around Official Video - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:10:00", 
+            "document": "Stardust - Music Sounds Better With You - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:10:00", 
+            "document": "Major Lazer & DJ Snake - Lean On (feat. M\u00d8) (Official Music Video) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:10:00", 
+            "document": "The Supermen Lovers (feat. Mani Hoffman) - Starlight (Official Video) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:10:00", 
+            "document": "Modjo - Lady (Hear Me Tonight) (Official Video) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:15:00", 
+            "document": "Modjo - Lady (Hear Me Tonight) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:15:00", 
+            "document": "Daft Punk - One More Time - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T12:20:00", 
+            "document": "java calculate perpendicular line - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:20:00", 
+            "document": "Daft Punk - Da Funk - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T12:20:00", 
+            "document": "calculate perpendicular line - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:25:00", 
+            "document": "Daft Punk - Harder Better Faster Stronger - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:25:00", 
+            "document": "Daft Punk - Aerodynamic - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:30:00", 
+            "document": "Daft Punk - Prime Time Of You Life - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:30:00", 
+            "document": "Daft Punk - robot rock maximum overdrive - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:30:00", 
+            "document": "Daft Punk - Rollin' Scratchin - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:30:00", 
+            "document": "Daft Punk - Burnin - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:30:00", 
+            "document": "Daft Punk - Something About Us - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T12:40:00", 
+            "document": "midpoint between two points - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T12:40:00", 
+            "document": "midpoint between two vectors - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T12:55:00", 
+            "document": "Daft Punk - Random Access Memories - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-07T13:45:00", 
+            "document": "java - Finding point of t distance on a perpendicular line on the same plane as a given line in 3d - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T13:50:00", 
+            "document": "perpendicular - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:00:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:05:00", 
+            "document": "A-F-R-O - Dark Energy - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:05:00", 
+            "document": "daft punk - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:05:00", 
+            "document": "Marsen Jules - Fanes D'Automne - Ambient Modern Classical Biosphere Murcof Pete Namlook - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:05:00", 
+            "document": "Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:05:00", 
+            "document": "marsen juels - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:05:00", 
+            "document": "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:15:00", 
+            "document": "Marsen Jules & Johannes Braun - Brouillard - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:15:00", 
+            "document": "Marsen Jules Trio - \u00c9clipse (feat. Roger D\u00f6ring) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:35:00", 
+            "document": "Library Tapes - Above the flood - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T14:45:00", 
+            "document": "Deaf Center - White Lake - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 93, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-07T16:10:00", 
+            "document": "python - How can you determine a point is between two other points on a line segment? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T16:10:00", 
+            "document": "check if coordinate is on line segment - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-10-07T16:10:00", 
+            "document": "\"The Disintegration Loop\" - William Basinski - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 32, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-07T16:25:00", 
+            "document": "c# - Find if point lays on line segment - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T16:25:00", 
+            "document": "java check if point is on line segment - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-07T17:05:00", 
+            "document": "LUSTlab / lightcontroller / commit / a9c47c04b263 \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 23, 
+            "activity": "webstorm", 
+            "date": "2015-10-07T17:20:00", 
+            "document": "tmux.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T18:10:00", 
+            "document": "array map java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T18:10:00", 
+            "document": "stream map java8 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T18:10:00", 
+            "document": "array map java8 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-07T18:10:00", 
+            "document": "array map javascript - Google Search"
+        }
+    ]
+}

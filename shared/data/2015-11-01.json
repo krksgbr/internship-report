@@ -1,0 +1,1084 @@
+{
+    "2015-11-01": [
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 6, 
+            "activity": "RescueTime", 
+            "date": "2015-11-01T09:20:00", 
+            "document": "RescueTime"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 139, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T09:25:00", 
+            "document": "Frederik Hendrikplein 47 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 8, 
+            "activity": "google.com", 
+            "date": "2015-11-01T09:25:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T09:25:00", 
+            "document": "Frederik Hendrikplein - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T09:25:00", 
+            "document": "Frederik Hendrikplein, The Hague 47 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 212, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T09:30:00", 
+            "document": "Pahudstraat 13 to Frederik Hendrikplein 47, 2582 BA Den Haag - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T10:40:00", 
+            "document": "crankset spindle - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T10:40:00", 
+            "document": "crankset spindle length - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 51, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T10:45:00", 
+            "document": "iso crank on jis - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T10:50:00", 
+            "document": "crank spindle fitting - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T10:50:00", 
+            "document": "bottoming out - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T10:55:00", 
+            "document": "install crank - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T10:55:00", 
+            "document": "crank spindle how far - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T10:55:00", 
+            "document": "crank spindle fitting how far - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T10:55:00", 
+            "document": "https://www.google.nl/search?q=crank+spindle+fitting&safe=off&espv=2&biw=1440&bih=801&source=lnms&sa=X&ved=0CAYQ_AUoAGoVChMImOGOrvruyAIVxV4PCh2LtQP9&dpr=2"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 154, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:00:00", 
+            "document": "How To Remove A Crank Set - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 36, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:00:00", 
+            "document": "How To... Replace Your Crankset - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 28, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:00:00", 
+            "document": "Removing And Installing Dura-Ace Crank - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T11:05:00", 
+            "document": "crankset thread - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 68, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:15:00", 
+            "document": "Misemployment - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:15:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 174, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:20:00", 
+            "document": "The Problem of Fame - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 102, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:25:00", 
+            "document": "Bad Taste - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 186, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:35:00", 
+            "document": "Who are you to say that? - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 242, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:40:00", 
+            "document": "ART/ARCHITECTURE - Cy Twombly - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:40:00", 
+            "document": "https://www.youtube.com/watch?v=E56P55i3HHQ&feature=iv&src_vid=_uYpwehCoYc&annotation_id=annotation_1549176161"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 112, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:45:00", 
+            "document": "What are Universities for? - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:45:00", 
+            "document": "TheLogicJunkie - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:45:00", 
+            "document": "Exhaustion of the Obvious - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 185, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:50:00", 
+            "document": "Secret Thoughts: The Marriage - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:55:00", 
+            "document": "Artificial Intelligence: Are we engineering our own obsolescence? - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:55:00", 
+            "document": "superintelligence - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 20, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:55:00", 
+            "document": "007 Spectre Official Trailer #2 (2015) Daniel Craig James Bond Movie HD - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:55:00", 
+            "document": "Nick Bostrom: \"Superintelligence\" | Talks at Google - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T11:55:00", 
+            "document": "intelligence - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:55:00", 
+            "document": "Lua Veli - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:55:00", 
+            "document": "nick bostrom - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T11:55:00", 
+            "document": "intelligence squared - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T11:55:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 112, 
+            "activity": "youtube.com", 
+            "date": "2015-11-01T12:40:00", 
+            "document": "MUAMBA [Filme Brasileiro Completo] HD 1080p - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 78, 
+            "activity": "facebook.com", 
+            "date": "2015-11-01T13:35:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 8, 
+            "activity": "facebook.com", 
+            "date": "2015-11-01T13:35:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 10, 
+            "activity": "facebook.com", 
+            "date": "2015-11-01T13:45:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 10, 
+            "activity": "translate.google.com", 
+            "date": "2015-11-01T14:00:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:00:00", 
+            "document": "fotel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:00:00", 
+            "document": "foxtel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:05:00", 
+            "document": "ikea - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:10:00", 
+            "document": "ikea fauteuil - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:10:00", 
+            "document": "ikea tirup - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 70, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:15:00", 
+            "document": "reading environment - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:15:00", 
+            "document": "palet - Google Search"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 82, 
+            "activity": "denhaag.nl", 
+            "date": "2015-11-01T14:20:00", 
+            "document": "The Hague - Oversized household waste"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:20:00", 
+            "document": "getting rid of large furniture the hague - Google Search"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 5, 
+            "activity": "denhaag.nl", 
+            "date": "2015-11-01T14:25:00", 
+            "document": "Den Haag - Grofvuil of groot afval laten ophalen"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 15, 
+            "activity": "stickies", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "BEV\u00c1S\u00c1RL\u00d3LISTA\n____________\u2026"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 14, 
+            "activity": "denhaag.nl", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "The Hague - 14070, the telephone number of the Municipality of The Hague"
+        }, 
+        {
+            "category": "Business", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 11, 
+            "activity": "bloomberg.com", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "You're Waking Up Wrong - Bloomberg Business"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "waking up wrong - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "vreeswijkstraat 225 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "large household waste den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "George Smiley - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "bond girls are forever - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "spy game - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:30:00", 
+            "document": "https://www.google.nl/search?q=waking+up+wrong&oq=waking+up+wrong&aqs=chrome..69i57j0l5.1894j0j4&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:35:00", 
+            "document": "Leeuwendaallaan 14 - Google Maps"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:35:00", 
+            "document": "12? Leeuwendaallaan 14 2281 GP Rijswijk - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T14:35:00", 
+            "document": "https://www.google.nl/search?q=12?+Leeuwendaallaan+14+2281+GP+Rijswijk&oq=12?+Leeuwendaallaan+14+2281+GP+Rijswijk&aqs=chrome..69i57.343j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 5, 
+            "activity": "facebook.com", 
+            "date": "2015-11-01T14:40:00", 
+            "document": "Tak\u00e1cs messaged you"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T15:20:00", 
+            "document": "processing mask - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 125, 
+            "activity": "Finder", 
+            "date": "2015-11-01T15:25:00", 
+            "document": "FF"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-11-01T15:25:00", 
+            "document": "FF.pde \u2014 FF"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 20, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-11-01T15:25:00", 
+            "document": "FF_TekstLogo_01_FS.ai"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 35, 
+            "activity": "Finder", 
+            "date": "2015-11-01T15:25:00", 
+            "document": "wetransfer-028c8c"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-11-01T15:25:00", 
+            "document": "trial_reset \u2014 FF"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-01T15:25:00", 
+            "document": "UNTITLED"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-01T15:25:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 35, 
+            "activity": "processing", 
+            "date": "2015-11-01T15:30:00", 
+            "document": "FF | Processing 3.0a5"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 12, 
+            "activity": "processing", 
+            "date": "2015-11-01T15:30:00", 
+            "document": "sketch_151101a | Processing 3.0a5"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "processing", 
+            "date": "2015-11-01T15:30:00", 
+            "document": "Commander"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 4, 
+            "activity": "processing", 
+            "date": "2015-11-01T15:30:00", 
+            "document": "Update"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 75, 
+            "activity": "processing", 
+            "date": "2015-11-01T15:35:00", 
+            "document": "FF2 | Processing 3.0a5"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 66, 
+            "activity": "sublime text", 
+            "date": "2015-11-01T15:35:00", 
+            "document": "FF2.pde \u2014 FF, FF2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 32, 
+            "activity": "Finder", 
+            "date": "2015-11-01T15:35:00", 
+            "document": "FF2"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 21, 
+            "activity": "processing", 
+            "date": "2015-11-01T15:35:00", 
+            "document": "sketch_151101b | Processing 3.0a5"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-11-01T15:35:00", 
+            "document": "FF.pde \u2014 FF, FF2"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 52, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-11-01T15:40:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-11-01T15:40:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-11-01T15:40:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-01T15:40:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-01T15:40:00", 
+            "document": "Desktop"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 9, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-11-01T15:45:00", 
+            "document": "ff.svg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 40, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-11-01T15:45:00", 
+            "document": "Untitled-1*"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 11, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-11-01T15:45:00", 
+            "document": "FF_TekstLogo_01_FS.ai*"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T15:45:00", 
+            "document": "pshape processing - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 26, 
+            "activity": "sublime text", 
+            "date": "2015-11-01T15:50:00", 
+            "document": "ai14463894222.txt \u2014 FF, FF2"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-11-01T15:50:00", 
+            "document": "SVG's from Illustrator don't have with and height attributes. Here's a fix. \u00b7 Issue #127 \u00b7 filamentgroup/grunticon"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T15:50:00", 
+            "document": "save svg width height illustrator - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T15:55:00", 
+            "document": "resize pshape - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T16:00:00", 
+            "document": "creategraphics - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-01T16:25:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T16:35:00", 
+            "document": "pshape - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T16:55:00", 
+            "document": "mirror video processing - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T17:10:00", 
+            "document": "flip pixels processing - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-01T17:45:00", 
+            "document": "flip image array processing - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 98, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-11-01T17:55:00", 
+            "document": "Untitled-2*"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-11-01T17:55:00", 
+            "document": "Untitled-2"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 25, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-11-01T18:00:00", 
+            "document": "text.svg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 4, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-11-01T18:00:00", 
+            "document": "text.svg*"
+        }
+    ]
+}

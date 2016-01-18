@@ -1,0 +1,1094 @@
+{
+    "2015-11-03": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 108, 
+            "activity": "444.hu", 
+            "date": "2015-11-03T09:35:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 4, 
+            "activity": "newtab", 
+            "date": "2015-11-03T09:35:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 31, 
+            "activity": "index.hu", 
+            "date": "2015-11-03T09:40:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 1, 
+            "activity": "imdb.com", 
+            "date": "2015-11-03T09:40:00", 
+            "document": "The Man from U.N.C.L.E. (2015) - IMDb"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-03T09:45:00", 
+            "document": "Subs"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-11-03T10:25:00", 
+            "document": "FF_TekstLogo_01_FS.ai*"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 71, 
+            "activity": "index.hu", 
+            "date": "2015-11-03T10:30:00", 
+            "document": "Index - Tech - Kikapcsolhatatlan a Windows 10 k\u00e9mked\u00e9se"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 24, 
+            "activity": "index.hu", 
+            "date": "2015-11-03T10:30:00", 
+            "document": "Index - Urbanista - Az utols\u00f3 szocialista v\u00e1ros"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-11-03T10:30:00", 
+            "document": "wallpapers"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-03T10:30:00", 
+            "document": "Tinker Tailor Soldier Spy (2011)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-03T10:30:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T10:35:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T10:35:00", 
+            "document": "anymatch vs contains - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 28, 
+            "activity": "calendar", 
+            "date": "2015-11-03T10:50:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 63, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T10:55:00", 
+            "document": "java - Convert a JSON String to a HashMap - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T10:55:00", 
+            "document": "org.json jsonobj - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T10:55:00", 
+            "document": "org json jsonobject to hashmap - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T10:55:00", 
+            "document": "org.json jsonobject - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T11:00:00", 
+            "document": "bordersessions - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T11:10:00", 
+            "document": "Learn more about our speakers | Border Sessions"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-11-03T11:15:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-11-03T11:15:00", 
+            "document": "Jehst \"The Dragon of an Ordinary Family\" [Full Album] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-11-03T11:15:00", 
+            "document": "jehst - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-11-03T11:15:00", 
+            "document": "FF2.pde \u2014 FF, FF2"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-03T11:15:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 48, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T11:20:00", 
+            "document": "wthx-interactive \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T11:20:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 14, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T11:20:00", 
+            "document": "wthx-interactive \u2014 mongod"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T11:20:00", 
+            "document": "wthx-interactive \u2014 sudo"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 16, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:25:00", 
+            "document": "Provisional Irish Republican Army - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T11:25:00", 
+            "document": "torreorism in ireland - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 117, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:30:00", 
+            "document": "The Troubles - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 44, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:30:00", 
+            "document": "Chronology of Provisional Irish Republican Army actions (2010\u201320) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:30:00", 
+            "document": "Shankill Road bombing - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 7, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:30:00", 
+            "document": "Protestant graffiti in Belfast, Northern Ireland, 1974 - The Troubles - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:30:00", 
+            "document": "List of chronologies of Provisional Irish Republican Army actions - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:30:00", 
+            "document": "Irish News - Shankill - The Troubles - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:30:00", 
+            "document": "British troops investigate a couple on the street in Belfast - The Troubles - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 31, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:35:00", 
+            "document": "Good Friday Agreement - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 24, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-03T11:35:00", 
+            "document": "Sean Kelly (Irish republican) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T11:35:00", 
+            "document": "sean kelly ira - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T11:35:00", 
+            "document": "sean kelly - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T11:40:00", 
+            "document": "store method references in list java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 36, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T11:45:00", 
+            "document": "lambda - Save a method into a variable, java 8 - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T11:45:00", 
+            "document": "Can Java store methods in arrays? - Stack Overflow"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 45, 
+            "activity": "444.hu", 
+            "date": "2015-11-03T12:25:00", 
+            "document": "Hatalmas z\u00f6ld t\u0171zgoly\u00f3 szelte \u00e1t az \u00e9gboltot Bangkokban - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "444.hu", 
+            "date": "2015-11-03T12:25:00", 
+            "document": "Hatalmas iv\u00f3s bulikat, p\u00f3kerpartikat szerveztek, \u00e9s f\u00fcvet \u00e1rultak a vil\u00e1g legvid\u00e1mabb McDonald's-\u00e1ban - 444"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T12:30:00", 
+            "document": "Java: Do more references to one variable cost more memory? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T12:30:00", 
+            "document": "replace inheritance with delegation java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T12:30:00", 
+            "document": "do references cost memory - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T12:55:00", 
+            "document": "java - add a list in a hashset using addAll - Stack Overflow"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-11-03T12:55:00", 
+            "document": "Replace Inheritance with Delegation"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T12:55:00", 
+            "document": "add list to set java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 33, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T13:35:00", 
+            "document": "User P\u00e9ter T\u00f6r\u00f6k - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T13:40:00", 
+            "document": "first in last out java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 45, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T13:45:00", 
+            "document": "reinsert element queue - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 38, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T13:45:00", 
+            "document": "List vs Queue vs Set of collections in Java - Stack Overflow"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 22, 
+            "activity": "index.hu", 
+            "date": "2015-11-03T13:45:00", 
+            "document": "Index - Belf\u00f6ld - A vil\u00e1g legabszurdabb vas\u00fati \u00e1tj\u00e1r\u00f3ja k\u00e9sz\u00fclt el Si\u00f3fokon"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T13:45:00", 
+            "document": "queue vs list - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-11-03T13:45:00", 
+            "document": "Queue (Java Platform SE 7 )"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T14:10:00", 
+            "document": "copy list to queue - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T14:10:00", 
+            "document": "queue implementation in java - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-11-03T14:20:00", 
+            "document": "ArrayBlockingQueue (Java Platform SE 8 )"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T14:35:00", 
+            "document": "java.lang.IllegalArgumentException arrayblockingqueue - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T14:50:00", 
+            "document": "reinsert element at the end of queue java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:00:00", 
+            "document": "push to different remote branch - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T16:00:00", 
+            "document": "version control - How can I push a local Git branch to a remote with a different name easily? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T16:00:00", 
+            "document": "git - Push commits to another branch - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 83, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T16:05:00", 
+            "document": "wthx2015display \u2014 -zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 67, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T16:05:00", 
+            "document": "How do you create a remote Git branch? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:05:00", 
+            "document": "create a new branch - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:05:00", 
+            "document": "mopidy.local - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T16:05:00", 
+            "document": "wthx2015display \u2014 ping"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T16:05:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 56, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T16:10:00", 
+            "document": "How to commit my current changes to a different branch in git - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T16:10:00", 
+            "document": "git - Showing which files have changed between two revisions - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T16:10:00", 
+            "document": "wthx2015display \u2014 git"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T16:10:00", 
+            "document": "github - Delete a Git branch both locally and remotely - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-03T16:10:00", 
+            "document": "Git commit all files using single command - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:10:00", 
+            "document": "git remove branch - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:10:00", 
+            "document": "git commit to different branch - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:10:00", 
+            "document": "git commit all - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:10:00", 
+            "document": "see differences between branches git - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T16:15:00", 
+            "document": "wthx2015display \u2014 git-remote-https"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:15:00", 
+            "document": "LUSTlab / WTHX2015App \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 4, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:15:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:15:00", 
+            "document": "create remote branch git - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 31, 
+            "activity": "Terminal", 
+            "date": "2015-11-03T16:20:00", 
+            "document": "wthx2015display \u2014 less"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 18, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:20:00", 
+            "document": "LUSTlab / WTHX2015App / commit / b5b46b6e64ad \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 12, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:20:00", 
+            "document": "LUSTlab / WTHX2015App / refactored \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:20:00", 
+            "document": "LUSTlab / WTHX2015App / Branches \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:20:00", 
+            "document": "LUSTlab / WTHX2015App / Commits \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:20:00", 
+            "document": "https://bitbucket.org/LUSTlab/wthx2015app/branches/"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 12, 
+            "activity": "sublime text", 
+            "date": "2015-11-03T16:45:00", 
+            "document": ".gitignore \u2014 FF, FF2"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:45:00", 
+            "document": "git remove added files - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 7, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:45:00", 
+            "document": "LUSTlab / WTHX2015App / master \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 6, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:45:00", 
+            "document": "LUSTlab / WTHX2015App / source / src / main / resources \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:45:00", 
+            "document": "reload gitignoe - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:45:00", 
+            "document": "LUSTlab / WTHX2015App / source / \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-11-03T16:45:00", 
+            "document": "LUSTlab / WTHX2015App / source / src / main \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:45:00", 
+            "document": "reload zshrc - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 30, 
+            "activity": "444.hu", 
+            "date": "2015-11-03T16:50:00", 
+            "document": "Err\u0151l a hipnotikus k\u00e9pr\u0151l \u00f3r\u00e1kig nem tudod majd levenni a szemedet - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T16:50:00", 
+            "document": "replace old calipers - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 15, 
+            "activity": "slack", 
+            "date": "2015-11-03T16:55:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 46, 
+            "activity": "444.hu", 
+            "date": "2015-11-03T16:55:00", 
+            "document": "T\u00f6meg\u00e9vel vitt\u00e9k el a gyerekek el\u0151l a kaj\u00e1t a menz\u00e1sok - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 22, 
+            "activity": "444.hu", 
+            "date": "2015-11-03T16:55:00", 
+            "document": "\u00c9s olyan s\u00e1rga, hat\u00e1svad\u00e1sz geci kiemel\u00e9st hogy kell? - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T17:05:00", 
+            "document": "wthx - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 19, 
+            "activity": "444.hu", 
+            "date": "2015-11-03T17:30:00", 
+            "document": "H\u00fclye, h\u00fcly\u00e9bb, legh\u00fcly\u00e9bb, rend\u0151r, post\u00e1s, K\u00f3sa Lajos, Juh\u00e1sz P\u00e9ter - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-11-03T17:55:00", 
+            "document": "101.5 fahrenheit to celsius - Google Search"
+        }
+    ]
+}

@@ -1,0 +1,754 @@
+{
+    "2015-08-27": [
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 23, 
+            "activity": "Finder", 
+            "date": "2015-08-27T10:20:00", 
+            "document": "Fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-27T10:20:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T10:25:00", 
+            "document": "Triangle.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 20, 
+            "activity": "slack", 
+            "date": "2015-08-27T10:25:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 8, 
+            "activity": "newtab", 
+            "date": "2015-08-27T10:25:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 17, 
+            "activity": "translate.google.com", 
+            "date": "2015-08-27T10:25:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-27T10:25:00", 
+            "document": "Processing \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-27T10:30:00", 
+            "document": "java - Calculation of intersections between line segments - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T10:30:00", 
+            "document": "nl09 rabo - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T10:30:00", 
+            "document": "intersection of line segments java - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "mathsisfun.com", 
+            "date": "2015-08-27T10:30:00", 
+            "document": "Inverse Sine, Cosine, Tangent"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 95, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-27T10:35:00", 
+            "document": "geometry - How do you detect where two line segments intersect? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 38, 
+            "activity": "github.com", 
+            "date": "2015-08-27T10:45:00", 
+            "document": "line-segments-intersect/line-segments-intersect.js at master \u00b7 pgkelley4/line-segments-intersect"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 223, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "layered_sketch1.mp4"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 34, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "The illusion of life on Vimeo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "Orange"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "martijn van boven - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-27T10:50:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T10:55:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T10:55:00", 
+            "document": "VideoLayer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T10:55:00", 
+            "document": "hubbub-sketch - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T11:00:00", 
+            "document": "periods of high hearbeat - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-27T11:05:00", 
+            "document": "fira mono"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T11:05:00", 
+            "document": "pom.xml - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T11:05:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T11:05:00", 
+            "document": "hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T11:10:00", 
+            "document": "Animation.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T11:30:00", 
+            "document": "Stream.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T11:40:00", 
+            "document": "calculate angle middle line - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 46, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T11:45:00", 
+            "document": "angle bisector java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-27T11:45:00", 
+            "document": "Posts containing 'angle bisector' - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-27T11:45:00", 
+            "document": "Human Verification - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T11:45:00", 
+            "document": "calculate angle bisector - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-27T12:15:00", 
+            "document": "ffmpegOutput.txt \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-08-27T12:15:00", 
+            "document": "geometry.txt \u2014 MN_MAIN"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 83, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T12:35:00", 
+            "document": "Geometry.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T12:45:00", 
+            "document": "java triangle inscribed circle - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 51, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-27T12:50:00", 
+            "document": "javascript - drawing Inscribe a Circle in a Triangle using a canvas - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 22, 
+            "activity": "answers.google.com", 
+            "date": "2015-08-27T12:50:00", 
+            "document": "Google Answers: Java Triangle Program"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T12:50:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-27T13:05:00", 
+            "document": "ae.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 12, 
+            "activity": "java2s.com", 
+            "date": "2015-08-27T14:00:00", 
+            "document": "Calculating trigonometric functions : Math\u00a0\u00ab\u00a0Development Class\u00a0\u00ab\u00a0Java"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T14:00:00", 
+            "document": "cotangent - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T14:00:00", 
+            "document": "cotangent java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 78, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-27T14:15:00", 
+            "document": "math - How do I calculate the normal vector of a line segment? - Stack Overflow"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-27T14:15:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T14:15:00", 
+            "document": "perpendicular line vector - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T14:15:00", 
+            "document": "perpendicular line vector java - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-27T14:15:00", 
+            "document": "Chaumont_sketch"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-27T14:15:00", 
+            "document": "IdeaProjects"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T14:25:00", 
+            "document": "/Users/GaborK/IdeaProjects/sketches/lustlab-hubbub-sketch/src/main/java/net/gaborkerekes/sketches/animation/Triangle.java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T14:25:00", 
+            "document": "Animatable.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 36, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T14:55:00", 
+            "document": "FontImageMapManager.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T14:55:00", 
+            "document": "FontImageMap.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 41, 
+            "activity": "intellij idea", 
+            "date": "2015-08-27T15:30:00", 
+            "document": "Easing.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 59, 
+            "activity": "quicktime player", 
+            "date": "2015-08-27T16:10:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "quicktime player", 
+            "date": "2015-08-27T16:10:00", 
+            "document": "Export Progress"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "quicktime player", 
+            "date": "2015-08-27T16:10:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 4, 
+            "activity": "quicktime player", 
+            "date": "2015-08-27T16:10:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-27T16:15:00", 
+            "document": "easing"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-27T16:15:00", 
+            "document": "heartbeats"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 31, 
+            "activity": "Finder", 
+            "date": "2015-08-27T16:20:00", 
+            "document": "Miro Video Converter"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-08-27T16:20:00", 
+            "document": "eureka"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-08-27T16:20:00", 
+            "document": "firamono"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T16:25:00", 
+            "document": "quadratic easing - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-27T16:25:00", 
+            "document": "circular easing - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 18, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-27T17:25:00", 
+            "document": "quadraticinout.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 11, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-27T17:25:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 8, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-27T17:25:00", 
+            "document": "quartinout.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 8, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-27T17:25:00", 
+            "document": "cubicinout.mp4"
+        }
+    ]
+}

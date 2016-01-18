@@ -1,0 +1,1044 @@
+{
+    "2015-10-26": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 70, 
+            "activity": "444.hu", 
+            "date": "2015-10-26T09:35:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 20, 
+            "activity": "index.hu", 
+            "date": "2015-10-26T09:35:00", 
+            "document": "Index - Tech - Mindenki el\u00e1jul ezekt\u0151l az \u00faj k\u00fcty\u00fckt\u0151l"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 89, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T09:40:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 90, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T09:40:00", 
+            "document": "Whaddaya Say - Cyanide & Happiness Shorts - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 6, 
+            "activity": "index.hu", 
+            "date": "2015-10-26T09:40:00", 
+            "document": "Index - Tech - Leboml\u00f3 dr\u00f3nokat k\u00e9sz\u00edt a DARPA"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 83, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T09:45:00", 
+            "document": "Ladies Night - Cyanide & Happiness Shorts - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T09:45:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 17, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T09:45:00", 
+            "document": "ExplosmEntertainment - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T10:25:00", 
+            "document": "social borrowing tools online - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T10:25:00", 
+            "document": "intellij idea - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T10:25:00", 
+            "document": "peerby - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 65, 
+            "activity": "slack", 
+            "date": "2015-10-26T10:30:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 31, 
+            "activity": "Finder", 
+            "date": "2015-10-26T10:30:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 39, 
+            "activity": "Finder", 
+            "date": "2015-10-26T10:30:00", 
+            "document": "IntelliJ IDEA 15 CE EAP"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 21, 
+            "activity": "Finder", 
+            "date": "2015-10-26T10:30:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-26T10:30:00", 
+            "document": "IntelliJ IDEA 15 EAP"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-26T10:30:00", 
+            "document": "ATSackersLightRoman Folder"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 123, 
+            "activity": "calendar", 
+            "date": "2015-10-26T10:40:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 29, 
+            "activity": "Preview", 
+            "date": "2015-10-26T10:40:00", 
+            "document": "Adorno-Culture-Industry.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 16, 
+            "activity": "System Preferences", 
+            "date": "2015-10-26T10:40:00", 
+            "document": "PANASONIC PT-EX600E"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 13, 
+            "activity": "System Preferences", 
+            "date": "2015-10-26T10:40:00", 
+            "document": "Built-in Retina Display"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 3, 
+            "activity": "TextEdit", 
+            "date": "2015-10-26T10:45:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 75, 
+            "activity": "facebook.com", 
+            "date": "2015-10-26T10:55:00", 
+            "document": "Kata Keresztesi - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 24, 
+            "activity": "facebook.com", 
+            "date": "2015-10-26T10:55:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-26T10:55:00", 
+            "document": "Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-26T10:55:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-26T11:00:00", 
+            "document": "oneonetwo \u2014 -zsh"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 56, 
+            "activity": "VLC Media Player", 
+            "date": "2015-10-26T11:15:00", 
+            "document": "grid_echte_data.mov"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-10-26T11:15:00", 
+            "document": "SNEAKERNET8"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 8, 
+            "activity": "System Preferences", 
+            "date": "2015-10-26T11:15:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:15:00", 
+            "document": "invert screen mac - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "System Preferences", 
+            "date": "2015-10-26T11:15:00", 
+            "document": "Accessibility"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-26T11:20:00", 
+            "document": "java - Changing the background color of an intellij pane - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:20:00", 
+            "document": "dmalch/ColorIde"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:20:00", 
+            "document": "intellij set brightness - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:20:00", 
+            "document": "ColorIde/Tree (with PatchIde) - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:20:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:25:00", 
+            "document": "daylight beamer - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-26T11:25:00", 
+            "document": "ANSI (disambiguation) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:25:00", 
+            "document": "pt-ex600 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:25:00", 
+            "document": "ansi - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:25:00", 
+            "document": "pt-ex500el - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 43, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:30:00", 
+            "document": "12000 lumens projector - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:30:00", 
+            "document": "Panasonic PT-DZ12000U - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 29, 
+            "activity": "amazon.com", 
+            "date": "2015-10-26T11:30:00", 
+            "document": "Amazon.com: PT-D12000U 12000 Lumens 1400 x 1050 5000:1 Large Venue DLP Projector: Electronics"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:30:00", 
+            "document": "brightest beamer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:30:00", 
+            "document": "panasonic pt ex600 - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 72, 
+            "activity": "Finder", 
+            "date": "2015-10-26T11:40:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 42, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-26T11:40:00", 
+            "document": "Learn Java | Codecademy"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 12, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-26T11:40:00", 
+            "document": "Learn | Codecademy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:40:00", 
+            "document": "codecademy - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 54, 
+            "activity": "Preview", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "Screen Shot 2015-10-26 at 11.40.21"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 43, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "dmalch/PatchIde"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "ColorIde/ColorIde.png at master \u00b7 dmalch/ColorIde"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "color ide github - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "patch ide intellij - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "Issues \u00b7 dmalch/ColorIde"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "PatchIde/BlackNodes.png at master \u00b7 dmalch/PatchIde"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "dmalch (Dmitry Malchikov)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "PatchIde/GreenBackgroundFixed.png at master \u00b7 dmalch/PatchIde"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "color identifier - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "PatchIde/BrokenSettings.png at master \u00b7 dmalch/PatchIde"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "Page not found \u00b7 GitHub"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-26T11:45:00", 
+            "document": "Pull Requests \u00b7 dmalch/ColorIde"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 53, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-26T13:40:00", 
+            "document": "Talk Talk - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 32, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-26T13:40:00", 
+            "document": "Talking Heads - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 8, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-26T13:40:00", 
+            "document": "Mark Hollis (musician) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T13:40:00", 
+            "document": "tom tom club - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T13:40:00", 
+            "document": "talk talk - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T13:40:00", 
+            "document": "there's no beginning and there is no end - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T13:40:00", 
+            "document": "talk talk wiki - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T13:40:00", 
+            "document": "talking heads - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T13:45:00", 
+            "document": "autechre exai - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T13:45:00", 
+            "document": "Autechre - T ess xi - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 6, 
+            "activity": "VLC Media Player", 
+            "date": "2015-10-26T14:20:00", 
+            "document": "test.mov"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 32, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T14:45:00", 
+            "document": "Electric Youth - Faces - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T14:45:00", 
+            "document": "clio faces cover - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 6, 
+            "activity": "VLC Media Player", 
+            "date": "2015-10-26T14:45:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T14:45:00", 
+            "document": "Autechre - Montreal - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T15:00:00", 
+            "document": "Dreams West - Tribes - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T15:00:00", 
+            "document": "sami koivikko - tonalite - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 58, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-26T15:15:00", 
+            "document": "java - Storing 2D array into a file - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T15:15:00", 
+            "document": "save 2d array to file java - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-26T15:15:00", 
+            "document": "Sami Koivikko - Live @ Ph. Dog 03.02.05 - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T15:20:00", 
+            "document": "objectoutputs - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T15:20:00", 
+            "document": "objectoutputstream - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 108, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-26T15:30:00", 
+            "document": "Writing 2d int Array to file JAVA - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 49, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-26T15:30:00", 
+            "document": "how to write one and two dimensional array into a text file in Java - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 87, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-26T15:35:00", 
+            "document": "How to Write text file Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T15:35:00", 
+            "document": "write to text file java - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-26T15:40:00", 
+            "document": "fontfonts"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "TextEdit", 
+            "date": "2015-10-26T15:40:00", 
+            "document": "d"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-10-26T15:40:00", 
+            "document": "d \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-10-26T15:40:00", 
+            "document": "brain fog \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-10-26T15:40:00", 
+            "document": "index.html \u2014 .pomo, hosttest"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-26T15:50:00", 
+            "document": "Stream from two dimensional array in java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T15:50:00", 
+            "document": "stream of 2d array java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 38, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-26T15:55:00", 
+            "document": "Java find min and max value in 2d array. Minimum value found is not correct - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T15:55:00", 
+            "document": "find lowest in 2d array java stream - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 7, 
+            "activity": "tweakers.net", 
+            "date": "2015-10-26T16:25:00", 
+            "document": "Motorola Moto E (2015) Zwart - Prijzen - Tweakers"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 4, 
+            "activity": "tweakers.net", 
+            "date": "2015-10-26T16:25:00", 
+            "document": "Tweakers"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 31, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-26T16:55:00", 
+            "document": "Best way to read a text file in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T16:55:00", 
+            "document": "read text file java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-26T17:20:00", 
+            "document": "flatmaptoint - Google Search"
+        }
+    ]
+}

@@ -1,0 +1,1354 @@
+{
+    "2015-07-25": [
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 4, 
+            "activity": "dataset.readthedocs.org", 
+            "date": "2015-07-25T13:10:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 22, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:10:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 6, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:10:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 24, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:15:00", 
+            "document": "53 \u00e9ve \u00e9g egy amerikai kisv\u00e1ros, m\u00e1ra csak tizenegy lakosa maradt !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:15:00", 
+            "document": "444.hu/2015/07/24/53-eve-langol-egy-amerikai-kisvaros-mara-csak-tizenegy-lakosa-maradt/"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 109, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:25:00", 
+            "document": "Az ukr\u00e1n startupper esze csavarosabb volt a nig\u00e9riai csal\u00f3n\u00e1l !!444!!!"
+        }, 
+        {
+            "category": "Voice Chat", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 15, 
+            "activity": "Skype", 
+            "date": "2015-07-25T13:25:00", 
+            "document": "Skype"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 39, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T13:30:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 2, 
+            "activity": "index.hu", 
+            "date": "2015-07-25T13:30:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 102, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:30:00", 
+            "document": "A roz\u00e9\u0151r\u00fcletben lenyomtuk Nagy-Britanni\u00e1t !!444!!!"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 13, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T13:30:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T13:30:00", 
+            "document": "Current Call"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 5, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:30:00", 
+            "document": "VIL\u00c1GOS?!? - Keress\u00fck a leg\u00e9rthet\u0151bb \u00e9s leg\u00e9rthetetlenebb magyar sz\u00f6vegeket !!444!!!"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T13:30:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T13:35:00", 
+            "document": "open works - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 9, 
+            "activity": "index.hu", 
+            "date": "2015-07-25T13:35:00", 
+            "document": "Index - Tech"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T13:35:00", 
+            "document": "umberto eco open works - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T13:35:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 90, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:40:00", 
+            "document": "B\u0171v\u00e9szek tr\u00e9f\u00e1lt\u00e1k meg a Sky News h\u00edrad\u00f3s\u00e1t !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 69, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:40:00", 
+            "document": "Mi\u00e9rt ne f\u00e9lj\u00fcnk att\u00f3l, hogy a robotok elveszik a munk\u00e1nkat? !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 34, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:40:00", 
+            "document": "V\u00e1ratlanul meghalt T\u00f3\u00e1s\u00f3 El\u0151d bol\u00edviai feles\u00e9ge !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:40:00", 
+            "document": "Tuti tippek azoknak, akik a h\u0151s\u00e9g miatt nem tudnak aludni !!444!!!"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-07-25T13:40:00", 
+            "document": "http://monoskop.org/images/6/6b/Eco_Umberto_The_Open_Work.pdf is not available"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:40:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:40:00", 
+            "document": "traffic.outbrain.com/network/redir?p=28vma8A6OCB0YWPp7x9hi1EN30tdeTEAwzLyfo801U2EaKXQvQmNAYcFrFAp8F0TJdcbJAowuBkpo_ZRofFQetm6AXCVtRAQUYyThrfE6ynEkvFhuZUbdAuMdzBPduz3LI6aODpRQBE8RZmIiOoQiRgartQSCXM6ioJCGqOVvY7jFtMuwA5mmNOfl6pLSZ4IgrS_GqpGdT-VAMJLsyZlKYzZjA"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 156, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:45:00", 
+            "document": "\u00d6ssze\u00fclt a jobboldal gerince, hogy megvitass\u00e1k, merre tart Eur\u00f3pa !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 17, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T13:50:00", 
+            "document": "\u00dajabb sz\u00f6rny\u0171 b\u0171n\u00e9t vallotta be a b\u00f6rt\u00f6nben \u00fcl\u0151 katolikus szextan\u00e1rn\u0151 !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 53, 
+            "activity": "index.hu", 
+            "date": "2015-07-25T13:55:00", 
+            "document": "Index - Tech - Brut\u00e1lis fegyvert kaptak a hekkerpal\u00e1nt\u00e1k"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T14:00:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 47, 
+            "activity": "index.hu", 
+            "date": "2015-07-25T14:00:00", 
+            "document": "Index - Tech - M\u00e1gneses t\u00f6lt\u0151fejet kap minden mobil"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "index.hu", 
+            "date": "2015-07-25T14:00:00", 
+            "document": "index.hu/tech/cellanaplo/2015/07/21/magneses_toltofejet_kap_minden_mobil/"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:10:00", 
+            "document": "cryptodesign - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 24, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T14:15:00", 
+            "document": "07-15.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-25T14:15:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-25T14:15:00", 
+            "document": "Desktop"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 62, 
+            "activity": "bbc.com", 
+            "date": "2015-07-25T14:20:00", 
+            "document": "BBC - Earth - The largest thing in the universe"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 75, 
+            "activity": "slack", 
+            "date": "2015-07-25T14:20:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "bbc.com", 
+            "date": "2015-07-25T14:20:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T14:25:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:25:00", 
+            "document": "what to do when hangover - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:30:00", 
+            "document": "coding hangover - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:30:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:30:00", 
+            "document": "activities for hangover - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:30:00", 
+            "document": "create db postgres - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-25T14:30:00", 
+            "document": "PostgreSql command to see the table data - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-07-25T14:30:00", 
+            "document": "PostgreSQL - CREATE Table"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-25T14:30:00", 
+            "document": "datetime - Converting unix timestamp string to readable date in Python - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-25T14:30:00", 
+            "document": "postgresql - SQL base types: integer vs int? - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T14:30:00", 
+            "document": "Alog - Lonesome Train - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 70, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T14:40:00", 
+            "document": "Vera Van de Seyp - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T14:40:00", 
+            "document": "Messages"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 135, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T14:45:00", 
+            "document": "Ciprasz egyik minisztere a g\u00f6r\u00f6g p\u00e9nzverde kifoszt\u00e1s\u00e1ra k\u00e9sz\u00fclt !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:45:00", 
+            "document": "Aleska Diamond - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 22, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T14:45:00", 
+            "document": "Ha Magyarorsz\u00e1gra j\u00f6ssz, tiszteletben kell tartanod a kult\u00far\u00e1nkat! !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 18, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T14:45:00", 
+            "document": "N\u00e9zd, mit visel ez a l\u00e1ny a strandon, t\u00f6bb ezer ember szeme l\u00e1tt\u00e1ra! !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T14:45:00", 
+            "document": "traffic.outbrain.com/network/redir?p=WmCjeDU5N7i8ldgBD-3prq8uVVl-8qPYxG1u_10N5J-DDlPsdOYzes0q7deW5rn_MJwQZ7nHByiMMMFoSqRMPaiBZaWM7k_ZOpF_6146eRY6S1DK0ZtmVCqYDSqCRmsP9OQqfCmqJqULK_vuTVe1ZsmH2WR1q3Yac7ci4MUto_BMZpnEvDVrmZOB4nAZr_0bGtkj5x6bY7gmPBKhP7-siKJQqG"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 106, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-25T14:50:00", 
+            "document": "Internet Relay Chat - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 31, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-25T14:50:00", 
+            "document": "Transmission Control Protocol - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 26, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-25T14:50:00", 
+            "document": "Xaric screen shot - Internet Relay Chat - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:50:00", 
+            "document": "irc - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 13, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-25T14:50:00", 
+            "document": "Screenshot of HexChat in Windows 8 - Internet Relay Chat - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:50:00", 
+            "document": "irctc - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 171, 
+            "activity": "reddit.com", 
+            "date": "2015-07-25T14:55:00", 
+            "document": "The Decline of IRC through my eyes : irc"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:55:00", 
+            "document": "freenode - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T14:55:00", 
+            "document": "decline of irc - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:10:00", 
+            "document": "irc tutorial terminal mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:10:00", 
+            "document": "irc tutorial terminal - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:10:00", 
+            "document": "irc tutorial - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 11, 
+            "activity": "quora.com", 
+            "date": "2015-07-25T15:15:00", 
+            "document": "(4) Which one should I start first: Ruby on Rails or Django? - Quora"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 103, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-07-25T15:15:00", 
+            "document": "Is Perl still a useful, viable language? - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 41, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:15:00", 
+            "document": "ruby syntax - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:15:00", 
+            "document": "ruby - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:15:00", 
+            "document": "ruby vs ruby on raisl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:15:00", 
+            "document": "who uses perl - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 81, 
+            "activity": "heroku.com", 
+            "date": "2015-07-25T15:20:00", 
+            "document": "Heroku | Cloud Application Platform"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 69, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-25T15:20:00", 
+            "document": "What exactly is Heroku? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:20:00", 
+            "document": "heroku - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:20:00", 
+            "document": "what is heroku for - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "index.hu", 
+            "date": "2015-07-25T15:25:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Van egy dolog, amit\u0151l majdnem ugyanannyira retteg a vil\u00e1g, mint az Iszl\u00e1m \u00c1llamt\u00f3l"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:25:00", 
+            "document": "open source heroku - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:25:00", 
+            "document": "pull request - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "aws.amazon.com", 
+            "date": "2015-07-25T15:25:00", 
+            "document": "Amazon Web Services (AWS) - Cloud Computing Services"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:25:00", 
+            "document": "Deis Overview | Your Paas. Your Rules."
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T15:50:00", 
+            "document": "app.js \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 20, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T15:50:00", 
+            "document": "nwjs \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 17, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T15:50:00", 
+            "document": "07-15.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-07-25T15:50:00", 
+            "document": "Applications"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 65, 
+            "activity": "github.com", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "popcorn-official/popcorn-desktop"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 22, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "settings.js \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "popcorn-desktop/LICENSE.txt at development \u00b7 popcorn-official/popcorn-desktop"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "json_to_postgresql.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 9, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "httpapi.js \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "popcorntime github - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "language.js \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "updater.js \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "vpn.js \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "Popcorn Time"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-25T15:55:00", 
+            "document": "common.js \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 46, 
+            "activity": "facebook.com", 
+            "date": "2015-07-25T16:25:00", 
+            "document": "Nico Urban"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-25T16:25:00", 
+            "document": "json2csv-master \u2014 bash"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T16:30:00", 
+            "document": "grunt - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T16:30:00", 
+            "document": "bower - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 43, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-25T16:35:00", 
+            "document": "Humans (TV series) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T16:35:00", 
+            "document": "humans series - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-07-25T17:40:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 70, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T18:20:00", 
+            "document": "Ez a kanadai t\u00f3 mindj\u00e1rt beleugrik abba a szakad\u00e9kba, ott! !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 66, 
+            "activity": "444.hu", 
+            "date": "2015-07-25T18:20:00", 
+            "document": "444.hu/2015/07/25/ez-a-kanadai-to-mindjart-beleugrik-abba-a-szakadekba-ott/"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:20:00", 
+            "document": "humans television series - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 37, 
+            "activity": "reddit.com", 
+            "date": "2015-07-25T18:20:00", 
+            "document": "How long will the series run? : shield"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:20:00", 
+            "document": "how long do series run - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:20:00", 
+            "document": "the expanse - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:20:00", 
+            "document": "the syndicate - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 7, 
+            "activity": "imdb.com", 
+            "date": "2015-07-25T18:25:00", 
+            "document": "The Syndicate (TV Series 2012\u2013 ) - IMDb"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:25:00", 
+            "document": "haskell - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:25:00", 
+            "document": "Mr. Robot: Season 1 - Rotten Tomatoes"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 135, 
+            "activity": "coursera.org", 
+            "date": "2015-07-25T18:35:00", 
+            "document": "Functional Programming Principles in Scala - \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne | Coursera"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:35:00", 
+            "document": "functional programmming in java - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 4, 
+            "activity": "coursera.org", 
+            "date": "2015-07-25T18:35:00", 
+            "document": "Coursera - Free Online Courses From Top Universities"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:35:00", 
+            "document": "functional programmming in scala - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:35:00", 
+            "document": "scala - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 101, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-07-25T18:40:00", 
+            "document": "Why Use Scala over Java - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 49, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-25T18:40:00", 
+            "document": "user interface - Suitable GUI framework for Scala? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:40:00", 
+            "document": "why use scala - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:40:00", 
+            "document": "scala gui - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:40:00", 
+            "document": "scala examples - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 148, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T18:45:00", 
+            "document": "JavaScript Closures 101: What is a closure? - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T18:45:00", 
+            "document": "closure function - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-07-25T18:45:00", 
+            "document": "closure - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T18:45:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T18:45:00", 
+            "document": "dlowu43 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T18:45:00", 
+            "document": "closure - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T18:45:00", 
+            "document": "closur - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 102, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T18:50:00", 
+            "document": "33rd Degree 2014 - The Joy of Functional Programming - Venkat Subramaniam - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 22, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T18:50:00", 
+            "document": "functional programming - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 29, 
+            "activity": "youtube.com", 
+            "date": "2015-07-25T18:50:00", 
+            "document": "UHCL 27a Graduate Database Course - How to use Functional Dependencies to determine keys - YouTube"
+        }
+    ]
+}

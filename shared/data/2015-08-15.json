@@ -1,0 +1,2624 @@
+{
+    "2015-08-15": [
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 17, 
+            "activity": "freetype.org", 
+            "date": "2015-08-15T12:35:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 4, 
+            "activity": "newtab", 
+            "date": "2015-08-15T12:35:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 23, 
+            "activity": "facebook.com", 
+            "date": "2015-08-15T12:35:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-15T12:35:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-15T12:35:00", 
+            "document": "b3nson/petter"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 9, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T12:40:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "199 Theresiastraat - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 29, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "Meger\u0151szakolta \u00e9s tulajdonak\u00e9nt kezelte az ISIS-vezet\u0151 az amerikai t\u00faszt !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "fietsen reparatie den haag - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "Mobiele Fietsreparatie Schakel - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "Tweewielers van Woerden B.V. - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "fietsen reparatie - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "fiets - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "fietsen reparatie den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "Arie's Tweewielerservice - Google Maps"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "444.hu/2015/08/14/megeroszakolta-es-tulajdonakent-kezelte-az-isis-vezeto-az-amerikai-tuszt/"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T12:45:00", 
+            "document": "https://www.google.nl/maps?q=fietsen+reparatie+den+haag&ion=1&espv=2&es_th=1&bav=on.2,or.r_cp.&bvm=bv.99804247,d.d2s&biw=1436&bih=717&dpr=2&um=1&ie=UTF-8&sa=X&ved=0CAYQ_AUoAWoVChMIzrLJ0vSqxwIVBdYaCh0OKwt5"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 128, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T13:15:00", 
+            "document": "How to make or Prepare Mate Tea The Mate the Argentin drink. - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:15:00", 
+            "document": "how to prepare mate - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-15T13:15:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 84, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-15T13:20:00", 
+            "document": "Yerba mate - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 116, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T13:20:00", 
+            "document": "5 Common Mistakes about Yerba Mate - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:20:00", 
+            "document": "yerba mate - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:25:00", 
+            "document": "mate dosage - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 24, 
+            "activity": "answers.yahoo.com", 
+            "date": "2015-08-15T13:25:00", 
+            "document": "How many tablespoons or teaspoons are there in a gram? | Yahoo Answers"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:25:00", 
+            "document": "mate portion - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:25:00", 
+            "document": "mate tea dosage - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:25:00", 
+            "document": "3g in tablespoon - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 10, 
+            "activity": "facebook.com", 
+            "date": "2015-08-15T13:30:00", 
+            "document": "Coded Matter(s) #10: Algorithmic Wildlife"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:30:00", 
+            "document": "mate tea dosage grams - Google Search"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 53, 
+            "activity": "indiegogo.com", 
+            "date": "2015-08-15T13:35:00", 
+            "document": "ASMO Charger: Unplugging Chargers is So Last Year | Indiegogo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:35:00", 
+            "document": "jolla tablet - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 10, 
+            "activity": "Twitter", 
+            "date": "2015-08-15T13:35:00", 
+            "document": "JollaFr on Twitter: \"La batterie du #HTC Desire 310 est compatible avec le #Jolla - http://t.co/bUPtgtIw7O http://t.co/SVojYVRMme\""
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:35:00", 
+            "document": "jolla tablet t - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 61, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T13:40:00", 
+            "document": "See the Sailfish-powered Android rival Jolla Tablet - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T13:40:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:40:00", 
+            "document": "jolla tablet release date - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:40:00", 
+            "document": "jolla tablet preorder - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T13:40:00", 
+            "document": "jolla tablet - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:40:00", 
+            "document": "jolla store - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 66, 
+            "activity": "index.hu", 
+            "date": "2015-08-15T13:45:00", 
+            "document": "Index - Nagyk\u00e9p - Sz\u00e9ps\u00e9gek M\u00e1ramarost\u00f3l a dzsungelig"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 26, 
+            "activity": "index.hu", 
+            "date": "2015-08-15T13:45:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-15T13:45:00", 
+            "document": "donbright/font_to_svg"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T13:45:00", 
+            "document": "jolla vs oneplus - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-15T13:45:00", 
+            "document": "glyphcollector/collection_handler.py at master \u00b7 krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 50, 
+            "activity": "facebook.com", 
+            "date": "2015-08-15T13:50:00", 
+            "document": "(1) Coded Matter(s) #10: Algorithmic Wildlife"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 86, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T13:55:00", 
+            "document": "The Lost Art of Canada's Doomed Pre-Internet Web - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 34, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T14:50:00", 
+            "document": "N\u00e9gy \u00e9v b\u00f6rt\u00f6nt kapott a brit n\u0151, aki smiley-t \u00e9getett gyereke arc\u00e1ra egy \u00f6ngy\u00fajt\u00f3val !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 38, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T14:50:00", 
+            "document": "Egy floridai f\u00e9rfi elfelejtette, hogy az \u00e1llam\u00e1ban m\u00e9g illeg\u00e1lis a f\u0171, ez\u00e9rt a rend\u0151rs\u00e9ghez szaladt, mikor ellopt\u00e1k a cucc\u00e1t !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 15, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T14:50:00", 
+            "document": "Besz\u00edvott k\u00fclf\u00f6ldi di\u00e1kot kaptak el a rend\u0151r\u00f6k P\u00e9csen !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 29, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T14:55:00", 
+            "document": "100 sz\u00e1zal\u00e9kos kamatra adott k\u00f6lcs\u00f6nt hajl\u00e9ktalanoknak a k\u0151b\u00e1nyai uzsor\u00e1s !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 53, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T14:55:00", 
+            "document": "1100 km-t utazott a kiscsapat, hogy kiessen a Magyar Kup\u00e1b\u00f3l !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T14:55:00", 
+            "document": "444.hu/2015/08/13/100-szazalekos-kamatra-adott-kolcson-a-hajlektalanoknak-a-kobanyai-uzsoras/"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 227, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T15:00:00", 
+            "document": "Zokoghat a vil\u00e1gon k\u00f6rber\u00f6h\u00f6g\u00f6tt ronda pulink, olyan cs\u00fany\u00e1n tagadta meg \u0151t Gy\u00e1rf\u00e1s !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 17, 
+            "activity": "444.hu", 
+            "date": "2015-08-15T15:00:00", 
+            "document": "Elt\u00e1tod a sz\u00e1dat, mikor r\u00e1\u00e9bredsz, hogy Csepel milyen kibaszottul \u00e1llat !!444!!!"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 137, 
+            "activity": "w3schools.com", 
+            "date": "2015-08-15T15:05:00", 
+            "document": "JavaScript Reserved Words"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:05:00", 
+            "document": "while name javascript - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:05:00", 
+            "document": "while name - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:20:00", 
+            "document": "desktop app javascript python - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 36, 
+            "activity": "Terminal", 
+            "date": "2015-08-15T15:20:00", 
+            "document": "git \u2014 ncmpcpp"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 19, 
+            "activity": "Terminal", 
+            "date": "2015-08-15T15:20:00", 
+            "document": "git \u2014 Kit"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 21, 
+            "activity": "Terminal", 
+            "date": "2015-08-15T15:20:00", 
+            "document": "git \u2014 06."
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 9, 
+            "activity": "Terminal", 
+            "date": "2015-08-15T15:20:00", 
+            "document": "git \u2014 Zelienople"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-08-15T15:20:00", 
+            "document": "share \u2014 bash"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:20:00", 
+            "document": "purpakana - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-15T15:20:00", 
+            "document": "git \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-15T15:20:00", 
+            "document": "GaborK \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T15:25:00", 
+            "document": "Desktop Application Development with Javascript, Python / Ruby - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:25:00", 
+            "document": "enaml python - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:25:00", 
+            "document": "enamle - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:25:00", 
+            "document": "namle - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:25:00", 
+            "document": "enamle python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 133, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T15:30:00", 
+            "document": "How to develop Desktop Apps using HTML/CSS/JavaScript? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-15T15:30:00", 
+            "document": "nwjs/nw.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 6, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T15:30:00", 
+            "document": "chromiumembedded - A simple framework for embedding Chromium-based browsers in other applications. - Google Project Hosting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-15T15:30:00", 
+            "document": "adobe/brackets-shell"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T15:30:00", 
+            "document": "stackoverflow.com/questions/12232784/how-to-develop-desktop-apps-using-html-css-javascript"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 67, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T15:35:00", 
+            "document": "webkit - Package a python application with html/css/js frontend as a single executable - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:35:00", 
+            "document": "python app javascript front end - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 34, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-08-15T15:35:00", 
+            "document": "web development - Can I create a desktop Python GUI application and run it as a web app? - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:35:00", 
+            "document": "PyQt4.QtWebKit - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 6, 
+            "activity": "reddit.com", 
+            "date": "2015-08-15T15:35:00", 
+            "document": "Python Backends for Front-End javascript applications : Python"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T15:35:00", 
+            "document": "stackoverflow.com/questions/13995455/package-a-python-application-with-html-css-js-frontend-as-a-single-executable"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 24, 
+            "activity": "github.com", 
+            "date": "2015-08-15T15:40:00", 
+            "document": "List of apps and companies using nw.js \u00b7 nwjs/nw.js Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 35, 
+            "activity": "github.com", 
+            "date": "2015-08-15T15:40:00", 
+            "document": "How to run apps \u00b7 nwjs/nw.js Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 20, 
+            "activity": "github.com", 
+            "date": "2015-08-15T15:40:00", 
+            "document": "Shell \u00b7 nwjs/nw.js Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-08-15T15:40:00", 
+            "document": "zcbenz/nw-sample-apps"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:40:00", 
+            "document": "execute python program node js desktop app - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:45:00", 
+            "document": "pyside screenshots - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:45:00", 
+            "document": "pyside - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:45:00", 
+            "document": "https://www.google.nl/search?q=pyside&safe=off&es_sm=91&source=lnms&tbm=isch&sa=X&ved=0CAcQ_AUoAWoVChMIl-KcvJ2rxwIVRLQaCh39JQHV&biw=1436&bih=801"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 30, 
+            "activity": "reddit.com", 
+            "date": "2015-08-15T15:50:00", 
+            "document": "Python and Javascript - Where do you think Front-End architecture ends and Back-End begins? : Python"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:50:00", 
+            "document": "webkit pyside - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 124, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T15:55:00", 
+            "document": "webkit - How can I use HTML + Javascript to build a python GUI? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T15:55:00", 
+            "document": "Is there a python version of node-webkit - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:55:00", 
+            "document": "node webkit python - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 44, 
+            "activity": "quora.com", 
+            "date": "2015-08-15T15:55:00", 
+            "document": "(5) Which is better for cross-platform desktop app: QT or node-webkit? - Quora"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:55:00", 
+            "document": "nwjs python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-08-15T15:55:00", 
+            "document": "nwjs"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T15:55:00", 
+            "document": "nwjs - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "quora.com", 
+            "date": "2015-08-15T15:55:00", 
+            "document": "(4) Which is better for cross-platform desktop app: QT or node-webkit? - Quora"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "quora.com", 
+            "date": "2015-08-15T15:55:00", 
+            "document": "www.quora.com/Which-is-better-for-cross-platform-desktop-app-QT-or-node-webkit"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 37, 
+            "activity": "github.com", 
+            "date": "2015-08-15T16:00:00", 
+            "document": "jmalonzo/pywebkitgtk"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:00:00", 
+            "document": "PyWebKitGtk - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 20, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:00:00", 
+            "document": "pywebkitgtk - Python bindings for the WebKit GTK+ port - Google Project Hosting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 16, 
+            "activity": "gist.github.com", 
+            "date": "2015-08-15T16:00:00", 
+            "document": "[python][pywebkitgtk]Get web page screenshot"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-15T16:00:00", 
+            "document": "PyWebKitGtk github - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 3, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:05:00", 
+            "document": "cefpython - Python bindings for the Chromium Embedded Framework - Google Project Hosting"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 45, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-08-15T16:05:00", 
+            "document": "design - Browser-based GUI for a python application - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 72, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T16:05:00", 
+            "document": "desktop application - Run python script on node-webkit startup (nw.js) - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:05:00", 
+            "document": "WSGI - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-15T16:05:00", 
+            "document": "The GTK+ Project"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 58, 
+            "activity": "github.com", 
+            "date": "2015-08-15T16:10:00", 
+            "document": "eristoddle/CefBottleDesktop"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 40, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:10:00", 
+            "document": "CEF Python github - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 18, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:10:00", 
+            "document": "JavascriptBindings - cefpython - Python bindings for the Chromium Embedded Framework - Google Project Hosting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 9, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:10:00", 
+            "document": "Kivy - cefpython - Python bindings for the Chromium Embedded Framework - Google Project Hosting"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:10:00", 
+            "document": "bottle py - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-15T16:10:00", 
+            "document": "Python WSGI with Node-Webkit - Gerdus van Zyl Blog infireal.com"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:10:00", 
+            "document": "https://code.google.com/p/cefpython/wiki/Kivy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 48, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:15:00", 
+            "document": "node webkit vs cef - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 28, 
+            "activity": "quora.com", 
+            "date": "2015-08-15T16:15:00", 
+            "document": "(5) Why isn't Spotify built on top of Node.js and Node WebKit? - Quora"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T16:15:00", 
+            "document": "node.js - How does appjs or node-webkit brings nodejs and CEF together? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T16:15:00", 
+            "document": "node.js - Alternatives to node webkit? (filesize of importance) - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T16:15:00", 
+            "document": "stackoverflow.com/questions/22254375/alternatives-to-node-webkit-filesize-of-importance"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 2, 
+            "activity": "groups.google.com", 
+            "date": "2015-08-15T16:20:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "thesaurus.com", 
+            "date": "2015-08-15T16:20:00", 
+            "document": "Looking forward Synonyms, Looking forward Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T16:20:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-15T16:20:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 65, 
+            "activity": "bitbucket.org", 
+            "date": "2015-08-15T16:25:00", 
+            "document": "chromiumembedded / cef / wiki / Tutorial \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 44, 
+            "activity": "github.com", 
+            "date": "2015-08-15T16:25:00", 
+            "document": "Tutorials on Node WebKit \u00b7 nwjs/nw.js Wiki"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:25:00", 
+            "document": "cef app tutorial - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:25:00", 
+            "document": "python cef - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:25:00", 
+            "document": "cef app - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:25:00", 
+            "document": "nwjs tutorial - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:25:00", 
+            "document": "nwjs nodeschool - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:25:00", 
+            "document": "appjs vs nwjs - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:25:00", 
+            "document": "Tutorial - chromiumembedded - Tutorial explaining how to create a simple application using CEF3. - A simple framework for embedding Chromium-based browsers in other applications. - Google Project Hosting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 78, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:30:00", 
+            "document": "pyside.py - cefpython - Python bindings for the Chromium Embedded Framework - Google Project Hosting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 69, 
+            "activity": "bitbucket.org", 
+            "date": "2015-08-15T16:30:00", 
+            "document": "chromiumembedded / cef \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 58, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:30:00", 
+            "document": "API - cefpython - Python bindings for the Chromium Embedded Framework - Google Project Hosting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 21, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:30:00", 
+            "document": "PySide - cefpython - Python bindings for the Chromium Embedded Framework - Google Project Hosting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 15, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:30:00", 
+            "document": "Wiki Pages - cefpython - Python bindings for the Chromium Embedded Framework - Google Project Hosting"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 108, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T16:35:00", 
+            "document": "The Room - Roof Scene : \"Oh Hi Mark\" - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:35:00", 
+            "document": "the room - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T16:35:00", 
+            "document": "the room - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 5, 
+            "activity": "code.google.com", 
+            "date": "2015-08-15T16:35:00", 
+            "document": "Window"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-08-15T16:35:00", 
+            "document": "script2.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:35:00", 
+            "document": "https://www.google.nl/search?q=the+room&oq=the+room&aqs=chrome..69i57j69i65j0j69i60j0l2.832j1j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 230, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T16:40:00", 
+            "document": "The Room - Drug Dealer Scene - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 46, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T16:40:00", 
+            "document": "The Room - Flower Scene (HI DOGGY!) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T16:40:00", 
+            "document": "the room hi doggie - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 49, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T16:45:00", 
+            "document": "The Room - Tommy Wiseau quotes - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:50:00", 
+            "document": "cef tutorial - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-15T16:55:00", 
+            "document": "electron/docs at master \u00b7 atom/electron"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 41, 
+            "activity": "github.com", 
+            "date": "2015-08-15T16:55:00", 
+            "document": "atom/electron"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T16:55:00", 
+            "document": "atom shell vs nwjs - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 272, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-15T17:00:00", 
+            "document": "Atom Shell: Cross-platform desktop application shell | Hacker News"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:00:00", 
+            "document": "atom shell python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 20, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:05:00", 
+            "document": "LightTable/LightTable at atom-shell"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:05:00", 
+            "document": "PySide"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 38, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:10:00", 
+            "document": "breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:10:00", 
+            "document": "Atom"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:10:00", 
+            "document": "CefBottleDesktop/bottleserver.py at master \u00b7 eristoddle/CefBottleDesktop"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:10:00", 
+            "document": "CefBottleDesktop/launch.py at master \u00b7 eristoddle/CefBottleDesktop"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:10:00", 
+            "document": "CefBottleDesktop/lib at master \u00b7 eristoddle/CefBottleDesktop"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:10:00", 
+            "document": "atom electron - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:15:00", 
+            "document": "nwjs vs qt - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 23, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-15T17:15:00", 
+            "document": "Ask HN: Time to give up on Qt? | Hacker News"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 2, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-15T17:15:00", 
+            "document": "Meteor and Qt | Hacker News"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:20:00", 
+            "document": "electron python - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 11, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-15T17:20:00", 
+            "document": "What is Meteor.js? | Hacker News"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:20:00", 
+            "document": "meteor js - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 207, 
+            "activity": "reddit.com", 
+            "date": "2015-08-15T17:25:00", 
+            "document": "Electron as GUI of Python Applications : Python"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "reddit.com", 
+            "date": "2015-08-15T17:25:00", 
+            "document": "https://www.reddit.com/r/Python/comments/3b85ld/electron_as_gui_of_python_applications/"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 114, 
+            "activity": "reddit.com", 
+            "date": "2015-08-15T17:30:00", 
+            "document": "What is your favorite module for making GUI applications? : Python"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:30:00", 
+            "document": "thrust python - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:30:00", 
+            "document": "python gui 2015 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T17:30:00", 
+            "document": "python - How to use thrust with PyCuda? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:30:00", 
+            "document": "kivy - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:30:00", 
+            "document": "flask python - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 75, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-15T17:40:00", 
+            "document": "Electron as GUI of Python Applications | Hacker News"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 75, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:40:00", 
+            "document": "python kivy - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:40:00", 
+            "document": "thp/pyotherside"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 24, 
+            "activity": "quora.com", 
+            "date": "2015-08-15T17:40:00", 
+            "document": "(5) Python (programming language): What will be more beneficial? Kivy or Tkinter? - Quora"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T17:40:00", 
+            "document": "python kivy - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T17:40:00", 
+            "document": "kivy vs electron - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:45:00", 
+            "document": "brython-dev/brython"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-15T17:45:00", 
+            "document": "niwinz/phantompy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 129, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T18:00:00", 
+            "document": "Python Packaging HTML5 and JavaScript Program as Standalone Program - Desktop - GTK - Webkit - Linux - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:00:00", 
+            "document": "amol-mandhane/htmlPy"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 36, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T18:00:00", 
+            "document": "html - run python code using html5 - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:00:00", 
+            "document": "python html5 gui - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T18:00:00", 
+            "document": "https://www.youtube.com/watch?v=JFsueTM1QtU"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 35, 
+            "activity": "reddit.com", 
+            "date": "2015-08-15T18:05:00", 
+            "document": "OOP HTML5+CSS UI Framework : Python"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 26, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:05:00", 
+            "document": "rctk/rctk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 20, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:05:00", 
+            "document": "htmlPy/web_app_window.py at master \u00b7 amol-mandhane/htmlPy"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:05:00", 
+            "document": "htmlPy/htmlPy at master \u00b7 amol-mandhane/htmlPy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:05:00", 
+            "document": "pyjs github - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:05:00", 
+            "document": "rctk/rctk at master \u00b7 rctk/rctk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:05:00", 
+            "document": "rctk/app.py at master \u00b7 rctk/rctk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:05:00", 
+            "document": "Welcome to htmlPy\u2019s documentation! \u2014 htmlPy 1.6.0 documentation"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:10:00", 
+            "document": "CefBottleDesktop/cefbottle.py at master \u00b7 eristoddle/CefBottleDesktop"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 88, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-15T18:10:00", 
+            "document": "Thrust: Chromium-based cross-platform, cross-language application framework | Hacker News"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 19, 
+            "activity": "gist.github.com", 
+            "date": "2015-08-15T18:10:00", 
+            "document": "Janky Browser"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:10:00", 
+            "document": "electron/tray.md at master \u00b7 atom/electron"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:10:00", 
+            "document": "pyjs/pyjs"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:10:00", 
+            "document": "thrust python app - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:10:00", 
+            "document": "eristoddle (Stephan Miller)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:15:00", 
+            "document": "breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:15:00", 
+            "document": "breach/pythrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:15:00", 
+            "document": "Breach"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T18:15:00", 
+            "document": "Jigna: a seamless Python-JS bridge to create rich HTML ... - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:15:00", 
+            "document": "breach browser - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:15:00", 
+            "document": "breach python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 30, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:20:00", 
+            "document": "Thrust will be rebasing off of Atom Shell \u00b7 Issue #272 \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 27, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:20:00", 
+            "document": "thrust/docs at master \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:20:00", 
+            "document": "Issues \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:20:00", 
+            "document": "ExoBrowser - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-15T18:20:00", 
+            "document": "Watch, share and upload your high quality videos | Vimeo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 19, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:25:00", 
+            "document": "hoytech/valence"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:25:00", 
+            "document": "spolu (Stanislas Polu)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 33, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:25:00", 
+            "document": "spolu/exo_browser_save"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:30:00", 
+            "document": "hackable browser breach - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:30:00", 
+            "document": "Ability to take a screenshot \u00b7 Issue #245 \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:30:00", 
+            "document": "thrust vs atom - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:30:00", 
+            "document": "rpc - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T18:30:00", 
+            "document": "thrust - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-15T18:30:00", 
+            "document": "thrust chromium - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:30:00", 
+            "document": "Is it possible to do a Screen Capture? \u00b7 Issue #260 \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "spolu/node-shell"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 22, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "Project alive? \u00b7 Issue #228 \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 21, 
+            "activity": "reddit.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "A new modular browser for the HTML5 era"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 19, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "Issues \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "Commits \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "Pulse \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "Chrome API support \u00b7 Issue #227 \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "Pull Requests \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "People \u00b7 Breach"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "Milestones - breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:35:00", 
+            "document": "Labels \u00b7 breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:40:00", 
+            "document": "Contributors to breach/breach_core"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:40:00", 
+            "document": "Contributors to breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:40:00", 
+            "document": "Pulse \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:40:00", 
+            "document": "Stripe"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:40:00", 
+            "document": "Code frequency \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:40:00", 
+            "document": "Commit Activity \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 34, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:45:00", 
+            "document": "thrust/window.md at master \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:45:00", 
+            "document": "thrust/docs/api at master \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 29, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:45:00", 
+            "document": "thrust/webview.md at master \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:45:00", 
+            "document": "thrust/menu.md at master \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:45:00", 
+            "document": "flask/layout.html at master \u00b7 mitsuhiko/flask"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:45:00", 
+            "document": "flask/examples/flaskr at master \u00b7 mitsuhiko/flask"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:45:00", 
+            "document": "flask/examples/flaskr/templates at master \u00b7 mitsuhiko/flask"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:45:00", 
+            "document": "thrust/session.md at master \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:45:00", 
+            "document": "https://www.google.nl/search?q=flask&oq=flask&aqs=chrome..69i57j0j69i60j0l3.539j1j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 32, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T18:50:00", 
+            "document": "Call Python function from Javascript code - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:50:00", 
+            "document": "call python code javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-15T18:50:00", 
+            "document": "javascript - Execute a python script on button click - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-15T18:50:00", 
+            "document": "deploy thrust app - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:50:00", 
+            "document": "flask/login.html at master \u00b7 mitsuhiko/flask"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-15T18:50:00", 
+            "document": "flask/show_entries.html at master \u00b7 mitsuhiko/flask"
+        }
+    ]
+}

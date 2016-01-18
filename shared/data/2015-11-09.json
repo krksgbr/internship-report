@@ -1,0 +1,2454 @@
+{
+    "2015-11-09": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 16, 
+            "activity": "444.hu", 
+            "date": "2015-11-09T09:30:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 77, 
+            "activity": "slack", 
+            "date": "2015-11-09T09:30:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 4, 
+            "activity": "newtab", 
+            "date": "2015-11-09T09:30:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 41, 
+            "activity": "444.hu", 
+            "date": "2015-11-09T09:30:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 21, 
+            "activity": "444.hu", 
+            "date": "2015-11-09T09:30:00", 
+            "document": "Eg\u00e9sz Oroszorsz\u00e1g kiakadt a Charlie Hebdora - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 22, 
+            "activity": "444.hu", 
+            "date": "2015-11-09T09:30:00", 
+            "document": "\u00cdgy n\u00e9z ki egy k\u00e9sel\u00e9s Izraelben - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T09:30:00", 
+            "document": "Loosduinsekade 7 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T09:35:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T09:35:00", 
+            "document": "nicholas roy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T09:35:00", 
+            "document": "solomon cyclone - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T09:35:00", 
+            "document": "nicholas royle - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 55, 
+            "activity": "vaadin.com", 
+            "date": "2015-11-09T09:50:00", 
+            "document": "Jobs - vaadin.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T09:50:00", 
+            "document": "karsten schmidt - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-11-09T09:50:00", 
+            "document": "postspectacular (Karsten Schmidt)"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "Google Spreadsheets", 
+            "date": "2015-11-09T09:55:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 6, 
+            "activity": "Google Spreadsheets", 
+            "date": "2015-11-09T09:55:00", 
+            "document": "LED strips - Google Sheets"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T09:55:00", 
+            "document": "daan roosegaarde - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T09:55:00", 
+            "document": "Decode: Digital Design Sensations - Google Search"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 20, 
+            "activity": "Google Documents", 
+            "date": "2015-11-09T10:00:00", 
+            "document": "Il Salone del mobile 2016 - Google Docs"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "accounts.google.com", 
+            "date": "2015-11-09T10:00:00", 
+            "document": "Request for Permission"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 1, 
+            "activity": "accounts.google.com", 
+            "date": "2015-11-09T10:00:00", 
+            "document": "https://accounts.google.com/o/oauth2/auth?client_id=261270787987-jqaig2qiho2pe21fmmis6ak34oapihhf.apps.googleusercontent.com&redirect_uri=https://hackpad.com/ep/account/openid&response_type=code&access_type=offline&scope=email profile https://www.googleap"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 17, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T10:05:00", 
+            "document": "Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 2, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T10:05:00", 
+            "document": "https://vimeo.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 82, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:10:00", 
+            "document": "rafael lozano-hemmer - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:10:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 30, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T10:10:00", 
+            "document": "FLOW | STUDIO ROOSEGAARDE on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 27, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T10:10:00", 
+            "document": "studio roosegaarde in videos on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T10:10:00", 
+            "document": "rafael lozano hemmer - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 3, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T10:10:00", 
+            "document": "https://vimeo.com/73284396"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 40, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:15:00", 
+            "document": "Dutch Profiles: Daan Roosegaarde - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 63, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:15:00", 
+            "document": "Sandbox - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 67, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:15:00", 
+            "document": "studio roosegaarde - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 29, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:15:00", 
+            "document": "Sensor Valley - Interactive hugging pillars by Studio Roosegaarde - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 20, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:15:00", 
+            "document": "Marbles - Interactive glowing forms - Studio Roosegaarde - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T10:15:00", 
+            "document": "studio roosegaarde - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T10:25:00", 
+            "document": "relational architecture - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:25:00", 
+            "document": "Daan Roosegaarde - Zet in Zwolle de revolutie voort! - YouTube"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 59, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T10:30:00", 
+            "document": "\"33 Questions per Minute\" at Istanbul Biennial (2001) by Rafael Lozano-Hemmer on Vimeo"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 17, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:30:00", 
+            "document": "Pulse Park New York - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:30:00", 
+            "document": "pulse park - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:30:00", 
+            "document": "pulse par - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T10:30:00", 
+            "document": "33 questions per minute - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:35:00", 
+            "document": "Detectores_Visita Virtual - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 72, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:35:00", 
+            "document": "Please Empty Your Pockets - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 54, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:35:00", 
+            "document": "Reaction Diffusion - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 50, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:35:00", 
+            "document": "Antimodular - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 35, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:35:00", 
+            "document": "Sustained Coincidence - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:35:00", 
+            "document": "Under Scan by Rafael Lozano-Hemmer - Trafalgar Square, London 20th November 2008 - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T10:40:00", 
+            "document": "reset - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T10:40:00", 
+            "document": "define reset - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T10:40:00", 
+            "document": "processing - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 41, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:45:00", 
+            "document": "3D LED Hanging Cube (32*32*32=32768 pixels) - YouTube"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 27, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T10:45:00", 
+            "document": "FINE COLLECTION OF CURIOUS SOUND OBJECTS on Vimeo"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 17, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:45:00", 
+            "document": "LED cube 8x8x8 demo - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:45:00", 
+            "document": "8x8x8 RGB LED CUBE - How it Really Works! Multiplexing and Bit Angle Modulation - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:45:00", 
+            "document": "Interactive LED Floor - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T10:45:00", 
+            "document": "3D LED RGB Cube 16x16x16 (b) - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 47, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T10:50:00", 
+            "document": "taxidermia - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:35:00", 
+            "document": "sea den haag - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:35:00", 
+            "document": "north see - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:35:00", 
+            "document": "STORM SCHEVENINGEN DEN HAAG THE HAGUE NORTH SEA PIER - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T11:35:00", 
+            "document": "wthx - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "The North Sea at winter... - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "scheveningen sea - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "surf Dutch North Sea beach - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "north sea - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "sea gif - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "north sea beach - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "SEA RELAX VIDEO 1 SCHEVENINGEN-DEN HAAG -THE HAGUE - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "north sea gif - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "Terror at Sea - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "North Sea, Den Haag, Ern\u00f5 Bartha and Ildik\u00f3 B\u00e1cs foot journey from Vlaha to London - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "scheveningen - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "Desktop"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "FF2"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T11:40:00", 
+            "document": "youtube downloader - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 26, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:45:00", 
+            "document": "TOP 10 SHIP CRASH COMPILATION HD - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 49, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:45:00", 
+            "document": "Big wave North Sea - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 25, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:45:00", 
+            "document": "10 TOP SHIPS IN STORM INCREDIBLE VIDEO - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 21, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:45:00", 
+            "document": "Ships in Storm - Terrifying Monster Waves! - YouTube"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 4, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-11-09T11:45:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:45:00", 
+            "document": "north sea waves - YouTube"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 214, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-11-09T11:50:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project *"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:50:00", 
+            "document": "looping gif after effects - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 243, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:55:00", 
+            "document": "Creating a Seamlessly Looping Animation With After Effects - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T11:55:00", 
+            "document": "seamless loop gif after effects - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T11:55:00", 
+            "document": "https://www.youtube.com/watch?v=LRZAAGkm6K0"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:05:00", 
+            "document": "jack and jones - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:05:00", 
+            "document": "jack and jones tech - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-11-09T12:10:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-09T12:10:00", 
+            "document": "wthx.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 49, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-09T12:15:00", 
+            "document": "sea-loop.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T12:15:00", 
+            "document": "Pompidou_Visita Virtual - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 6, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-09T12:15:00", 
+            "document": "movie.avi"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T12:15:00", 
+            "document": "https://www.youtube.com/watch?v=2nplZ3h4byQ"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 39, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T12:20:00", 
+            "document": "Tangible - Experimental User Interface on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:20:00", 
+            "document": "energy artwork - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:25:00", 
+            "document": "video to gif imagemagick - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 25, 
+            "activity": "superuser.com", 
+            "date": "2015-11-09T12:25:00", 
+            "document": "How do I convert a video to GIF using ffmpeg, with reasonable quality? - Super User"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:25:00", 
+            "document": "co2 led installation - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:25:00", 
+            "document": "co2 led - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-09T12:30:00", 
+            "document": "Miro Video Converter"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:30:00", 
+            "document": "imagemagick convert mp4 to animated gif - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 2, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-09T12:30:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:30:00", 
+            "document": "imagemagick convert gif to mp4 - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 11, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-11-09T12:35:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:45:00", 
+            "document": "png to gif animation - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:45:00", 
+            "document": "png to gif animation online - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:45:00", 
+            "document": "png to gif - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 17, 
+            "activity": "Terminal", 
+            "date": "2015-11-09T12:50:00", 
+            "document": "sea \u2014 -zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-09T12:50:00", 
+            "document": "sea"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 43, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:50:00", 
+            "document": "png to gif animation imagemagick - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T12:50:00", 
+            "document": "animated gif command line - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-09T12:50:00", 
+            "document": "wthx"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-11-09T12:50:00", 
+            "document": "Fifty Dead Men"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-11-09T12:50:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 22, 
+            "activity": "Terminal", 
+            "date": "2015-11-09T12:55:00", 
+            "document": "sea \u2014 convert"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 12, 
+            "activity": "Preview", 
+            "date": "2015-11-09T13:00:00", 
+            "document": "mygif.gif"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T13:00:00", 
+            "document": "imagemagick resize - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 36, 
+            "activity": "Terminal", 
+            "date": "2015-11-09T13:05:00", 
+            "document": "sea \u2014 mogrify"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 31, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-09T13:05:00", 
+            "document": "bash - Batch resize images into new folder using ImageMagick - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T13:05:00", 
+            "document": "resize images in folder imagemagick - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-09T13:05:00", 
+            "document": "Batch resize images and output images to new folder with ImageMagick - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T13:05:00", 
+            "document": "resize gif imagemagick - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 39, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T13:20:00", 
+            "document": "GEMAK The Hague to Bronovolaan, 2597 Den Haag - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T13:20:00", 
+            "document": "Bronovolaan - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T13:20:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T13:20:00", 
+            "document": "bronovolaan - Google Maps"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-09T14:10:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-11-09T14:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-09T14:10:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-09T14:10:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-11-09T14:10:00", 
+            "document": "2015 November"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-09T14:10:00", 
+            "document": "112"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-11-09T14:10:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 29, 
+            "activity": "users", 
+            "date": "2015-11-09T14:15:00", 
+            "document": "mygif.gif (640\u00d7360)"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-11-09T14:15:00", 
+            "document": "Music\n\nSiouxsie and the Ban\u2026"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-11-09T14:15:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 28, 
+            "activity": "quicktime player", 
+            "date": "2015-11-09T14:20:00", 
+            "document": "sea.mp4"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:20:00", 
+            "document": "mp4 to gif - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-09T14:20:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-09T14:20:00", 
+            "document": "conflictmap"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 25, 
+            "activity": "Preview", 
+            "date": "2015-11-09T14:25:00", 
+            "document": "installatie.pdf"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 6, 
+            "activity": "users", 
+            "date": "2015-11-09T14:25:00", 
+            "document": "sea-loop.gif (1280\u00d7720)"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-11-09T14:25:00", 
+            "document": "sea-loop.gif"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "users", 
+            "date": "2015-11-09T14:25:00", 
+            "document": "ezgif.com-video-to-gif.gif (480\u00d7360)"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-11-09T14:25:00", 
+            "document": "ezgif.com-video-to-gif.gif"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "Preview", 
+            "date": "2015-11-09T14:25:00", 
+            "document": "Convert video to animated GIF"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "users", 
+            "date": "2015-11-09T14:25:00", 
+            "document": "ImageMagick: Command-line Tools: Mogrify"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "Preview", 
+            "date": "2015-11-09T14:25:00", 
+            "document": "mp4 to gif - CloudConvert"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 47, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:30:00", 
+            "document": "renewable energy art - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 46, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:30:00", 
+            "document": "patrick marold - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "pinterest.com", 
+            "date": "2015-11-09T14:30:00", 
+            "document": "Renewable Energy Art - Patrick Marold | Renewable Energy, Sculpture and Windmills"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 4, 
+            "activity": "calendar", 
+            "date": "2015-11-09T14:30:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "pinterest.com", 
+            "date": "2015-11-09T14:30:00", 
+            "document": "https://www.pinterest.com/pin/120963939961286447/"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:30:00", 
+            "document": "renewable energy articles - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 54, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:35:00", 
+            "document": "arduino solar panel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:35:00", 
+            "document": "milan renewable energy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:35:00", 
+            "document": "solar panel - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "pinterest.com", 
+            "date": "2015-11-09T14:35:00", 
+            "document": "Land Art Generator Initiative"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-09T14:40:00", 
+            "document": "SaloneDelMobile"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 112, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:40:00", 
+            "document": "walter de maria lightning field - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 29, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-09T14:40:00", 
+            "document": "The Lightning Field - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 14, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-09T14:40:00", 
+            "document": "*VREDESPALEIS 3.indd"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:40:00", 
+            "document": "angela lorenz - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:40:00", 
+            "document": "walter di maria - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 3, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-09T14:40:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 25, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-09T14:45:00", 
+            "document": "*Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 28, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-11-09T14:45:00", 
+            "document": "demaria_the-lightning-field-19771.jpg"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-11-09T14:45:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "codekit", 
+            "date": "2015-11-09T14:45:00", 
+            "document": "CodeKit"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:45:00", 
+            "document": "pulse park - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 26, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T14:50:00", 
+            "document": "Urirama Windmill Park Light Show Aruba - by studio Roosegaarde - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 27, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-09T14:50:00", 
+            "document": "artwork-pulsepark_nyc_hd.mov"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T14:50:00", 
+            "document": "Dune 4 0 by Studio Roosegaarde - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T14:50:00", 
+            "document": "Starry Bicycle Path, Studio Roosegaarde, Eindhoven, the Netherlands. - YouTube"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-11-09T14:50:00", 
+            "document": "lozano"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-11-09T14:50:00", 
+            "document": "YouTube to MP4 & MP3 Converter and Video Download - ClipConverter.cc"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 22, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T14:55:00", 
+            "document": "Windmill Project on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T14:55:00", 
+            "document": "vimeo downloader - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 7, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T14:55:00", 
+            "document": "patrick marold in videos on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 5, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T14:55:00", 
+            "document": "Patrick Marold\u2019s Videos on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 5, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T14:55:00", 
+            "document": "Patrick Marold on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 2, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T14:55:00", 
+            "document": "patrick marold in people on Vimeo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T15:05:00", 
+            "document": "javascript presentation - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T15:05:00", 
+            "document": "d3 presentation - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 111, 
+            "activity": "github.com", 
+            "date": "2015-11-09T15:10:00", 
+            "document": "hakimel/reveal.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-11-09T15:10:00", 
+            "document": "imakewebthings/deck.js"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-11-09T15:10:00", 
+            "document": "reveal.js-3.1.0"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-11-09T15:10:00", 
+            "document": "Release 3.1.0 \u00b7 hakimel/reveal.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-11-09T15:10:00", 
+            "document": "Releases \u00b7 hakimel/reveal.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-11-09T15:10:00", 
+            "document": "hakimel/reveal.js at 3.1.0"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T15:10:00", 
+            "document": "javascript presentation framework - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 21, 
+            "activity": "quicktime player", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 16, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "The Windmill Project on Vimeo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "Example Presentations \u00b7 hakimel/reveal.js Wiki"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 7, 
+            "activity": "sublime text", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "html5shiv.js \u2014 FF, FF2, reveal.js-3.1.0"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "reveal.js \u2014 FF, FF2, reveal.js-3.1.0"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "index.html \u2014 FF, FF2, reveal.js-3.1.0"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "rndr3639476716590498961.fs \u2014 FF, FF2, reveal.js-3.1.0"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "deck.js/introduction at master \u00b7 imakewebthings/deck.js"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "head.min.js \u2014 FF, FF2, reveal.js-3.1.0"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-11-09T15:15:00", 
+            "document": "classList.js \u2014 FF, FF2, reveal.js-3.1.0"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 15, 
+            "activity": "quicktime player", 
+            "date": "2015-11-09T15:20:00", 
+            "document": "Export Progress"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 22, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T15:35:00", 
+            "document": "tim hcker - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T15:35:00", 
+            "document": "Tim Hecker - Haunt Me, Haunt Me Do It Again [Full Album] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T15:40:00", 
+            "document": "Spring Cruise (1957) - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T15:45:00", 
+            "document": "type karsten schmidt - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T15:45:00", 
+            "document": "type karseten schmidt - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T15:50:00", 
+            "document": "sandbox rafael lozano hemmer - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T15:55:00", 
+            "document": "rafael lozano hemmer sandbox - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T16:00:00", 
+            "document": "slit scanning photography - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T16:00:00", 
+            "document": "slit scanning - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 65, 
+            "activity": "quicktime player", 
+            "date": "2015-11-09T16:05:00", 
+            "document": "Sandbox.mp4"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 124, 
+            "activity": "vimeo.com", 
+            "date": "2015-11-09T16:10:00", 
+            "document": "ECAL \"Delirious Home\" - Milano 2014 on Vimeo"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 24, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-09T16:10:00", 
+            "document": "Dune 4 0 by Studio Roosegaarde.mp4"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T16:10:00", 
+            "document": "salone del mobile ecal - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-11-09T16:10:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 15, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-09T16:15:00", 
+            "document": "patrick_marold.mov"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 37, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-09T16:20:00", 
+            "document": "*framework.indd"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-09T16:20:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 19, 
+            "activity": "Finder", 
+            "date": "2015-11-09T16:20:00", 
+            "document": "out"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 8, 
+            "activity": "Preview", 
+            "date": "2015-11-09T16:20:00", 
+            "document": "thesis.pdf"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 3, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-09T16:20:00", 
+            "document": "framework.indd"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-09T16:20:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-11-09T16:30:00", 
+            "document": "framework.pdf"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T16:35:00", 
+            "document": "Monolake - Cinemascope [HD] [Full album] - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 58, 
+            "activity": "Finder", 
+            "date": "2015-11-09T17:15:00", 
+            "document": "_RESET"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-11-09T17:15:00", 
+            "document": "FEATHERS"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-09T17:15:00", 
+            "document": "1 _ Voor Hea Won"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 19, 
+            "activity": "Adobe Acrobat", 
+            "date": "2015-11-09T18:15:00", 
+            "document": "Reset.pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 100, 
+            "activity": "Adobe Acrobat", 
+            "date": "2015-11-09T18:15:00", 
+            "document": "Resetd.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-09T18:20:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 38, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-09T18:25:00", 
+            "document": "*RESET.indd"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 4, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-09T18:25:00", 
+            "document": "RESET.indd"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T18:25:00", 
+            "document": "2011 Lloyd Rees Memorial Lecture | Rafael Lozano-Hemmer - YouTube"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 2, 
+            "activity": "Google Spreadsheets", 
+            "date": "2015-11-09T18:25:00", 
+            "document": "RESET - Google Sheets"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T18:50:00", 
+            "document": "alvin lucier i am sitting in a room - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 97, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T18:55:00", 
+            "document": "Alvin Lucier - I Am Sitting In A Room - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T18:55:00", 
+            "document": "juerg lehni apple - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T18:55:00", 
+            "document": "juerg lehni - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T18:55:00", 
+            "document": "jurg lehni it can only be attributable - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-11-09T18:55:00", 
+            "document": "juerg lehni it can only be attributable - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-09T18:55:00", 
+            "document": "juerg lehni - Google Search"
+        }
+    ]
+}

@@ -1,0 +1,1754 @@
+{
+    "2015-09-02": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 64, 
+            "activity": "Gmail", 
+            "date": "2015-09-02T09:15:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 3, 
+            "activity": "newtab", 
+            "date": "2015-09-02T09:15:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T09:15:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T09:15:00", 
+            "document": "mission workshop vandal - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 32, 
+            "activity": "sublime text", 
+            "date": "2015-09-02T09:55:00", 
+            "document": "untitled"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T09:55:00", 
+            "document": "ruby on rails - ide sublime2 how to find method definition - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 22, 
+            "activity": "github.com", 
+            "date": "2015-09-02T09:55:00", 
+            "document": "SublimeCodeIntel/SublimeCodeIntel"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T09:55:00", 
+            "document": "sublimerepl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T09:55:00", 
+            "document": "jumpt to definition sublime - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T10:00:00", 
+            "document": "WeatherSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 44, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T10:35:00", 
+            "document": "OfflineWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T10:35:00", 
+            "document": "heuristic - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T10:35:00", 
+            "document": "daniel van der velden wiki - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T10:35:00", 
+            "document": "bruce mau art \"book machine\" - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-02T10:35:00", 
+            "document": "Types of research methods and disciplines - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T10:40:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-02T10:40:00", 
+            "document": "Comparison of command shells - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-02T10:40:00", 
+            "document": "Z shell - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 130, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T10:45:00", 
+            "document": "WeatherChart.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 70, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T10:50:00", 
+            "document": "FakeWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T10:50:00", 
+            "document": "IWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 88, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-02T10:55:00", 
+            "document": "Facade pattern - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T10:55:00", 
+            "document": "facede pattern - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T11:00:00", 
+            "document": "RadialPulseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 22, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:00:00", 
+            "document": "Heathered Pearls - Body Complex by ghostly | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 8, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:00:00", 
+            "document": "Heathered Pearls - Warm Air Estate (ft. Outerbridge) in Heathered Pearls - Body Complex"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:00:00", 
+            "document": "Heathered Pearls | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:00:00", 
+            "document": "Your stream on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:00:00", 
+            "document": "Heathered Pearls - Interior Architecture Software by ghostly | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:00:00", 
+            "document": "Search Everything on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:00:00", 
+            "document": "Heathered Pearls - Warm Air Estate (ft. Outerbridge) by ghostly | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:00:00", 
+            "document": "SoundCloud \u2013 Hear the world\u2019s sounds"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T11:05:00", 
+            "document": "RadialPulseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T11:05:00", 
+            "document": "RadialPerlinNoiseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T11:05:00", 
+            "document": "PerlinNoiseController_W.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 72, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T11:30:00", 
+            "document": "inheritance - Java isInstance vs instanceOf operator - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T11:30:00", 
+            "document": "isinstance java - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 37, 
+            "activity": "slack", 
+            "date": "2015-09-02T11:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 11, 
+            "activity": "calendar", 
+            "date": "2015-09-02T11:45:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "Adobe Acrobat", 
+            "date": "2015-09-02T11:45:00", 
+            "document": "Jones_John_Chris_Designing_Designing.pdf"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 9, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:45:00", 
+            "document": "Heathered Pearls - Interior Architecture Software in Heathered Pearls - Body Complex"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-02T11:45:00", 
+            "document": "Dropbox"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T11:45:00", 
+            "document": "B. 300 Words (no Voice) by The Vinyl Factory"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 66, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T12:15:00", 
+            "document": "Strengths of Shell Scripting compared to Python - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 44, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T12:15:00", 
+            "document": "github - What does Bump Version stands for? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T12:15:00", 
+            "document": "bump version - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T12:15:00", 
+            "document": "shell script vs python - Google Search"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T12:15:00", 
+            "document": "Heathered Pearls - Thought Palace in Heathered Pearls - Body Complex"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T12:15:00", 
+            "document": "stackoverflow.com/questions/796319/strengths-of-shell-scripting-compared-to-python"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T12:20:00", 
+            "document": "User S.Lott - Stack Overflow"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T12:20:00", 
+            "document": "Glower by Throwing Snow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 33, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T12:25:00", 
+            "document": "Finding enum value with Java 8 Stream API - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T12:25:00", 
+            "document": "How to Convert a Java 8 Stream to an Array? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T12:25:00", 
+            "document": "arrays.stream - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T12:25:00", 
+            "document": "Java 8 Stream and operation on arrays - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T12:25:00", 
+            "document": "enum array stream - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T12:25:00", 
+            "document": "stream to array - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 115, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T12:30:00", 
+            "document": "java - get enum name from enum value - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T12:30:00", 
+            "document": "enum by value - Google Search"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T13:45:00", 
+            "document": "Nabu Network by Sorcerer"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 121, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T13:50:00", 
+            "document": "ScheduleDescription.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 148, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T13:55:00", 
+            "document": "schedule.yaml - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 62, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T13:55:00", 
+            "document": "Skateb\u00e5rd - Farver / Flimrer by Balsa Wood"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 10, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T13:55:00", 
+            "document": "Out Of Sight by florian kupfer"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 4, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T13:55:00", 
+            "document": "Fuck It by jjuniverse"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T13:55:00", 
+            "document": "MakeLove - Dancing All The Time (Swim Deep Remix) by MakeLove"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T13:55:00", 
+            "document": "Heathered Pearls - Cast In Lemon & Sand in Heathered Pearls - Body Complex"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T14:00:00", 
+            "document": "Scheduler.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-02T14:00:00", 
+            "document": "DJ Guy - Cejero Mix 01 by Cejero"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 25, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T14:05:00", 
+            "document": "Clock.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 43, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T14:10:00", 
+            "document": "Calendar.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T14:10:00", 
+            "document": "FakeClock.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 71, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T14:10:00", 
+            "document": "ScheduleTask.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 80, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 34, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "exported_videos"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 50, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "FrameClock.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 27, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 27, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "Archive 2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "heartbeats"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "Archive"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "1"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T14:45:00", 
+            "document": "hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 254, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T14:50:00", 
+            "document": "AwData.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 89, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T15:10:00", 
+            "document": "bruce mau \"the book machine\" - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 62, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T15:10:00", 
+            "document": "bruce mau laboratorium - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T15:10:00", 
+            "document": "bruce mau massive change pdf - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T15:15:00", 
+            "document": "Director.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 44, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T15:25:00", 
+            "document": "Picker.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T15:25:00", 
+            "document": "intellij analyze call stack - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 24, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-02T15:30:00", 
+            "document": "Terpstra.mp4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T15:30:00", 
+            "document": "Animation.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 37, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T15:35:00", 
+            "document": "/Users/GaborK/IdeaProjects/sketches/lustlab-hubbub-sketch/src/main/java/net/gaborkerekes/sketches"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 52, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T15:35:00", 
+            "document": "/Users/GaborK/IdeaProjects/sketches/lustlab-hubbub-sketch/src/main/java/net/gaborkerekes/sketches/data/AwData.java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 29, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T15:35:00", 
+            "document": "HubbubSketch.java (/Users/GaborK/IdeaProjects/sketches/lustlab-hubbub-sketch/src/main/java/net/gaborkerekes/sketches)"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 4, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-02T15:40:00", 
+            "document": "Bosveld.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-02T15:40:00", 
+            "document": "repair"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-02T15:40:00", 
+            "document": "animation_frames"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-02T15:50:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 130, 
+            "activity": "sublime text", 
+            "date": "2015-09-02T15:55:00", 
+            "document": "answers.json"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-02T15:55:00", 
+            "document": "resources"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T15:55:00", 
+            "document": "https://www.google.nl/search?q=unix+epoch&oq=unix+epoch&aqs=chrome.0.0j69i60j0l4.1301j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T15:55:00", 
+            "document": "unix epoch - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T16:00:00", 
+            "document": "call stack intellij - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T16:05:00", 
+            "document": "/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller/AudioApp.java"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 11, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-02T16:10:00", 
+            "document": "Kuilman.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 6, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-02T16:10:00", 
+            "document": "de Boer.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-02T16:40:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 37, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T16:50:00", 
+            "document": "java - How do I use generics with an array of Classes? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T16:50:00", 
+            "document": "class array - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T16:50:00", 
+            "document": "generic class array java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T16:50:00", 
+            "document": "stackoverflow.com/questions/749425/how-do-i-use-generics-with-an-array-of-classes"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 55, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T17:00:00", 
+            "document": "java - How to use ArrayList.addAll()? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:00:00", 
+            "document": "list addall - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:00:00", 
+            "document": "list addall from array - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 68, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T17:05:00", 
+            "document": "java - What does \"|=\" mean? (pipe equal operator) - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 36, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:05:00", 
+            "document": "Collections.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:05:00", 
+            "document": "|= java operator - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:05:00", 
+            "document": "vertical bar = java operator - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:05:00", 
+            "document": "\"|=\" java operator - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:05:00", 
+            "document": "|= java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T17:05:00", 
+            "document": "Pipe (|) operator in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 102, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:10:00", 
+            "document": "ControllerClasses.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 64, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:10:00", 
+            "document": "AllControllers.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 28, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:25:00", 
+            "document": "DateUtil.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 72, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:30:00", 
+            "document": "Map.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 74, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T17:35:00", 
+            "document": "java - Take n random elements from a List<E>? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:35:00", 
+            "document": "select n random items from list java stream - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:35:00", 
+            "document": "sleect n items from list java stream - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:35:00", 
+            "document": "sleect n random items from list java stream - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-02T17:35:00", 
+            "document": "Design Methods - toolkit Using the toolkit"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:45:00", 
+            "document": "Component.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:45:00", 
+            "document": "generate random numbers in range java stream - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:45:00", 
+            "document": "HttpPractice.iml - HelloWorld - [~/IdeaProjects/HelloWorld]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T17:45:00", 
+            "document": "install opencv python mac osx - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:45:00", 
+            "document": "sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:50:00", 
+            "document": "ColorMatrixExample.java - rndrexamples - [~/IdeaProjects/rndrexamples]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:50:00", 
+            "document": "InternshipReport.java - HelloWorld - [~/IdeaProjects/HelloWorld]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 63, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:55:00", 
+            "document": "java8examples - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T17:55:00", 
+            "document": "pom.xml - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 87, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T18:00:00", 
+            "document": "hubbub-sketch - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 31, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T18:00:00", 
+            "document": "VideoExample.java - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T18:00:00", 
+            "document": "java8example - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T18:00:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 142, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T18:05:00", 
+            "document": "Example.java - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:05:00", 
+            "document": "Generating Unique Random Numbers in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T18:05:00", 
+            "document": "examples - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T18:05:00", 
+            "document": "java8example - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T18:05:00", 
+            "document": "unique random numbers java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T18:05:00", 
+            "document": "unique random numbers java 8 - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T18:05:00", 
+            "document": "pom.xml - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-02T18:10:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 49, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:15:00", 
+            "document": "java - How to add elements of a Java8 stream into an existing List - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:15:00", 
+            "document": "Java 8 Lambda: Can I generate a new ArrayList of objects from an IntStream? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T18:15:00", 
+            "document": "add n items to list java stream - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T18:15:00", 
+            "document": "build list intstream - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 17, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:20:00", 
+            "document": "java - Initialization of an ArrayList in one line - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T18:20:00", 
+            "document": "declare and initialize arraylist java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:20:00", 
+            "document": "stackoverflow.com/questions/1005073/initialization-of-an-arraylist-in-one-line"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 148, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:25:00", 
+            "document": "performance - Efficiency of Java \"Double Brace Initialization\"? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 52, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:30:00", 
+            "document": "java - How to create a generic array? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:30:00", 
+            "document": "Java generics - ArrayList initialization - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T18:30:00", 
+            "document": "declare and initialize arraylist java generics - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T18:30:00", 
+            "document": "generic array creation - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:30:00", 
+            "document": "java - Dynamic initialization of ArrayList<anyClassObject> - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:30:00", 
+            "document": "java - How to declare an ArrayList with values? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:30:00", 
+            "document": "stackoverflow.com/questions/18581002/how-to-create-a-generic-array"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:30:00", 
+            "document": "stackoverflow.com/questions/15697775/dynamic-initialization-of-arraylistanyclassobject"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:35:00", 
+            "document": "java - why instanceof does not work with Generic? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-02T18:35:00", 
+            "document": "instanceof generic type - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-02T18:35:00", 
+            "document": "Java: Instanceof and Generics - Stack Overflow"
+        }
+    ]
+}

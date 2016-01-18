@@ -1,0 +1,394 @@
+{
+    "2015-08-22": [
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "newtab", 
+            "date": "2015-08-22T10:50:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-08-22T10:55:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 5, 
+            "activity": "facebook.com", 
+            "date": "2015-08-22T10:55:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-08-22T12:05:00", 
+            "document": "mr robot watch online - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-22T12:05:00", 
+            "document": "mr robot putlocker - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-22T12:05:00", 
+            "document": "mr robot - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-22T12:30:00", 
+            "document": "Westbroekpark - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-22T12:30:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-22T12:30:00", 
+            "document": "westerbroekpark den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-22T12:30:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 14, 
+            "activity": "slack", 
+            "date": "2015-08-22T12:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-08-22T12:40:00", 
+            "document": "Scheveningseweg 70 - Google Maps"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "chrome.google.com", 
+            "date": "2015-08-22T12:40:00", 
+            "document": "Imgur Uploader - Chrome Web Store"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-08-22T12:40:00", 
+            "document": "Multiplying a matrix by a matrix | Matrix multiplication | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-08-22T12:40:00", 
+            "document": "DSC01157.JPG (1600\u00d71200)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 66, 
+            "activity": "intellij idea", 
+            "date": "2015-08-22T12:45:00", 
+            "document": "Animation.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-08-22T12:45:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 43, 
+            "activity": "index.hu", 
+            "date": "2015-08-22T12:45:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Terrort\u00e1mad\u00e1s a vonaton: az utasokon m\u00falt"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 20, 
+            "activity": "Finder", 
+            "date": "2015-08-22T12:45:00", 
+            "document": "Fonts"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 22, 
+            "activity": "index.hu", 
+            "date": "2015-08-22T12:45:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 6, 
+            "activity": "chrome.google.com", 
+            "date": "2015-08-22T12:45:00", 
+            "document": "Chrome Web Store - Apps"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "index.hu", 
+            "date": "2015-08-22T12:45:00", 
+            "document": "index.hu"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-22T12:50:00", 
+            "document": "Data.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 31, 
+            "activity": "intellij idea", 
+            "date": "2015-08-22T13:00:00", 
+            "document": "VideoExample.java - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 27, 
+            "activity": "last.fm", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Roots of Minimal Open Air 2015 at Kristallijn (Gent) on 29 Aug 2015 \u2014 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 13, 
+            "activity": "last.fm", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Matthew Dear\u2019s Concert Listing \u2014 Last.fm"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 9, 
+            "activity": "facebook.com", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Roots of Minimal Open Air 2015"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 8, 
+            "activity": "facebook.com", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "(2) Roots of Minimal Open Air 2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 7, 
+            "activity": "System Preferences", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 6, 
+            "activity": "last.fm", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Home \u2014 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 6, 
+            "activity": "last.fm", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Last.fm - Listen to free music and watch videos with the largest music catalogue online"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 5, 
+            "activity": "System Preferences", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Energy Saver"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 5, 
+            "activity": "last.fm", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Matthew Dear \u2014 Last.fm"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 4, 
+            "activity": "System Preferences", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Built-in Retina Display"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 3, 
+            "activity": "last.fm", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Search \u2014 Last.fm"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-22T13:05:00", 
+            "document": "(1) Roots of Minimal Open Air 2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 16, 
+            "activity": "Finder", 
+            "date": "2015-08-22T13:15:00", 
+            "document": "lustlab-hubbub-sketch"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 37, 
+            "activity": "quicktime player", 
+            "date": "2015-08-22T18:55:00", 
+            "document": "output.mp4"
+        }
+    ]
+}

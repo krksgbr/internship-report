@@ -1,0 +1,1334 @@
+{
+    "2015-09-12": [
+        {
+            "category": "Employment", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 19, 
+            "activity": "workplace.stackexchange.com", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 10, 
+            "activity": "facebook.com", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 33, 
+            "activity": "Finder", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "AirDrop"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 3, 
+            "activity": "slack", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 13, 
+            "activity": "facebook.com", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "#yolo #swag #bday #2old2btru #urinvited #yes #bringpresents #ornot #whatevy"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 13, 
+            "activity": "facebook.com", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 4, 
+            "activity": "web.archive.org", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "limited language"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "Using Python from within Java - Stack Overflow"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 3, 
+            "activity": "RescueTime", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "RescueTime"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 2, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-09-12T13:10:00", 
+            "document": "Untitled-1-Recovered"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-09-12T13:40:00", 
+            "document": "gBOR"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 15, 
+            "activity": "sublime text", 
+            "date": "2015-09-12T13:40:00", 
+            "document": "notes.txt \u2014 gBOR"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-12T13:40:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-12T13:40:00", 
+            "document": "notes.txt"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 44, 
+            "activity": "sublime text", 
+            "date": "2015-09-12T13:45:00", 
+            "document": "init.py \u2014 gBOR"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-12T13:45:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-12T13:45:00", 
+            "document": "75_Marnie_the_dog"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 4, 
+            "activity": "newtab", 
+            "date": "2015-09-12T14:40:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 106, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T14:45:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 90, 
+            "activity": "facebook.com", 
+            "date": "2015-09-12T14:45:00", 
+            "document": "Arnas Makauskas"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 40, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T14:45:00", 
+            "document": "The M\u00e9zga Family - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T14:45:00", 
+            "document": "mezga csalad - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T14:45:00", 
+            "document": "relational graphic design - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "google.com", 
+            "date": "2015-09-12T14:45:00", 
+            "document": "Budapest"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "web.archive.org", 
+            "date": "2015-09-12T14:45:00", 
+            "document": "CreativeApplications.Net | Apps That Inspire..."
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 111, 
+            "activity": "444.hu", 
+            "date": "2015-09-12T14:50:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 20, 
+            "activity": "444.hu", 
+            "date": "2015-09-12T14:50:00", 
+            "document": "Ha ez a ker\u00edt\u00e9s sem lesz el\u00e9g, legfeljebb megint honv\u00e9delmi minisztert cser\u00e9l\u00fcnk !!444!!!"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 7, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T14:50:00", 
+            "document": "Systems thinking - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 8, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T14:50:00", 
+            "document": "Delphi method - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 142, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T14:55:00", 
+            "document": "Table Tennis - Attack (BENTSEN) Vs Defense (CHEN WEIXING) XXI ! - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 27, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T14:55:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 33, 
+            "activity": "444.hu", 
+            "date": "2015-09-12T14:55:00", 
+            "document": "Ausztr\u00e1lia is besz\u00e1llt a sz\u00edriai l\u00e9git\u00e1mad\u00e1sokba !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-09-12T14:55:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-12T15:10:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:15:00", 
+            "document": "The Funniest Table Tennis Match in HISTORY - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 101, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:15:00", 
+            "document": "Learning side swipe serve return with Chen Weixing. - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 59, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:15:00", 
+            "document": "Taser Impacts on Bare Skin at 28,000fps - The Slow Mo Guys - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 172, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:30:00", 
+            "document": "World's Most Incredible Table Tennis Trick Shots - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 31, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:30:00", 
+            "document": "Funny moments in Tennis (Federer, Djokovic, Nadal...) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 169, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:35:00", 
+            "document": "2013 Top 10 Table Tennis Shots - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 43, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:35:00", 
+            "document": "Unbelievable Table Tennis Point - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T15:40:00", 
+            "document": "table tennis world ranking leader - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 181, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:45:00", 
+            "document": "Ma Long: King of Epic Shots [HD] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 89, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:45:00", 
+            "document": "Ma Long - Who Can Defeat Him ? HD - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T15:45:00", 
+            "document": "MA Long - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T15:50:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T15:50:00", 
+            "document": "kruidvat openingstidjen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T15:50:00", 
+            "document": "kruid - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T15:50:00", 
+            "document": "kruidvat openingstijden - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 68, 
+            "activity": "sublime text", 
+            "date": "2015-09-12T16:00:00", 
+            "document": "AUTOTAG.py \u2014 gBOR"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 85, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:15:00", 
+            "document": "Index - Belf\u00f6ld - L\u00e1szl\u00f3 Petra bocs\u00e1natot k\u00e9rt"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 142, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:15:00", 
+            "document": "Index - K\u00fclf\u00f6ld - D\u00e1nia az \u00faj Magyarorsz\u00e1g?"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 42, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:15:00", 
+            "document": "Index - Kult\u00far - 9 film, amit\u0151l jobban meg\u00e9rti a menek\u00fcltv\u00e1ls\u00e1got"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 11, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:15:00", 
+            "document": "Index - Belf\u00f6ld - M\u00e1r \u00e1llnak a c\u00f6l\u00f6p\u00f6k a vas\u00fati s\u00ednn\u00e9l R\u00f6szk\u00e9n - Percr\u0151l percre"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 172, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:20:00", 
+            "document": "Index - Belf\u00f6ld - Nagy sokk lesz a menek\u00fclteknek Orb\u00e1n \u00faj id\u0151sz\u00e1m\u00edt\u00e1sa"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 59, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:20:00", 
+            "document": "Index - Belf\u00f6ld - Cic\u00e1j\u00e1t is mag\u00e1val hozta egy sz\u00edr menek\u00fclt"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 10, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:20:00", 
+            "document": "Index - Belf\u00f6ld - Besokallnak a rend\u0151r\u00f6k, ha nem kapnak seg\u00edts\u00e9get"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:20:00", 
+            "document": "index.hu/belfold/2015/09/11/cicajat_is_magaval_hozta_egy_szir_menekult/"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 62, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:25:00", 
+            "document": "Index - Tech - Hat dolog, amit az Apple elfelejtett elmondani"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 38, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:25:00", 
+            "document": "Index - Tech"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 28, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:25:00", 
+            "document": "Index - Mindek\u00f6zben - Ritka pillanatot r\u00f6gz\u00edtett a webkamera a Balatonn\u00e1l"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 16, 
+            "activity": "engadget.com", 
+            "date": "2015-09-12T16:25:00", 
+            "document": "Raspberry Pi gets an official touchscreen display"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 8, 
+            "activity": "index.hu", 
+            "date": "2015-09-12T16:25:00", 
+            "document": "Index - Tech - Kijelz\u0151t kapott a Raspberry Pi"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "engadget.com", 
+            "date": "2015-09-12T16:25:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T16:50:00", 
+            "document": "critical graphic design - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-12T16:50:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 83, 
+            "activity": "reddit.com", 
+            "date": "2015-09-12T16:55:00", 
+            "document": "critical design subreddit"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 45, 
+            "activity": "Twitter", 
+            "date": "2015-09-12T17:05:00", 
+            "document": "Ahmed Ansari (@aansari86) | Twitter"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T17:05:00", 
+            "document": "ahmen ansari - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 25, 
+            "activity": "behance.net", 
+            "date": "2015-09-12T17:10:00", 
+            "document": "Ahmed Ansari on Behance"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 14, 
+            "activity": "behance.net", 
+            "date": "2015-09-12T17:10:00", 
+            "document": "DnD Ultimate on Behance"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 7, 
+            "activity": "behance.net", 
+            "date": "2015-09-12T17:10:00", 
+            "document": "Interface Design Project: \"Traces\" on Behance"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T17:10:00", 
+            "document": "Ahmed Ansari behance - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 2, 
+            "activity": "behance.net", 
+            "date": "2015-09-12T17:10:00", 
+            "document": "Behance"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 11, 
+            "activity": "stickies", 
+            "date": "2015-09-12T17:15:00", 
+            "document": "MA\n________________________\u2026"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 32, 
+            "activity": "adobe digital editions", 
+            "date": "2015-09-12T17:20:00", 
+            "document": "Adobe Digital Editions - The Craftsman"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 23, 
+            "activity": "makeuseof.com", 
+            "date": "2015-09-12T17:20:00", 
+            "document": "How can I convert ACSM file to PDF or ePub?"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T17:20:00", 
+            "document": "acsm to epub - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 2, 
+            "activity": "adobe digital editions", 
+            "date": "2015-09-12T17:20:00", 
+            "document": "Adobe Digital Editions - Library"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T17:20:00", 
+            "document": "kobo reader - Google Search"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 14, 
+            "activity": "calibre", 
+            "date": "2015-09-12T17:25:00", 
+            "document": "calibre - || Calibre Library ||"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-09-12T17:25:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-12T17:25:00", 
+            "document": "calibre-2.38.0"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T17:25:00", 
+            "document": "calibere - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T17:30:00", 
+            "document": "How to Study Effectively: 8 Advanced Tips - College Info Geek - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 36, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T17:30:00", 
+            "document": "My Hack for Waking Up at 6 A.M. Every Day - College Info Geek - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-09-12T17:30:00", 
+            "document": "Digital Editions"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T17:30:00", 
+            "document": "acsm calibre - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "problem reporter", 
+            "date": "2015-09-12T17:30:00", 
+            "document": "Problem Report for Adobe Digital Editions"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T17:30:00", 
+            "document": "Users/GaborK/Documents/Digital Editions/The Craftsman.epub - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 27, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:40:00", 
+            "document": "Spaced repetition - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 30, 
+            "activity": "play.google.com", 
+            "date": "2015-09-12T17:40:00", 
+            "document": "brain.cards flashcards - Android Apps on Google Play"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 15, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:40:00", 
+            "document": "Cerego - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T17:40:00", 
+            "document": "spaced repetition software - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 9, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:40:00", 
+            "document": "Anki (software) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T17:40:00", 
+            "document": "anki srs - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "play.google.com", 
+            "date": "2015-09-12T17:40:00", 
+            "document": "https://play.google.com/store/apps/details?id=net.zebry.braincards&?utm_source=homepage&utm_medium=redirect&utm_campaign=organic&utm_content=web"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 16, 
+            "activity": "duolingo.com", 
+            "date": "2015-09-12T17:45:00", 
+            "document": "Duolingo: Learn Dutch for Free"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 30, 
+            "activity": "duolingo.com", 
+            "date": "2015-09-12T17:45:00", 
+            "document": "Duolingo | Learn Spanish, French, German, Portuguese, Italian and English for free"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 27, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:45:00", 
+            "document": "Duolingo - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 8, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:45:00", 
+            "document": "Memrise - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 10, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:45:00", 
+            "document": "Mnemosyne (software) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:45:00", 
+            "document": "WaniKani - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:45:00", 
+            "document": "SuperMemo - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:45:00", 
+            "document": "Course Hero - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 48, 
+            "activity": "duolingo.com", 
+            "date": "2015-09-12T17:50:00", 
+            "document": "Duolingo: Home"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 23, 
+            "activity": "duolingo.com", 
+            "date": "2015-09-12T17:50:00", 
+            "document": "Duolingo: Welcome"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "duolingo.com", 
+            "date": "2015-09-12T17:50:00", 
+            "document": "Duolingo"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 4, 
+            "activity": "accounts.google.com", 
+            "date": "2015-09-12T17:55:00", 
+            "document": "Request for Permission"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-12T17:55:00", 
+            "document": "https://en.wikipedia.org/wiki/Memrise"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T18:05:00", 
+            "document": "dialogical art - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-12T18:05:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 9, 
+            "activity": "Preview", 
+            "date": "2015-09-12T18:05:00", 
+            "document": "Richard-Sennett-The-Craftsman-Chapter-1.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-12T18:05:00", 
+            "document": "ePUBDRMRemoval_v2.0.10.0"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-12T18:05:00", 
+            "document": "ePUBDRMRemoval"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-12T18:05:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "ibooks", 
+            "date": "2015-09-12T18:05:00", 
+            "document": "iBooks"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-12T18:05:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T18:10:00", 
+            "document": "The Cure of a lack of Discipline: Byron Davis - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 30, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T18:10:00", 
+            "document": "discipline - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T18:10:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 186, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T18:15:00", 
+            "document": "Self-Discipline Advice from a Roman Emperor - College Info Geek - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 42, 
+            "activity": "youtube.com", 
+            "date": "2015-09-12T18:15:00", 
+            "document": "Discipline Your Way to Freedom - Shiv Khera - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 12, 
+            "activity": "readability.com", 
+            "date": "2015-09-12T18:20:00", 
+            "document": "Readability Extensions for Chrome \u2014 Readability"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 6, 
+            "activity": "chrome.google.com", 
+            "date": "2015-09-12T18:20:00", 
+            "document": "Clearly - Chrome Web Store"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T18:20:00", 
+            "document": "reader chrome - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 4, 
+            "activity": "evernote.com", 
+            "date": "2015-09-12T18:20:00", 
+            "document": "Getting Started with Evernote Clearly | Evernote"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 4, 
+            "activity": "readability.com", 
+            "date": "2015-09-12T18:20:00", 
+            "document": "Window"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T18:20:00", 
+            "document": "readability chrome - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "chrome.google.com", 
+            "date": "2015-09-12T18:20:00", 
+            "document": "Chrome Web Store - Apps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-12T18:20:00", 
+            "document": "readability - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "readability.com", 
+            "date": "2015-09-12T18:20:00", 
+            "document": "Log In \u2014 Readability"
+        }
+    ]
+}

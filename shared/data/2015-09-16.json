@@ -1,0 +1,1704 @@
+{
+    "2015-09-16": [
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-16T10:40:00", 
+            "document": "Cocteau Twins - Sugar Hiccup [12\" Version] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-16T10:40:00", 
+            "document": "5 Active Reading Strategies for Textbook Assignments - College Info Geek - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "wthx-interactive \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 10, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "public/index.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 22, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "wthx-front/index.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 6, 
+            "activity": "Preview", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "Eco_Umberto_The_Open_Work.pdf"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "config/config.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 10, 
+            "activity": "devtools", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "Developer Tools - http://localhost:63343/wthx-interactive/index.html"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 13, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "/Users/GaborK/PhpstormProjects/wthx-front/index.html"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "chrome-devtools://devtools/bundled/inspector.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@201276/&can_dock=true&dockSide=undocked"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 5, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T10:45:00", 
+            "document": "uploader.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 27, 
+            "activity": "github.com", 
+            "date": "2015-09-16T10:50:00", 
+            "document": "socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 50, 
+            "activity": "slack", 
+            "date": "2015-09-16T10:50:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 31, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T10:50:00", 
+            "document": "uploader.html \u2014 WTHX"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 14, 
+            "activity": "devtools", 
+            "date": "2015-09-16T10:50:00", 
+            "document": "Developer Tools - http://localhost:63343/wthx-interactive/uploader.html"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T10:50:00", 
+            "document": "Package Control Messages \u2014 WTHX"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "w3schools.com", 
+            "date": "2015-09-16T10:50:00", 
+            "document": "AJAX Send an XMLHttpRequest To a Server"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-16T10:50:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:00:00", 
+            "document": "public/uploader.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 38, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:00:00", 
+            "document": "/Users/GaborK/git/wthx-interactive"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 14, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:00:00", 
+            "document": "src/index.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 10, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:00:00", 
+            "document": "uploader.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:00:00", 
+            "document": "src/uploader.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 22, 
+            "activity": "devtools", 
+            "date": "2015-09-16T11:05:00", 
+            "document": "Developer Tools - http://localhost:9849/uploader.html"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 60, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:05:00", 
+            "document": "public/uploader.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:05:00", 
+            "document": "src/index.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 17, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:05:00", 
+            "document": "/Users/GaborK/PhpstormProjects/wthx-front"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 14, 
+            "activity": "devtools", 
+            "date": "2015-09-16T11:05:00", 
+            "document": "Developer Tools - http://localhost:63343/wthx-interactive/src/public/uploader.html"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 13, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:10:00", 
+            "document": "Upload.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:10:00", 
+            "document": "routes/routes.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T11:15:00", 
+            "document": "Data.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 43, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T11:15:00", 
+            "document": "SceneControllerClassList.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 48, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T11:20:00", 
+            "document": "WTHX2015.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 97, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T11:20:00", 
+            "document": "wthx2015display - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 103, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T11:20:00", 
+            "document": "lightcontroller - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T11:20:00", 
+            "document": "pom.xml - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T11:20:00", 
+            "document": "wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T11:30:00", 
+            "document": "sockets - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-09-16T11:30:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-16T11:30:00", 
+            "document": "Vladislav Delay - Huone [Uncut] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-09-16T11:30:00", 
+            "document": "sugar hiccup - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-09-16T11:30:00", 
+            "document": "gaining momentum - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-16T11:30:00", 
+            "document": "vladislav delay multila - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-16T11:30:00", 
+            "document": "Cocteau Twins - Sugar Hiccup ( Album Version) - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T11:35:00", 
+            "document": "intro to socket io - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "calendar", 
+            "date": "2015-09-16T11:45:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T11:45:00", 
+            "document": "url - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-16T11:45:00", 
+            "document": "Uniform Resource Locator - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 57, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T11:50:00", 
+            "document": "varargs - Java, 3 dots in parameters - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:50:00", 
+            "document": "js/uploader.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T11:50:00", 
+            "document": "bind event listeners java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T11:50:00", 
+            "document": "bind event listener - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T11:50:00", 
+            "document": "... java parameter - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 68, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:55:00", 
+            "document": "Socket.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 18, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:55:00", 
+            "document": "js/app.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T11:55:00", 
+            "document": "wthx-front/uploader.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 132, 
+            "activity": "Preview", 
+            "date": "2015-09-16T12:00:00", 
+            "document": "schermen09.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-16T12:00:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-16T12:10:00", 
+            "document": "wthx-interactive \u2014 tree"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 18, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T13:50:00", 
+            "document": "README.md - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-16T13:50:00", 
+            "document": "wthx-front \u2014 mongo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-16T13:50:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 4, 
+            "activity": "devtools", 
+            "date": "2015-09-16T14:00:00", 
+            "document": "Developer Tools - http://localhost:9849/"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 164, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T14:05:00", 
+            "document": "WImage.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 38, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T14:10:00", 
+            "document": "JSONObject.class - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T14:15:00", 
+            "document": "Archive.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T14:15:00", 
+            "document": "ImgData.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T14:15:00", 
+            "document": "ImageData.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T14:25:00", 
+            "document": "java singleton example - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 30, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T14:35:00", 
+            "document": "Why would I use static initialization block in java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T14:35:00", 
+            "document": "when to use static initializer java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T15:00:00", 
+            "document": "io - Read and Write to Java file via Resource - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T15:00:00", 
+            "document": "java save to resources cp - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T15:00:00", 
+            "document": "java - How can I save a file to the class path - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T15:00:00", 
+            "document": "java save to resources - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:05:00", 
+            "document": "Image.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:10:00", 
+            "document": "WeatherSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:10:00", 
+            "document": "SpecialEvents.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:10:00", 
+            "document": "IntelliJ IDEA 14.1.4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 166, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:20:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 56, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:25:00", 
+            "document": "ControlManager.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:25:00", 
+            "document": "Panel.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "3de9534658e99a0f82aa9edde6c1c9d1.jpeg - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 8, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/07baa8ebeabe14a9980a470051e98c70.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 7, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/54d18c88eb0e770308ceee42cd328ee6.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/2280f1829c3342de1800edb2d2a1cc80.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "9a9ff33f3b41d55f72cfafc1d1e80a80.jpeg - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/edf6a6eebe5a95ea7abf5939a5b98193.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/9b1ed50ce881a0659e70f844c4565292.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/9dee474b40f2bf47dd192f8e6c0bd30d.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/5db4af23d1710c6cabc1ae49b568b9c1.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/f55e1371fd3a48e93d91756787945f63.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/d2806db8a4b46d04dc9fec9400db5efb.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T15:40:00", 
+            "document": "full/ef81aa1e046f8a6844492f3a6cff9a46.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 69, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:45:00", 
+            "document": "WTHX2015App.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 82, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T15:45:00", 
+            "document": "Config.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 11, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:00:00", 
+            "document": "Peace \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:00:00", 
+            "document": "\"Peace\" \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:00:00", 
+            "document": "untitled \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 48, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T16:05:00", 
+            "document": "Post.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 37, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:05:00", 
+            "document": "[ \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:05:00", 
+            "document": "[\"Peace\", \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:05:00", 
+            "document": "\"Peace\", \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:05:00", 
+            "document": "]\"Peace\", \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 190, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T16:15:00", 
+            "document": "uploadFakerScript.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Games", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 39, 
+            "activity": "manythings.org", 
+            "date": "2015-09-16T16:20:00", 
+            "document": "Fun with Randomly Generated Sentences - They asked him to swim."
+        }, 
+        {
+            "category": "Games", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 24, 
+            "activity": "manythings.org", 
+            "date": "2015-09-16T16:20:00", 
+            "document": "Fun with Randomly-Generated Sentences / Random Sentences for Language Study"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T16:20:00", 
+            "document": "random caption generator - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T16:20:00", 
+            "document": "random sentence generator - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T16:20:00", 
+            "document": "array of random sentences - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T16:20:00", 
+            "document": "random caption - Google Search"
+        }, 
+        {
+            "category": "Games", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 5, 
+            "activity": "manythings.org", 
+            "date": "2015-09-16T16:20:00", 
+            "document": "Fun with Randomly Generated Sentences - Posession"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-16T16:20:00", 
+            "document": "WTHX Interactive"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-16T16:25:00", 
+            "document": "full"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T16:25:00", 
+            "document": "6fed34c3bc55c1816b438b2358b666ef.jpeg - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-16T16:25:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 157, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T16:40:00", 
+            "document": "LUSTlab / WTHX-Interactive \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T16:40:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T16:40:00", 
+            "document": "https://bitbucket.org"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 50, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:45:00", 
+            "document": "Alpha \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:45:00", 
+            "document": "[\"Alpha\",\"Bravo\",\"Charlie\",\"Delta\",\"Echo\",\"Foxtrot \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 9, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:45:00", 
+            "document": "\"Alpha\",\"Bravo\",\"Charlie\",\"Delta\",\"Echo\",\"Foxtrot\" \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T16:45:00", 
+            "document": "Object.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:45:00", 
+            "document": "\"Alpha\" \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-16T16:45:00", 
+            "document": "\"Alpha\", \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-09-16T16:50:00", 
+            "document": "yo.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-09-16T16:50:00", 
+            "document": "Developer Tools - http://localhost:63343/wthx-interactive/src/public/index.html"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 131, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T16:55:00", 
+            "document": "java - Convert JSONArray to String Array - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T16:55:00", 
+            "document": "jsonarray to string array java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T17:00:00", 
+            "document": "JSONArray.class - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T17:00:00", 
+            "document": "optstring jsonobject - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 9, 
+            "activity": "devtools", 
+            "date": "2015-09-16T17:10:00", 
+            "document": "Developer Tools - http://localhost:9849/uploadFaker.html"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 25, 
+            "activity": "phpstorm", 
+            "date": "2015-09-16T17:10:00", 
+            "document": "uploadFaker.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 12, 
+            "activity": "w3schools.com", 
+            "date": "2015-09-16T17:15:00", 
+            "document": "Window clearInterval() Method"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 2, 
+            "activity": "w3schools.com", 
+            "date": "2015-09-16T17:15:00", 
+            "document": "onclick Event"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T17:15:00", 
+            "document": "button onclick - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T17:15:00", 
+            "document": "clearinterval - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 18, 
+            "activity": "devtools", 
+            "date": "2015-09-16T17:20:00", 
+            "document": "Developer Tools - http://localhost:63343/wthx-interactive/src/public/uploadFaker.html"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T17:20:00", 
+            "document": "HTML/Javascript change div content - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T17:20:00", 
+            "document": "javascript - How do I replace text inside a div element? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T17:20:00", 
+            "document": "change text content of div javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T17:25:00", 
+            "document": "javascript - Generate unique random numbers between 1 and 100 - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T17:25:00", 
+            "document": "javascript - How to get subarray from array? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T17:25:00", 
+            "document": "unique random numbers in range javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T17:25:00", 
+            "document": "javascript sublist - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T17:30:00", 
+            "document": "How to randomize (shuffle) a JavaScript array? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T17:30:00", 
+            "document": "javascript - Generating unique random numbers (integers) between 0 and 'x' - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T17:35:00", 
+            "document": "kruidvat openingstijden - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-16T17:55:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-16T18:00:00", 
+            "document": "java - Malformed URL no protocol error - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T18:00:00", 
+            "document": "no protocol - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-16T18:00:00", 
+            "document": "no protocol exreption - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 104, 
+            "activity": "intellij idea", 
+            "date": "2015-09-16T18:15:00", 
+            "document": "ImageLoader.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 69, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:15:00", 
+            "document": "Error \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 3, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:15:00", 
+            "document": "Oops, you've found a dead link \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:15:00", 
+            "document": "https://bitbucket.org/edwinlust/rndr-examples"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 40, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 6, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 4, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / async-images / src / main / java / net / lustlab / rndr / examples \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / async-images \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 3, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / rendertargets-gl3 / src / main \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / async-images / src / main / java / net / lustlab / rndr \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / async-images / src / main / java / net / lustlab \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / rendertargets-gl3 \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / async-images / src / main / java / net \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / rendertargets-gl3 / src / main / resources / shaders \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / rendertargets-gl3 / src / main / java / net / lustlab / rndr / examples \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / async-images / src / main \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-16T18:20:00", 
+            "document": "edwinlust / rndr-examples / source / async-images / src / main / java \u2014 Bitbucket"
+        }
+    ]
+}

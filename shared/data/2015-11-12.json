@@ -1,0 +1,564 @@
+{
+    "2015-11-12": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 84, 
+            "activity": "Thunderbird", 
+            "date": "2015-11-12T09:45:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 8, 
+            "activity": "users", 
+            "date": "2015-11-12T09:45:00", 
+            "document": "17337183984-469903414-registration.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 14, 
+            "activity": "System Preferences", 
+            "date": "2015-11-12T10:00:00", 
+            "document": "Network"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-11-12T10:05:00", 
+            "document": "hubbub_vragen-1.numbers"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 7, 
+            "activity": "newtab", 
+            "date": "2015-11-12T10:15:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T10:15:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T10:15:00", 
+            "document": "karel martens - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-11-12T10:15:00", 
+            "document": "*Untitled-4"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 93, 
+            "activity": "Preview", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "drachten_presentation-141119.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "light installation"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "dracthen"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "mobile - vredespaleis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "112"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "dither"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "gameoflifestills"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "examples"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "gameOfLife_tests"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-12T10:20:00", 
+            "document": "gamoflife2_tests"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 7, 
+            "activity": "444.hu", 
+            "date": "2015-11-12T10:40:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 40, 
+            "activity": "technologyreview.com", 
+            "date": "2015-11-12T10:45:00", 
+            "document": "Twelve Tomorrows | MIT Technology Review"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T10:45:00", 
+            "document": "Twelve Tomorrows - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T10:45:00", 
+            "document": "https://www.google.nl/search?q=Twelve+Tomorrows&oq=Twelve+Tomorrows&aqs=chrome..69i57j0l5.236j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 17, 
+            "activity": "444.hu", 
+            "date": "2015-11-12T10:50:00", 
+            "document": "Oroszorsz\u00e1g bevetette titkos csodafegyver\u00e9t a Charlie Hebdo ellen - 444"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "amazon.com", 
+            "date": "2015-11-12T10:50:00", 
+            "document": "Amazon.com: Twelve Tomorrows - 2014: Visionary stories of the near future eBook: Lauren Beukes, Christopher Brown, Pat Cadigan, Cory Doctorow, Warren Ellis, John Schoenherr, Joel Garreau, William Gibson, Paul Graham Raven, Bruce Sterling: Kindle Store"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 4, 
+            "activity": "translate.google.com", 
+            "date": "2015-11-12T11:00:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "translate.google.com", 
+            "date": "2015-11-12T11:00:00", 
+            "document": "https://translate.google.com"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 18, 
+            "activity": "444.hu", 
+            "date": "2015-11-12T14:10:00", 
+            "document": "Ha nem tudsz Porsch\u00e9t lopni, ne akarj Porsch\u00e9t lopni - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 13, 
+            "activity": "444.hu", 
+            "date": "2015-11-12T14:10:00", 
+            "document": "Kov\u00e1cs Zolt\u00e1n korm\u00e1nysz\u00f3viv\u0151 most t\u00e9nyleg nyakon cs\u00edpte a 444-et - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-11-12T14:10:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T14:15:00", 
+            "document": "acronym wear - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T14:15:00", 
+            "document": "elka kitmoller - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 39, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 17, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "makeitrain.nl\nendclothing.c\u2026"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "exported_videos"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "civic_city"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "wthx"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "makeitrain.nl\n"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "Music\n\nSiouxsie and the Ban\u2026"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "make"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "makeitrain.nl\ned"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "makeitrain.nl\nendclothin"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "makeitra"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "makeitrain.nl\nen"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-11-12T14:20:00", 
+            "document": "makeitrain.nl\ne"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 41, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T14:25:00", 
+            "document": "box model - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 109, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-11-12T14:30:00", 
+            "document": "Pure Java web browser, is it practical? - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T14:30:00", 
+            "document": "java browser implementation - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T14:30:00", 
+            "document": "java browser implemenetation - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-11-12T14:30:00", 
+            "document": "programmers.stackexchange.com/questions/174751/pure-java-web-browser-is-it-practical"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T14:35:00", 
+            "document": "hardware accelerated animations browser - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T15:00:00", 
+            "document": "document object model qtp - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-12T15:00:00", 
+            "document": "document object model qt - Google Search"
+        }
+    ]
+}

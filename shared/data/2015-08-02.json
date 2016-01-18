@@ -1,0 +1,924 @@
+{
+    "2015-08-02": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "Gmail", 
+            "date": "2015-08-02T15:55:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 7, 
+            "activity": "newtab", 
+            "date": "2015-08-02T16:00:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "flowingdata.com", 
+            "date": "2015-08-02T16:00:00", 
+            "document": "How stolen data affects you"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T16:00:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T16:00:00", 
+            "document": "raspberrypi nas - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 8, 
+            "activity": "lifehacker.com", 
+            "date": "2015-08-02T16:00:00", 
+            "document": "Turn a Raspberry Pi Into a Low Power NAS"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 102, 
+            "activity": "Terminal", 
+            "date": "2015-08-02T16:05:00", 
+            "document": "coding \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T16:05:00", 
+            "document": "share folder over network raspbian - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 21, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-02T16:05:00", 
+            "document": "Samba (software) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T16:05:00", 
+            "document": "samba server - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-02T16:05:00", 
+            "document": "coding \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 155, 
+            "activity": "sublime text", 
+            "date": "2015-08-02T16:10:00", 
+            "document": "smb.conf \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:15:00", 
+            "document": "raspi"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:15:00", 
+            "document": "Connect to Server"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 12, 
+            "activity": "sublime text", 
+            "date": "2015-08-02T16:15:00", 
+            "document": "pom.xml \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:15:00", 
+            "document": "Connecting to Server"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:15:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T16:20:00", 
+            "document": "samba server raspberry pi - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 25, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "completed"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "samba cannot see files - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "connect to samba folder mac - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "gbr"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "added user root samba - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "Colleen"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "A Setting Sun"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "torrents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "NAS"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "music"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "downloads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "torrent-backups"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "Ada"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:25:00", 
+            "document": "lost+found"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 21, 
+            "activity": "users", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "Amazon Dark"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 14, 
+            "activity": "sublime text", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "index.html \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "img"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "dnmarchives"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 23, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "The Golden Morning Breaks"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 20, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "2015-06-11"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "listing"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "vice"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "profile"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "users", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "wiki"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "uploads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "completed Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "news"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "css"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "style"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:30:00", 
+            "document": "amazondark"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 98, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 21, 
+            "activity": "sublime text", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "18 \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 18, 
+            "activity": "devtools", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "Developer Tools - file:///Users/GaborK/Documents/CURRENT/amazondark/2015-06-12/index.html"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "2015-06-12"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 16, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "images"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 12, 
+            "activity": "sublime text", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "analgesics \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "btheway"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "OhmShanti"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "rosesgarden"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "chrome-devtools://devtools/bundled/devtools.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@199461/&can_dock=true&dockSide=undocked&toolbarColor=rgba(227,227,227,1)&textColor=rgba(102,102,102,1)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "darkmarket"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "2015-07-03"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "darklistings"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "DrXanax"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:35:00", 
+            "document": "burningskin"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 48, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "2014-02-03"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 60, 
+            "activity": "users", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "Black Goblin Realms"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "blackgoblin"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 8, 
+            "activity": "users", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "Welcome to Black Goblin | Black Goblin"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 6, 
+            "activity": "devtools", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "Developer Tools - file:///Users/GaborK/Documents/CURRENT/blackgoblin/2014-02-03/index.html"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "modules"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "style.css \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "misc"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "sites"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "libraries"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "comment"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "themes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "all"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "forum"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-02T16:40:00", 
+            "document": "default"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-08-02T16:50:00", 
+            "document": "deleted cities - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-02T16:50:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T16:50:00", 
+            "document": "deleted cities - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-02T16:50:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-02T17:45:00", 
+            "document": "how to repair a whole in jeans - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 40, 
+            "activity": "facebook.com", 
+            "date": "2015-08-02T17:55:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 12, 
+            "activity": "facebook.com", 
+            "date": "2015-08-02T17:55:00", 
+            "document": "KABK GOVT 3 informal"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-08-02T17:55:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-02T17:55:00", 
+            "document": "https://www.facebook.com"
+        }
+    ]
+}

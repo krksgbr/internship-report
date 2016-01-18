@@ -1,0 +1,1514 @@
+{
+    "2015-09-28": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 6, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-28T10:20:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-28T10:20:00", 
+            "document": "https://translate.google.com"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 11, 
+            "activity": "thesaurus.com", 
+            "date": "2015-09-28T10:25:00", 
+            "document": "Sorry Synonyms, Sorry Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 10, 
+            "activity": "support.google.com", 
+            "date": "2015-09-28T10:25:00", 
+            "document": "Why am I seeing extra information next to the sender\u2019s name? - Gmail Help"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 4, 
+            "activity": "thesaurus.com", 
+            "date": "2015-09-28T10:25:00", 
+            "document": "Thesaurus.com | Find Synonyms and Antonyms of Words at Thesaurus.com"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-28T10:30:00", 
+            "document": "out"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T10:40:00", 
+            "document": "why do i write so slowly - Google Search"
+        }, 
+        {
+            "category": "Maps & Regional", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 10, 
+            "activity": "accuweather.com", 
+            "date": "2015-09-28T10:45:00", 
+            "document": "Netherlands Weather - AccuWeather.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T10:45:00", 
+            "document": "weather api - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-28T10:50:00", 
+            "document": "Ghost in the machine - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 62, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T10:55:00", 
+            "document": "bullhorn handlebar - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 66, 
+            "activity": "wunderground.com", 
+            "date": "2015-09-28T11:05:00", 
+            "document": "API | Weather Underground"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 14, 
+            "activity": "wunderground.com", 
+            "date": "2015-09-28T11:05:00", 
+            "document": "Weather Forecast & Reports - Long Range & Local | Wunderground | Weather Underground"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 3, 
+            "activity": "yahoo.com", 
+            "date": "2015-09-28T11:05:00", 
+            "document": "Yahoo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-09-28T11:10:00", 
+            "document": "forecastio-lib-java/ForecastIO.java at master \u00b7 dvdme/forecastio-lib-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 23, 
+            "activity": "github.com", 
+            "date": "2015-09-28T11:10:00", 
+            "document": "dvdme/forecastio-lib-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 98, 
+            "activity": "github.com", 
+            "date": "2015-09-28T11:10:00", 
+            "document": "kushanj1/ForecastIOLibrary"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 29, 
+            "activity": "github.com", 
+            "date": "2015-09-28T11:10:00", 
+            "document": "forecastio-lib-java/FIOFlags.java at master \u00b7 dvdme/forecastio-lib-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-09-28T11:10:00", 
+            "document": "forecastio-lib-java/src/com/github/dvdme/ForecastIOLib at master \u00b7 dvdme/forecastio-lib-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-09-28T11:10:00", 
+            "document": "forecastio-lib-java/FIOCurrently.java at master \u00b7 dvdme/forecastio-lib-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-09-28T11:10:00", 
+            "document": "kushanj1 (Kushan Jayatilleke)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-09-28T11:15:00", 
+            "document": "dvdme (David Ervideira)"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "wunderground.com", 
+            "date": "2015-09-28T11:15:00", 
+            "document": "Yahoo Weather API | ProgrammableWeb"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T11:20:00", 
+            "document": "hourly forecast weather api - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T11:20:00", 
+            "document": "How do I make a call to the Yahoo hourly weather forecast API? - Stack Overflow"
+        }, 
+        {
+            "category": "Maps & Regional", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "accuweather.com", 
+            "date": "2015-09-28T11:20:00", 
+            "document": "www.accuweather.com/en/nl/netherlands-weather"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 66, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T11:25:00", 
+            "document": "yahoo weather hourly forecast - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T11:25:00", 
+            "document": "accuweather api - Google Search"
+        }, 
+        {
+            "category": "Travel & Outdoors", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 5, 
+            "activity": "weather.com", 
+            "date": "2015-09-28T11:25:00", 
+            "document": "6 to 10 Day Extended Weather Forecast for Negen Straatjes - weather.com"
+        }, 
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "login.yahoo.com", 
+            "date": "2015-09-28T11:25:00", 
+            "document": "Yahoo - login"
+        }, 
+        {
+            "category": "Maps & Regional", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "accuweather.com", 
+            "date": "2015-09-28T11:25:00", 
+            "document": "Amsterdam Weather - AccuWeather Forecast for North Holland Netherlands"
+        }, 
+        {
+            "category": "Travel & Outdoors", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "weather.com", 
+            "date": "2015-09-28T11:25:00", 
+            "document": "www.weather.com/weather/extended/l/NLXX8343?site=www.yahoo.com&promo=extendedforecast&cm_ven=Yahoo&cm_cat=www.yahoo.com&cm_pla=forecastpage&cm_ite=CityPage"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T11:30:00", 
+            "document": "wunderground api - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T11:30:00", 
+            "document": "javascript - Weather api hourly - Stack Overflow"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 28, 
+            "activity": "wunderground.com", 
+            "date": "2015-09-28T11:55:00", 
+            "document": "Veghel, Netherlands Forecast | Weather Underground"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T11:55:00", 
+            "document": "dark sky net weather api - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T11:55:00", 
+            "document": "weather station veghel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:00:00", 
+            "document": "veghel weer api - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:00:00", 
+            "document": "weather api stability - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:00:00", 
+            "document": "weestationoss - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:00:00", 
+            "document": "weeronline api - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:00:00", 
+            "document": "Weer Oss"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:05:00", 
+            "document": "most reliable weather api - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:05:00", 
+            "document": "weather api for next 10 years - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:05:00", 
+            "document": "the weather channel api - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:10:00", 
+            "document": "weather api for long term use - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:10:00", 
+            "document": "google weather api - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 49, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:15:00", 
+            "document": "The Dark Sky Company - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-09-28T12:15:00", 
+            "document": "The Dark Sky Company, LLC"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-09-28T12:20:00", 
+            "document": "forecastio-lib-java/FIOHourly.java at master \u00b7 dvdme/forecastio-lib-java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T12:25:00", 
+            "document": "ForecastIO.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T12:25:00", 
+            "document": "Test.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T12:25:00", 
+            "document": "SceneControllerClassList.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T12:25:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-28T12:30:00", 
+            "document": "forecastio-lib-java/javadoc at master \u00b7 dvdme/forecastio-lib-java"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 16, 
+            "activity": "Preview", 
+            "date": "2015-09-28T12:35:00", 
+            "document": "Programma Maaketdan.pdf"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-28T12:35:00", 
+            "document": "Weer, 14 daagse weersverwachting, buien radar | weeronline.nl"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 25, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T12:40:00", 
+            "document": "ForecastIO.java - ForecastIOLib - [~/Downloads/forecastio-lib-java-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T12:40:00", 
+            "document": "HttpClient.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-28T12:40:00", 
+            "document": "forecastio-lib-java-master"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T12:40:00", 
+            "document": "ForecastIOLib - [~/Downloads/forecastio-lib-java-master]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:45:00", 
+            "document": "veghel coordinates - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:45:00", 
+            "document": "veghel location - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 67, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T12:50:00", 
+            "document": "java - What is InputStream & Output Stream? Why do we use them and when do we use each of them? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T12:50:00", 
+            "document": "inputstream - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T12:55:00", 
+            "document": "URLConnection.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 41, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T13:00:00", 
+            "document": "URL.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 41, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T13:00:00", 
+            "document": "URLStreamHandler.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 61, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T13:05:00", 
+            "document": "java - What happens to a BufferedReader that doesn't get closed within a callable.call? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T13:05:00", 
+            "document": "what if i don't close bufferedreader - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 30, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T13:10:00", 
+            "document": "wthx2015display - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T13:10:00", 
+            "document": "lightcontroller - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T13:10:00", 
+            "document": "JSONObject.class - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T13:10:00", 
+            "document": "org.json maven - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 28, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T13:15:00", 
+            "document": "Cluster.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T13:15:00", 
+            "document": "FontImageMap.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T13:50:00", 
+            "document": "The Dark Sky Forecast API"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T14:00:00", 
+            "document": "delimit api options - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 49, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T14:15:00", 
+            "document": "InputStream.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T15:05:00", 
+            "document": "java - How to convert a String to JsonObject using gson library - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T15:05:00", 
+            "document": "gson from string - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-09-28T15:15:00", 
+            "document": "Vladislav Delay - Pietola - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-09-28T15:15:00", 
+            "document": "Vladislav Delay - He Lived Deeply - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 41, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T15:25:00", 
+            "document": "GsonBuilder.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T15:25:00", 
+            "document": "gson with http - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T15:25:00", 
+            "document": "gson pretty print - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 62, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T15:30:00", 
+            "document": "WeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 37, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-09-28T15:35:00", 
+            "document": "c++ - When do you use float and when do you use double - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 25, 
+            "activity": "sublime text", 
+            "date": "2015-09-28T15:35:00", 
+            "document": "\"time\": 1443447376, \u2014 WTHX"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T15:35:00", 
+            "document": "double or float - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T15:40:00", 
+            "document": "wind bearing - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T15:40:00", 
+            "document": "windbearing - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-28T15:40:00", 
+            "document": "Wind direction - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T15:50:00", 
+            "document": "datetime from timestamp java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T15:50:00", 
+            "document": "datetime from timestamp - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T15:50:00", 
+            "document": "datetime from timestamp java joda - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-28T15:50:00", 
+            "document": "The Dark Sky Forecast API Docs"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T15:50:00", 
+            "document": "java - Joda DateTime to Timestamp conversion - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T15:55:00", 
+            "document": "java - Converting Unix timestamp to String with Joda Time - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 20, 
+            "activity": "sublime text", 
+            "date": "2015-09-28T16:00:00", 
+            "document": "\"time\": 1443448800, \u2014 WTHX"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T16:15:00", 
+            "document": "gson have object string representation - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T16:15:00", 
+            "document": "Light.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T16:15:00", 
+            "document": "LED.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 32, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T16:50:00", 
+            "document": "WeatherSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 35, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T16:50:00", 
+            "document": "IWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:05:00", 
+            "document": "LiveWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 55, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:05:00", 
+            "document": "OfflineWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:05:00", 
+            "document": "FakeWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:10:00", 
+            "document": "Timer.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T17:10:00", 
+            "document": "timertask java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 39, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:15:00", 
+            "document": "IWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 77, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:20:00", 
+            "document": "LiveWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:20:00", 
+            "document": "OfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:20:00", 
+            "document": "LatestWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:20:00", 
+            "document": "IWeatherDataOld.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T17:30:00", 
+            "document": "oop - What's a good name for a fa\u00e7ade class? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T17:30:00", 
+            "document": "how to name facade class - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 116, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:35:00", 
+            "document": "WeatherFacade.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T17:35:00", 
+            "document": "java - Is it okay to throw NullPointerException programatically? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T17:35:00", 
+            "document": "intellij doesn't complain about exception - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T17:35:00", 
+            "document": "intellij complain exception - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T17:35:00", 
+            "document": "throw nullpointerexception - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T17:55:00", 
+            "document": "weather/OfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T18:00:00", 
+            "document": "FakeWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T18:00:00", 
+            "document": "OfflineWeatherDataSourceOld.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T18:00:00", 
+            "document": "old/OfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T18:05:00", 
+            "document": "Java: Enum vs. Int - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:05:00", 
+            "document": "int constant vs enum - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T18:35:00", 
+            "document": "WeatherScraper.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T18:35:00", 
+            "document": "java - if(null check)-else vs try catch(NullPointerException) which is more efficient? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:35:00", 
+            "document": "try catch vs if null - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-28T18:35:00", 
+            "document": "Jan Jelinek - Tendency - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:40:00", 
+            "document": "get timestamp for dates - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 91, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "How to iterate through range of Dates in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "iterate over calendar java 8 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "iterate over calendar java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "java - I need a cycle which iterates through dates interval - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "Iterate through date range Java, strange results - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "datetime - Java Timestamp - How can I create a Timestamp with the date 23/09/2007? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "calendar java 8 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "get timestamp for dates java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "java - Getting unix timestamp from Date() - Stack Overflow"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 9, 
+            "activity": "java2s.com", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "This constructs an Iterator over each day in a date range defined by a focus date and range style. : Iterator\u00a0\u00ab\u00a0Collections\u00a0\u00ab\u00a0Java Tutorial"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:45:00", 
+            "document": "calendar java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 48, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-28T18:50:00", 
+            "document": "java - String to LocalDate - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:50:00", 
+            "document": "joda localdate - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 82, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T18:55:00", 
+            "document": "RadialPulseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 80, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T18:55:00", 
+            "document": "App.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:55:00", 
+            "document": "exclude folder intellj - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-28T18:55:00", 
+            "document": "Run/Debug Configurations"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-28T18:55:00", 
+            "document": "exclude folder intellj from compile - Google Search"
+        }
+    ]
+}

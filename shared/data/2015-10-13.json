@@ -1,0 +1,974 @@
+{
+    "2015-10-13": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T10:05:00", 
+            "document": "fyi - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T10:05:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 21, 
+            "activity": "444.hu", 
+            "date": "2015-10-13T10:10:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 91, 
+            "activity": "sublime text", 
+            "date": "2015-10-13T10:15:00", 
+            "document": "content \u2014 .pomo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 49, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T10:20:00", 
+            "document": "peace palace visitor center - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T10:20:00", 
+            "document": "international court of justice - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T10:20:00", 
+            "document": "peace palace - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 62, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-10-13T10:25:00", 
+            "document": "*Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 95, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-13T10:25:00", 
+            "document": "ICJ-Nicaragua-Costa.jpg"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T10:25:00", 
+            "document": "nicuragua icj - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-10-13T10:25:00", 
+            "document": "mobile - vredespaleis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-13T10:25:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 12, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:30:00", 
+            "document": "GaborK \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 54, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:30:00", 
+            "document": "GaborK \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 34, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:30:00", 
+            "document": "GaborK \u2014 Python"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-13T10:30:00", 
+            "document": "Nicaragua v. United States - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-13T10:30:00", 
+            "document": "How to convert string to lowercase in Python? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T10:30:00", 
+            "document": "python lowercase - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 79, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:45:00", 
+            "document": "pomo \u2014 -zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 12, 
+            "activity": "sublime text", 
+            "date": "2015-10-13T10:45:00", 
+            "document": ".zshrc \u2014 .pomo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:45:00", 
+            "document": "own \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:45:00", 
+            "document": "pomo \u2014 say"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:45:00", 
+            "document": "pomo \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:45:00", 
+            "document": "GaborK \u2014 say"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:45:00", 
+            "document": "GaborK \u2014 terminal-notifier"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T10:45:00", 
+            "document": "pomo \u2014 terminal-notifier"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 36, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-13T10:50:00", 
+            "document": "mandela.jpg"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 35, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-13T10:50:00", 
+            "document": "Nelson Mandela - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-10-13T10:50:00", 
+            "document": "test.json \u2014 .pomo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T10:50:00", 
+            "document": "nelson mandela - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-13T10:50:00", 
+            "document": "Mandela 1991 - Nelson Mandela - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T11:05:00", 
+            "document": "nobel peace prize 2015 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 40, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-13T11:10:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 41, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T11:10:00", 
+            "document": "national dialogue quartet - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 49, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-13T11:15:00", 
+            "document": "nobelpeace.jpg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 15, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-13T11:20:00", 
+            "document": "concert.jpg"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T11:20:00", 
+            "document": "classical music concert - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-13T11:45:00", 
+            "document": "Bestanden"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 93, 
+            "activity": "Preview", 
+            "date": "2015-10-13T11:50:00", 
+            "document": "schets01.pdf"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-10-13T12:00:00", 
+            "document": "Today, 98 years ago on July 18, 1918 Nelson Mandel \u2014 .pomo"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "calendar", 
+            "date": "2015-10-13T12:30:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T12:40:00", 
+            "document": "international law news - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-13T12:40:00", 
+            "document": "AirDrop"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-10-13T12:40:00", 
+            "document": "RANDOM STUFF\n\nAntonio Gandi\u2026"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T12:55:00", 
+            "document": "kill adobe updater - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-10-13T13:00:00", 
+            "document": "untitled \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 76, 
+            "activity": "sublime text", 
+            "date": "2015-10-13T13:00:00", 
+            "document": "log.json \u2014 .pomo"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 6, 
+            "activity": "index.hu", 
+            "date": "2015-10-13T13:00:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T14:10:00", 
+            "document": "datetimeformatter joda - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-13T14:10:00", 
+            "document": "Peace Palace The Hague - News"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-13T14:15:00", 
+            "document": "concert.jpg @ X% (Gradient Map 1, Layer Mask/8) *"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-13T15:00:00", 
+            "document": "java - How can a KeyListener detect key combinations (e.g., ALT + 1 + 1) - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T15:00:00", 
+            "document": "jogamp detect key combinations - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T15:00:00", 
+            "document": "java detect key combinations - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-13T15:50:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-13T16:00:00", 
+            "document": "112"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-13T16:00:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-13T16:00:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 130, 
+            "activity": "Preview", 
+            "date": "2015-10-13T16:05:00", 
+            "document": "drachten_presentation-141119.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-13T16:05:00", 
+            "document": "light installation"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-13T16:05:00", 
+            "document": "dracthen"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-13T16:05:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-13T16:05:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-13T16:05:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 28, 
+            "activity": "facebook.com", 
+            "date": "2015-10-13T16:35:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 25, 
+            "activity": "index.hu", 
+            "date": "2015-10-13T16:35:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Vide\u00f3ra vett\u00e9k saj\u00e1t hal\u00e1lukat a bedrogozva sz\u00e1guldoz\u00f3 fiatalok"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 8, 
+            "activity": "facebook.com", 
+            "date": "2015-10-13T16:35:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 3, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-10-13T16:35:00", 
+            "document": "content.indd"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-13T16:35:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 53, 
+            "activity": "index.hu", 
+            "date": "2015-10-13T16:40:00", 
+            "document": "Index - Mindek\u00f6zben - Nem az a durva, hogy ez a 23 \u00e9ves sr\u00e1c vett mag\u00e1nak egy 1,2 milli\u00e1rd forintos kast\u00e9lyt, hanem hogy mib\u0151l volt r\u00e1 p\u00e9nze"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-10-13T16:40:00", 
+            "document": "CaptainSparklez - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-13T16:40:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T16:55:00", 
+            "document": "forecastio - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 79, 
+            "activity": "sublime text", 
+            "date": "2015-10-13T17:15:00", 
+            "document": "ForecastIO: initiating new request: https://api.fo \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-10-13T17:15:00", 
+            "document": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/ \u2014 .pomo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T17:20:00", 
+            "document": "veghel weather - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T17:25:00", 
+            "document": "sublime style minimap intellj - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 35, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-13T17:30:00", 
+            "document": "LUSTlab / lightcontroller / commit / 8269d5be9c0a \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 13, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-13T17:30:00", 
+            "document": "LUSTlab / lightcontroller / Commits \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 4, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-13T17:30:00", 
+            "document": "LUSTlab / lightcontroller / source / src \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-13T17:30:00", 
+            "document": "LUSTlab / lightcontroller \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-13T17:30:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-13T17:30:00", 
+            "document": "LUSTlab / lightcontroller / commit / ffa814422b73 \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-13T17:30:00", 
+            "document": "LUSTlab / lightcontroller / source / \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 45, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T18:05:00", 
+            "document": "lightcontroller \u2014 -zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-13T18:05:00", 
+            "document": "git - Why am I getting \"Commit failed with error: pathspec ... did not match any file(s)\"? - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T18:05:00", 
+            "document": "lightcontroller \u2014 git"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T18:05:00", 
+            "document": "intellij pathspec did not match any file known to git - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-13T18:10:00", 
+            "document": "gitignore - Stop tracking and ignore changes to a file in Git - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-13T18:10:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T18:10:00", 
+            "document": "git remove tracked file - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T18:15:00", 
+            "document": "commit failed will not add alias - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 98, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-13T18:20:00", 
+            "document": "osx - git mv and only change case of directory - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-13T18:30:00", 
+            "document": "Remove files from Git commit - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T18:30:00", 
+            "document": "remove files from commit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T18:55:00", 
+            "document": "2e de Carpentierstraat 153 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-13T18:55:00", 
+            "document": "Google Maps"
+        }
+    ]
+}

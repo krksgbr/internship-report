@@ -1,0 +1,1354 @@
+{
+    "2015-10-04": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 30, 
+            "activity": "Gmail", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 6, 
+            "activity": "newtab", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "444.hu", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "N\u00e9meth Kriszti\u00e1n bel\u0151tte idei tizedik g\u00f3lj\u00e1t !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 31, 
+            "activity": "444.hu", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 53, 
+            "activity": "youtube.com", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "Clio - Faces (Italo Disco) (Good Quality) - YouTube"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "stickies", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "Dates\n\nrevspace tuesday 18.\u2026"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "multithreading - How to properly stop the Thread in Java - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "Initializing multiple variables to the same value in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-04T13:40:00", 
+            "document": "MusicBox"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 124, 
+            "activity": "444.hu", 
+            "date": "2015-10-04T13:45:00", 
+            "document": "Ha azt hiszed, hogy Sz\u00edria sz\u00f6rny\u0171, v\u00e1rd ki, am\u00edg sz\u00e9thullik Sza\u00fad-Ar\u00e1bia !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 8, 
+            "activity": "444.hu", 
+            "date": "2015-10-04T13:45:00", 
+            "document": "Ezzel a kis sz\u0151r\u00f6s iz\u00e9vel b\u00facs\u00fazom !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-04T13:45:00", 
+            "document": "444.hu/2015/10/03/ezzel-a-kis-szoros-izevel-bucsuzom/"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 51, 
+            "activity": "RescueTime", 
+            "date": "2015-10-04T14:45:00", 
+            "document": "RescueTime"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 156, 
+            "activity": "quora.com", 
+            "date": "2015-10-04T16:00:00", 
+            "document": "(5) Which is better for cross-platform desktop app: QT or node-webkit? - Quora"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:05:00", 
+            "document": "nw js - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 12, 
+            "activity": "app store", 
+            "date": "2015-10-04T16:05:00", 
+            "document": "App Store"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:10:00", 
+            "document": "node js vs c++ - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:10:00", 
+            "document": "node js vs c++ for apps - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 50, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-04T16:15:00", 
+            "document": "multithreading - How to create threads in nodejs - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:15:00", 
+            "document": "node vs java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:15:00", 
+            "document": "javascript killer - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:15:00", 
+            "document": "threads node js - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 148, 
+            "activity": "quora.com", 
+            "date": "2015-10-04T16:20:00", 
+            "document": "(5) Will Scala be as popular as java in the future ? - Quora"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:20:00", 
+            "document": "future of scala - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "quora.com", 
+            "date": "2015-10-04T16:20:00", 
+            "document": "https://www.quora.com/Will-Scala-be-as-popular-as-java-in-the-future"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 53, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-10-04T16:25:00", 
+            "document": "Ask HN: Should I learn Scala or Go? | Hacker News"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 43, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:25:00", 
+            "document": "should i learn scala - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:25:00", 
+            "document": "processing for scala - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:25:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 16, 
+            "activity": "readwrite.com", 
+            "date": "2015-10-04T16:30:00", 
+            "document": "Learn Scala the Fun Way: With Processing - ReadWrite"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "readwrite.com", 
+            "date": "2015-10-04T16:30:00", 
+            "document": "readwrite.com/2011/03/10/learn-scala-the-fun-way-with-p"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T16:40:00", 
+            "document": "fonts \u2014 -zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 41, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:40:00", 
+            "document": "Search \u00b7 pomodoro"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:40:00", 
+            "document": "GitHub"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 39, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "pomo.js/timer.js at master \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "pomo.js/pomojs at master \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 29, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "christian-fei/pomodoro.cc"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 18, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "ccidral/tomighty"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "pomo.js/lib at master \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "potomak/tomatoes"
+        }, 
+        {
+            "category": "Project Management", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "tomato.es", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "Tomatoes"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "pomo.js/helpers.js at master \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "pomo.js/bin at master \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "24:58 - Tomatoes"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "24:31 - Pomodoro.cc - Time tracking with the Pomodoro technique - Online Timer"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "24:28 - Pomodoro.cc - Time tracking with the Pomodoro technique - Online Timer"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "konr/tomatinho"
+        }, 
+        {
+            "category": "Project Management", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "tomato.es", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "25:00 - Tomatoes"
+        }, 
+        {
+            "category": "Project Management", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "tomato.es", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "24:59 - Tomatoes"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:45:00", 
+            "document": "Authorize Pomodoro.cc"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 23, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "tj/pomo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 18, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "ninoseki/pomodoro-daisuki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "niftylettuce/pomodoro-timer"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "pomo.js/test at master \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "aliasaria/scrumblr"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "shamoh/timout"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "AZdv/meteoro"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 2, 
+            "activity": "chrome.google.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "Error - Chrome Web Store"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "pomo.js/data at master \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:50:00", 
+            "document": "Page not found \u00b7 GitHub"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "millenomi/afloat"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 35, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "amirrajan/pomodoro-text"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 15, 
+            "activity": "reddit.com", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "Window Always on Top in Yosemite : mac"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 27, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "okraits/omodoro"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "rstacruz (Rico Sta. Cruz)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "tomspeak/pomodo.io"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "stick window on topm mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "stick window on top - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "millenomi (Emanuele Vulcano)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T16:55:00", 
+            "document": "stick window on topm max - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:00:00", 
+            "document": "keep window on top mac - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 22, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:00:00", 
+            "document": "fonts \u2014 node"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:00:00", 
+            "document": "SIMBL - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:00:00", 
+            "document": "afloat mac - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:00:00", 
+            "document": "fonts \u2014 sudo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:00:00", 
+            "document": "tmux - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:00:00", 
+            "document": "https://www.google.nl/search?q=SIMBL&oq=SIMBL&aqs=chrome..69i57j0l5.252j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 17, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:05:00", 
+            "document": "fonts \u2014 gem"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:05:00", 
+            "document": "fonts \u2014 say"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "growl.info", 
+            "date": "2015-10-04T17:05:00", 
+            "document": "Growl - Downloads"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-04T17:05:00", 
+            "document": "pomo.js/speak.js at master \u00b7 rstacruz/pomo.js"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 87, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:10:00", 
+            "document": "GaborK \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:10:00", 
+            "document": "lib \u2014 -zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:10:00", 
+            "document": "npm package dir path - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-04T17:10:00", 
+            "document": "npm - node.js modules path - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:10:00", 
+            "document": "node modules global path - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:10:00", 
+            "document": "GaborK \u2014 rm"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 57, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "logger.js \u2014 pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 95, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "pomojs \u2014 pomo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "pomo \u2014 -zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 15, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "2014-01-01"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "node_modules"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "where is node modules mac - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "local \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "node_modules \u2014 -zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "untitled \u2014 pomo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "pomo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "where is node modules - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "2014-01-01.json"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "2014-02-06.json"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:15:00", 
+            "document": "2014-07-21.json"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 30, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:20:00", 
+            "document": ".bash_profile"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:20:00", 
+            "document": "GaborK \u2014 login"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 40, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:25:00", 
+            "document": ".zshrc"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:25:00", 
+            "document": "GaborK \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 22, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:25:00", 
+            "document": ".pomo.log"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-04T17:25:00", 
+            "document": "bash - ZSH not recognizing my aliases? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:25:00", 
+            "document": "zsh alias command not found - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:25:00", 
+            "document": "GaborK \u2014 say"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:25:00", 
+            "document": "set alias mac osx - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:25:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 39, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:30:00", 
+            "document": "landing.js \u2014 pomo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 93, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:35:00", 
+            "document": "pomo \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 23, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:35:00", 
+            "document": "helpers.js \u2014 pomo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:35:00", 
+            "document": "pomo \u2014 login"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:35:00", 
+            "document": "termial color codes - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:35:00", 
+            "document": "pomo \u2014 terminal-notifier"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T17:35:00", 
+            "document": "pomo \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 90, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:40:00", 
+            "document": "ini.js \u2014 pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 75, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:45:00", 
+            "document": ".pomo.log \u2014 pomo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-04T17:45:00", 
+            "document": "How can I serialise an object to JSON in Javascript? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T17:45:00", 
+            "document": ".po \u2014 pomo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T17:45:00", 
+            "document": "obj to json javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 17, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-04T18:00:00", 
+            "document": "How can I pretty-print JSON using JavaScript? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-04T18:00:00", 
+            "document": "javascript pretty json - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-04T18:10:00", 
+            "document": "GaborK \u2014 terminal-notifier"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 73, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T18:30:00", 
+            "document": "runner.js \u2014 pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 23, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T18:30:00", 
+            "document": "README.md \u2014 pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 22, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T18:30:00", 
+            "document": "timer.js \u2014 pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T18:30:00", 
+            "document": "package.json \u2014 pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T18:30:00", 
+            "document": "speak.js \u2014 pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-10-04T18:30:00", 
+            "document": "LICENSE \u2014 pomo"
+        }
+    ]
+}

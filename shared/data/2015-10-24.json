@@ -1,0 +1,484 @@
+{
+    "2015-10-24": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T11:45:00", 
+            "document": "brake pads - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T11:50:00", 
+            "document": "how to buy brake cables - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T12:00:00", 
+            "document": "How To Change Your Brake Cables - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T12:00:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T12:00:00", 
+            "document": "install brake cables road biek - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T12:00:00", 
+            "document": "cpl cable - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T12:00:00", 
+            "document": "cpl kabel - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 3, 
+            "activity": "pinterest.com", 
+            "date": "2015-10-24T12:00:00", 
+            "document": "Pinterest: Discover and save creative ideas"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T12:00:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "pinterest.com", 
+            "date": "2015-10-24T12:00:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T12:00:00", 
+            "document": "brake cable compatibilty - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 43, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T12:10:00", 
+            "document": "How to Install Brake Cables & Housing | Bicycle Repair - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T12:10:00", 
+            "document": "2 nipple brake cable - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 96, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T12:20:00", 
+            "document": "Ask a Mechanic - Installing Secondary Cross Top Brake Levers - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 39, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T12:20:00", 
+            "document": "install cyclocross lever - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T12:20:00", 
+            "document": "cyclocross levers - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 73, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T12:25:00", 
+            "document": "cyclocross lever - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 40, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T12:25:00", 
+            "document": "install cyclocross lever as primary - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T13:55:00", 
+            "document": "hans struijk fietsen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 62, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T14:00:00", 
+            "document": "elvedes remkabel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T14:05:00", 
+            "document": "rvs - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T14:05:00", 
+            "document": "qr code reader online - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T14:05:00", 
+            "document": "rvs cable break - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T14:05:00", 
+            "document": "rvs cable - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T14:05:00", 
+            "document": "qr code reader - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 59, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T14:10:00", 
+            "document": "elvedes 644439 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T14:10:00", 
+            "document": "union fietsen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T14:20:00", 
+            "document": "marwi union - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 29, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T15:05:00", 
+            "document": "How To Replace A Bicycle Brake Cable - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T15:05:00", 
+            "document": "chrome fork - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T15:05:00", 
+            "document": "replace break cable - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 34, 
+            "activity": "facebook.com", 
+            "date": "2015-10-24T15:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 77, 
+            "activity": "facebook.com", 
+            "date": "2015-10-24T15:10:00", 
+            "document": "Vera Van de Seyp - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 77, 
+            "activity": "facebook.com", 
+            "date": "2015-10-24T15:10:00", 
+            "document": "Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-10-24T15:10:00", 
+            "document": "D\u00f3ra Kerekes - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-24T15:10:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-24T15:10:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 33, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T15:35:00", 
+            "document": "How To Change Your Handlebars - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T15:35:00", 
+            "document": "remove handlbar - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T15:35:00", 
+            "document": "Top 15 YouTubers That Tragically Died - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T15:35:00", 
+            "document": "How To Remove Stuck Handlebar Quill Stem - Worst Case Scenario! - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T15:50:00", 
+            "document": "imbus - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T15:50:00", 
+            "document": "action nl - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T16:10:00", 
+            "document": "how to remove a handlebar - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T16:10:00", 
+            "document": "how to remove a handlebar grip - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-24T16:10:00", 
+            "document": "how to remove a handlebar gri[ - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T16:15:00", 
+            "document": "fixie lever - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-24T16:25:00", 
+            "document": "rear brake right or left - Google Search"
+        }
+    ]
+}

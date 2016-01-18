@@ -1,0 +1,54 @@
+{
+    "2015-10-03": [
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-10-03T11:00:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 185, 
+            "activity": "444.hu", 
+            "date": "2015-10-03T11:05:00", 
+            "document": "Az Orvosok Hat\u00e1rok N\u00e9lk\u00fcl 3 seg\u00edt\u0151je is meghalt egy amerikai l\u00e9gicsap\u00e1sban Afganiszt\u00e1nban !!444!!!"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "slack", 
+            "date": "2015-10-03T11:05:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-10-03T12:50:00", 
+            "document": "Dates\n\nrevspace t uesday 18\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-10-03T12:50:00", 
+            "document": "Dates\n\nrevspace tuesday 18.\u2026"
+        }
+    ]
+}

@@ -1,0 +1,1334 @@
+{
+    "2015-08-04": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 61, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T14:40:00", 
+            "document": "woke up early dizzy all day - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T14:40:00", 
+            "document": "anemia difficulty waking up - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-04T14:45:00", 
+            "document": "health"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 21, 
+            "activity": "sublime text", 
+            "date": "2015-08-04T14:45:00", 
+            "document": "shopping list.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-08-04T14:45:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 12, 
+            "activity": "sublime text", 
+            "date": "2015-08-04T14:45:00", 
+            "document": "index.html \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-04T14:45:00", 
+            "document": "processing_libraries"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-04T14:45:00", 
+            "document": "hosts \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-04T14:45:00", 
+            "document": "analgesics \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-04T14:45:00", 
+            "document": "smb.conf \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-04T14:45:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 126, 
+            "activity": "slack", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 6, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "KPN"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 6, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "Footage from kpn store"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 22, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "screenshots"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 10, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "https://drive.google.com/folderview?id=0B3c-MWnKCtCnfk8zZDlxR3JrN1FFeDNWUmxiUk1uQ3REenZfUnBfMVZvVlFOM2hncURoSkU&usp=sharing_eid&invite=CJvw59gM"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "08-04"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "4-08"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "SimpleMapApp"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:10:00", 
+            "document": "New Folder With Items"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 234, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T15:15:00", 
+            "document": "Interieur DoepelStrijkers"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T15:15:00", 
+            "document": "Presentaties"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 5, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T15:15:00", 
+            "document": "# Materiaal"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T15:15:00", 
+            "document": "chamomile melatonin - Google Search"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T15:15:00", 
+            "document": "prephase"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 6, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T15:15:00", 
+            "document": "Cellebrite"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "answers.yahoo.com", 
+            "date": "2015-08-04T15:15:00", 
+            "document": "https://answers.yahoo.com/question/index?qid=20080719162148AAdi3KO"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 95, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:20:00", 
+            "document": "cube animation - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 30, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:20:00", 
+            "document": "cube - blender animation - by mailmirdu - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:20:00", 
+            "document": "Final cube animation - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:20:00", 
+            "document": "Animated Cube - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:20:00", 
+            "document": "Cube Animation - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:20:00", 
+            "document": "Net of a Cube Animation - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 133, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:25:00", 
+            "document": "After Effects Project Files - Cube Animation Logo - VideoHive 8583276 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 27, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:25:00", 
+            "document": "Sequence Animation - Adobe After Effects Tutorial - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:25:00", 
+            "document": "puzzle cube animation - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T15:25:00", 
+            "document": "death in venice - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 123, 
+            "activity": "sublime text", 
+            "date": "2015-08-04T15:30:00", 
+            "document": "notes.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T15:30:00", 
+            "document": "cube to square transormation - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:30:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T15:30:00", 
+            "document": "coboids - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:30:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-04T15:30:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 9, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-04T15:35:00", 
+            "document": "Colour Flap on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 208, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T15:40:00", 
+            "document": "sol lewitt - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T15:40:00", 
+            "document": "reaction diffusion - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 11, 
+            "activity": "pinterest.com", 
+            "date": "2015-08-04T16:00:00", 
+            "document": "(11) Pinterest: Discover and save creative ideas"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 8, 
+            "activity": "pinterest.com", 
+            "date": "2015-08-04T16:00:00", 
+            "document": "Pinterest: Discover and save creative ideas"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T16:00:00", 
+            "document": "zeptobars - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "pinterest.com", 
+            "date": "2015-08-04T16:00:00", 
+            "document": "https://www.pinterest.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 44, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T16:10:00", 
+            "document": "zx spectrum russian clones - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T16:10:00", 
+            "document": "zedex spectrum - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-08-04T16:15:00", 
+            "document": "CubeSketch.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 3, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:35:00", 
+            "document": "Brandmanual"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 14, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:35:00", 
+            "document": "My Drive - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 98, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:40:00", 
+            "document": "kpn thomas c"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 26, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:40:00", 
+            "document": "sketches & ideas"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 17, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:40:00", 
+            "document": "Eerste presentatie"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 9, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:40:00", 
+            "document": "Error 403 (Forbidden)!!1"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 51, 
+            "activity": "Preview", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "0278 KPN Pilotstore 3.0 Concept Contentlagen_v2.pdf"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 36, 
+            "activity": "accounts.google.com", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "Create your Google Account"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 16, 
+            "activity": "accounts.google.com", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "Sign in - Google Accounts"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 13, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "Google Drive - Access Denied"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 9, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "Tweede presentatie"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 18, 
+            "activity": "Preview", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "IMG_0976.JPG"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 7, 
+            "activity": "accounts.google.com", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "Google Accounts"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "Preview", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "0278 KPN Pilotstore 3.0 Concept Contentlagen_v2 copy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "IMG_0976 copy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-08-04T16:45:00", 
+            "document": "Late_setup.pdf"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 85, 
+            "activity": "openoffice", 
+            "date": "2015-08-04T16:50:00", 
+            "document": "Types of Content per level .xlsx - OpenOffice Calc"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 29, 
+            "activity": "Google Spreadsheets", 
+            "date": "2015-08-04T16:50:00", 
+            "document": "Types of Content per level - Google Sheets"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 5, 
+            "activity": "Preview", 
+            "date": "2015-08-04T16:50:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 9, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:50:00", 
+            "document": "Shared with me - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 1, 
+            "activity": "Google Spreadsheets", 
+            "date": "2015-08-04T16:50:00", 
+            "document": "https://docs.google.com/spreadsheets/d/159ZGvp_8Ur9_HieYi4IayFf3gzvy9wc6TyEWdvZL4r8/edit?usp=sharing_eid&invite=CLW7_a8L"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 5, 
+            "activity": "accounts.google.com", 
+            "date": "2015-08-04T16:55:00", 
+            "document": "Meet Google Drive \u2013 One place for all your files"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:55:00", 
+            "document": "Redirecting..."
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:55:00", 
+            "document": "https://drive.google.com/folderview?id=0B0geHcXZWZipdmU0bHlYRW56TE0&usp=sharing_eid&invite=CJvw59gM&tid=0B3c-MWnKCtCnfk8zZDlxR3JrN1FFeDNWUmxiUk1uQ3REenZfUnBfMVZvVlFOM2hncURoSkU#grid"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T16:55:00", 
+            "document": "Redirecting"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 156, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T17:00:00", 
+            "document": "videowissel KPN pilotstores juli"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 21, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T17:00:00", 
+            "document": "Wachtrij"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 9, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T17:00:00", 
+            "document": "Tablets and Touchwalls"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T17:00:00", 
+            "document": "https://drive.google.com/folderview?id=0B0geHcXZWZipMnFsNUVhSWtXLXc&usp=sharing_eid&invite=CJvw59gM&usp=sharing_eid&tid=0B3c-MWnKCtCnfk8zZDlxR3JrN1FFeDNWUmxiUk1uQ3REenZfUnBfMVZvVlFOM2hncURoSkU"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-04T17:00:00", 
+            "document": "https://drive.google.com/folderview?id=0B0geHcXZWZipdy0zYVd6Z0lmZ0E&usp=sharing_eid&invite=CJvw59gM&usp=sharing_eid&tid=0B3c-MWnKCtCnfk8zZDlxR3JrN1FFeDNWUmxiUk1uQ3REenZfUnBfMVZvVlFOM2hncURoSkU"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 5, 
+            "activity": "System Preferences", 
+            "date": "2015-08-04T17:05:00", 
+            "document": "Network"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 25, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-08-04T17:10:00", 
+            "document": "*Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 6, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-08-04T17:10:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T17:10:00", 
+            "document": "cube - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 41, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-08-04T17:15:00", 
+            "document": "kpn_cube_transform*"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 6, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-08-04T17:15:00", 
+            "document": "kpn_cube_transform"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 88, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T17:35:00", 
+            "document": "manfred mohr - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 29, 
+            "activity": "intellij idea", 
+            "date": "2015-08-04T17:40:00", 
+            "document": "CubeSketch2.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 15, 
+            "activity": "processing", 
+            "date": "2015-08-04T17:40:00", 
+            "document": "Java (2.0) Examples"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 9, 
+            "activity": "processing", 
+            "date": "2015-08-04T17:40:00", 
+            "document": "S3D4P_ExtrudeQ | Processing 3.0a5"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 16, 
+            "activity": "processing", 
+            "date": "2015-08-04T17:40:00", 
+            "document": "S3D4P_Mahjong | Processing 3.0a5"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 25, 
+            "activity": "processing", 
+            "date": "2015-08-04T17:40:00", 
+            "document": "S3D4P_BezShapeEditor | Processing 3.0a5"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 13, 
+            "activity": "processing", 
+            "date": "2015-08-04T17:40:00", 
+            "document": "S3D4P_UsingXshape | Processing 3.0a5"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 10, 
+            "activity": "processing", 
+            "date": "2015-08-04T17:40:00", 
+            "document": "sketch_150804a | Processing 3.0a5"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 2, 
+            "activity": "processing", 
+            "date": "2015-08-04T17:40:00", 
+            "document": "Update"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 15, 
+            "activity": "processing", 
+            "date": "2015-08-04T17:45:00", 
+            "document": "S3D4P_ExtrudeBuilding | Processing 3.0a5"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 50, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-04T17:45:00", 
+            "document": "Manfred Mohr, \"Cubic Limit\" (1973-74) on Vimeo"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 122, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-04T17:50:00", 
+            "document": "kpn avatar.mov"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 23, 
+            "activity": "processing", 
+            "date": "2015-08-04T17:55:00", 
+            "document": "S3D4P_ExtrudeIBeam | Processing 3.0a5"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T17:55:00", 
+            "document": "extrude square shape3d processing - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T18:00:00", 
+            "document": "custom cube shape3d processing - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T18:00:00", 
+            "document": "custom contour shape3d processing - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 17, 
+            "activity": "processing", 
+            "date": "2015-08-04T18:00:00", 
+            "document": "S3D4P_Shuttle | Processing 3.0a5"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T18:05:00", 
+            "document": "shape3d contour processing - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T18:05:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T18:05:00", 
+            "document": "shape3d contour - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T18:05:00", 
+            "document": "shape3dcontour - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T18:15:00", 
+            "document": "procesing box - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T18:15:00", 
+            "document": "set perspective processing - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-04T18:15:00", 
+            "document": "cube procesing - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 20, 
+            "activity": "processing", 
+            "date": "2015-08-04T18:20:00", 
+            "document": "Mirror2 | Processing 3.0a5"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 27, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project *"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 36, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "Jorgen Leth - The Perfect Human, 1967 - YouTube"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 31, 
+            "activity": "quicktime player", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "human"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 8, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "the perfect human - YouTube"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 4, 
+            "activity": "quicktime player", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "Export Progress"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "stock"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "Main.java - EvolutionOfShapes - [~/IdeaProjects/EvolutionOfShapes]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "EvolutionOfShapes - [~/IdeaProjects/EvolutionOfShapes]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "quicktime player", 
+            "date": "2015-08-04T18:30:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-04T18:35:00", 
+            "document": "stills"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-04T18:35:00", 
+            "document": "stills Info"
+        }
+    ]
+}

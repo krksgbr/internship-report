@@ -1,0 +1,584 @@
+{
+    "2015-11-06": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 51, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:50:00", 
+            "document": "Tinq - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 43, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:50:00", 
+            "document": "Pahudstraat 13 to Millenaar M I en Ramadhin J A R - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:50:00", 
+            "document": "Millenaar M I en Ramadhin J A R - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:50:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:50:00", 
+            "document": "millenaar ramadhin - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 125, 
+            "activity": "slack", 
+            "date": "2015-11-06T09:55:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:55:00", 
+            "document": "Van Alkemadelaan - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:55:00", 
+            "document": "704 Van Alkemadelaan - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:55:00", 
+            "document": "Waalsdorperweg - Google Maps"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 3, 
+            "activity": "stickies", 
+            "date": "2015-11-06T09:55:00", 
+            "document": "Music\n\nSiouxsie and the Ban\u2026"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:55:00", 
+            "document": "714 Van Alkemadelaan - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:55:00", 
+            "document": "706 Van Alkemadelaan - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T09:55:00", 
+            "document": "708 Van Alkemadelaan - Google Maps"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T12:25:00", 
+            "document": "https://www.google.nl/maps/@52.103142,4.3182319,3a,75y,165.71h,82.14t/data=!3m6!1e1!3m4!1sVNfrC7neLQVdLSwc270vAg!2e0!7i13312!8i6656gm is not available"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 73, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-06T12:35:00", 
+            "document": "Aidan McAnespie - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 51, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T12:35:00", 
+            "document": "aidan mcanespie - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 11, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-06T12:35:00", 
+            "document": "Sinn F\u00e9in - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 56, 
+            "activity": "indiegogo.com", 
+            "date": "2015-11-06T12:55:00", 
+            "document": "The Skarp Laser Razor: 21st Century Shaving | Indiegogo"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 151, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T12:55:00", 
+            "document": "Kickstarter Crap - The Skarp Laser Razor - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T12:55:00", 
+            "document": "skarp razor - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 40, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T13:00:00", 
+            "document": "h3h3 vlog - Hila's family - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T13:00:00", 
+            "document": "indiegogo old logo - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T13:00:00", 
+            "document": "indiegogo - Google Search"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 7, 
+            "activity": "indiegogo.com", 
+            "date": "2015-11-06T13:00:00", 
+            "document": "Indiegogo: The Largest Global Crowdfunding & Fundraising Site Online"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T13:00:00", 
+            "document": "kickstarter - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 84, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T13:05:00", 
+            "document": "it's so great - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 265, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T13:10:00", 
+            "document": "Schoolgirls for Sale in Japan - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T13:40:00", 
+            "document": "Kony, M23, and the Real Rebels of Congo - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 36, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T13:40:00", 
+            "document": "This Is What Winning Looks Like (Full Length) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 172, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T13:45:00", 
+            "document": "Living in the Sewers of Colombia - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 117, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T14:15:00", 
+            "document": "The Gun Markets of Pakistan - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T14:15:00", 
+            "document": "How to Hitchhike Across America: Thumbs Up Season 1 (Part 1/5) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 172, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T14:25:00", 
+            "document": "Pakistan After Bin Laden - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T17:50:00", 
+            "document": "Slaves of Dubai - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T17:50:00", 
+            "document": "https://www.youtube.com/watch?v=gMh-vlQwrmU&spfreload=10 is not available"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 185, 
+            "activity": "444.hu", 
+            "date": "2015-11-06T17:55:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 194, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T18:00:00", 
+            "document": "John Lewis Christmas Advert 2015 - #ManOnTheMoon - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "444.hu", 
+            "date": "2015-11-06T18:00:00", 
+            "document": "Vajon mit forral Hiller Istv\u00e1n? - 444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T18:00:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 148, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T18:05:00", 
+            "document": "John Lewis Christmas Advert 2014 - #MontyThePenguin - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 113, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-06T18:10:00", 
+            "document": "ETA (separatist group) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 78, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-06T18:10:00", 
+            "document": "Basque Country (greater region) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-06T18:10:00", 
+            "document": "Eta (disambiguation) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T18:10:00", 
+            "document": "eta - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 11, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-11-06T18:20:00", 
+            "document": "Carlos (miniseries) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 218, 
+            "activity": "444.hu", 
+            "date": "2015-11-06T18:35:00", 
+            "document": "Tal\u00e1n m\u00e9g a Farkasember is kil\u0151tte volna a p\u00e9csi farkast - 444"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 82, 
+            "activity": "Terminal", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "gbr@raspi: /mnt/mediabox \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "gbr@raspi: /mnt \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "Fifty Dead Men"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "gbr@raspi: / \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "gbr@raspi: ~ \u2014"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "list disk linux - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "Terminal \u2014 ssh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "unmount disk linux - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "gbr@raspi: /home \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-11-06T18:45:00", 
+            "document": "Terminal \u2014 -zsh"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T18:55:00", 
+            "document": "Jehst - The Return Of The Drifter (FULL RELEASE) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-11-06T18:55:00", 
+            "document": "jehst - YouTube"
+        }
+    ]
+}

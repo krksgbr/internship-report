@@ -1,0 +1,1854 @@
+{
+    "2015-08-25": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 34, 
+            "activity": "Gmail", 
+            "date": "2015-08-25T10:00:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 5, 
+            "activity": "slack", 
+            "date": "2015-08-25T10:00:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T10:00:00", 
+            "document": "manfred mohr - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 9, 
+            "activity": "sublime text", 
+            "date": "2015-08-25T10:00:00", 
+            "document": "exclude.txt \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-08-25T10:05:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 82, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T10:05:00", 
+            "document": "roman verostko - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 59, 
+            "activity": "facebook.com", 
+            "date": "2015-08-25T10:05:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 49, 
+            "activity": "facebook.com", 
+            "date": "2015-08-25T10:05:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:05:00", 
+            "document": "FadingText.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-08-25T10:05:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-25T10:05:00", 
+            "document": "Alamo Square Park, S.F."
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T10:05:00", 
+            "document": "Google Image Result for http://digitalartmuseum.org/verostko/images/pearl_o21-22-wi.jpg"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-25T10:05:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 70, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T10:10:00", 
+            "document": "alamo square park - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:20:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:20:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:20:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 25, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "Timer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 43, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "VideoExample.java - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 62, 
+            "activity": "Preview", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "hubbub_vragen.numbers"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 33, 
+            "activity": "444.hu", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 25, 
+            "activity": "444.hu", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "M\u00e1sf\u00e9lmilli\u00f3 doll\u00e1ros festm\u00e9nyt lyuggatott ki egy tajvani fi\u00fa !!444!!!"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 5, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "rndrglitch2.mov"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "report"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:25:00", 
+            "document": "veghel"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 36, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:35:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T10:35:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:40:00", 
+            "document": "rndrexamples - [~/IdeaProjects/rndrexamples]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:40:00", 
+            "document": "VideoProcessor.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T10:40:00", 
+            "document": "Kit Clayton - Material Problem - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T10:40:00", 
+            "document": "nek sanalet - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T10:40:00", 
+            "document": "purpakana - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 84, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "ColorMatrixExample.java - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "ColorMatrixExample.java - rndrexamples - [~/IdeaProjects/rndrexamples]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "agam.JPG - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "colormatrix"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "src"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "resources"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "main"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "rndrexamples2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "rndrexamples"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "videoexample/pom.xml - examples - [~/IdeaProjects/rndrexamples/examples]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T10:45:00", 
+            "document": "examples"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-25T10:50:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 79, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T10:55:00", 
+            "document": "ColorShifter.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:00:00", 
+            "document": "VideoLayer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 99, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:15:00", 
+            "document": "Animation.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:20:00", 
+            "document": "Triangle.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:20:00", 
+            "document": "Data.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:20:00", 
+            "document": "anim.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T11:30:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T11:30:00", 
+            "document": "Kit Clayton - Deadlock - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:30:00", 
+            "document": "format timestamp java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T11:30:00", 
+            "document": "date - Formatting Timestamps in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 21, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T11:30:00", 
+            "document": "Bostro Pesopeo - Cheer Up - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:30:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T11:30:00", 
+            "document": "stackoverflow.com/questions/129181/formatting-timestamps-in-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 66, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T11:35:00", 
+            "document": "Java: Date from unix timestamp - Stack Overflow"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-08-25T11:35:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 15, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-25T11:35:00", 
+            "document": "Screen Shot 2015-08-23 at 22.04.19.png"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-25T11:35:00", 
+            "document": "2015 August"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 2, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-25T11:35:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-25T11:35:00", 
+            "document": "Desktop"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:35:00", 
+            "document": "unix timestamp java date - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T11:35:00", 
+            "document": "Books"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 43, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:40:00", 
+            "document": "Date.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 40, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T11:40:00", 
+            "document": "date - Java: getMinutes and getHours - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T11:40:00", 
+            "document": "Kollektiv Turmstrasse - Mix June 2013 - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:40:00", 
+            "document": "get hour from date java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 82, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:45:00", 
+            "document": "hubbub-sketch - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 26, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-08-25T11:45:00", 
+            "document": "Java.util.Calendar.setTime(Date) Method Example"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:45:00", 
+            "document": "calendar settime - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:45:00", 
+            "document": "lightcontroller - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:45:00", 
+            "document": "WeatherChart.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T11:45:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 73, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T11:50:00", 
+            "document": "java - How to format Joda-Time DateTime to only mm/dd/yyyy? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T11:50:00", 
+            "document": "java - How can I convert a Timestamp into either Date or DateTime object? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:50:00", 
+            "document": "joda time format - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:50:00", 
+            "document": "joda time format from timestamp - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:50:00", 
+            "document": "datetime from timestamp joda - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T11:50:00", 
+            "document": "Java int to String - Integer.toString(i) vs new Integer(i).toString() - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:50:00", 
+            "document": "format datetime - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:50:00", 
+            "document": "format datetime java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T11:50:00", 
+            "document": "stackoverflow.com/questions/3930210/java-int-to-string-integer-tostringi-vs-new-integeri-tostring"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T11:55:00", 
+            "document": "format datetime joda time - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T11:55:00", 
+            "document": "stackoverflow.com/questions/20331163/how-to-format-joda-time-datetime-to-only-mm-dd-yyyy"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T12:00:00", 
+            "document": "Conversion from Long to Double in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T12:00:00", 
+            "document": "long to double java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T12:00:00", 
+            "document": "stackoverflow.com/questions/3724830/conversion-from-long-to-double-in-java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T12:05:00", 
+            "document": "Animatable.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-08-25T12:20:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 26, 
+            "activity": "quicktime player", 
+            "date": "2015-08-25T12:25:00", 
+            "document": "Export Progress"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T12:25:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 17, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-25T12:30:00", 
+            "document": "m-5.mov"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T12:35:00", 
+            "document": "marcel fengler dj kicks - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T12:35:00", 
+            "document": "nicotinelle - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T12:35:00", 
+            "document": "nicorette - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T12:40:00", 
+            "document": "DefaultClock.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T12:40:00", 
+            "document": "Clock.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T12:40:00", 
+            "document": "nicotinell zuigtablet - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 10, 
+            "activity": "stickies", 
+            "date": "2015-08-25T12:45:00", 
+            "document": "SUMMER\n____________________\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 8, 
+            "activity": "stickies", 
+            "date": "2015-08-25T12:45:00", 
+            "document": "Siouxsie and the Banshees\nD\u2026"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T12:45:00", 
+            "document": "dj koze dj kicks - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 4, 
+            "activity": "stickies", 
+            "date": "2015-08-25T12:45:00", 
+            "document": "Music\n\nSiouxsie and the Ban\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 3, 
+            "activity": "stickies", 
+            "date": "2015-08-25T12:45:00", 
+            "document": "Siouxsie and the Banshees\n"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T12:45:00", 
+            "document": "Justin Timberlake - LoveStoned, Kit Clayton - Material Problem (Dj Host Remix) - HD - YouTube"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-08-25T12:45:00", 
+            "document": "Music\nSiouxsie and the Bans\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-08-25T12:45:00", 
+            "document": "M\nSiouxsie and the Banshees\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-08-25T12:45:00", 
+            "document": "\nSiouxsie and the Banshees\n\u2026"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 19, 
+            "activity": "github.com", 
+            "date": "2015-08-25T12:55:00", 
+            "document": "pculture/mirovideoconverter3"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T12:55:00", 
+            "document": "miro video converter malware - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 34, 
+            "activity": "quicktime player", 
+            "date": "2015-08-25T12:55:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T12:55:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-08-25T12:55:00", 
+            "document": "pculture/mirovideoconverter"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T12:55:00", 
+            "document": "miro video convertersource code - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-08-25T12:55:00", 
+            "document": "MusicBox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-25T13:00:00", 
+            "document": "Miro Video Converter"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 19, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:00:00", 
+            "document": "miro video converter source code - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:00:00", 
+            "document": "danielgtaylor/qtfaststart"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:00:00", 
+            "document": "mirovideoconverter3/scripts at master \u00b7 pculture/mirovideoconverter3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:00:00", 
+            "document": "mirovideoconverter3/mvc at master \u00b7 pculture/mirovideoconverter3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:00:00", 
+            "document": "https://github.com/pculture/mirovideoconverter is not available"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:00:00", 
+            "document": "mirovideoconverter3/mvc/ui at master \u00b7 pculture/mirovideoconverter3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:00:00", 
+            "document": "https://github.com/pculture/mirovideoconverter3/blob/master/scripts/miro-video-converter.py is not available"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:00:00", 
+            "document": "mirovideoconverter3/mvc/qtfaststart at master \u00b7 pculture/mirovideoconverter3"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T13:05:00", 
+            "document": "hll - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T13:50:00", 
+            "document": "kit clayton - purpakana - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T13:50:00", 
+            "document": "Kit Clayton - Nele - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:50:00", 
+            "document": "mirovideoconverter3/test_converter.py at master \u00b7 pculture/mirovideoconverter3"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T13:50:00", 
+            "document": "kit clayton - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:50:00", 
+            "document": "mirovideoconverter/Mac at master \u00b7 pculture/mirovideoconverter"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:50:00", 
+            "document": "mirovideoconverter3/test at master \u00b7 pculture/mirovideoconverter3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-25T13:50:00", 
+            "document": "mirovideoconverter/Mac/Classes at master \u00b7 pculture/mirovideoconverter"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-25T13:55:00", 
+            "document": "Fonts"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-25T14:00:00", 
+            "document": "Dynamo - Killed By A Feedback - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T14:30:00", 
+            "document": "java - How do I refer to the current object in an iterator - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T14:30:00", 
+            "document": "iterator get current - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 14, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-25T14:40:00", 
+            "document": "Sequence 02-h-test.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 3, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-25T14:40:00", 
+            "document": "stream_heartbeatmockup_grayscale.mp4.mp4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 34, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T15:45:00", 
+            "document": "ColorTransforms.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T15:45:00", 
+            "document": "Matrix44.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 22, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-25T15:55:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 8, 
+            "activity": "translate.google.com", 
+            "date": "2015-08-25T15:55:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 3, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-25T15:55:00", 
+            "document": "layered_sketch1_eureka.mp4"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T17:05:00", 
+            "document": "double vs float - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 31, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T17:25:00", 
+            "document": "RenderTarget.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 78, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T17:40:00", 
+            "document": "java - Why are only final variables accessible in anonymous class? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T17:40:00", 
+            "document": "change variable from within anonymous class - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 65, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-25T17:45:00", 
+            "document": "Comparison of C Sharp and Java - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 69, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-25T17:45:00", 
+            "document": "C Sharp (programming language) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T17:45:00", 
+            "document": "c# - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 79, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T17:50:00", 
+            "document": "java - How to get the current loop index when using Iterator? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T17:50:00", 
+            "document": "iterator get current index - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 74, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T17:55:00", 
+            "document": "ListIterator.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T17:55:00", 
+            "document": "iterator java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 144, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T18:00:00", 
+            "document": "ArrayList.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 61, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-25T18:00:00", 
+            "document": "output2.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-25T18:00:00", 
+            "document": "lustlab-hubbub-sketch"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T18:05:00", 
+            "document": "calculate intersection of line and triangle - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 15, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-25T18:05:00", 
+            "document": "M\u00f6ller\u2013Trumbore intersection algorithm - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 204, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T18:10:00", 
+            "document": "Java- Intersection point of a Polygon and Line - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T18:10:00", 
+            "document": "calculate intersection of line and triangle java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T18:20:00", 
+            "document": "calculate intersection of lines - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T18:20:00", 
+            "document": "www.loria.fr/~lazard/ARC-Visi3D/Pant-project/code/line_triangle_intersection.C"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T18:25:00", 
+            "document": "LineIntersection.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 172, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T18:25:00", 
+            "document": "Stack Overflow Thanks YOU!"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 27, 
+            "activity": "intellij idea", 
+            "date": "2015-08-25T18:25:00", 
+            "document": "PointTest.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 15, 
+            "activity": "upload.wikimedia.org", 
+            "date": "2015-08-25T18:25:00", 
+            "document": "Aloha_Stadium,_Hawaii.jpg (640\u00d7480)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T18:25:00", 
+            "document": "Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T18:25:00", 
+            "document": "geometry - How do you detect where two line segments intersect? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 3, 
+            "activity": "wolframalpha.com", 
+            "date": "2015-08-25T18:25:00", 
+            "document": "Apache Tomcat/6.0.29 - Error report"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-25T18:25:00", 
+            "document": "Intersecting straight lines. (Coordinate Geometry) - Math Open Reference"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-25T18:25:00", 
+            "document": "stackoverflow.com/questions/563198/how-do-you-detect-where-two-line-segments-intersect"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 225, 
+            "activity": "Preview", 
+            "date": "2015-08-25T18:40:00", 
+            "document": "Screen Shot 2015-08-25 at 18.41.06"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-25T18:50:00", 
+            "document": "New Folder With Items"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-25T18:50:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-25T18:50:00", 
+            "document": "frames"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-25T18:50:00", 
+            "document": "Searching \u201cLustLab\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T18:50:00", 
+            "document": "contracts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T18:50:00", 
+            "document": "Fauna"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-25T18:50:00", 
+            "document": "heartbeats"
+        }
+    ]
+}

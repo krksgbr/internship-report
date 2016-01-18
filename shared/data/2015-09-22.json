@@ -1,0 +1,624 @@
+{
+    "2015-09-22": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 18, 
+            "activity": "444.hu", 
+            "date": "2015-09-22T09:20:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 20, 
+            "activity": "youtube.com", 
+            "date": "2015-09-22T10:45:00", 
+            "document": "Slojak (Come On And Find Me) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-09-22T10:45:00", 
+            "document": "herbert - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-22T10:45:00", 
+            "document": "herbert come and find me - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-22T10:45:00", 
+            "document": "Autechre [1994] Amber-01-Foil - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-22T10:45:00", 
+            "document": "autechre amber - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-22T10:55:00", 
+            "document": "Autechre [1994] Amber-02-Montreal - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 20, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T11:20:00", 
+            "document": "public \u2014 zsh"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-22T11:20:00", 
+            "document": "Autechre [1994] Amber-06-Piezo - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T11:20:00", 
+            "document": "public \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T11:20:00", 
+            "document": "Terminal \u2014 zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-22T11:25:00", 
+            "document": "find out ip address lan - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-22T11:25:00", 
+            "document": "find out ip address of my computer - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T11:40:00", 
+            "document": "SceneControllerClassList.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-09-22T11:40:00", 
+            "document": "java pop - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T11:40:00", 
+            "document": "Data.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-22T11:40:00", 
+            "document": "java pop queue - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-22T11:45:00", 
+            "document": "arraylist remove - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T12:15:00", 
+            "document": "InfoDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 112, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T12:20:00", 
+            "document": "ImgDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-22T12:55:00", 
+            "document": "adm - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T14:20:00", 
+            "document": "ImgSource.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 55, 
+            "activity": "phpstorm", 
+            "date": "2015-09-22T14:40:00", 
+            "document": "uploadFakerScript.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 43, 
+            "activity": "phpstorm", 
+            "date": "2015-09-22T14:40:00", 
+            "document": "routes.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 9, 
+            "activity": "phpstorm", 
+            "date": "2015-09-22T14:40:00", 
+            "document": "config.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-09-22T14:40:00", 
+            "document": "src/index.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 5, 
+            "activity": "phpstorm", 
+            "date": "2015-09-22T14:40:00", 
+            "document": "uploadFaker.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-09-22T14:40:00", 
+            "document": "image.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 69, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "wthx-interactive \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 65, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "wthx-front \u2014 mongo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 46, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 18, 
+            "activity": "phpstorm", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "controller.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 16, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "wthx-front \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "wthx-interactive \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "wthx-interactive \u2014 clang"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "wthx-interactive \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "wthx-interactive \u2014 ld"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-22T14:45:00", 
+            "document": "post.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-22T14:50:00", 
+            "document": "restart mongodb - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-22T14:50:00", 
+            "document": "mongodb - How to stop mongo DB in one command - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:50:00", 
+            "document": "wthx-front \u2014 mongod"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-22T14:50:00", 
+            "document": "wthx-front \u2014 sudo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-22T14:50:00", 
+            "document": "http://stackoverflow.com/questions/11774887/how-to-stop-mongo-db-in-one-command failed to load"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 58, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T15:50:00", 
+            "document": "PackerDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T16:15:00", 
+            "document": "LayoutTool.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T16:45:00", 
+            "document": "Filters.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T16:55:00", 
+            "document": "pom.xml - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 139, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T17:00:00", 
+            "document": "Utils.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 36, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T17:00:00", 
+            "document": "TestStuff.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 89, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T17:00:00", 
+            "document": "Timer.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T17:00:00", 
+            "document": "Timer.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T17:00:00", 
+            "document": "oneonetwo - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T17:05:00", 
+            "document": "wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T17:05:00", 
+            "document": "oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T17:05:00", 
+            "document": "IntelliJ IDEA 14.1.4"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-22T17:25:00", 
+            "document": "bram.local - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-22T17:25:00", 
+            "document": "Connection.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-09-22T18:15:00", 
+            "document": "Alpha \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-09-22T18:15:00", 
+            "document": "Alpha\", \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-09-22T18:15:00", 
+            "document": "\"Alpha\", \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-22T18:15:00", 
+            "document": "Alpha\" \u2014 WTHX"
+        }
+    ]
+}

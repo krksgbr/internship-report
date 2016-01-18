@@ -1,0 +1,1324 @@
+{
+    "2015-09-09": [
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 6, 
+            "activity": "calendar", 
+            "date": "2015-09-09T09:10:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T09:20:00", 
+            "document": "lovebytes 2007 - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 2, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-09T09:25:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 67, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-09T09:25:00", 
+            "document": "RescueTime - Your Yearly dashboard"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 30, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-09T09:25:00", 
+            "document": "RescueTime : Log in to RescueTime"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 21, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-09T09:25:00", 
+            "document": "RescueTime - Your Daily dashboard"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 11, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-09T09:25:00", 
+            "document": "RescueTime : Reset your RescueTime password"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 9, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-09T09:25:00", 
+            "document": "RescueTime : Forgot your password?"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 2, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-09T09:25:00", 
+            "document": "RescueTime : Password reset link has been sent"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 175, 
+            "activity": "444.hu", 
+            "date": "2015-09-09T10:05:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 50, 
+            "activity": "444.hu", 
+            "date": "2015-09-09T10:05:00", 
+            "document": "A nap n\u00e9vtelen h\u0151se a Telekom Facebook-adminja, aki v\u00e9gtelen t\u00fcrelemmel \u00e1llta a menek\u00fclteknek adott ingyen wifi miatt \u0151rj\u00f6ng\u0151k roham\u00e1t !!444!!!"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-09-09T10:05:00", 
+            "document": "Top hacker shows us how it's done | Pablos Holman | TEDxMidwest - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T10:05:00", 
+            "document": "ted hacker - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 48, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-09-09T10:20:00", 
+            "document": "Mercator_Projection.svg*"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 38, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-09-09T10:20:00", 
+            "document": "*VP.interface.indd"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 80, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:25:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 92, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:25:00", 
+            "document": "Director.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 4, 
+            "activity": "slack", 
+            "date": "2015-09-09T10:25:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:25:00", 
+            "document": "Plotter.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:25:00", 
+            "document": "FakeClock.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-09-09T10:25:00", 
+            "document": "results-20150908-110029.json"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "TextEdit", 
+            "date": "2015-09-09T10:25:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 81, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:30:00", 
+            "document": "ClockControl.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "SpecialEvents.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 67, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "Scheduler.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "WeatherSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "SceneController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "OfflineWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "ScheduleTask.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "Moritz Von Oswald RBMA Lecture (Barcleona 2008) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "Vladislav Delay - Huone [Uncut] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-09T10:35:00", 
+            "document": "vladislav delay - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 24, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:40:00", 
+            "document": "RadialPulseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 8, 
+            "activity": "444.hu", 
+            "date": "2015-09-09T10:45:00", 
+            "document": "Tov\u00e1bb h\u00f3d\u00edt a vil\u00e1gban a menek\u00fcltrugdos\u00f3 magyar operat\u0151r !!444!!!"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:45:00", 
+            "document": "InfoMarker.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-09T10:45:00", 
+            "document": "IntelliJ IDEA 14 CE"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-09T10:45:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:45:00", 
+            "document": "UnfoldingMap.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:45:00", 
+            "document": "sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:45:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:45:00", 
+            "document": "MapDisplayFactory.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:45:00", 
+            "document": "Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:50:00", 
+            "document": "Calendar.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T10:50:00", 
+            "document": "Welcome to IntelliJ IDEA"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 80, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T11:00:00", 
+            "document": "ControllerClasses.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T12:00:00", 
+            "document": "ControllerClassList.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 43, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-09T12:00:00", 
+            "document": "static variable initialization java - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 25, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-09T12:00:00", 
+            "document": "java - What gets called when you initialize a class without a constructor? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-09T12:00:00", 
+            "document": "java - Can you find all classes in a package using reflection? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T12:00:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T12:00:00", 
+            "document": "initialize class without constructor java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T12:00:00", 
+            "document": "initialize class static member - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T12:00:00", 
+            "document": "initialize class static member java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T12:00:00", 
+            "document": "get all from package java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 152, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T12:05:00", 
+            "document": "SceneControllerClassList.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-09T12:15:00", 
+            "document": "How to update a value, given a key in a java hashmap? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-09T12:15:00", 
+            "document": "hashmap - change value in hash map java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T12:15:00", 
+            "document": "replace value of key in hashmap java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T12:20:00", 
+            "document": "PulseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T12:25:00", 
+            "document": "AudioApp_keybindings.txt - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 88, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:05:00", 
+            "document": "QueensDayControllerExample.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 39, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:05:00", 
+            "document": "MarketController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 43, 
+            "activity": "youtube.com", 
+            "date": "2015-09-09T14:05:00", 
+            "document": "Andy Stott - Luxury Problems [Full Album] - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:05:00", 
+            "document": "specialeventcontrollers.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-09T14:05:00", 
+            "document": "andy stott - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-09T14:05:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:10:00", 
+            "document": "LED.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 47, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:10:00", 
+            "document": "PerlinNoiseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 41, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:15:00", 
+            "document": "ControlManager.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 50, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:15:00", 
+            "document": "WeatherChart.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:15:00", 
+            "document": "App.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 50, 
+            "activity": "sublime text", 
+            "date": "2015-09-09T14:45:00", 
+            "document": "notes.txt"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-09-09T14:45:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-09T14:45:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-09T14:45:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:55:00", 
+            "document": "RadialPerlinNoiseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 24, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:55:00", 
+            "document": "ConvolutionController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T14:55:00", 
+            "document": "Light.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T15:00:00", 
+            "document": "ClusterController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 127, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T15:05:00", 
+            "document": "RadialPulseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 27, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T15:05:00", 
+            "document": "/Users/GaborK/git/lightcontroller/src"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T15:05:00", 
+            "document": "LightController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T15:05:00", 
+            "document": "Scheduler.java (/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller/schedule)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T15:20:00", 
+            "document": "Scene.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T15:25:00", 
+            "document": "FlowerController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 115, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T15:30:00", 
+            "document": "NebulaController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 56, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T15:55:00", 
+            "document": "queens day - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-09T15:55:00", 
+            "document": "Aphex Twin - Selected Ambient Works 85-92 - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:00:00", 
+            "document": "27-04"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:00:00", 
+            "document": "veghel"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:00:00", 
+            "document": "queens-day"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-09-09T16:00:00", 
+            "document": "04-27.jpg"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T16:00:00", 
+            "document": "04-27 copy.jpg - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 3, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-09-09T16:00:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T16:00:00", 
+            "document": "palette.jpg - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T16:00:00", 
+            "document": "04-27.jpg - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 32, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:05:00", 
+            "document": "specialEvents"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "Preview", 
+            "date": "2015-09-09T16:05:00", 
+            "document": "palette.png"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:05:00", 
+            "document": "lightcontroller"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 8, 
+            "activity": "quicktime player", 
+            "date": "2015-09-09T16:05:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:05:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "Preview", 
+            "date": "2015-09-09T16:05:00", 
+            "document": "palette.jpg"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 3, 
+            "activity": "quicktime player", 
+            "date": "2015-09-09T16:05:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:05:00", 
+            "document": "img"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "quicktime player", 
+            "date": "2015-09-09T16:10:00", 
+            "document": "loadingColorFromFile"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 58, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-09T16:15:00", 
+            "document": "loadingColorFromFile.mov"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-09-09T16:15:00", 
+            "document": "loadingColorFromFile2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:15:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:15:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 79, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T16:40:00", 
+            "document": "mission workshop vandal black - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T16:40:00", 
+            "document": "mission workshop vandal - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 30, 
+            "activity": "Finder", 
+            "date": "2015-09-09T16:45:00", 
+            "document": "Miro Video Converter"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T16:45:00", 
+            "document": "PathRegistry.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T16:45:00", 
+            "document": "SketchDelegateInterface.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T16:45:00", 
+            "document": "SketchDelegate.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T16:45:00", 
+            "document": "SketchGL3.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 113, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T16:50:00", 
+            "document": "Test.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T17:05:00", 
+            "document": "IWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T17:05:00", 
+            "document": "LiveWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T17:05:00", 
+            "document": "FakeWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T17:20:00", 
+            "document": "Picker.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T17:20:00", 
+            "document": "ControllerDescription.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-09T17:35:00", 
+            "document": "PerlinNoiseController_W.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 23, 
+            "activity": "Twitter", 
+            "date": "2015-09-09T17:55:00", 
+            "document": "laszlo petra - Twitter Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-09T17:55:00", 
+            "document": "laszlo petra - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-09-09T18:00:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 61, 
+            "activity": "444.hu", 
+            "date": "2015-09-09T18:00:00", 
+            "document": "A zseni, aki t\u00fal\u00e9lte L\u00e1szl\u00f3 Petr\u00e1t !!444!!!"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 38, 
+            "activity": "facebook.com", 
+            "date": "2015-09-09T18:00:00", 
+            "document": "(4) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-09-09T18:00:00", 
+            "document": "(6) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-09T18:00:00", 
+            "document": "https://www.facebook.com"
+        }
+    ]
+}

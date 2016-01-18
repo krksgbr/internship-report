@@ -1,0 +1,1804 @@
+{
+    "2015-08-19": [
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 18, 
+            "activity": "screenshotautomator", 
+            "date": "2015-08-19T09:35:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 5, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T09:35:00", 
+            "document": "FontBuilder.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-19T09:35:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 17, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T09:40:00", 
+            "document": "testingstuff.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 5, 
+            "activity": "newtab", 
+            "date": "2015-08-19T09:40:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 4, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-19T09:40:00", 
+            "document": "Search Everything on SoundCloud"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T09:40:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-19T09:40:00", 
+            "document": "GhostlyCast #55: Michael Cina - \"Time And Space\" by ghostly"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T09:40:00", 
+            "document": "mike cina - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T09:40:00", 
+            "document": "mike cina soundcloud - Google Search"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-19T09:40:00", 
+            "document": "GhostlyCast #55: Michael Cina - \"Time And Space\" by ghostly | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 40, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T09:45:00", 
+            "document": "vectorize.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 17, 
+            "activity": "slack", 
+            "date": "2015-08-19T09:50:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 25, 
+            "activity": "Finder", 
+            "date": "2015-08-19T09:55:00", 
+            "document": "vectorize"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 38, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T09:55:00", 
+            "document": "/Users/GaborK/PycharmProjects/glyphcollector/glyphcollector/tools/fontexport/FontBuilder.py"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 29, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T09:55:00", 
+            "document": "/Users/GaborK/PycharmProjects/glyphcollector/glyphcollector/testingstuff.py"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T09:55:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 114, 
+            "activity": "Terminal", 
+            "date": "2015-08-19T10:00:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 13, 
+            "activity": "Terminal", 
+            "date": "2015-08-19T10:00:00", 
+            "document": "GaborK \u2014 less"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "console", 
+            "date": "2015-08-19T10:00:00", 
+            "document": "All Messages"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-19T10:00:00", 
+            "document": "GaborK \u2014 potrace"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-19T10:00:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-19T10:05:00", 
+            "document": "GaborK \u2014 cat"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 51, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T10:10:00", 
+            "document": "font.ufo/\u2026/a.glif - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T10:10:00", 
+            "document": "ufo - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T10:10:00", 
+            "document": "font.ufo/\u2026/A_.glif - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T10:10:00", 
+            "document": "robofab/__init__.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T10:10:00", 
+            "document": "exceptions.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T10:10:00", 
+            "document": "robofab - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T10:15:00", 
+            "document": "DELANUA' - HOW MANY FILL - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 85, 
+            "activity": "pycharm", 
+            "date": "2015-08-19T10:15:00", 
+            "document": "objectsRF.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 16, 
+            "activity": "facebook.com", 
+            "date": "2015-08-19T10:15:00", 
+            "document": "(1) Edwin Jakobs"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-08-19T10:15:00", 
+            "document": "tests"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-08-19T10:15:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-08-19T10:15:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-08-19T10:15:00", 
+            "document": "Unified Font Object"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T10:15:00", 
+            "document": "https://www.youtube.com/watch?v=Jt_Knw63x1g"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-19T10:15:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 5, 
+            "activity": "System Preferences", 
+            "date": "2015-08-19T11:05:00", 
+            "document": "Network"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T11:05:00", 
+            "document": "pipeviewer mac - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:05:00", 
+            "document": "Alex Meshkov - Sh9 - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T11:05:00", 
+            "document": "introspection - Getting the class name of an instance in Python - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:05:00", 
+            "document": "Genomineerde Rotterdam designprijs 2011: Catalogtree - TouchDoc 'Money & Speed' - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T11:05:00", 
+            "document": "Why does comparing strings in Python using either '==' or 'is' sometimes produce a different result? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T11:05:00", 
+            "document": "complex to tuple python - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 14, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "Sami Koivikko - Hosseli - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "Sami Koivikko - Pientare - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "streamgraph/index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "Sami Koivikko - Rakkaus Pakkaus - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 13, 
+            "activity": "phpstorm", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "pulsechart/script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "Sami Koivikko - Keskus - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 3, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "sami koivikko - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "Sami Koivikko - Byrthe - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "Notes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:20:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 55, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T11:25:00", 
+            "document": "data sculpture - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 93, 
+            "activity": "feedly.com", 
+            "date": "2015-08-19T11:25:00", 
+            "document": "but does it float"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 8, 
+            "activity": "feedly.com", 
+            "date": "2015-08-19T11:25:00", 
+            "document": "too many design"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 7, 
+            "activity": "feedly.com", 
+            "date": "2015-08-19T11:25:00", 
+            "document": "designers books | designers books"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 5, 
+            "activity": "feedly.com", 
+            "date": "2015-08-19T11:25:00", 
+            "document": "All"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 5, 
+            "activity": "feedly.com", 
+            "date": "2015-08-19T11:25:00", 
+            "document": "home"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 3, 
+            "activity": "feedly.com", 
+            "date": "2015-08-19T11:25:00", 
+            "document": "manystuff.org \u2014 Graphic Design daily selection"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 36, 
+            "activity": "feedly.com", 
+            "date": "2015-08-19T11:30:00", 
+            "document": "Optical Hedonism"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 33, 
+            "activity": "phpstorm", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "PostgreSQL - hubbub@localhost - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 62, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "AvatarSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "sketches - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 41, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "ClosingComponent.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "CheckerController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "Florian Meindl - Studiomix April 2007 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "Sami Koivikko - Live @ Ph. Dog 03.02.05 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "Floorplan a.k.a. Robert Hood - Never Grow Old (Re-Plant) [M-PLANT] - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "Component.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:35:00", 
+            "document": "Director.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "App.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 36, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "sketches"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "src"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "IdeaProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "hubbub-sketch"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "Welcome to IntelliJ IDEA"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "main"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "lustlab-hubbub-sketch"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "mobile - target"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "net"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "untitled folder"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "gaborkerekes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "pom.xml - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T11:40:00", 
+            "document": "DVS1 - Black Russian - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:45:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 28, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:45:00", 
+            "document": "hubbub-sketch - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:45:00", 
+            "document": "App.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T11:45:00", 
+            "document": "Edit configuration"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:50:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:50:00", 
+            "document": "Processing_sketches"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:50:00", 
+            "document": "lustlab"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 14, 
+            "activity": "sublime text", 
+            "date": "2015-08-19T11:55:00", 
+            "document": "Amijs_Breunesse_iam.json \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 10, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-19T11:55:00", 
+            "document": "Sequence 01.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T11:55:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-19T11:55:00", 
+            "document": "a_avg0.svg \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T12:00:00", 
+            "document": "Data.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T12:00:00", 
+            "document": "answers.json - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 53, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T12:00:00", 
+            "document": "HubbubSketch.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T12:00:00", 
+            "document": "RollingText.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T12:00:00", 
+            "document": "AnswerData.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T12:00:00", 
+            "document": "Chart.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-19T12:05:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T12:05:00", 
+            "document": "resources"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-19T12:05:00", 
+            "document": "oneonetwo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-19T12:05:00", 
+            "document": "git"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T12:15:00", 
+            "document": "Java 8 Filter Array Using Lambda - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T12:15:00", 
+            "document": "filter array java 8 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T12:15:00", 
+            "document": "How to filter an array in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T12:15:00", 
+            "document": "filter array javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T12:15:00", 
+            "document": "filter array java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T12:15:00", 
+            "document": "stackoverflow.com/questions/2082449/how-to-filter-an-array-in-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 34, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T12:25:00", 
+            "document": "How to convert a stream to an array in Java 8? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T12:25:00", 
+            "document": "stream to array type java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T14:30:00", 
+            "document": "arrays - Java, return if List contains String - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T14:30:00", 
+            "document": "java - Check if a String is in an ArrayList of Strings - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T14:30:00", 
+            "document": "check if string is in list java - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 30, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T14:35:00", 
+            "document": "Ben Klock Boiler Room Berlin DJ Set - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 28, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T14:35:00", 
+            "document": "Houndstooth - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T14:35:00", 
+            "document": "Akkord - Gravure / Continuum (Fis Hayfield To New Mills Version) [Houndstooth] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T14:35:00", 
+            "document": "A\u00efsha Devi - Kim & The Wheel Of Life [Houndstooth] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-19T14:35:00", 
+            "document": "houndstooth - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 29, 
+            "activity": "phpstorm", 
+            "date": "2015-08-19T14:40:00", 
+            "document": "hubbub.public.questions - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T14:45:00", 
+            "document": "java - How can I sort a List alphabetically? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-08-19T14:45:00", 
+            "document": "pulsechart/style.css - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T14:45:00", 
+            "document": "sort string list java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T14:50:00", 
+            "document": "serial art - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-19T14:50:00", 
+            "document": "Serial art - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T14:50:00", 
+            "document": "french serial artist - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T14:50:00", 
+            "document": "french serial art - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T14:55:00", 
+            "document": "https://www.google.nl/search?q=foreach+java&oq=foreach+java&aqs=chrome..69i57j69i60l2j69i65j69i60l2.2095j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 failed to load"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T14:55:00", 
+            "document": "french artist neon - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T14:55:00", 
+            "document": "french artist serial art - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T14:55:00", 
+            "document": "https://www.google.nl/search?q=foreach+java&oq=foreach+java&aqs=chrome..69i57j69i60l2j69i65j69i60l2.2095j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 127, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T15:00:00", 
+            "document": "Animation.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T15:05:00", 
+            "document": "/Users/GaborK/IdeaProjects/sketches/lustlab-hubbub-sketch/src/main/java/net/gaborkerekes/sketches/data/Data.java"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T15:15:00", 
+            "document": "remove duplicates from list java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 46, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T15:15:00", 
+            "document": "collections - Retrieving a List from a java.util.stream.Stream in Java8 - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T15:15:00", 
+            "document": "java - How do I remove repeated elements from ArrayList? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T15:15:00", 
+            "document": "java - How to remove duplicates from a list? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T15:15:00", 
+            "document": "stream to list java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T15:20:00", 
+            "document": "remove element at index java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T15:20:00", 
+            "document": "remove duplicates from list java 8 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T15:20:00", 
+            "document": "remove element at index javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T15:25:00", 
+            "document": "list stream java 8 - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 11, 
+            "activity": "phpstorm", 
+            "date": "2015-08-19T15:25:00", 
+            "document": "streamgraph/script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T15:40:00", 
+            "document": "java - How to remove duplicate objects in a List<MyObject> without equals/hashcode? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T15:40:00", 
+            "document": "remove objects with same field java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T16:05:00", 
+            "document": "pop from list java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T16:05:00", 
+            "document": "android - java howto ArrayList push, pop, shift, and unshift - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T16:30:00", 
+            "document": "java - Add object to ArrayList at specified index - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T16:30:00", 
+            "document": "insert to specific index arraylist - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T16:50:00", 
+            "document": "check if list contains element satisfying condition java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T16:50:00", 
+            "document": "check if list contains element satisfying condition - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T16:50:00", 
+            "document": "java - Removing duplicate elements from a List - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T16:50:00", 
+            "document": "java - Removing Duplicate Values from ArrayList - Stack Overflow"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 10, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-19T17:00:00", 
+            "document": "Mike Cina by f-a-r"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-19T17:10:00", 
+            "document": "How do I join two lists in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T17:10:00", 
+            "document": "merge lists java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T17:30:00", 
+            "document": "Timer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T17:30:00", 
+            "document": "Timer.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T17:45:00", 
+            "document": "Polygon.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T17:45:00", 
+            "document": "DrawerGL3.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T18:20:00", 
+            "document": "List.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 54, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T18:35:00", 
+            "document": "Matrix22.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 29, 
+            "activity": "intellij idea", 
+            "date": "2015-08-19T18:35:00", 
+            "document": "Vector2.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-19T18:35:00", 
+            "document": "replace element in list java - Google Search"
+        }
+    ]
+}

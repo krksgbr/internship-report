@@ -1,0 +1,3334 @@
+{
+    "2015-09-03": [
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-09-03T09:30:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 128, 
+            "activity": "444.hu", 
+            "date": "2015-09-03T09:35:00", 
+            "document": "\u00cdgy rettegtem a menek\u00fcltekt\u0151l a Keleti p\u00e1lyaudvaron !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 84, 
+            "activity": "444.hu", 
+            "date": "2015-09-03T09:35:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T10:00:00", 
+            "document": "SpecialEvents.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T10:00:00", 
+            "document": "ControllerClasses.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-09-03T10:00:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 49, 
+            "activity": "Preview", 
+            "date": "2015-09-03T10:05:00", 
+            "document": "ways-of-seeing-john-berger-6.8.pdf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T10:05:00", 
+            "document": "atom editor - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T10:05:00", 
+            "document": "sublimeintel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T10:05:00", 
+            "document": "intellij themes - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-09-03T10:05:00", 
+            "document": "SublimeCodeIntel/SublimeCodeIntel"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T10:05:00", 
+            "document": "https://www.google.nl/search?q=sublimeintel&oq=sublimeintel&aqs=chrome..69i57j0l5.3319j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T10:10:00", 
+            "document": "Google Image Result for http://ift.tt/1f2u2bq"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T10:45:00", 
+            "document": "Calendar.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 71, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T10:50:00", 
+            "document": "schedule.yaml - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 41, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:00:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 172, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:00:00", 
+            "document": "RadialPulseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:00:00", 
+            "document": "NebulaController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:00:00", 
+            "document": "MidiController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:00:00", 
+            "document": "RadialPulseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 72, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:05:00", 
+            "document": "ClockControl.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:05:00", 
+            "document": "WeatherChart.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 45, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:05:00", 
+            "document": "FakeWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:05:00", 
+            "document": "PerlinNoise.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 20, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:10:00", 
+            "document": "gbr@raspi: ~ \u2014"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 14, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:10:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:10:00", 
+            "document": "ssh to specifig port - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:10:00", 
+            "document": "Terminal \u2014 ssh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-03T11:10:00", 
+            "document": "android - Cannot cast to an Extended Class in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:10:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 3, 
+            "activity": "stickies", 
+            "date": "2015-09-03T11:10:00", 
+            "document": "Uw hostingpakket gegevens z\u2026"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:10:00", 
+            "document": "Terminal \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 42, 
+            "activity": "sublime text", 
+            "date": "2015-09-03T11:15:00", 
+            "document": "config"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 19, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:15:00", 
+            "document": "GaborK \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 17, 
+            "activity": "lifehacker.com", 
+            "date": "2015-09-03T11:15:00", 
+            "document": "Fix a Zipper That's Gone Off the Tracks with a Few Stitches"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:15:00", 
+            "document": "off-track zipper - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:15:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 83, 
+            "activity": "sublime text", 
+            "date": "2015-09-03T11:20:00", 
+            "document": "prompt_steeef_setup"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 52, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:20:00", 
+            "document": "functions \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 47, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:20:00", 
+            "document": "modules \u2014 zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-09-03T11:20:00", 
+            "document": "functions"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:20:00", 
+            "document": ".zprezto \u2014 zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:20:00", 
+            "document": "prezto themes - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-09-03T11:20:00", 
+            "document": "prompt \u2014 zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:20:00", 
+            "document": "prezto - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 45, 
+            "activity": "sublime text", 
+            "date": "2015-09-03T11:25:00", 
+            "document": "prompt_steeef2_setup"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-09-03T11:25:00", 
+            "document": "pure"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:25:00", 
+            "document": "define bash colors - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T11:25:00", 
+            "document": "arch"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T11:25:00", 
+            "document": "powerline"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T11:25:00", 
+            "document": "external"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T11:25:00", 
+            "document": "agnoster"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:30:00", 
+            "document": "\"%F{cyan}\" - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-09-03T11:30:00", 
+            "document": ".zshrc"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 61, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:35:00", 
+            "document": "Crowd.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 56, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:35:00", 
+            "document": "Peep.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:35:00", 
+            "document": "A method that calculates and applies a steering force towards a target - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-03T11:40:00", 
+            "document": "oop - Is it bad practice for a class to have only static fields and methods? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 41, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-03T11:40:00", 
+            "document": "Java static class initialization - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:40:00", 
+            "document": "class initialize static - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T11:40:00", 
+            "document": "class with only static methods - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-03T11:40:00", 
+            "document": "stackoverflow.com/questions/1942903/is-it-bad-practice-for-a-class-to-have-only-static-fields-and-methods"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T11:45:00", 
+            "document": "Director.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 19, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-09-03T11:45:00", 
+            "document": "java - What is the difference between all-static-methods and applying a singleton pattern? - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 43, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T12:05:00", 
+            "document": "intellij sublime surround with quotes - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 39, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-09-03T12:05:00", 
+            "document": "IntelliJ IDEA 13.1 RC Introduces Sublime Text Style Multiple Selections | Hacker News"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:10:00", 
+            "document": "TernaryEvent.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T12:20:00", 
+            "document": "datetimeformat forpattern - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:20:00", 
+            "document": "DateTimeFormat.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T12:20:00", 
+            "document": "datetimeformat forpattern E - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 37, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:25:00", 
+            "document": "/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller/ui/ClockControl.java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:25:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:25:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:30:00", 
+            "document": "ClockControl.java (/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller/ui)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:30:00", 
+            "document": "Animatable.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:35:00", 
+            "document": "OfflineWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:35:00", 
+            "document": "IWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:40:00", 
+            "document": "FakeClock.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 35, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:45:00", 
+            "document": "Scheduler.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:50:00", 
+            "document": "SceneController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 25, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T12:55:00", 
+            "document": "LED.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T12:55:00", 
+            "document": "get index from foreach java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-03T12:55:00", 
+            "document": "Java, How do I get current index/key in \"for each\" loop - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-03T12:55:00", 
+            "document": "Java 8 forEach with index - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-03T12:55:00", 
+            "document": "Is there a way to access an iteration-counter in Java's for-each loop? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T12:55:00", 
+            "document": "get index from foreach java8 - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 28, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "*VP.interface.indd"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 53, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "Peace Palace - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 9, 
+            "activity": "users", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "test.html"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "Sketches after 01.09.2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "isotope"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "Sketches before 01.09.2015"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "piece palace - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "site"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "peace palace wiki - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "devtools", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "Developer Tools - file:///Users/GaborK/Dropbox/Vredespaleis/Touchscreens/site/test.html"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T13:40:00", 
+            "document": "piece palace wiki - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 99, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "modern serif - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 49, 
+            "activity": "theguardian.com", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "Refugees welcome? How UK and Germany compare on migration | World news | The Guardian"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 15, 
+            "activity": "chrome.google.com", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "Chrome Web Store - whatfont"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 6, 
+            "activity": "theguardian.com", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "International | The Guardian"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 6, 
+            "activity": "theguardian.com", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "World news and comment from the Guardian | The Guardian"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 4, 
+            "activity": "chrome.google.com", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "Window"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "modern serif fonts - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "chrome store - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 3, 
+            "activity": "chrome.google.com", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "Chrome Web Store - Apps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T13:45:00", 
+            "document": "guardian - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 24, 
+            "activity": "devtools", 
+            "date": "2015-09-03T13:50:00", 
+            "document": "Developer Tools - http://localhost:63343/Dropbox/Vredespaleis/Touchscreens/site/index.php"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 21, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T13:50:00", 
+            "document": "index.php - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 11, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T13:50:00", 
+            "document": "Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 5, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T13:50:00", 
+            "document": "Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T13:50:00", 
+            "document": "PostgreSQL - hubbub@localhost - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-09-03T13:50:00", 
+            "document": "chrome-devtools://devtools/bundled/devtools.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@200670/&can_dock=true&dockSide=undocked&toolbarColor=rgba(227,227,227,1)&textColor=rgba(102,102,102,1)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T13:50:00", 
+            "document": "PhpStorm 8.0.3"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 40, 
+            "activity": "Preview", 
+            "date": "2015-09-03T14:00:00", 
+            "document": "DRAFT.pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-03T14:00:00", 
+            "document": "Lenticular printing - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:00:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-03T14:00:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T14:15:00", 
+            "document": "vredespaleis - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 12, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "data.json - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "movs"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 7, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "mov.mov"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "test.html - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "overlay_3.png - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "overlay_6.png - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "overlay_9.png - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "world22.png - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "flag_41be1fc88c394c.jpg - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "advice_cases.jpg - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "bottomarrow_1.png - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:20:00", 
+            "document": "bottomarrow_l.png - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 105, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T14:25:00", 
+            "document": "fix zipper off track - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 23, 
+            "activity": "phpstorm", 
+            "date": "2015-09-03T14:25:00", 
+            "document": "script.js - Dropbox - [~/Dropbox]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 19, 
+            "activity": "quicktime player", 
+            "date": "2015-09-03T14:25:00", 
+            "document": "Comp 2 (Converted).mov"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T14:25:00", 
+            "document": "https://www.google.nl/search?q=fix+zipper+off+track&safe=off&es_sm=91&source=lnms&tbm=isch&sa=X&ved=0CAgQ_AUoAmoVChMI8tLEjO7axwIVbFrbCh0atg1V&biw=1440&bih=801"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T14:30:00", 
+            "document": "openworks - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T14:30:00", 
+            "document": "openworks carvalho - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Searching \u201cMaxim\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 41, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Lyon Text Family OT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Typefaces"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "FONDERIES"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Maxim"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "lyon_display"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Character Charts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Typothe\u0300que"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "FoundryGridnik - Wim Crouwel"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Bitstream Fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "TrueType"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T14:35:00", 
+            "document": "Lyon"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 3, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-03T14:40:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T14:50:00", 
+            "document": "pi.remote - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T14:55:00", 
+            "document": "Dansvoorstelling Grenzeloos - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 23, 
+            "activity": "sublime text", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "data.json"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "img"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "mainEN"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "json"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "texts20"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "holder5"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "js"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "main"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T15:00:00", 
+            "document": "libraries"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T15:10:00", 
+            "document": "Component.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T15:10:00", 
+            "document": "Welcome to IntelliJ IDEA"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 122, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T15:15:00", 
+            "document": "VredesPaleisSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 29, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T15:15:00", 
+            "document": "kpnsketches - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T15:15:00", 
+            "document": "pom.xml - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T15:15:00", 
+            "document": "vredespaleis - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T15:15:00", 
+            "document": "rndr-post - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-09-03T15:45:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 59, 
+            "activity": "github.com", 
+            "date": "2015-09-03T15:50:00", 
+            "document": "OpenKinect/libfreenect2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-03T15:50:00", 
+            "document": "ClosingComponent.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 39, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T15:50:00", 
+            "document": "kinect 2 for mac - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:10:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 14, 
+            "activity": "Preview", 
+            "date": "2015-09-03T16:10:00", 
+            "document": "17.pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 37, 
+            "activity": "Preview", 
+            "date": "2015-09-03T16:15:00", 
+            "document": "Presentation.pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 37, 
+            "activity": "Preview", 
+            "date": "2015-09-03T16:15:00", 
+            "document": "inspiration_concept.pdf"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 14, 
+            "activity": "quicktime player", 
+            "date": "2015-09-03T16:15:00", 
+            "document": "poster_animatio (Converted).mov"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 12, 
+            "activity": "Preview", 
+            "date": "2015-09-03T16:15:00", 
+            "document": "Screen Shot 2015-03-16 at 11.10.58 AM.png"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 11, 
+            "activity": "quicktime player", 
+            "date": "2015-09-03T16:15:00", 
+            "document": "poster_animation2.mov"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:20:00", 
+            "document": "font database - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:20:00", 
+            "document": "identifont api - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:20:00", 
+            "document": "PAG Norm"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:20:00", 
+            "document": "Art-Deco"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:25:00", 
+            "document": "identifont - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:25:00", 
+            "document": "font categorization - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 15, 
+            "activity": "Twitter", 
+            "date": "2015-09-03T16:25:00", 
+            "document": "Identifont on Twitter: \"@VikingCode what would you like the API to do?\""
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:25:00", 
+            "document": "Atlas Typewriter"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 9, 
+            "activity": "Twitter", 
+            "date": "2015-09-03T16:25:00", 
+            "document": "Identifont (@Identifont) | Twitter"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:25:00", 
+            "document": "Akkurat"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:25:00", 
+            "document": "Autre"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:25:00", 
+            "document": "Type Classifications"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:30:00", 
+            "document": "font classification api - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:30:00", 
+            "document": "discogs font - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:30:00", 
+            "document": "identify a font - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 22, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-03T16:35:00", 
+            "document": "PANOSE - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:35:00", 
+            "document": "font metadata classification - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:35:00", 
+            "document": "panose - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:35:00", 
+            "document": "https://www.google.nl/search?q=panose&oq=panose&aqs=chrome..69i57j0l5.807j1j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 48, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:40:00", 
+            "document": "font classification database - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 38, 
+            "activity": "graphicdesign.stackexchange.com", 
+            "date": "2015-09-03T16:40:00", 
+            "document": "Database of font information - Graphic Design Stack Exchange"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:40:00", 
+            "document": "Caslon"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:40:00", 
+            "document": "FF Bodoni Classic Ad"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:40:00", 
+            "document": "BodoniClassic"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:40:00", 
+            "document": "FFBodoni Classic Ad"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:40:00", 
+            "document": "FF Bodoni Classic Ad T1"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:40:00", 
+            "document": "FF Bodoni Classic Initials 2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:40:00", 
+            "document": "FF BodoniClassic Roman"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 45, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "guardian_egyptian_text"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 16, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Anthony"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Tanger Serif"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Isonorm3098 - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "OTF"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Gorgio Sans"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "TTF"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "graphik"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "guardian_egyptian_headline"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Apercu Italic"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "OT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "PC-T1"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Aaargh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Commercialtype type foundry"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "a trier"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Sinzano-Regular"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "AIC Karnak [swf-x uazero]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Alida [pdf-x uazero]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Romain BP.rar Folder"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Rotis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "Alita [swf-x uazero]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:45:00", 
+            "document": "All_220_Extracts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:50:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 16, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:50:00", 
+            "document": "austin"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:50:00", 
+            "document": "Giorgio"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:50:00", 
+            "document": "Austin"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 43, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Canada Type"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 22, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "ArnhemFine-Bold.otf Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Lineto"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Linotype Gold 1.7"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Fette Fraktur"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "FertigoProRegular"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "courier sans"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Exotica"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Arnhem"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Figural"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "FF Nebulae"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "OTF (xPDF)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "fengardo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "dtl_fleischmann"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "e-Missionary_(Newlin-1991)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "FF Craft_(Bilak-1994)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Linotype"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Stag"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "evo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Bookman_(Benguiat-1975)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "001.000"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Feathergraphy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "edelgotisch"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "e-Motion_(Heine-1992)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "catalogues"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Deibi"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Eames"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "compactes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "FF Gothic_(Brody-1992)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Austin Cyr"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "Eagle"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "FF Rosetta_(Kismann-1990)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "x-Hellsvetica"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "FF Child\u2019s Play_(Critchley-1993)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "TYPO MARTHA"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "GdnSans extract"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "se\u0301rif 1950-1985"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "1950-1985"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "techniques-techno"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "CanadaType_Updated_Fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "houston"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "fonts 27/O9/2O11"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "1985_2000"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "mobile - cyrillique"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "x-Ferreira"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "F"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T16:55:00", 
+            "document": "AgateSansTwo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T17:00:00", 
+            "document": "arnhem typeface - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:00:00", 
+            "document": "Fedra Serif A"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:00:00", 
+            "document": "Fedra_mono"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:00:00", 
+            "document": "Typotheque FedraSerif Pro"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:00:00", 
+            "document": "FedraSansAltStd OTF"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:00:00", 
+            "document": "Fedra Sans"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:00:00", 
+            "document": "Fedra Sans Display 2 [pdf-x uazero]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:05:00", 
+            "document": "Greta Display Pro"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:05:00", 
+            "document": "Greta Text Pro"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:05:00", 
+            "document": "Greta Display [swf-x uazero]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:05:00", 
+            "document": "GretaText [pdf-x uazero]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:05:00", 
+            "document": "Greta Display Narrow Pro"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:30:00", 
+            "document": "Applications"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 32, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:35:00", 
+            "document": "mobile - vredespaleis"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 16, 
+            "activity": "flickr.com", 
+            "date": "2015-09-03T17:35:00", 
+            "document": "Flickr - Photo Sharing!"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 5, 
+            "activity": "flickr.com", 
+            "date": "2015-09-03T17:35:00", 
+            "document": "Flickr, a Yahoo company | Flickr - Photo Sharing!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T17:35:00", 
+            "document": "peace palace - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:35:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "flickr.com", 
+            "date": "2015-09-03T17:35:00", 
+            "document": "https://www.flickr.com"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-03T17:35:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 27, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-03T17:40:00", 
+            "document": "Conflict and Mediation Event Observations - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 22, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-03T17:40:00", 
+            "document": "Cameo - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T17:40:00", 
+            "document": "CAMEO - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-03T17:40:00", 
+            "document": "Computer-aided management of emergency operations - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T17:40:00", 
+            "document": "gdelt - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 38, 
+            "activity": "github.com", 
+            "date": "2015-09-03T17:45:00", 
+            "document": "wadetb/Sublime-Text-Advanced-CSV"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 10, 
+            "activity": "sublime text", 
+            "date": "2015-09-03T17:45:00", 
+            "document": "20150902.export.CSV"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 9, 
+            "activity": "openoffice", 
+            "date": "2015-09-03T17:45:00", 
+            "document": "Text Import - [20150902.export.CSV]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T17:45:00", 
+            "document": "sublime csv - Google Search"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 5, 
+            "activity": "openoffice", 
+            "date": "2015-09-03T17:45:00", 
+            "document": "20150902.export.CSV - OpenOffice Calc"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-09-03T17:45:00", 
+            "document": "ericmartel/Sublime-Text-2-CSV-Plugin"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 54, 
+            "activity": "openoffice", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "Text Import - [20150902.export.csv]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 22, 
+            "activity": "sublime text", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "Package Control Messages"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 14, 
+            "activity": "sublime text", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "untitled"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 17, 
+            "activity": "openoffice", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "ASCII Filter Options"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 13, 
+            "activity": "pycharm", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "testingstuff.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 7, 
+            "activity": "openoffice", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "20150902.export.tsv - OpenOffice Writer"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "conflict and peace databan - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "20150902.export.CSV - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "openoffice", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "OpenOffice"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "PyCharm 4.0.5"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "TextEdit", 
+            "date": "2015-09-03T17:50:00", 
+            "document": "20150902.export.tsv"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 13, 
+            "activity": "facebook.com", 
+            "date": "2015-09-03T17:55:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 30, 
+            "activity": "sublime text", 
+            "date": "2015-09-03T17:55:00", 
+            "document": "20150902.export.csv"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T17:55:00", 
+            "document": "Sublime Text Advanced CSV - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-03T17:55:00", 
+            "document": "conflict and peace databank - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-03T17:55:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 33, 
+            "activity": "facebook.com", 
+            "date": "2015-09-03T18:55:00", 
+            "document": "Boyd Rotgans"
+        }
+    ]
+}

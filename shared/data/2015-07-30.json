@@ -1,0 +1,2754 @@
+{
+    "2015-07-30": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:00:00", 
+            "time_spent": 291, 
+            "activity": "444.hu", 
+            "date": "2015-07-30T09:00:00", 
+            "document": "\u00c9l\u0151 ad\u00e1sban ijedt hal\u00e1lra a riporter !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T09:05:00", 
+            "document": "leprechaun - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T09:05:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T09:05:00", 
+            "document": "lepracon - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 2, 
+            "activity": "index.hu", 
+            "date": "2015-07-30T09:25:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-07-30T09:35:00", 
+            "document": "index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-07-30T09:35:00", 
+            "document": "hosts \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T09:50:00", 
+            "document": "12 oz to ml - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 90, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:10:00", 
+            "document": "(4) Search - melatonin - Quora"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 3, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:10:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 61, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:10:00", 
+            "document": "(4) What is the difference between taking melatonin and 5HTP? - Quora"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 34, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:10:00", 
+            "document": "(4) What is the relationship of melatonin to depression? - Quora"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 12, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:10:00", 
+            "document": "(4) Is it true that excess melatonin is turned into serotonin in the morning, and excess serotonin is turned into melatonin at night? - Quora"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T10:10:00", 
+            "document": "melatonin vs benadryl - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 8, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:10:00", 
+            "document": "(4) Home - Quora"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T10:10:00", 
+            "document": "melatonin vs - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:10:00", 
+            "document": "www.quora.com"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 33, 
+            "activity": "devtools", 
+            "date": "2015-07-30T10:15:00", 
+            "document": "Developer Tools - http://localhost:63342/Hubbub/index.html"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 7, 
+            "activity": "quicktime player", 
+            "date": "2015-07-30T10:15:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 55, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "(4) Is there any interaction between melatonin and (German) chamomile tea? - Quora"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 15, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "(4) What is the effect of melatonin on the thyroid function? - Quora"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 11, 
+            "activity": "sublime text", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "shopping list.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "home"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 6, 
+            "activity": "stickies", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "BEV\u00c1S\u00c1RL\u00d3LISTA\n____________\u2026"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "health"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "healt"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-07-30T10:20:00", 
+            "document": "Uw hostingpakket gegevens z\u2026"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 192, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:25:00", 
+            "document": "(4) How can I make myself get out of bed more quickly? - Quora"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 12, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:25:00", 
+            "document": "(4) Search - melatonin vs - Quora"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T10:25:00", 
+            "document": "(4) Search - melatonin alternative - Quora"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:30:00", 
+            "document": "screenshots"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:30:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:30:00", 
+            "document": "Internship LustLab"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 8, 
+            "activity": "stevepavlina.com", 
+            "date": "2015-07-30T10:30:00", 
+            "document": "How to Get Up Right Away When Your Alarm Goes Off"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:30:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:30:00", 
+            "document": "screenshots Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:30:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 8, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "ScreenshotAutomator.py - ScreenShot_Automator - [~/PycharmProjects/ScreenShot_Automator]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 9, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "measurements_to_db.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 47, 
+            "activity": "console", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "All Messages"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 31, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "resize_things.py - ScreenShot_Automator - [~/PycharmProjects/ScreenShot_Automator]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 31, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "PuTTY - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 21, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "PyCharm 4.0.5"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "putty - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "putty vs terminal - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 11, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "example.py - ScreenShot_Automator - [~/PycharmProjects/ScreenShot_Automator]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 7, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "PuTTY Ubuntu - PuTTY - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 6, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T10:35:00", 
+            "document": "ScreenShot_Automator - [~/PycharmProjects/ScreenShot_Automator]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 42, 
+            "activity": "python", 
+            "date": "2015-07-30T10:40:00", 
+            "document": "Screenshot Automator"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:40:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:40:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-30T10:40:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:40:00", 
+            "document": "GlyphMaster"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 52, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T10:45:00", 
+            "document": "setup.py - ScreenShot_Automator - [~/PycharmProjects/ScreenShot_Automator]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 25, 
+            "activity": "Activity Monitor", 
+            "date": "2015-07-30T10:45:00", 
+            "document": "Activity Monitor (All Processes)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:45:00", 
+            "document": "dist"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-30T10:45:00", 
+            "document": "ScreenShot_Automator"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T10:50:00", 
+            "document": "date timestamp python - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 75, 
+            "activity": "Terminal", 
+            "date": "2015-07-30T11:00:00", 
+            "document": "GaborK \u2014 Python"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-07-30T11:05:00", 
+            "document": "Gallery \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 4, 
+            "activity": "drive.google.com", 
+            "date": "2015-07-30T11:05:00", 
+            "document": "My Drive - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "drive.google.com", 
+            "date": "2015-07-30T11:05:00", 
+            "document": "Google Drive"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-30T11:05:00", 
+            "document": "build"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T11:10:00", 
+            "document": "mike bostock - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T11:10:00", 
+            "document": "m bostock - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 45, 
+            "activity": "New York Times", 
+            "date": "2015-07-30T11:15:00", 
+            "document": "Four Ways to Slice Obama\u2019s 2013 Budget Proposal - Interactive Feature - NYTimes.com"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-07-30T11:15:00", 
+            "document": "bl.ocks.org - mbostock"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-07-30T11:35:00", 
+            "document": "PostgreSQL - hubbub@localhost - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 71, 
+            "activity": "phpstorm", 
+            "date": "2015-07-30T11:35:00", 
+            "document": "hubbub.public.questions - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 25, 
+            "activity": "phpstorm", 
+            "date": "2015-07-30T11:35:00", 
+            "document": "hubbub.public.measurements - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 28, 
+            "activity": "translate.google.com", 
+            "date": "2015-07-30T12:00:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 12, 
+            "activity": "thesaurus.com", 
+            "date": "2015-07-30T12:00:00", 
+            "document": "Protagonist Synonyms, Protagonist Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 10, 
+            "activity": "thesaurus.com", 
+            "date": "2015-07-30T12:00:00", 
+            "document": "Actor Synonyms, Actor Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T12:00:00", 
+            "document": "figures of narrative - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "thesaurus.com", 
+            "date": "2015-07-30T12:00:00", 
+            "document": "Thesaurus.com | Find Synonyms and Antonyms of Words at Thesaurus.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T12:00:00", 
+            "document": "tras - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 86, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:05:00", 
+            "document": "Ellipsis (narrative device) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 8, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:05:00", 
+            "document": "Category:Narrative techniques - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T12:05:00", 
+            "document": "hackpad alternative - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 7, 
+            "activity": "quora.com", 
+            "date": "2015-07-30T12:05:00", 
+            "document": "(4) What is the best alternative to Hackpad? - Quora"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T12:05:00", 
+            "document": "narrative devices - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "alternativeto.net", 
+            "date": "2015-07-30T12:05:00", 
+            "document": "hackpad Alternatives - AlternativeTo.net"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 19, 
+            "activity": "alternativeto.net", 
+            "date": "2015-07-30T12:10:00", 
+            "document": "Self-Hosted hackpad Alternatives - AlternativeTo.net"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T12:10:00", 
+            "document": "self hosted hackpad - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 9, 
+            "activity": "alternativeto.net", 
+            "date": "2015-07-30T12:10:00", 
+            "document": "Paperwork by twostairs Alternatives and Similar Software - AlternativeTo.net"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 5, 
+            "activity": "alternativeto.net", 
+            "date": "2015-07-30T12:10:00", 
+            "document": "firepad Alternatives and Similar Software - AlternativeTo.net"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 4, 
+            "activity": "alternativeto.net", 
+            "date": "2015-07-30T12:10:00", 
+            "document": "Etherpad Alternatives and Similar Software - AlternativeTo.net"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "alternativeto.net", 
+            "date": "2015-07-30T12:10:00", 
+            "document": "Paperwork"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 15, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:15:00", 
+            "document": "Foreshadowing - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 64, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:15:00", 
+            "document": "Catalogue of Ships - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 63, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:15:00", 
+            "document": "Chekhov's gun - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 32, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:15:00", 
+            "document": "Epic catalogue - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 15, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:15:00", 
+            "document": "Retroactive continuity - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 48, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:20:00", 
+            "document": "Stream of consciousness (narrative mode) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 45, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:20:00", 
+            "document": "Aesthetic distance - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 21, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:20:00", 
+            "document": "Dream sequence - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 10, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:20:00", 
+            "document": "Ab initio - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 36, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:25:00", 
+            "document": "Exposition (narrative) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 25, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:25:00", 
+            "document": "Stream of unconsciousness (narrative mode) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:25:00", 
+            "document": "Unreliable narrator - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 12, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:25:00", 
+            "document": "Translation convention - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:25:00", 
+            "document": "Running gag - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:25:00", 
+            "document": "hackpad"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 29, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:30:00", 
+            "document": "Category:Film techniques - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 105, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:30:00", 
+            "document": "Narration - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 17, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:30:00", 
+            "document": "Polyvision - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 22, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:30:00", 
+            "document": "Category:Literary techniques - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 20, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:30:00", 
+            "document": "Real time (media) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 62, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Docufiction - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 22, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Seamlessly loopable - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 14, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Documentary swarm - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 8, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Hook (filmmaking) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Pitch (filmmaking) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Walla - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 4, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Stereographer - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 4, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Insert (filmmaking) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 4, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Tracking shot - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 3, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:35:00", 
+            "document": "Dutch angle - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 137, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:40:00", 
+            "document": "Creative geography - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 92, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:40:00", 
+            "document": "Suspension of disbelief - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 20, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:40:00", 
+            "document": "Kuleshov Effect - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 11, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T12:40:00", 
+            "document": "Kuleshov effect - Kuleshov Effect - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 52, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T12:45:00", 
+            "document": "datamentary - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 36, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T12:45:00", 
+            "document": "Clouded: A Datamentary - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 6, 
+            "activity": "Twitter", 
+            "date": "2015-07-30T12:45:00", 
+            "document": "Alberto Cottica on Twitter: \"[Brilliant] The Fallen: a \"datamentary\" about deaths in World War II. http://t.co/saMTVj5OWm\""
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 3, 
+            "activity": "Twitter", 
+            "date": "2015-07-30T12:45:00", 
+            "document": "Alberto Cottica (@alberto_cottica) | Twitter"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T12:45:00", 
+            "document": "https://www.youtube.com/watch?v=zZB6MF3MOE8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T12:50:00", 
+            "document": "heartbeat simulation sound - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T12:50:00", 
+            "document": "heartbeat simulation - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 86, 
+            "activity": "devtools", 
+            "date": "2015-07-30T12:55:00", 
+            "document": "Developer Tools - http://www.soundsnap.com/taxonomy/term/2176/alpha"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 6, 
+            "activity": "quicktime player", 
+            "date": "2015-07-30T12:55:00", 
+            "document": "Audio Recording"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-07-30T12:55:00", 
+            "document": "chrome-devtools://devtools/bundled/devtools.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@199461/&can_dock=true&dockSide=undocked&toolbarColor=rgba(227,227,227,1)&textColor=rgba(102,102,102,1)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 24, 
+            "activity": "System Preferences", 
+            "date": "2015-07-30T13:00:00", 
+            "document": "Sound"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 3, 
+            "activity": "System Preferences", 
+            "date": "2015-07-30T13:00:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 4, 
+            "activity": "quicktime player", 
+            "date": "2015-07-30T13:35:00", 
+            "document": "57bpm"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 22, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T13:40:00", 
+            "document": "Spotting (filmmaking) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 10, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T13:40:00", 
+            "document": "Dry for wet - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "quicktime player", 
+            "date": "2015-07-30T13:40:00", 
+            "document": "96bpm"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "quicktime player", 
+            "date": "2015-07-30T13:40:00", 
+            "document": "heartbeat_deep"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 30, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T13:45:00", 
+            "document": "Hyperlapse - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-07-30T13:45:00", 
+            "document": "Late_setup.pdf | LUSTlab Slack"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 66, 
+            "activity": "sublime text", 
+            "date": "2015-07-30T13:50:00", 
+            "document": "RD1_nestedLoops_grid.pde \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 48, 
+            "activity": "Terminal", 
+            "date": "2015-07-30T13:50:00", 
+            "document": "Processing \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-07-30T13:50:00", 
+            "document": "libraries \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-07-30T13:50:00", 
+            "document": "RD1_nestedLoops_grid \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-07-30T13:50:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 51, 
+            "activity": "Finder", 
+            "date": "2015-07-30T13:55:00", 
+            "document": "RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 11, 
+            "activity": "drive.google.com", 
+            "date": "2015-07-30T13:55:00", 
+            "document": "KPN"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 20, 
+            "activity": "drive.google.com", 
+            "date": "2015-07-30T13:55:00", 
+            "document": "sketches & ideas"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 11, 
+            "activity": "drive.google.com", 
+            "date": "2015-07-30T13:55:00", 
+            "document": "prephase"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 62, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-07-30T14:00:00", 
+            "document": "*Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 20, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-07-30T14:00:00", 
+            "document": "*Untitled-2"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 7, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-07-30T14:00:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 5, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-07-30T14:00:00", 
+            "document": "Untitled-2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 52, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T14:05:00", 
+            "document": "answers_to_db.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T14:05:00", 
+            "document": "0bd9b54b-3400-4655-8bd8-27dc6bb760c9.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 4, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-07-30T14:05:00", 
+            "document": "screen_ideas.indd"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 13, 
+            "activity": "Preview", 
+            "date": "2015-07-30T14:05:00", 
+            "document": "0278 KPN Pilotstore 3.0 Concept Contentlagen_v2.pdf"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 8, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T14:05:00", 
+            "document": "exported/test.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T14:15:00", 
+            "document": "quieries.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 26, 
+            "activity": "sublime text", 
+            "date": "2015-07-30T14:35:00", 
+            "document": "todo.txt \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T14:45:00", 
+            "document": "dict pop python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-30T14:50:00", 
+            "document": "dictionary - In Python, what does dict.pop(a,b) mean? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 27, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T14:55:00", 
+            "document": "Amijs.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T14:55:00", 
+            "document": "pretty print dictionary python - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 84, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T15:00:00", 
+            "document": "PostgreSQL - hubbub@localhost - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 29, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T15:00:00", 
+            "document": "hubbub.public.hourly_rates - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 41, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-30T15:05:00", 
+            "document": "c - float vs. double precision - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 24, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T15:05:00", 
+            "document": "hubbub.public.participants - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T15:05:00", 
+            "document": "single precision floating point - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 14, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-30T15:05:00", 
+            "document": "Single-precision floating-point format - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T15:05:00", 
+            "document": "float postgres - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-30T15:05:00", 
+            "document": "processor - What's the difference between a single precision and double precision floating point operation? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T15:05:00", 
+            "document": "float4 vs float8 postgresql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T15:05:00", 
+            "document": "double vs float - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-07-30T15:05:00", 
+            "document": "8.18. pprint \u2014 Data pretty printer \u2014 Python 2.7.10 documentation"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 61, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T15:10:00", 
+            "document": "hubbub.public.questions - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T15:10:00", 
+            "document": "timestamp postgres - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 19, 
+            "activity": "pycharm", 
+            "date": "2015-07-30T15:15:00", 
+            "document": "hubbub.public.answers - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-30T15:15:00", 
+            "document": "sql - No unique constraint matching given keys for referenced table - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T15:15:00", 
+            "document": "there is no unique constraint matching given keys for referenced table \"questions\" - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T15:15:00", 
+            "document": "https://www.google.nl/search?q=there+is+no+unique+constraint+matching+given+keys+for+referenced+table+\"questions\"&oq=there+is+no+unique+constraint+matching+given+keys+for+referenced+table+\"questions\"&aqs=chrome..69i57.213j0j7&sourceid=chrome&es_sm=91&ie=U"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 121, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-30T15:20:00", 
+            "document": "javascript - D3.js chain transitions for compound animations for different shapes - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:20:00", 
+            "document": "Madlib Ray-Ban x Boiler Room 003 | TIMF Afterparty DJ Set - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:20:00", 
+            "document": "medicine show madlib - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:20:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-30T15:20:00", 
+            "document": "Your stream on SoundCloud"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T15:20:00", 
+            "document": "delay animation d3 js - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:20:00", 
+            "document": "medicine show - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:20:00", 
+            "document": "madlib live - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-07-30T15:20:00", 
+            "document": "SoundCloud \u2013 Hear the world\u2019s sounds"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "madlib medicine show raw medicine - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 22, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "madlib medicine show - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "harmony in ultraviolet - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "madlib medicine show 5 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "madlib - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib: Top 20 Beats - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib - Flowers - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib - Nothing from Nothing - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib - Rapper x Radio - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib Medicine Show #12: Raw Medicine 20 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib - Episode VI - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib Medicine Show #12: Raw Medicine 09 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "tim hecker - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib - Episode XVII - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib - Episode XV - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "the history of the loop digga - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T15:25:00", 
+            "document": "Madlib Medicine Show No. 12 - Raw Medicine: Madlib Remixes #15 - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T15:45:00", 
+            "document": "not clearing the canvas d3js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-30T15:45:00", 
+            "document": "javascript - Clearing D3.js canvas - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-30T15:45:00", 
+            "document": "javascript - How to clear the canvas for redrawing - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 183, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T15:50:00", 
+            "document": "SketchBook - [~/IdeaProjects/SketchBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T15:50:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T15:50:00", 
+            "document": "sndr - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T15:50:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 50, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T15:55:00", 
+            "document": "Test.java - SketchBook - [~/IdeaProjects/SketchBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T15:55:00", 
+            "document": "lightcontroller - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T15:55:00", 
+            "document": "rndr - SketchBook - [~/IdeaProjects/SketchBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T15:55:00", 
+            "document": "SketchGL3.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T15:55:00", 
+            "document": "test.java - SketchBook - [~/IdeaProjects/SketchBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:00:00", 
+            "document": "PixelStretchWall.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 78, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:00:00", 
+            "document": "pom.xml - SketchBook - [~/IdeaProjects/SketchBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 31, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:00:00", 
+            "document": "Welcome to IntelliJ IDEA"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-30T16:00:00", 
+            "document": "Processing_sketches"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-07-30T16:00:00", 
+            "document": "TypeRevival_TemplateMatchingTool"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-07-30T16:00:00", 
+            "document": "IdeaProjects"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:00:00", 
+            "document": "Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-30T16:00:00", 
+            "document": "HelloWorld"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 85, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T16:05:00", 
+            "document": "maven intellij - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T16:05:00", 
+            "document": "Maven Tutorial 01 Part 1- Introduction and Setting up - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 36, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T16:05:00", 
+            "document": "maven turorial - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T16:05:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-07-30T16:20:00", 
+            "document": "Tim Hecker - Haunt Me, Haunt Me Do It Again - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 262, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:25:00", 
+            "document": "Test.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:30:00", 
+            "document": "HubbubSketch.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 61, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:30:00", 
+            "document": "Run/Debug Configurations"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 37, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:30:00", 
+            "document": "WeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:30:00", 
+            "document": "Gson.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 27, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:35:00", 
+            "document": "Data.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T16:35:00", 
+            "document": "papplet sketch notfoundexception intellij - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T16:35:00", 
+            "document": "papplet sketchnotfoundexception intellij - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:40:00", 
+            "document": "AnswerData.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 66, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-30T16:45:00", 
+            "document": "How to get the path of running java program - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T16:45:00", 
+            "document": "how does java handle paths - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T16:45:00", 
+            "document": "path of file java main class - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 61, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:50:00", 
+            "document": "Chart.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 45, 
+            "activity": "facebook.com", 
+            "date": "2015-07-30T16:50:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-30T16:50:00", 
+            "document": "eclipse - Exception in thread \"main\" java.io.FileNotFoundException: Error - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T16:50:00", 
+            "document": "graph - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-07-30T16:50:00", 
+            "document": "Diagram.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T16:50:00", 
+            "document": "diagram - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T16:50:00", 
+            "document": "chart - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T16:50:00", 
+            "document": "FileNotFoundException main - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T17:15:00", 
+            "document": "get text width processing - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 35, 
+            "activity": "sublime text", 
+            "date": "2015-07-30T18:05:00", 
+            "document": "class_floatShape.pde \u2014 awardwinning_grad_kabk_2014"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 77, 
+            "activity": "facebook.com", 
+            "date": "2015-07-30T18:05:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-30T18:05:00", 
+            "document": "untitled \u2014 awardwinning_grad_kabk_2014"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 13, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "1.6 Vectors: Acceleration towards mouse (The Nature of Code) in The Nature of Code on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 60, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "processing in videos on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 40, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 24, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "The Nature of Code on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 12, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "Watch, share and upload your high quality videos | Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "shiffman on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "processin in videos on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "shiffman\u2019s Channels on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "https://vimeo.com/shiffman"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-30T18:30:00", 
+            "document": "https://vimeo.com"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T18:40:00", 
+            "document": "slowing down approaching processing shiffman - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 36, 
+            "activity": "reddit.com", 
+            "date": "2015-07-30T18:40:00", 
+            "document": "How to make an object slow down as It approaches something? : processing"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T18:40:00", 
+            "document": "slowing down approaching processing - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-30T18:40:00", 
+            "document": "distance of two vectors processing - Google Search"
+        }
+    ]
+}

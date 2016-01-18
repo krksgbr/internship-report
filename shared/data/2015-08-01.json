@@ -1,0 +1,544 @@
+{
+    "2015-08-01": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-01T11:15:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T14:25:00", 
+            "document": "airplay raspberry pi 2 music - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T14:25:00", 
+            "document": "stream system sound to raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "udacity.com", 
+            "date": "2015-08-01T14:25:00", 
+            "document": "Email Verification - Udacity"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-01T14:25:00", 
+            "document": "jackaudio/jack2"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-01T14:25:00", 
+            "document": "mopidy/mopidy-scrobbler"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T14:50:00", 
+            "document": "Elektriciteit I - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T14:50:00", 
+            "document": "https://www.google.nl/search?q=Elektriciteit+I&oq=Elektriciteit+I&aqs=chrome..69i57j0l5.399j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T14:55:00", 
+            "document": "ppp - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 50, 
+            "activity": "Finder", 
+            "date": "2015-08-01T15:05:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 14, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-08-01T15:05:00", 
+            "document": "*screen_ideas.indd"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-01T15:05:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-01T15:05:00", 
+            "document": "screenshots Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-01T15:05:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 24, 
+            "activity": "hongkiat.com", 
+            "date": "2015-08-01T15:10:00", 
+            "document": "Feedly Alternatives: 5 Other RSS Readers You Should Try - Hongkiat"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 10, 
+            "activity": "feedly.com", 
+            "date": "2015-08-01T15:10:00", 
+            "document": "feedly"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T15:10:00", 
+            "document": "open source feedly alternative - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "alternativeto.net", 
+            "date": "2015-08-01T15:10:00", 
+            "document": "Open Source Feedly Alternatives - AlternativeTo.net"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "feedly.com", 
+            "date": "2015-08-01T15:10:00", 
+            "document": "feedly. Read more, know more."
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T15:10:00", 
+            "document": "http://nle.pti.nl/ecard4/nlenergie.php?rnum=8270711737 is not available"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-01T15:10:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-01T15:10:00", 
+            "document": "2015_reddit_comments_corpus"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-08-01T15:15:00", 
+            "document": "Athou/commafeed"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T15:15:00", 
+            "document": "commafeed vs - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T15:25:00", 
+            "document": "kruidvat openingstijden - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 47, 
+            "activity": "history", 
+            "date": "2015-08-01T15:30:00", 
+            "document": "History"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 32, 
+            "activity": "udacity.com", 
+            "date": "2015-08-01T15:30:00", 
+            "document": "Data Visualization and D3.js Course - Udacity"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T15:30:00", 
+            "document": "open webpage from terminal - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "history", 
+            "date": "2015-08-01T15:30:00", 
+            "document": "Complete Public Reddit Comments Corpus : Free Download & Streaming : Internet Archive"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 59, 
+            "activity": "flowingdata.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "Data Sources"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 55, 
+            "activity": "Terminal", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "coding \u2014 11."
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 34, 
+            "activity": "github.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "dariusk/corpora"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 33, 
+            "activity": "Terminal", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "coding \u2014 1000Names"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 11, 
+            "activity": "flowingdata.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "Visual introduction to machine learning"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "corpora/data at master \u00b7 dariusk/corpora"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 9, 
+            "activity": "flowingdata.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "A collection of small datasets"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "coding \u2014 03."
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "corpora/crayola.json at master \u00b7 dariusk/corpora"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "corpora/data/colors at master \u00b7 dariusk/corpora"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "flowingdata.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "How stolen data affects you"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "corpora/data/corporations at master \u00b7 dariusk/corpora"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "coding \u2014 06."
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "flowingdata.com", 
+            "date": "2015-08-01T15:35:00", 
+            "document": "flowingdata.com/2014/11/14/a-collection-of-small-datasets/"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 7, 
+            "activity": "Terminal", 
+            "date": "2015-08-01T15:40:00", 
+            "document": "coding \u2014 Move"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T15:50:00", 
+            "document": "setting up utorrent on raspberry pi - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 37, 
+            "activity": "sublime text", 
+            "date": "2015-08-01T15:55:00", 
+            "document": "auth \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 18, 
+            "activity": "sublime text", 
+            "date": "2015-08-01T16:10:00", 
+            "document": "deluge-daemon \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 12, 
+            "activity": "Terminal", 
+            "date": "2015-08-01T16:10:00", 
+            "document": "coding \u2014 Liberty"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-01T16:15:00", 
+            "document": "internet archive datasets - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-08-01T16:20:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-01T16:20:00", 
+            "document": "Silk Road: Theory & Practice - Gwern.net"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 23, 
+            "activity": "lesswrong.com", 
+            "date": "2015-08-01T16:25:00", 
+            "document": "gwern comments on Open Thread, April 1-15, 2013 - Less Wrong Discussion"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 14, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-01T16:25:00", 
+            "document": "Revised NEO Personality Inventory - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 10, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-01T16:25:00", 
+            "document": "RAPM - Wikipedia, the free encyclopedia"
+        }
+    ]
+}

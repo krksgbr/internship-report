@@ -1,0 +1,3004 @@
+{
+    "2015-08-14": [
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 19, 
+            "activity": "slack", 
+            "date": "2015-08-14T10:10:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 75, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T10:10:00", 
+            "document": "LillySlideController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 39, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T10:10:00", 
+            "document": "oneonetwo - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 39, 
+            "activity": "444.hu", 
+            "date": "2015-08-14T10:10:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T10:10:00", 
+            "document": "Grid.java - Drachten - [~/IdeaProjects/Drachten]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T10:10:00", 
+            "document": "oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T10:15:00", 
+            "document": "App.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-08-14T10:15:00", 
+            "document": "Fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T10:15:00", 
+            "document": "sketches"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T10:15:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T10:20:00", 
+            "document": "https://www.google.nl/search?q=FontStruct&oq=FontStruct&aqs=chrome..69i57j69i65j0l4.276j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T10:30:00", 
+            "document": "fontstruct from ttf - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-14T10:35:00", 
+            "document": "112"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-14T10:35:00", 
+            "document": "dracthen"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T10:35:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-14T10:35:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T10:40:00", 
+            "document": "pixel typeface - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T10:40:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Presentation", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 16, 
+            "activity": "dreamstime.com", 
+            "date": "2015-08-14T10:40:00", 
+            "document": "Pixel Alphabet Royalty Free Stock Images - Image: 14673279"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 13, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:45:00", 
+            "document": "112 \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:45:00", 
+            "document": "fonts/ufo2otf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T10:45:00", 
+            "document": "ufo to ttf - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-14T10:45:00", 
+            "document": "rain \u2014 rsub-phtr3b \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T10:45:00", 
+            "document": "AE"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:45:00", 
+            "document": "git \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:45:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:45:00", 
+            "document": "git \u2014 Zelienople"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 74, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "tinytypetools/fontconvert at master \u00b7 ManufacturaInd/tinytypetools"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "20150612 \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 25, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "112 \u2014 curl"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "brew install fontforge - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "112 \u2014 ruby"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "homebrew/glib.rb at 4b4760af7538fe62fd3dc075e8ffe2ee1ad48a30 \u00b7 Homebrew/homebrew"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "ManufacturaInd/tinytypetools"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 12, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "112 \u2014 file"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "fontforge - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "fontforge/fontforge"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "fontforge \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "112 \u2014 otool"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "112 \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "112 \u2014 sh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:50:00", 
+            "document": "112 \u2014 install_name_too"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 19, 
+            "activity": "console", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "All Messages"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 17, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "bin \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 14, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "bin \u2014 fontforge"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 14, 
+            "activity": "sublime text", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "Update fontconvert \u00b7 ManufacturaInd/tinytypetools@bfe9029"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "History for fontconvert/fontconvert - ManufacturaInd/tinytypetools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "tinytypetools/TODO at master \u00b7 ManufacturaInd/tinytypetools"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "20150612 \u2014 Python"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "Calculator: 0"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "Manufactura Independente"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "fonconvert.py \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-14T10:55:00", 
+            "document": "https://github.com/ManufacturaInd/tinytypetools"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 54, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T11:05:00", 
+            "document": "OverlayText7Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 68, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T11:05:00", 
+            "document": "OverlayText4Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T11:05:00", 
+            "document": "SineController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:10:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 36, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:10:00", 
+            "document": "font-cache"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 23, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "fonts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "resources"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "mobile - target"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "oneonetwo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "src"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "classes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "generated-sources"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "annotations"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "main"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "lustlab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:25:00", 
+            "document": "net"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 26, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T11:30:00", 
+            "document": ".gitignore - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T11:30:00", 
+            "document": "uiDesigner.xml - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 171, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T11:35:00", 
+            "document": "FontTester.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T11:35:00", 
+            "document": "Animatable.class - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T11:35:00", 
+            "document": "LillyFlashController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-08-14T11:40:00", 
+            "document": "(1) KABK GOVT 4"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T11:40:00", 
+            "document": "words with m - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 55, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-14T11:45:00", 
+            "document": "java - Round a double to 2 decimal places - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-14T11:45:00", 
+            "document": "How to round a number to n decimal places in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T11:45:00", 
+            "document": "round to decimal places java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T11:45:00", 
+            "document": "round to decimal places - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "examples"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "script2.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "light installation"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "other animations"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "pngs"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "rotate robofont - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "contracts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "Notes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "gamoflife2_tests"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "report"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "veghel"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "gameOfLife_tests"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T11:55:00", 
+            "document": "karelmartens examples"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-08-14T12:00:00", 
+            "document": "impl"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 18, 
+            "activity": "quicktime player", 
+            "date": "2015-08-14T12:00:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 4, 
+            "activity": "quicktime player", 
+            "date": "2015-08-14T12:00:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 17, 
+            "activity": "quicktime player", 
+            "date": "2015-08-14T12:00:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "quicktime player", 
+            "date": "2015-08-14T12:00:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "quicktime player", 
+            "date": "2015-08-14T12:00:00", 
+            "document": "Export Progress"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 55, 
+            "activity": "quicktime player", 
+            "date": "2015-08-14T12:05:00", 
+            "document": "newWM"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-08-14T12:10:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 213, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-14T12:20:00", 
+            "document": "Prototypo | streamlining font creation: Kickstarter video (french subtitles) on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T12:20:00", 
+            "document": "prototypo - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T12:20:00", 
+            "document": "prototype - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 216, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T12:25:00", 
+            "document": "broad nib calligraphy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T12:25:00", 
+            "document": "broad nib - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 41, 
+            "activity": "users", 
+            "date": "2015-08-14T12:30:00", 
+            "document": "Definitieve aanslag 2014.pdf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 5, 
+            "activity": "translate.google.com", 
+            "date": "2015-08-14T12:30:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T12:30:00", 
+            "document": "mijnoverheid - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-14T12:30:00", 
+            "document": "Inbox (26) - krks.gbr@gmail.com - Gmail"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-08-14T12:35:00", 
+            "document": "dracthen 2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-14T12:55:00", 
+            "document": "dracthen2"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 19, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-14T13:00:00", 
+            "document": "newWM.mov"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 7, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-14T13:00:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T13:00:00", 
+            "document": "gameoflifestills"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T13:05:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-08-14T13:05:00", 
+            "document": "dracthen 3"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 44, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T13:10:00", 
+            "document": "3 x 7 pixel type - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 148, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T13:15:00", 
+            "document": "peignot - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 39, 
+            "activity": "quicktime player", 
+            "date": "2015-08-14T14:00:00", 
+            "document": "type.mov"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 26, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-14T14:00:00", 
+            "document": "Self (programming language) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:00:00", 
+            "document": "krono (Tobias Pape)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:00:00", 
+            "document": "tobias pape - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 19, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:00:00", 
+            "document": "krono/self"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:00:00", 
+            "document": "krono/pycket-bench"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:00:00", 
+            "document": "self programming language - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "thesaurus.com", 
+            "date": "2015-08-14T14:00:00", 
+            "document": "Looking forward Synonyms, Looking forward Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-14T14:05:00", 
+            "document": "ArtnetDispatcher.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 25, 
+            "activity": "444.hu", 
+            "date": "2015-08-14T14:05:00", 
+            "document": "Egyetlen \u00e1bra megmutatja, hogy mi\u00e9rt lett sokkal jobb a vil\u00e1gunk az elm\u00falt 150 \u00e9vben !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:05:00", 
+            "document": "roosje klap speculative - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:05:00", 
+            "document": "roosje klap - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "Bergen norway - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "krono/swathesis"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "potrace - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "love attack skatebard - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "midnight magic - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "love attack - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "Bergen - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "skatebard - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:15:00", 
+            "document": "netshed - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 89, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-14T14:20:00", 
+            "document": "python - Inverted glyph: bitmap > SVG via autotrace > glyph via fontforge - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 73, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:20:00", 
+            "document": "svg to ttf - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:20:00", 
+            "document": "flupke/pypotrace"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:20:00", 
+            "document": "potrace to font - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-14T14:20:00", 
+            "document": "fonts - Tools to convert svg to ttf - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:20:00", 
+            "document": "export outline as font - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:20:00", 
+            "document": "outline to font - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:25:00", 
+            "document": "svg to ufo - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:25:00", 
+            "document": "outline to font python - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:25:00", 
+            "document": "ufowriter font - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:25:00", 
+            "document": "potrace ufo - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 9, 
+            "activity": "sourceforge.net", 
+            "date": "2015-08-14T14:25:00", 
+            "document": "AutoTrace download | SourceForge.net"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:25:00", 
+            "document": "ufowriter - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:25:00", 
+            "document": "ufo - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 39, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:30:00", 
+            "document": "fontello/svg2ttf"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:30:00", 
+            "document": "geojson to font - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 14, 
+            "activity": "history", 
+            "date": "2015-08-14T14:30:00", 
+            "document": "History"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:30:00", 
+            "document": "geojson - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:30:00", 
+            "document": "dxf - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 53, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:35:00", 
+            "document": "behdad/fonttools"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 5, 
+            "activity": "pycharm", 
+            "date": "2015-08-14T14:35:00", 
+            "document": "README.md - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:35:00", 
+            "document": "import glyph svg to font - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:35:00", 
+            "document": "import svg to font - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:35:00", 
+            "document": "font tools python - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 5, 
+            "activity": "pycharm", 
+            "date": "2015-08-14T14:35:00", 
+            "document": "glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-08-14T14:35:00", 
+            "document": "PyCharm 4.0.5"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "history", 
+            "date": "2015-08-14T14:35:00", 
+            "document": "Scripting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "fonttools/install.txt at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "fonttools/Lib/fontTools at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 33, 
+            "activity": "sourceforge.net", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "TTX/FontTools download | SourceForge.net"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 24, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "fonttools/documentation.html at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "setup.py - DrawBot - [~/PycharmProjects/DrawBot]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 13, 
+            "activity": "pycharm", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "openType.py - DrawBot - [~/PycharmProjects/DrawBot]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "fonttools/Doc at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "fonttools/Lib at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "pygments python - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "designable.nib - DrawBot - [~/PycharmProjects/DrawBot]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "fonttools/changes.txt at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "fonttools/ttx.1 at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "robofab - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-08-14T14:40:00", 
+            "document": "DrawBot - [~/PycharmProjects/DrawBot]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 93, 
+            "activity": "Finder", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "Doc"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "fonttools/xmlReader.py at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 23, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "fonttools/bezierTools.py at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "fonttools/Lib/fontTools/misc at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "fonttools/Lib/fontTools/ttLib at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 10, 
+            "activity": "groups.google.com", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "(99+) fonttools - Google Groups"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "fonttools/arrayTools.py at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "Issues \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 6, 
+            "activity": "groups.google.com", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T14:45:00", 
+            "document": "ttlib - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:25:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:25:00", 
+            "document": "Lib"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:25:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:25:00", 
+            "document": "Tools"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:25:00", 
+            "document": "fonttools-master"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:25:00", 
+            "document": "Windows"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 144, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "fonttools/Lib/fontTools/pens at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 29, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "fonttools/S_V_G_.py at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "fonttools - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "fonttols - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "fonttools/Lib/fontTools/ttLib/tables at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "fonttools/buildTableList.py at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "fonttools/MetaTools at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "sshot"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "KPN materiaal"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "interior_sketches"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "screenshots"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "textlayer"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "stock"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T15:30:00", 
+            "document": "fromslack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T15:35:00", 
+            "document": "introduction to ttf - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:35:00", 
+            "document": "GitHub"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T15:35:00", 
+            "document": "unicode character names - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T15:35:00", 
+            "document": "just van rossum - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:40:00", 
+            "document": "glyphcollector/licence.txt at master \u00b7 krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:40:00", 
+            "document": "krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T15:40:00", 
+            "document": "introduction to otf - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 6, 
+            "activity": "adobe.com", 
+            "date": "2015-08-14T15:40:00", 
+            "document": "Introduction to OpenType"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:40:00", 
+            "document": "krksgbr (Gabor K)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:40:00", 
+            "document": "glyphcollector/README.md at master \u00b7 krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-14T15:45:00", 
+            "document": "API Reference \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-14T15:45:00", 
+            "document": "GlyphCollector questions - krks.gbr@gmail.com - Gmail"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 27, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-14T16:00:00", 
+            "document": "TrueType - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T16:00:00", 
+            "document": "ttf - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T16:05:00", 
+            "document": "truetype tables - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:15:00", 
+            "document": "Ableton Live 9 Suite 9.1 Mac OS X (32 bit) (crack XForce) [ChingLiu]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "Applications"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 74, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "share \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 63, 
+            "activity": "github.com", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "fontforge installing without GUI by default for some users \u00b7 Issue #27864 \u00b7 Homebrew/homebrew"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "osx"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "share \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "GaborK \u2014 ruby"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "fontforge"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "GaborK \u2014 file"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "Macintosh HD"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": ".. \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "local \u2014 bash"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "locale"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "Cellar \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "20150612 \u2014 ruby"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "share"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "GaborK \u2014 Python"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:20:00", 
+            "document": "GaborK \u2014 install_name_too"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:25:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-08-14T16:25:00", 
+            "document": "FontForge doesn't open \u00b7 Issue #2049 \u00b7 fontforge/fontforge"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T16:25:00", 
+            "document": "fontforge doesn't open homebrew - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T16:25:00", 
+            "document": "fontforge doesn't open - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 13, 
+            "activity": "Activity Monitor", 
+            "date": "2015-08-14T16:25:00", 
+            "document": "Activity Monitor (All Processes)"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-08-14T16:25:00", 
+            "document": "share \u2014 fontforge"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:25:00", 
+            "document": "AirDrop"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-08-14T16:30:00", 
+            "document": "FontForge"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-14T16:30:00", 
+            "document": "Install FontForge on Mac OS X"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-14T16:40:00", 
+            "document": "glyphcollector/collection_handler.py at master \u00b7 krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:00:00", 
+            "document": "Peter Selinger: Potrace"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T17:00:00", 
+            "document": "vector file - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:00:00", 
+            "document": "fonttools/Tools at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:00:00", 
+            "document": "fonttools/Snippets at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:00:00", 
+            "document": "fonttools/ttx at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T17:10:00", 
+            "document": "weather den haag - Google Search"
+        }, 
+        {
+            "category": "Travel & Outdoors", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 2, 
+            "activity": "weather.com", 
+            "date": "2015-08-14T17:10:00", 
+            "document": "www.weather.com/weather/tenday/l/The+Hague+Netherlands+NLXX0016:1:NL"
+        }, 
+        {
+            "category": "Travel & Outdoors", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 1, 
+            "activity": "weather.com", 
+            "date": "2015-08-14T17:10:00", 
+            "document": "10 Day Weather Forecast - weather.com"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 24, 
+            "activity": "wunderground.com", 
+            "date": "2015-08-14T17:15:00", 
+            "document": "The Hague, Netherlands Forecast | Weather Underground"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 21, 
+            "activity": "bbc.com", 
+            "date": "2015-08-14T17:15:00", 
+            "document": "BBC Weather - The Hague"
+        }, 
+        {
+            "category": "Travel & Outdoors", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 20, 
+            "activity": "weather.com", 
+            "date": "2015-08-14T17:15:00", 
+            "document": "The Hague, Netherlands 10 Day Weather Forecast - weather.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T17:15:00", 
+            "document": "den haag weather - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "wunderground.com", 
+            "date": "2015-08-14T17:15:00", 
+            "document": "www.wunderground.com/nl/the-hague"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:20:00", 
+            "document": "Contributors to behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:20:00", 
+            "document": "behdad (Behdad Esfahbod)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T17:20:00", 
+            "document": "antipastini - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T17:20:00", 
+            "document": "vip pizza den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T17:20:00", 
+            "document": "https://www.google.nl/search?q=antipastini&safe=off&espv=2&biw=1436&bih=721&tbm=isch&tbo=u&source=univ&sa=X&ved=0CCAQsARqFQoTCK6ezZbwqMcCFcvxFAodsGYHWg"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 65, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:25:00", 
+            "document": "behdad/glyphy"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 35, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-14T17:25:00", 
+            "document": "GLyphy: high-quality glyph rendering using OpenGL ES2 shaders - Behdad Esfahbod on Vimeo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:25:00", 
+            "document": "glyphy/src at master \u00b7 behdad/glyphy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 47, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T17:35:00", 
+            "document": "signed-distance-field - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 38, 
+            "activity": "index.hu", 
+            "date": "2015-08-14T17:40:00", 
+            "document": "Index - Belf\u00f6ld - 16 \u00e9ves afg\u00e1n menek\u00fclt fi\u00fa a B\u00e9rkocsis utca h\u0151se"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 28, 
+            "activity": "index.hu", 
+            "date": "2015-08-14T17:40:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 12, 
+            "activity": "facebook.com", 
+            "date": "2015-08-14T17:40:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-08-14T17:40:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 39, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:55:00", 
+            "document": "Moved ByteBuffer code to external package \u00b7 fontello/svg2ttf@eddaf5e"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:55:00", 
+            "document": "svg2ttf/svg.js at master \u00b7 fontello/svg2ttf"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:55:00", 
+            "document": "svg2ttf/lib at master \u00b7 fontello/svg2ttf"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:55:00", 
+            "document": "Improved speed (optimized objects properties) \u00b7 fontello/svg2ttf@7c4374b"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:55:00", 
+            "document": "svg2ttf/svg2ttf.js at master \u00b7 fontello/svg2ttf"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-14T17:55:00", 
+            "document": "Make builds consistent accross timezones/locales \u00b7 fontello/svg2ttf@7d6a4df"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-08-14T18:00:00", 
+            "document": "donbright/font_to_svg"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 64, 
+            "activity": "github.com", 
+            "date": "2015-08-14T18:00:00", 
+            "document": "svg2ttf/ttf.js at master \u00b7 fontello/svg2ttf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 39, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T18:00:00", 
+            "document": "svg to glyph - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T18:00:00", 
+            "document": "svg to glyph ttf - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 69, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T18:05:00", 
+            "document": "generate truetype python - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T18:05:00", 
+            "document": "generate truetype - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-14T18:10:00", 
+            "document": "kavinsky - Google Search"
+        }
+    ]
+}

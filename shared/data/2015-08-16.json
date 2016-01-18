@@ -1,0 +1,3144 @@
+{
+    "2015-08-16": [
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-16T11:45:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 37, 
+            "activity": "facebook.com", 
+            "date": "2015-08-16T11:45:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T11:50:00", 
+            "document": "nokia c5 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T11:50:00", 
+            "document": "elliptil 8 mobile - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T11:50:00", 
+            "document": "elliptil 8 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T11:50:00", 
+            "document": "elliptical 8 mobile - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 83, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T11:55:00", 
+            "document": "nokia c3 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T11:55:00", 
+            "document": "nokia 5110 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:00:00", 
+            "document": "nokia e5 white - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:00:00", 
+            "document": "nokia e5 vs c3 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:00:00", 
+            "document": "nokia e5 features and specifications - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:00:00", 
+            "document": "nokia e5 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:05:00", 
+            "document": "motorola thin - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 109, 
+            "activity": "youtube.com", 
+            "date": "2015-08-16T12:10:00", 
+            "document": "Nokia C3 Review - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 35, 
+            "activity": "youtube.com", 
+            "date": "2015-08-16T12:10:00", 
+            "document": "Nokia E7 Hands-on - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:10:00", 
+            "document": "motorola l7 black - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-08-16T12:10:00", 
+            "document": "Nokia C3 Touch and Type Review - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:10:00", 
+            "document": "nokia c3\\ - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:10:00", 
+            "document": "motorola f3 - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-08-16T12:10:00", 
+            "document": "Nokia X3 Touch and Type Review - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:10:00", 
+            "document": "motorola l7 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:15:00", 
+            "document": "Nokia m2 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:15:00", 
+            "document": "https://www.google.nl/search?q=Nokia+m2&oq=Nokia+m2&aqs=chrome..69i57j0l5.259j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:20:00", 
+            "document": "Elliptil 8 phone - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:20:00", 
+            "document": "Elliptil 8 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:20:00", 
+            "document": "Elliptical 8 phone - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:20:00", 
+            "document": "nokia 5100 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:35:00", 
+            "document": "nokia 100 - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "gsmarena.com", 
+            "date": "2015-08-16T12:35:00", 
+            "document": "Nokia 100 - Full phone specifications"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 24, 
+            "activity": "444.hu", 
+            "date": "2015-08-16T12:45:00", 
+            "document": "A g\u00f6r\u00f6g parti\u0151rs\u00e9g s\u00fcllyeszthetett el egy menek\u00fclteket sz\u00e1ll\u00edt\u00f3 cs\u00f3nakot !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:55:00", 
+            "document": "packaging pyqt py2app - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 46, 
+            "activity": "github.com", 
+            "date": "2015-08-16T12:55:00", 
+            "document": "PyQt: py2app packaged app cannot be redistributed. \u00b7 Issue #38814 \u00b7 Homebrew/homebrew"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 37, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T12:55:00", 
+            "document": "python - Bundling a PyQt5 application using py2app: keep getting \"Abort trap: 6\" error - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:55:00", 
+            "document": "packaging pyqt - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T12:55:00", 
+            "document": "packaging qt - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "packaging pyside applications py2app - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "python - How to deploy a Pyside application? (runtime requirements?) - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "PySide/pyside-setup2"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "pyside-examples2/examples at qt5 \u00b7 PySide/pyside-examples2"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "python sip - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "pyside-examples2/hellowebkit.py at qt5 \u00b7 PySide/pyside-examples2"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "packaging pyside applications - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "sip - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "PySide/pyside-examples2"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "PySide/pyside.github.io"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:05:00", 
+            "document": "pyside-examples2/examples/webkit at qt5 \u00b7 PySide/pyside-examples2"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 118, 
+            "activity": "groups.google.com", 
+            "date": "2015-08-16T13:10:00", 
+            "document": "Packaging PySide applications on OSX - Google Groups"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:10:00", 
+            "document": "Home \u00b7 pyinstaller/pyinstaller Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 40, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:10:00", 
+            "document": "Supported Packages \u00b7 pyinstaller/pyinstaller Wiki"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:10:00", 
+            "document": "pyinstaller vs py2app - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T13:10:00", 
+            "document": "qt - PySide packaging error (macholib) python setup.py py2app - Stack Overflow"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 5, 
+            "activity": "groups.google.com", 
+            "date": "2015-08-16T13:10:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:10:00", 
+            "document": "pyinstaller - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 33, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T13:15:00", 
+            "document": "Packaging OpenCV with a python app - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:15:00", 
+            "document": "Issue #512: Add import hook for OpenCV by nwt \u00b7 Pull Request #36 \u00b7 pyinstaller/pyinstaller"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:15:00", 
+            "document": "pyinstaller opencv - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:15:00", 
+            "document": "sketch - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:15:00", 
+            "document": "pyinstaller openc - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 118, 
+            "activity": "youtube.com", 
+            "date": "2015-08-16T13:20:00", 
+            "document": "Riding the Lexus hoverboard in Spain - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 48, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:20:00", 
+            "document": "pyinstaller/pyinstaller"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:20:00", 
+            "document": "Include OpenCV \u00b7 Issue #512 \u00b7 pyinstaller/pyinstaller"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:20:00", 
+            "document": "PyInstaller"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-16T13:20:00", 
+            "document": "git \u2014 01."
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-16T13:20:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-08-16T13:25:00", 
+            "document": "What's behind Google's Alphabet shakeup? - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:30:00", 
+            "document": "potrace - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:30:00", 
+            "document": "brew install potrace - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-16T13:30:00", 
+            "document": "wsgi-node-webkit-2014-03"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-16T13:30:00", 
+            "document": "Frameworks \u2014 curl"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-16T13:30:00", 
+            "document": "Frameworks \u2014 ruby"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-16T13:30:00", 
+            "document": "Frameworks \u2014 git"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 25, 
+            "activity": "Finder", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "output"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 30, 
+            "activity": "Terminal", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "output \u2014 bash"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 22, 
+            "activity": "graphicdesign.stackexchange.com", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "vector - How to correctly using potrace (CLI) to trace bitmap - Graphic Design Stack Exchange"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 19, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "a_avg0.svg"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "potrace vs autotrace - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 16, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "a_avg0.jpg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 6, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "Screen Shot 2015-08-12 at 11.29.08.png"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 4, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "a_avg0.svg*"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 2, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "a_avg0.bmp"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 1, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-16T13:35:00", 
+            "document": "stock2.jpg"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 22, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:40:00", 
+            "document": "flupke/pypotrace"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-16T13:40:00", 
+            "document": "pypotrace-master"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 40, 
+            "activity": "github.com", 
+            "date": "2015-08-16T13:40:00", 
+            "document": "zacbarton/node-autotrace"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 11, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:40:00", 
+            "document": "README.rst - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:40:00", 
+            "document": "pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 7, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:40:00", 
+            "document": "LICENSE - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:40:00", 
+            "document": "node js autotrace - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:40:00", 
+            "document": "GPL - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:40:00", 
+            "document": "MANIFEST.in - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 58, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:45:00", 
+            "document": "_potrace.pyx - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 75, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:45:00", 
+            "document": "test_basic.py - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 66, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:45:00", 
+            "document": "tutorial.rst - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 45, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:45:00", 
+            "document": "_potrace.c - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 21, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:45:00", 
+            "document": "bezier.pyx - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 12, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:45:00", 
+            "document": "curves.pyx - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 11, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:45:00", 
+            "document": "curves.pxd - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:45:00", 
+            "document": "bezier.pxd - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 13, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:50:00", 
+            "document": "_potrace.pxd - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T13:50:00", 
+            "document": "potrace/__init__.py - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 89, 
+            "activity": "quora.com", 
+            "date": "2015-08-16T13:55:00", 
+            "document": "(5) How do I transform a .ai vector file to a .ttf font file? How do I create a font from a vector file? - Quora"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T13:55:00", 
+            "document": "python - Import a sequence of .svg files into FontForge as glyphs and output a font file - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:55:00", 
+            "document": "import glyph from svg to ttf - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:55:00", 
+            "document": "TypeTool - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:55:00", 
+            "document": "eps to ttf - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T13:55:00", 
+            "document": "robofab - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "quora.com", 
+            "date": "2015-08-16T13:55:00", 
+            "document": "www.quora.com/How-do-I-transform-a-ai-vector-file-to-a-ttf-font-file-How-do-I-create-a-font-from-a-vector-file"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 291, 
+            "activity": "youtube.com", 
+            "date": "2015-08-16T14:00:00", 
+            "document": "Cats Being Jerks Video Compilation || FailArmy - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 78, 
+            "activity": "youtube.com", 
+            "date": "2015-08-16T14:05:00", 
+            "document": "Funniest Animal Fails Compilation || FailArmy - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 27, 
+            "activity": "Terminal", 
+            "date": "2015-08-16T14:40:00", 
+            "document": "git \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T14:40:00", 
+            "document": "t.n.v. - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T14:45:00", 
+            "document": "pypotrace - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T14:45:00", 
+            "document": "nokia 3310 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T14:45:00", 
+            "document": "fairphone - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "behdad/fonttools"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 49, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "robofont github - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 44, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "fonttools/documentation.html at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "ufo python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 18, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "fonttools/subset.py at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "typemytype/drawBotRoboFontExtension"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 9, 
+            "activity": "sourceforge.net", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "TTX/FontTools download | SourceForge.net"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "fonttools/Lib/fontTools at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "fonttools/Tools at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "fonttools/Lib at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "drawBotRoboFontExtension/DrawBot.roboFontExt/lib at master \u00b7 typemytype/drawBotRoboFontExtension"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "drawBotRoboFontExtension/DrawBot.roboFontExt at master \u00b7 typemytype/drawBotRoboFontExtension"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "fonttools/Doc at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "drawBotRoboFontExtension/DrawBot.roboFontExt/html at master \u00b7 typemytype/drawBotRoboFontExtension"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "fonttools/xmlWriter.py at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "sourceforge.net", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "fonttools.sourceforge.net"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-16T14:50:00", 
+            "document": "fonttools/ttx at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 23, 
+            "activity": "Finder", 
+            "date": "2015-08-16T14:55:00", 
+            "document": "glyphs"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 36, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T14:55:00", 
+            "document": "e.glif \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-16T14:55:00", 
+            "document": "112"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-16T14:55:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-16T14:55:00", 
+            "document": "Drachten-2.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T14:55:00", 
+            "document": "start.html \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-16T14:55:00", 
+            "document": "Fauna"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-16T14:55:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T15:00:00", 
+            "document": "robofog - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 156, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "TODO - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "Your stars"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 16, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "planned_features.txt - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "Search Results"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "thrust/NOTES at master \u00b7 breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "breach/thrust"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "atom/electron"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "nwjs/nw.js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "r0x0r/pywebview"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T15:05:00", 
+            "document": "pyqt webkit - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T15:10:00", 
+            "document": "todo pycharm - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 82, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T15:15:00", 
+            "document": "collection_handler.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 19, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T15:15:00", 
+            "document": "glyphcollector/__init__.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:15:00", 
+            "document": "tesseract-ocr"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:15:00", 
+            "document": "tesseract-ocr/tesseract-ocr.github.io"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 9, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T15:15:00", 
+            "document": "/Users/GaborK/PycharmProjects/glyphcollector/glyphcollector/__init__.py"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "code.google.com", 
+            "date": "2015-08-16T15:15:00", 
+            "document": "tesseract-ocr - An OCR Engine that was developed at HP Labs between 1985 and 1995... and now at Google. - Google Project Hosting"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T15:15:00", 
+            "document": "etc/__init__.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T15:15:00", 
+            "document": "tesseract - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:15:00", 
+            "document": "tesseract-ocr/langdata"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 30, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 94, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "ufo-example-implementations/ufonormalizer at master \u00b7 unified-font-object/ufo-example-implementations"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 41, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "typemytype/GlyphConstruction"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 35, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "typemytype (Frederik Berlaen)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 20, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "typesupply (Tal Leming)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 18, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "unified-font-object/ufo4Research"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "Unified Font Object"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "unified-font-object/ufo-spec"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "GlyphConstruction/CE.glyphConstruction.txt at master \u00b7 typemytype/GlyphConstruction"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "typesupply/ufo2fdk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "unified-font-object/ufo-example-implementations"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "ufo-example-implementations/normalization at master \u00b7 unified-font-object/ufo-example-implementations"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "The RoboFab Developers"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "GlyphConstruction/examples at master \u00b7 typemytype/GlyphConstruction"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T15:20:00", 
+            "document": "typemytpe - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:25:00", 
+            "document": "ufo-spec/builder.py at master \u00b7 unified-font-object/ufo-spec"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:25:00", 
+            "document": "ufo-spec/source at master \u00b7 unified-font-object/ufo-spec"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:25:00", 
+            "document": "ufo-spec/atguidelines.textile at master \u00b7 unified-font-object/ufo-spec"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:25:00", 
+            "document": "ufo-spec/fontinfo.html at master \u00b7 unified-font-object/ufo-spec"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:25:00", 
+            "document": "ufo-spec/source/versions/ufo3 at master \u00b7 unified-font-object/ufo-spec"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:25:00", 
+            "document": "ufo-spec/source/versions at master \u00b7 unified-font-object/ufo-spec"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "aacute.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 23, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "a.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 10, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "start.html \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 7, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "a.sc.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "untitled \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "07-15.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "ReadingList_archive.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "notes.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "Amijs.json \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "pom.xml \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "index.html \u2014 var/\u2026/rsub-7e9ol6 \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "rain \u2014 rsub-2gfq7z \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "queries.sql \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "nginx.conf \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "untitled"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "questions.json \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "0d7e2266-4652-4a8c-a480-895cdf2829f4.json \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "aacute.sc.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "shopping list.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "README.md \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "rain \u2014 rsub-phtr3b \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "mopidy.log \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "keybinding.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "smb.conf \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "rain \u2014 rsub-yvobpa \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "Aacute_.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "index.html \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "untitled \u2014 Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "hosts \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "untitled \u2014 DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "mopidy.conf \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:35:00", 
+            "document": "rain \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "ae.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "cheatsheet \u2014 awardwinning_grad_kabk_2014"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "adieresis.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "acutecombcomb.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "Abreve_.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "acute.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "adieresis.sc.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "acute.loclPLK_.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "acute.sc.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "abreve.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:40:00", 
+            "document": "acute.case.loclPLK_.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 16, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T15:45:00", 
+            "document": "test_bezier.py - pypotrace-master - [~/Downloads/pypotrace-master]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 51, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T15:50:00", 
+            "document": "svg to glif - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 41, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-16T15:50:00", 
+            "document": "I hope this is not a dumb question, but as I have no experience/knowledge in cre... | Hacker News"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:50:00", 
+            "document": "i-tu/Hasklig"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 19, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:50:00", 
+            "document": "geraldalewis/glif"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 60, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T15:55:00", 
+            "document": "a_avg0.svg \u2014 awardwinning_grad_kabk_2014"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 19, 
+            "activity": "github.com", 
+            "date": "2015-08-16T15:55:00", 
+            "document": "graphicore/ufoJS"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T15:55:00", 
+            "document": "ufojs - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 47, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "ufoJS/glyphFactories.js at master \u00b7 graphicore/ufoJS"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "glif svg - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "ufoJS/main.js at master \u00b7 graphicore/ufoJS"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 14, 
+            "activity": "w3.org", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "Paths \u2013 SVG 1.1 (Second Edition)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "svg - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 9, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "Scalable Vector Graphics - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "ufoJS/lib/UFO at master \u00b7 graphicore/ufoJS"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "ufoJS/lib at master \u00b7 graphicore/ufoJS"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "ufo svg - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "svg path - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "ufoJS/glyph.js at master \u00b7 graphicore/ufoJS"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "svg path d - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:00:00", 
+            "document": "ufoJS/lib/xml at master \u00b7 graphicore/ufoJS"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 48, 
+            "activity": "users", 
+            "date": "2015-08-16T16:05:00", 
+            "document": "Python: module robofab.tools.toolsSVG"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-16T16:05:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:05:00", 
+            "document": "Search \u00b7 robofab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:05:00", 
+            "document": "robofab svg - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:05:00", 
+            "document": "quitequinn/Robofab-tools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:05:00", 
+            "document": "quitequinn (Quinn Keaveney)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "users", 
+            "date": "2015-08-16T16:05:00", 
+            "document": "Index of /Users/GaborK/Downloads/"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 63, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "robofab/ufoLib.py at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "robofab/glifExport.py at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "robofab/Lib/robofab at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "robofab/Lib/robofab/tools at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "ufolib robofab - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "UFOWriter robofab - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "robofab/Tools at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "roboDocs/roboFabDocs"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "UFOWriter - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "roboFabDocs/Examples at master \u00b7 roboDocs/roboFabDocs"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "roboFabDocs/Examples/howtos at master \u00b7 roboDocs/roboFabDocs"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "roboFabDocs/Examples/talks at master \u00b7 roboDocs/roboFabDocs"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T16:10:00", 
+            "document": "https://www.google.nl/search?q=UFOWriter&oq=UFOWriter&aqs=chrome..69i57j0j69i59j0l3.406j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-16T16:15:00", 
+            "document": "potrace \u2013 API reference \u2014 potrace v0.1 documentation"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T17:40:00", 
+            "document": "a_avg0.svg \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T17:45:00", 
+            "document": "fontforge autotrace - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 12, 
+            "activity": "facebook.com", 
+            "date": "2015-08-16T18:00:00", 
+            "document": "KABK GOVT 4"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 3, 
+            "activity": "stickies", 
+            "date": "2015-08-16T18:00:00", 
+            "document": "P\t\tCRYPTODESIGN\n___________\u2026"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 52, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-16T18:05:00", 
+            "document": "Trunk (software) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:05:00", 
+            "document": "development branch stable branch - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:10:00", 
+            "document": "GitHub"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:15:00", 
+            "document": "git change origin - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:15:00", 
+            "document": "switch branch git - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T18:15:00", 
+            "document": "Change the current branch to master in git - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 79, 
+            "activity": "Terminal", 
+            "date": "2015-08-16T18:20:00", 
+            "document": "glyphcollector \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 19, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T18:20:00", 
+            "document": "glyphcollector/test - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 5, 
+            "activity": "pycharm", 
+            "date": "2015-08-16T18:20:00", 
+            "document": "test - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:20:00", 
+            "document": "git checkout - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 53, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:35:00", 
+            "document": "Create a new branch with git and manage branches \u00b7 Kunena/Kunena-Forum Wiki"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:35:00", 
+            "document": "github branch - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-08-16T18:35:00", 
+            "document": "PycharmProjects \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 91, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T18:40:00", 
+            "document": "How do you create a remote Git branch? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:40:00", 
+            "document": "krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 34, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:40:00", 
+            "document": "krksgbr/glyphcollector at develop"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:40:00", 
+            "document": "Network Graph \u00b7 krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:40:00", 
+            "document": "Add a new remote for your branch - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:40:00", 
+            "document": "krksgbr (Gabor K)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "robofab-master"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 135, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "Clone a specific Git branch - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 29, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "robofab/install.py at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "Traffic \u00b7 krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "robofab/setup.py at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "robofab github - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "Contributors to krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "robofab/Scripts at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "robofab/Scripts/RoboFabIntro at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "robofab/Data at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "robofab/Scripts/RoboFabUtils at master \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "Code frequency \u00b7 krksgbr/glyphcollector"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "clone a branch - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T18:45:00", 
+            "document": "stackoverflow.com/questions/1911109/clone-a-specific-git-branch"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 64, 
+            "activity": "Terminal", 
+            "date": "2015-08-16T18:50:00", 
+            "document": "site-packages \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 23, 
+            "activity": "Finder", 
+            "date": "2015-08-16T18:50:00", 
+            "document": "site-packages"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-16T18:50:00", 
+            "document": "fonttools-master 2"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-08-16T18:50:00", 
+            "document": "fonttools/setup.py at master \u00b7 behdad/fonttools"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-16T18:50:00", 
+            "document": "robofab.pth \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:50:00", 
+            "document": "fonttools github - Google Search"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 27, 
+            "activity": "groups.google.com", 
+            "date": "2015-08-16T18:55:00", 
+            "document": "Why sqlalchemy (version 0.9.7) can't be imported in python(version 2.7.2) command line - Google Groups"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-08-16T18:55:00", 
+            "document": "running bdist_egg error: error in 'egg_base' option: 'Lib' does not exist or is not a directory - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-16T18:55:00", 
+            "document": "python - Error in 'egg_base' option when trying to install feedparser - Stack Overflow"
+        }
+    ]
+}

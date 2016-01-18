@@ -1,0 +1,634 @@
+{
+    "2015-10-17": [
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 10, 
+            "activity": "facebook.com", 
+            "date": "2015-10-17T13:05:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 6, 
+            "activity": "slack", 
+            "date": "2015-10-17T13:05:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-17T13:05:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 9, 
+            "activity": "VLC Media Player", 
+            "date": "2015-10-17T13:35:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-10-17T13:35:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T13:50:00", 
+            "document": "infection difficulty waking up - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 19, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-17T13:50:00", 
+            "document": "Gastroesophageal reflux disease - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T13:50:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T13:50:00", 
+            "document": "gastroesophageal reflux - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T13:50:00", 
+            "document": "https://www.google.nl/search?q=gastroesophageal+reflux&oq=gastroesophageal+reflux&aqs=chrome..69i57j0l5.317j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T13:55:00", 
+            "document": "dictionary lookup el capitan - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 101, 
+            "activity": "System Preferences", 
+            "date": "2015-10-17T14:00:00", 
+            "document": "Trackpad"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 51, 
+            "activity": "444.hu", 
+            "date": "2015-10-17T14:00:00", 
+            "document": "Nacsa Oliv\u00e9r kamingautolt migr\u00e1ns\u00fcgyben - 444"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "System Preferences", 
+            "date": "2015-10-17T14:00:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 205, 
+            "activity": "444.hu", 
+            "date": "2015-10-17T14:05:00", 
+            "document": "Lawrence Lessig bemutatja: \u00edgy ne legy\u00e9l az Amerikai Egyes\u00fclt \u00c1llamok eln\u00f6ke - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 44, 
+            "activity": "444.hu", 
+            "date": "2015-10-17T14:05:00", 
+            "document": "Letart\u00f3ztatt\u00e1k a Fox News terrorszak\u00e9rt\u0151j\u00e9t, mert azt hazudta, hogy 27 \u00e9vig a CIA-nak dolgozott - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 60, 
+            "activity": "444.hu", 
+            "date": "2015-10-17T14:10:00", 
+            "document": "Hazafel\u00e9 tartott, \u00e9s a h\u00e1za el\u0151tt \u00e9szrevette a saj\u00e1t cuccait egy idegen f\u00e9rfi t\u00e1sk\u00e1j\u00e1ban - 444"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:10:00", 
+            "document": "stream of java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:15:00", 
+            "document": "70 degrees fahrenheit to celsius - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:15:00", 
+            "document": "Epworth - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 28, 
+            "activity": "facebook.com", 
+            "date": "2015-10-17T14:25:00", 
+            "document": "Yes!:D"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-10-17T14:25:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 12, 
+            "activity": "quora.com", 
+            "date": "2015-10-17T14:35:00", 
+            "document": "(5) Why does the electrical socket emit sparks when I plug something in? - Quora"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 39, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:35:00", 
+            "document": "electricity went out after pluggin apliance in - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:35:00", 
+            "document": "electricity went out after plugging appliance in - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 63, 
+            "activity": "youtube.com", 
+            "date": "2015-10-17T14:45:00", 
+            "document": "How To Change A Fuse In A Traditional Fuse Box - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-17T14:45:00", 
+            "document": "How to replace fuses and reset breakers - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:45:00", 
+            "document": "how to replace a fuse - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:45:00", 
+            "document": "https://www.google.nl/search?q=how+to+replace+a+fuse&oq=how+to+replace+a+fuse&aqs=chrome..69i57j69i60j69i65j69i60l2j69i59.2031j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-17T14:45:00", 
+            "document": "https://www.youtube.com/watch?v=bHQMCovwwAo"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 89, 
+            "activity": "theguardian.com", 
+            "date": "2015-10-17T14:50:00", 
+            "document": "Replace a fuse | Life and style | The Guardian"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:50:00", 
+            "document": "replace fuse - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:50:00", 
+            "document": "electrical fuses types - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:50:00", 
+            "document": "weber fuse - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:50:00", 
+            "document": "fuse - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:55:00", 
+            "document": "marqt den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T14:55:00", 
+            "document": "marqt club mate - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 62, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T15:05:00", 
+            "document": "nasal dilator - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 46, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-17T15:05:00", 
+            "document": "Nasal strip - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 12, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-17T15:05:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-17T15:05:00", 
+            "document": "Andy Studebaker - Nasal strip - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 3, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-17T15:05:00", 
+            "document": "2012-11-30 - Nasenstrip gsk - 0766 - Nasal strip - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T15:10:00", 
+            "document": "slaap mask - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T15:10:00", 
+            "document": "nasal dilator sle - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T15:15:00", 
+            "document": "suffed nose in the morning - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "time.com", 
+            "date": "2015-10-17T15:20:00", 
+            "document": "What Time Should I Go to Bed"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T15:25:00", 
+            "document": "monring brain fog - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-10-17T15:30:00", 
+            "document": "health"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-10-17T15:30:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-10-17T15:30:00", 
+            "document": "random"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-17T15:30:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-17T15:30:00", 
+            "document": "Digital Editions"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-17T15:30:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-17T15:30:00", 
+            "document": "pi_backup"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-17T15:30:00", 
+            "document": "backup"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-17T15:35:00", 
+            "document": "Shell"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 16, 
+            "activity": "stevepavlina.com", 
+            "date": "2015-10-17T15:45:00", 
+            "document": "Steve Pavlina's Personal Development Blog"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 185, 
+            "activity": "lifehacker.com", 
+            "date": "2015-10-17T15:50:00", 
+            "document": "How to Manipulate Your Body to Wake the Hell Up"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 22, 
+            "activity": "calendar", 
+            "date": "2015-10-17T15:50:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-10-17T15:50:00", 
+            "document": "brain fog \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-10-17T15:50:00", 
+            "document": "untitled \u2014 .pomo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-17T15:55:00", 
+            "document": "Zoeken - | Drogistplein"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 16, 
+            "activity": "amazon.com", 
+            "date": "2015-10-17T16:00:00", 
+            "document": "3M Particulate Respirator 8233, N100: Papr Safety Respirators: Amazon.com: Industrial & Scientific"
+        }
+    ]
+}

@@ -1,0 +1,1134 @@
+{
+    "2015-09-19": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 66, 
+            "activity": "Gmail", 
+            "date": "2015-09-19T13:55:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-09-19T13:55:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T13:55:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T13:55:00", 
+            "document": "albert heijn - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T13:55:00", 
+            "document": "gall - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 58, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-19T14:00:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T14:00:00", 
+            "document": "LUSTlab / WTHX2015App / source / \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 81, 
+            "activity": "444.hu", 
+            "date": "2015-09-19T14:30:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 76, 
+            "activity": "444.hu", 
+            "date": "2015-09-19T14:30:00", 
+            "document": "10 dolog, ami sokkal jobban izgatja a magyarokat, mint a menek\u00fcltv\u00e1ls\u00e1g !!444!!!"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 23, 
+            "activity": "Terminal", 
+            "date": "2015-09-19T14:30:00", 
+            "document": "wthx2015display \u2014 zsh"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 134, 
+            "activity": "444.hu", 
+            "date": "2015-09-19T14:35:00", 
+            "document": "F\u00e9lre\u00e9rt\u00e9s vagy el\u0151re megfontolt brut\u00e1lis t\u00e1mad\u00e1s? !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 49, 
+            "activity": "444.hu", 
+            "date": "2015-09-19T14:35:00", 
+            "document": "Aki Calais-ig eljut, annak m\u00e1r minden mindegy !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 38, 
+            "activity": "444.hu", 
+            "date": "2015-09-19T14:35:00", 
+            "document": "Kov\u00e1cs: Szerd\u00e1n t\u00e1mad\u00e1s \u00e9rte Magyarorsz\u00e1got \u00e9s a magyar rend\u0151r\u00f6ket !!444!!!"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T14:35:00", 
+            "document": "java - Gson: Is there an easier way to serialize a map - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T14:35:00", 
+            "document": "mvc - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 24, 
+            "activity": "444.hu", 
+            "date": "2015-09-19T15:00:00", 
+            "document": "A horv\u00e1t minisztereln\u00f6k szerint nem volt meg\u00e1llapod\u00e1s a magyarokkal, csak kik\u00e9nyszer\u00edtett\u00e9k, hogy \u00e1tvegy\u00e9k a menek\u00fclteket !!444!!!"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-09-19T15:05:00", 
+            "document": "Vladislav Delay - Viaton - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-09-19T15:05:00", 
+            "document": "Luomo - The Present Lover - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T15:05:00", 
+            "document": "raspberry pi broadcast hostname - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T15:05:00", 
+            "document": "java - What is the best way of using Arrays.asList() to initialize a List - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-19T15:05:00", 
+            "document": "Luomo - Tessio - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-19T15:05:00", 
+            "document": "Vladislav Delay - Huone [Uncut] - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T15:05:00", 
+            "document": "git - How to remove files that are listed in the .gitignore but still on the repository? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-19T15:05:00", 
+            "document": "Advanced Java: Multi-threading Part 7 - Producer-Consumer - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 52, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T15:10:00", 
+            "document": "WTHX2015App.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 125, 
+            "activity": "slack", 
+            "date": "2015-09-19T15:10:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 65, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T15:10:00", 
+            "document": "ViewManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-09-19T15:10:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 95, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "Config.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 45, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "LUSTlab / WTHX-Interactive \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 34, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "LUSTlab / WTHX2015App \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 26, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "html - How to send HTTP request in java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "send get request to api java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "krks_gbr \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "LUSTlab \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "LUSTlab / lightcontroller \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-19T15:15:00", 
+            "document": "https://bitbucket.org/LUSTlab/wthx-interactive"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 71, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T15:20:00", 
+            "document": "Controller.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 40, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T15:20:00", 
+            "document": "Using java.net.URLConnection to fire and handle HTTP requests - Stack Overflow"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 85, 
+            "activity": "facebook.com", 
+            "date": "2015-09-19T15:20:00", 
+            "document": "(8) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T15:20:00", 
+            "document": "what to call a class that handles http - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-09-19T15:20:00", 
+            "document": "(11) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-09-19T15:20:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 77, 
+            "activity": "facebook.com", 
+            "date": "2015-09-19T15:25:00", 
+            "document": "(8) C\u00e9line Hurka - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-09-19T15:25:00", 
+            "document": "C\u00e9line Hurka - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 5, 
+            "activity": "facebook.com", 
+            "date": "2015-09-19T15:25:00", 
+            "document": "Martijn de Heer - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-09-19T15:25:00", 
+            "document": "Vera Van de Seyp - Messages"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T15:30:00", 
+            "document": "ImgStack.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T15:35:00", 
+            "document": "iphone 5c - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-19T15:35:00", 
+            "document": "jolla - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-19T15:35:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T15:35:00", 
+            "document": "fairphone - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 49, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T15:45:00", 
+            "document": "java - Get the response of a HTTP GET request - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T15:45:00", 
+            "document": "http get request json java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 46, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T15:45:00", 
+            "document": "Java HttpRequest JSON & Response Handling - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T15:45:00", 
+            "document": "http request json java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T15:45:00", 
+            "document": "http request json javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 54, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T15:50:00", 
+            "document": "java - get JSON object from a HTTP response - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 30, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T15:55:00", 
+            "document": "java - get json from HttpResponse - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T15:55:00", 
+            "document": "java - Parsing JSON from HTTPResponse - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T15:55:00", 
+            "document": "JSONObject from http response - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T16:00:00", 
+            "document": "android - How do I parse JSON from a Java HTTPResponse? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:00:00", 
+            "document": "google/google-http-java-client"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 24, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T16:05:00", 
+            "document": "Test.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 17, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T16:05:00", 
+            "document": "java - JSON over HTTP API and write The request for HTTP GET request/ response - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T16:05:00", 
+            "document": "wthx2015display - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T16:05:00", 
+            "document": "DefaultHttpClient.class - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T16:05:00", 
+            "document": "org.apache.httpcomponents - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T16:05:00", 
+            "document": "https://www.google.nl/search?q=org.apache.httpcomponents&oq=org.apache.httpcomponents&aqs=chrome..69i57j0l5.598j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T16:10:00", 
+            "document": "http get request java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T16:10:00", 
+            "document": "http get request java apache - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T16:10:00", 
+            "document": "How to execute a https GET request from java - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "developers.google.com", 
+            "date": "2015-09-19T16:10:00", 
+            "document": "JSON \u00a0|\u00a0 HTTP Client Library for Java \u00a0|\u00a0 Google Developers"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "developers.google.com", 
+            "date": "2015-09-19T16:10:00", 
+            "document": "https://developers.google.com/api-client-library/java/google-http-java-client/json"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T16:10:00", 
+            "document": "stackoverflow.com/questions/32012198/json-over-http-api-and-write-the-request-for-http-get-request-response"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 61, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "difference between socket programming and Http programming - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 39, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "java - HTTP and Sockets: - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 20, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket.io-client-java/ExecutionTest.java at master \u00b7 socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket io java get request - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket vs http - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket.io-client-java/src/test/java/io/socket/client at master \u00b7 socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket.io-client-java/UrlTest.java at master \u00b7 socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "Socket vs HTTP based communication for a mobile client/server application - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket vs http java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket.io-client-java/src/test at master \u00b7 socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket.io-client-java/src at master \u00b7 socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket.io-client-java/src/main/java/io/socket at master \u00b7 socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "socket.io-client-java/src/test/java/io/socket at master \u00b7 socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-19T16:15:00", 
+            "document": "No possible to connect or get some error, just 1000+ requests \u00b7 Issue #36 \u00b7 socketio/socket.io-client-java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T16:20:00", 
+            "document": "HttpEntity.class - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T16:20:00", 
+            "document": "using apache httpclient java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-19T16:20:00", 
+            "document": "sorting - How can I sort an ArrayList of Strings in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T16:25:00", 
+            "document": "jsonobject from http response - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 24, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T16:30:00", 
+            "document": "StringBuffer.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T16:30:00", 
+            "document": "StringBuilder.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T16:30:00", 
+            "document": "JSONObject.class - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-19T16:55:00", 
+            "document": "uploadFakerScript.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T17:00:00", 
+            "document": "/Users/GaborK/IdeaProjects/wthx2015display/src/main/java/contoller/Controller.java"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-19T17:00:00", 
+            "document": "basic java httpconnection - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 193, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T17:10:00", 
+            "document": "ConnectionManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T17:15:00", 
+            "document": "HTTPTest.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 191, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T17:50:00", 
+            "document": "Model.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T17:55:00", 
+            "document": "SessionOverView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 31, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T17:55:00", 
+            "document": "Archive.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T17:55:00", 
+            "document": "IView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-19T17:55:00", 
+            "document": "Img.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 28, 
+            "activity": "phpstorm", 
+            "date": "2015-09-19T18:00:00", 
+            "document": "image.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 24, 
+            "activity": "facebook.com", 
+            "date": "2015-09-19T18:00:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-09-19T18:00:00", 
+            "document": "team.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-19T18:00:00", 
+            "document": "post.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-19T18:00:00", 
+            "document": "(1) Facebook"
+        }
+    ]
+}

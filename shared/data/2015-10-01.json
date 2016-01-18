@@ -1,0 +1,1864 @@
+{
+    "2015-10-01": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 57, 
+            "activity": "Gmail", 
+            "date": "2015-10-01T10:30:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 47, 
+            "activity": "444.hu", 
+            "date": "2015-10-01T10:30:00", 
+            "document": "Mindig ugyanaz a magyar p\u00e9lda ker\u00fcl el\u0151, amikor a menek\u00fcltek befogad\u00e1sa mellett keresnek \u00e9rveket !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 16, 
+            "activity": "444.hu", 
+            "date": "2015-10-01T10:30:00", 
+            "document": "L\u00e1szl\u00f3 Petra: Hi\u00e1ba mondan\u00e1m a 444.hu-ra, hogy gyilkosoknak tartom \u0151ket, \u00fagyis \u00e9n maradok a k\u00f6zellens\u00e9g !!444!!!"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-01T10:35:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 123, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-01T10:35:00", 
+            "document": "Andrew Grove - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-01T10:35:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "OfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "LatestWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "WeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "FakeWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "1356994800000 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 4, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "*chapter.indd"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "Blink.ino \u2014 Blink"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "Eco_Umberto_The_Open_Work.pdf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "(7500-600)/6-(575+275-150-100) - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "forecastio-lib-java-master"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "12042295_1239279239420904_1469140214_n.jpg"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "Screen Shot 2015-09-30 at 11.09.52"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "*fragments.indd"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "tool_config.txt \u2014 Blink"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "at"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-01T10:40:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 59, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T10:45:00", 
+            "document": "java - How to sort an array of ints using a custom comparator? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 38, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T10:45:00", 
+            "document": "java: Arrays.sort() with lambda expression - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T10:45:00", 
+            "document": "java 8 sort array property - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T10:45:00", 
+            "document": "java - Using comparator to make custom sort - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T10:45:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T10:45:00", 
+            "document": "java - Sort ArrayList of custom Objects by property - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T10:45:00", 
+            "document": "java 8 sort array - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T10:45:00", 
+            "document": "array sort with custom comparator java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T10:45:00", 
+            "document": "Sorting ArrayList with Lambda in Java 8 - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 143, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T10:50:00", 
+            "document": "Test.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T10:50:00", 
+            "document": "sorting - Very confused by Java 8 Comparator type inference - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 50, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T10:50:00", 
+            "document": "java - Sort collection by two different properties - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T10:50:00", 
+            "document": "comparator.comparing - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T10:50:00", 
+            "document": "java - How to sort list of objects by some property - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T10:50:00", 
+            "document": "java 8 comparator example - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 32, 
+            "activity": "slack", 
+            "date": "2015-10-01T10:55:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 39, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T10:55:00", 
+            "document": "RadialPerlinNoiseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T11:05:00", 
+            "document": "lightcontroller - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T11:10:00", 
+            "document": "comparator.comparing java 8 - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T11:15:00", 
+            "document": "Comparator.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T11:15:00", 
+            "document": "comparator comparing return java 8 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T11:15:00", 
+            "document": "comparator comparing return - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T11:20:00", 
+            "document": "closest match java 8 - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 19, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-10-01T11:20:00", 
+            "document": "Java.util.Arrays.sort(int[]) Method Example"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T11:20:00", 
+            "document": "arrays.sort in java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 59, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T11:30:00", 
+            "document": "WeatherFacade.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T11:30:00", 
+            "document": "WeatherChart.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 158, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T11:35:00", 
+            "document": "PerlinNoiseController_W.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 113, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T11:40:00", 
+            "document": "LiveWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T11:45:00", 
+            "document": "ForecastIO.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T12:05:00", 
+            "document": "RadialPulseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T12:10:00", 
+            "document": "WeatherScraper.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 43, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T12:15:00", 
+            "document": "java - Understanding JodaTime DateTime.parse(string, formatter) - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T12:15:00", 
+            "document": "joda datetime format - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T12:20:00", 
+            "document": "RenameArchive.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T12:20:00", 
+            "document": "java - Converting a date string to a DateTime object using Joda Time library - Stack Overflow"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 34, 
+            "activity": "Finder", 
+            "date": "2015-10-01T12:20:00", 
+            "document": "Learn"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T12:20:00", 
+            "document": "datetime from string joda - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-01T12:20:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-01T12:20:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-01T12:20:00", 
+            "document": "PycharmProjects"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 33, 
+            "activity": "java2s.com", 
+            "date": "2015-10-01T12:25:00", 
+            "document": "Java Tutorial - Java Files.move(Path source, Path target, CopyOption ... options)"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T12:25:00", 
+            "document": "rename files java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T12:25:00", 
+            "document": "files.move java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T12:25:00", 
+            "document": "Rename a file using Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T12:25:00", 
+            "document": "rename files java8 - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-01T12:25:00", 
+            "document": "weatherDataArchive Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-01T12:25:00", 
+            "document": "data"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 1, 
+            "activity": "java2s.com", 
+            "date": "2015-10-01T12:25:00", 
+            "document": "www.java2s.com/Tutorials/Java/java.nio.file/Files/Java_Files_move_Path_source_Path_target_CopyOption_options_.htm"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 38, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-10-01T12:40:00", 
+            "document": "Java.io.File.renameTo(File dest) Method Example"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 26, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T12:40:00", 
+            "document": "2013-01-01 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T12:40:00", 
+            "document": "renameto java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T13:25:00", 
+            "document": "unit test java intellij - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 26, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T13:30:00", 
+            "document": "2014-12-31 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 53, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T13:30:00", 
+            "document": "2011-01-01 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T13:30:00", 
+            "document": "unit testing java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 49, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T13:35:00", 
+            "document": "WeatherTest.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T13:35:00", 
+            "document": "java - How to write a Unit Test? - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 10, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-10-01T13:35:00", 
+            "document": "JUnit Tutorial"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T13:35:00", 
+            "document": "unit testing java tutorial - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T13:35:00", 
+            "document": "unit testing java intellij - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:10:00", 
+            "document": "IWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T14:10:00", 
+            "document": "junit introduction - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:15:00", 
+            "document": "SketchGL3.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 29, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:25:00", 
+            "document": "Run/Debug Configurations"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T14:25:00", 
+            "document": "why use a framework for testing java - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-10-01T14:25:00", 
+            "document": "Unit Testing with JUnit - Tutorial"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 43, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:30:00", 
+            "document": "rndr - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:30:00", 
+            "document": "TestMatrix33.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:30:00", 
+            "document": "TestColor.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:30:00", 
+            "document": "yo.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:30:00", 
+            "document": "pom.xml - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:35:00", 
+            "document": "WeatherFacadeTest.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:35:00", 
+            "document": "ForecastIOTest.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:35:00", 
+            "document": "OfflineWeatherDataTest.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 50, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:35:00", 
+            "document": "weather/WeatherTest.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 32, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:35:00", 
+            "document": "TestVector3.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T14:35:00", 
+            "document": "junit test access protected class - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:35:00", 
+            "document": "FakeWeatherDataTest.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T14:35:00", 
+            "document": "java/WeatherTest.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 33, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T14:40:00", 
+            "document": "junit & java : testing non-public methods - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T14:45:00", 
+            "document": "forecastio - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T15:00:00", 
+            "document": "IOException.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T15:00:00", 
+            "document": "UnknownHostException.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T15:05:00", 
+            "document": "https://www.google.nl/search?q=log4j&oq=log4j&aqs=chrome..69i57.1482j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 8, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-01T15:10:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T15:10:00", 
+            "document": "log4j - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T15:10:00", 
+            "document": "unix time stmap - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-01T15:10:00", 
+            "document": "https://translate.google.com"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 33, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T15:15:00", 
+            "document": "java - From the day week number get the day name with Joda Time - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T15:15:00", 
+            "document": "get name of day datetime joda - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T15:20:00", 
+            "document": "DailyWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T15:40:00", 
+            "document": "JsonUtils.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T15:50:00", 
+            "document": "encrypted email - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 18, 
+            "activity": "Finder", 
+            "date": "2015-10-01T16:05:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 30, 
+            "activity": "Finder", 
+            "date": "2015-10-01T16:05:00", 
+            "document": "100CANON"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-10-01T16:05:00", 
+            "document": "MISC"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-01T16:05:00", 
+            "document": "EOS_DIGITAL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-10-01T16:05:00", 
+            "document": "EOSMISC"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-01T16:05:00", 
+            "document": "DCIM"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-01T16:05:00", 
+            "document": "Remote Disc"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-01T16:10:00", 
+            "document": "Desktop"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-10-01T16:10:00", 
+            "document": "FEATHERS"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T16:10:00", 
+            "document": "osx capitan - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T16:10:00", 
+            "document": "osx captain - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "apple.com", 
+            "date": "2015-10-01T16:10:00", 
+            "document": "https://www.apple.com/osx/elcapitan-preview/"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 53, 
+            "activity": "apple.com", 
+            "date": "2015-10-01T16:15:00", 
+            "document": "Apple \u2014 OS X El Capitan"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T16:40:00", 
+            "document": "java - Making a log4j console appender use different colors for different threads - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T16:40:00", 
+            "document": "colored logging java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T16:40:00", 
+            "document": "colored logging - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 25, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T16:50:00", 
+            "document": "Ranges.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T16:55:00", 
+            "document": "osx - Where is Open Console option in Intellij 12 - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T16:55:00", 
+            "document": "show console intellij - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T16:55:00", 
+            "document": "How / can I display a console window in Intellij IDEA? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T16:55:00", 
+            "document": "LayoutTool.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T16:55:00", 
+            "document": "ForecastIO.java - ForecastIOLib - [~/Downloads/forecastio-lib-java-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T16:55:00", 
+            "document": "IntelliJ IDEA 14.1.4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T16:55:00", 
+            "document": "wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T16:55:00", 
+            "document": "ForecastIOLib - [~/Downloads/forecastio-lib-java-master]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T17:00:00", 
+            "document": "TestOfflineWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 57, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T17:00:00", 
+            "document": "Java Junit4 testing; protected methods - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T17:00:00", 
+            "document": "testing protected methods java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T17:05:00", 
+            "document": "TestFakeWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T17:05:00", 
+            "document": "TestForecastIO.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T17:05:00", 
+            "document": "test protected methods java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 99, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T17:20:00", 
+            "document": "WeatherRanges.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T17:20:00", 
+            "document": "TestOfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T17:25:00", 
+            "document": "Adding array to a list in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T17:25:00", 
+            "document": "add array to list - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T17:35:00", 
+            "document": "avg temperature - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T17:35:00", 
+            "document": "calc avg java 8 - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 231, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T17:40:00", 
+            "document": "Stream.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T17:40:00", 
+            "document": "avg temperature netherlands annual - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T17:40:00", 
+            "document": "avg temperature netherlands - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T17:40:00", 
+            "document": "ToDoubleFunction.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 91, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T17:55:00", 
+            "document": "2014-12-30 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T17:55:00", 
+            "document": "2012-08-13 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T18:20:00", 
+            "document": "weather api historical data - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 5, 
+            "activity": "wunderground.com", 
+            "date": "2015-10-01T18:20:00", 
+            "document": "API | Weather Underground"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T18:20:00", 
+            "document": "weather api for long term use - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 35, 
+            "activity": "pycharm", 
+            "date": "2015-10-01T18:25:00", 
+            "document": "2015-01-01.json - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T18:25:00", 
+            "document": "weer station veghel - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 16, 
+            "activity": "pycharm", 
+            "date": "2015-10-01T18:25:00", 
+            "document": "yo.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 14, 
+            "activity": "pycharm", 
+            "date": "2015-10-01T18:25:00", 
+            "document": "weather.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-10-01T18:25:00", 
+            "document": "PyCharm 4.0.5"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-10-01T18:25:00", 
+            "document": "ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 60, 
+            "activity": "pycharm", 
+            "date": "2015-10-01T18:30:00", 
+            "document": "2015-06-10.json - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 27, 
+            "activity": "pycharm", 
+            "date": "2015-10-01T18:30:00", 
+            "document": "2015-05-04.json - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 121, 
+            "activity": "sublime text", 
+            "date": "2015-10-01T18:40:00", 
+            "document": "2014-01-01.json"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-10-01T18:40:00", 
+            "document": "weatherData"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T18:40:00", 
+            "document": "2014-01-01 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-01T18:40:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-01T18:40:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-01T18:40:00", 
+            "document": "veghel"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 66, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T18:45:00", 
+            "document": "PrecipRange.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 42, 
+            "activity": "intellij idea", 
+            "date": "2015-10-01T18:45:00", 
+            "document": "TemperatureRange.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-01T18:50:00", 
+            "document": "java - Update and Read JSON array from file using GSON - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-01T18:50:00", 
+            "document": "gson load json array from file - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-10-01T18:50:00", 
+            "document": "current"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-01T18:55:00", 
+            "document": "2014"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 15, 
+            "activity": "sublime text", 
+            "date": "2015-10-01T18:55:00", 
+            "document": "minMaxWeather.json"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-01T18:55:00", 
+            "document": "2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-01T18:55:00", 
+            "document": "2013"
+        }
+    ]
+}

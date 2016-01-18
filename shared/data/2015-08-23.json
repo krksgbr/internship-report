@@ -1,0 +1,924 @@
+{
+    "2015-08-23": [
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T11:15:00", 
+            "document": "the room - YouTube"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 8, 
+            "activity": "newtab", 
+            "date": "2015-08-23T11:15:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T11:15:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 29, 
+            "activity": "imdb.com", 
+            "date": "2015-08-23T11:15:00", 
+            "document": "Tommy Wiseau - IMDb"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T11:15:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 4, 
+            "activity": "imdb.com", 
+            "date": "2015-08-23T11:15:00", 
+            "document": "The Room (2003) - IMDb"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T11:15:00", 
+            "document": "the room - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 64, 
+            "activity": "444.hu", 
+            "date": "2015-08-23T11:25:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 4, 
+            "activity": "last.fm", 
+            "date": "2015-08-23T11:25:00", 
+            "document": "Roots of Minimal Open Air 2015 at Kristallijn (Gent) on 29 Aug 2015 \u2014 Last.fm"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 20, 
+            "activity": "444.hu", 
+            "date": "2015-08-23T11:35:00", 
+            "document": "A romantikus er\u0151dn\u00e9l akart szexelni a francia p\u00e1r, de belezuhantak a v\u00e1r\u00e1rokba !!444!!!"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 31, 
+            "activity": "imdb.com", 
+            "date": "2015-08-23T13:10:00", 
+            "document": "Pictures & Photos of Juliette Danielle - IMDb"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 27, 
+            "activity": "imdb.com", 
+            "date": "2015-08-23T13:10:00", 
+            "document": "Juliette Danielle - IMDb"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T13:10:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T13:10:00", 
+            "document": "juliette danielle - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 180, 
+            "activity": "imdb.com", 
+            "date": "2015-08-23T13:15:00", 
+            "document": "Pictures & Photos of Tommy Wiseau - IMDb"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 107, 
+            "activity": "imdb.com", 
+            "date": "2015-08-23T13:15:00", 
+            "document": "Pictures & Photos from The Room (2003) - IMDb"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 36, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T13:20:00", 
+            "document": "You Asked For It... Getting Drunk to The Room! - Movie Buzz - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T13:20:00", 
+            "document": "Can I add right-click options in Google Chrome? - Super User"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 3, 
+            "activity": "444.hu", 
+            "date": "2015-08-23T13:20:00", 
+            "document": "Mondjuk ki v\u00e9gre: meg\u00e9rett a vil\u00e1g a pusztul\u00e1sra !!444!!!"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T13:20:00", 
+            "document": "Nostalgia Critic: The Room Review - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T13:20:00", 
+            "document": "GEMAK The Hague to Saturnusstraat, 2516 Den Haag - Google Maps"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T13:25:00", 
+            "document": "Hitler watches The Room - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 270, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T13:35:00", 
+            "document": "CNN Interview: 'The Room' - Tommy Wiseau and Greg Sestero pt1 - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 161, 
+            "activity": "facebook.com", 
+            "date": "2015-08-23T14:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T14:10:00", 
+            "document": "The Room - Roof Scene : \"Oh Hi Mark\" - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-23T14:10:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 4, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-23T14:15:00", 
+            "document": "The Colors of Feelings on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "translate.google.com", 
+            "date": "2015-08-23T14:15:00", 
+            "document": "https://translate.google.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 172, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T14:30:00", 
+            "document": "Giant P-R2 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T14:30:00", 
+            "document": "https://www.google.nl/search?q=Giant+P-R2&oq=Giant+P-R2&aqs=chrome..69i57j0l5.405j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T14:35:00", 
+            "document": "Giant P-R2 Wheelset - Hub Sound and Weight - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T14:35:00", 
+            "document": "mavic aksium - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T14:35:00", 
+            "document": "giant p-r2 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 3, 
+            "activity": "translate.google.com", 
+            "date": "2015-08-23T14:45:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T14:50:00", 
+            "document": "jongerenverzet - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T14:50:00", 
+            "document": "https://www.google.nl/search?q=jongerenverzet&oq=jongerenverzet&aqs=chrome..69i57.268j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:00:00", 
+            "document": "cassette 11-28 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 59, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:05:00", 
+            "document": "single speed wheelset - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 14, 
+            "activity": "ebay.com", 
+            "date": "2015-08-23T15:05:00", 
+            "document": "Single Speed Wheelset | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:05:00", 
+            "document": "fixed gear vs single speed wheel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:10:00", 
+            "document": "Gipiemme R40 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:10:00", 
+            "document": "Mavic Aksium One Disc - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:15:00", 
+            "document": "single speed wielset - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:15:00", 
+            "document": "Mavic Aksium - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:15:00", 
+            "document": "single speed wiel - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:20:00", 
+            "document": "shumano whr500 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:25:00", 
+            "document": "Wheels \u2013 Single Speed Components"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:40:00", 
+            "document": "custom single speed blue wheels - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 103, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:40:00", 
+            "document": "custom single speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:40:00", 
+            "document": "single speed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:40:00", 
+            "document": "custom single speed blue - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T15:55:00", 
+            "document": "vera molnar - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-23T16:00:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T16:00:00", 
+            "document": "cassettes - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 48, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T16:05:00", 
+            "document": "nicorette nl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T16:05:00", 
+            "document": "nicorette - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T16:05:00", 
+            "document": "nicotine content of a cigarette - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T16:05:00", 
+            "document": "nicotine gum - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T16:05:00", 
+            "document": "nicotine hum - Google Search"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 19, 
+            "activity": "last.fm", 
+            "date": "2015-08-23T16:10:00", 
+            "document": "Home \u2014 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 4, 
+            "activity": "last.fm", 
+            "date": "2015-08-23T16:10:00", 
+            "document": "Messages \u2014 Last.fm"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-08-23T16:15:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 16, 
+            "activity": "Finder", 
+            "date": "2015-08-23T16:15:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-23T16:20:00", 
+            "document": "Data.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 10, 
+            "activity": "quicktime player", 
+            "date": "2015-08-23T16:25:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 7, 
+            "activity": "quicktime player", 
+            "date": "2015-08-23T16:25:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-08-23T16:25:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-23T16:25:00", 
+            "document": "Ticker.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 79, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-23T16:35:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project *"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-23T16:35:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T16:35:00", 
+            "document": "key out color after effects - Google Search"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 13, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-23T16:35:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-23T16:35:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-23T16:35:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 3, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-23T16:35:00", 
+            "document": "Screen Shot 2015-08-21 at 14.42.16.png"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-08-23T16:35:00", 
+            "document": "sketch1"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 64, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T16:40:00", 
+            "document": "How to color key in After Effects - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-23T16:40:00", 
+            "document": "https://www.youtube.com/watch?v=IKNJoM9xo-Q"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 41, 
+            "activity": "slack", 
+            "date": "2015-08-23T16:45:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-23T16:45:00", 
+            "document": "New Folder With Items"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 88, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T17:30:00", 
+            "document": "union fixie - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 60, 
+            "activity": "444.hu", 
+            "date": "2015-08-23T17:35:00", 
+            "document": "Azt mondj\u00e1k a tud\u00f3sok, hogy ha 10 percig valaki m\u00e1s szem\u00e9be n\u00e9z\u00fcnk, az olyan, mint az LSD !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 82, 
+            "activity": "444.hu", 
+            "date": "2015-08-23T17:35:00", 
+            "document": "Egy f\u0151iskol\u00e1s n\u00e9met l\u00e1ny otthagyta az alb\u00e9rlet\u00e9t, hogy ezent\u00fal vonatokon \u00e9ljen !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 75, 
+            "activity": "444.hu", 
+            "date": "2015-08-23T17:35:00", 
+            "document": "Eddig h\u00e9t \u00e1ldozata van a d\u00e9l-angliai rep\u00fcl\u0151g\u00e9p-balesetnek !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T17:40:00", 
+            "document": "mavic cxp30 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-23T17:40:00", 
+            "document": "https://www.google.nl/search?q=mavic+cxp30&safe=off&espv=2&biw=1438&bih=801&tbm=isch&tbo=u&source=univ&sa=X&ved=0CCAQsARqFQoTCObm_YLGv8cCFclZFAodTQcJRA"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 29, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-23T17:45:00", 
+            "document": "layered_sketch1.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-23T17:45:00", 
+            "document": "Miro Video Converter"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "index.hu", 
+            "date": "2015-08-23T17:45:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Terrort\u00e1mad\u00e1s a vonaton: az utasokon m\u00falt"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-23T18:05:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-08-23T18:05:00", 
+            "document": "sketch_stream"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 4, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-23T18:50:00", 
+            "document": "sketch_stream.mp4.mp4"
+        }
+    ]
+}

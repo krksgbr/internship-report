@@ -1,0 +1,1954 @@
+{
+    "2015-09-15": [
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-15T09:35:00", 
+            "document": "AirDrop"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-15T09:55:00", 
+            "document": "wthx-front"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-15T09:55:00", 
+            "document": "PHPStromProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-15T09:55:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-15T09:55:00", 
+            "document": "WTHX"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 26, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "wthx-front/index.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 19, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "config.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "gulp - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "GaborK \u2014 node"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "using grunt - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "git \u2014 zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "grunt vs gulp - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "list npm packages - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "grunt vs gulo - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:00:00", 
+            "document": "git \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 30, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:05:00", 
+            "document": "wthx-front \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:05:00", 
+            "document": "wthx-front \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:05:00", 
+            "document": "bower_components \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 17, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:05:00", 
+            "document": "node_modules \u2014 zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 37, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T10:05:00", 
+            "document": "javascript - Installing a local module using npm? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:05:00", 
+            "document": "install node package locally - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:05:00", 
+            "document": "npm install jquery - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:05:00", 
+            "document": "bower - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 55, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T10:10:00", 
+            "document": "javascript - Where does npm install packages? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:10:00", 
+            "document": "make project node - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:10:00", 
+            "document": "npm copy linked packages - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:10:00", 
+            "document": "why does npm install packages in user - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:10:00", 
+            "document": "npm intall package for project - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:10:00", 
+            "document": "node_modules \u2014 node"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:10:00", 
+            "document": "intall package for project - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:15:00", 
+            "document": "entry point npm - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:15:00", 
+            "document": "PhpstormProjects \u2014 zsh"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:15:00", 
+            "document": "npm create package.json - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:15:00", 
+            "document": "npm install - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:15:00", 
+            "document": "node install - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:35:00", 
+            "document": "npm for frontend - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 7, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:35:00", 
+            "document": "wthx-front \u2014 mongo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T10:35:00", 
+            "document": "Is there a way to automatically build the package.json file for Node.js projects - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:35:00", 
+            "document": "node create package.json - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-09-15T10:35:00", 
+            "document": "npm/init-package-json"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:35:00", 
+            "document": "npm package.json - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:35:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T10:40:00", 
+            "document": "src/index.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 59, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:40:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 37, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:40:00", 
+            "document": "wthx-interactive \u2014 zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 10, 
+            "activity": "devtools", 
+            "date": "2015-09-15T10:40:00", 
+            "document": "Developer Tools - http://localhost:1337/"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T10:40:00", 
+            "document": "wthx-interactive \u2014 sudo"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 45, 
+            "activity": "superuser.com", 
+            "date": "2015-09-15T10:45:00", 
+            "document": "windows 8 - How do I extend an image over three monitors? - Super User"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T10:45:00", 
+            "document": "amd catalyst to extend desktop display must be disabled - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 8, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T10:45:00", 
+            "document": "full/814dda5ec7de8cdc8aa7d16e9228e63b.jpeg - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "calendar", 
+            "date": "2015-09-15T10:45:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 95, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T11:30:00", 
+            "document": "bower_components \u2014 node"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T11:30:00", 
+            "document": "javascript - What is the difference between Bower and npm? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T11:30:00", 
+            "document": "bower create package.json - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T11:30:00", 
+            "document": "bower vs npm - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T11:30:00", 
+            "document": "bower_components \u2014 sudo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T11:35:00", 
+            "document": "style.scss - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 17, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T11:35:00", 
+            "document": "jquery/bower.json - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 5, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T11:35:00", 
+            "document": "main.scss - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T11:35:00", 
+            "document": "phpstorm scss - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 54, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T11:40:00", 
+            "document": "Users/\u2026/.gitignore - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 47, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T11:40:00", 
+            "document": "js/main.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T11:40:00", 
+            "document": "style.css - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "uploader.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 31, 
+            "activity": "Finder", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "avatar_proto"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "Cocteau Twins - Sugar Hiccup ( Album Version) - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "post image to api - Google Search"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 9, 
+            "activity": "flickr.com", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "Flickr Services"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "cocteau twins sugar hiccup - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "GaborK \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "GaborK \u2014 xcodebuild"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "php - How to post pictures to instagram using API - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "GaborK \u2014 clang"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "screenshots"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "Notes"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-15T11:45:00", 
+            "document": "WTHX Interactive"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 12, 
+            "activity": "devtools", 
+            "date": "2015-09-15T11:50:00", 
+            "document": "Developer Tools - http://localhost:63343/wthx-interactive/index.html"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T11:50:00", 
+            "document": "javascript - window.onload vs document.onload - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-09-15T11:50:00", 
+            "document": "chrome-devtools://devtools/bundled/inspector.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@201276/&can_dock=true&dockSide=undocked"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T11:50:00", 
+            "document": "document onload - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T11:55:00", 
+            "document": "http - JavaScript post request like a form submit - Stack Overflow"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 52, 
+            "activity": "w3schools.com", 
+            "date": "2015-09-15T11:55:00", 
+            "document": "AJAX Send an XMLHttpRequest To a Server"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T11:55:00", 
+            "document": "make post request - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T11:55:00", 
+            "document": "make post request javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T11:55:00", 
+            "document": "How do I manually fire HTTP POST requests with Firefox or Chrome? - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-15T11:55:00", 
+            "document": "GaborK \u2014 sh"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:00:00", 
+            "document": "send post request to localhost javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:00:00", 
+            "document": "html - POST Request (Javascript) - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:00:00", 
+            "document": "post request javascript - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:00:00", 
+            "document": "send post request to localhost - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:00:00", 
+            "document": "nginx - Node.js send post request with data? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:00:00", 
+            "document": "android - Sending a post request to localhost - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:00:00", 
+            "document": "browser - Simulate HTTP POST on localhost (*Windows* not Unix) - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:00:00", 
+            "document": "javascript - Cross Domain Request to localhost - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-15T12:00:00", 
+            "document": "Can't send request to localhost:8888 / with port number \u00b7 Issue #140 \u00b7 postmanlabs/postman-app-support"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 69, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:05:00", 
+            "document": "jquery - How to make a simple image upload using Javascript/HTML - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:05:00", 
+            "document": "jquery - Posting image to server using Javascript - Stack Overflow"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-09-15T12:05:00", 
+            "document": "FOTO'S"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:05:00", 
+            "document": "post image javascipt - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:05:00", 
+            "document": "llist file in directory javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:05:00", 
+            "document": "List files in a directory using only javascript - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:05:00", 
+            "document": "node.js - best way to get folder and file list in Javascript - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:05:00", 
+            "document": "list files javasript local - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-15T12:05:00", 
+            "document": "wthx"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 149, 
+            "activity": "pycharm", 
+            "date": "2015-09-15T12:10:00", 
+            "document": "yo.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:10:00", 
+            "document": "post image javascript - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 21, 
+            "activity": "pycharm", 
+            "date": "2015-09-15T12:10:00", 
+            "document": "image_scraper.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:10:00", 
+            "document": "post image javascript form - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:10:00", 
+            "document": "make a form javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:10:00", 
+            "document": "html - How to Create a Form Dynamically Via Javascript - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:10:00", 
+            "document": "create a form javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:10:00", 
+            "document": "Ajax file upload with pure JavaScript"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:15:00", 
+            "document": "How to create a form dynamically using JavaScript? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:15:00", 
+            "document": "dynamically create form javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:20:00", 
+            "document": "submit image through form javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:20:00", 
+            "document": "How do you submit a Javascript generated bitmap image via POST? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:20:00", 
+            "document": "submit image through form dynamically - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:20:00", 
+            "document": "enctype form javascript - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:20:00", 
+            "document": "enctype form - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:25:00", 
+            "document": "Upload image using javascript - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:25:00", 
+            "document": "javascript - Send Locally Stored Image to Server Via Ajax - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:25:00", 
+            "document": "post image javscript - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:25:00", 
+            "document": "submit image - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:25:00", 
+            "document": "javascript - Send Image to server using File input type - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:25:00", 
+            "document": "uplo - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:25:00", 
+            "document": "post image to server javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:25:00", 
+            "document": "submit image javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:30:00", 
+            "document": "php - how to post image data through javascript - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:30:00", 
+            "document": "post image tthrough form javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:30:00", 
+            "document": "post image through form javascript - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:30:00", 
+            "document": "google search histroy - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 80, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "javascript - Remember and Repopulate File Input - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 38, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "javascript - Programmatically uploading a file - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 56, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "Uncaught InvalidStateError: Failed to set the 'value' property on 'HTMLInputElement': This input element accepts a filename, which may only be programmatically set to the empty string. - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "programmatically upload file javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "javascript - How to trigger jquery input file? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "javascript - jQuery, Select Input FILE and also set it to another INPUT - Stack Overflow"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 16, 
+            "activity": "groups.google.com", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "Uncaught InvalidStateError: Failed to set the 'value' property on 'HTMLInputElement': This input ele - Google Groups"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "image - Cloudinary upload widget with Jquery \"Failed to set the 'value' property on 'HTMLInputElement'\" - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "Fails hard on input type=\"file\" \u00b7 Issue #19 \u00b7 kugaevsky/jquery-phoenix"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 3, 
+            "activity": "groups.google.com", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:35:00", 
+            "document": "programatically upload file javaxcript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 33, 
+            "activity": "gist.github.com", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "Uploading files using xhr.send(FormData) to PHP server"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 38, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "javascript - Unable to upload image to server using XMLHttpRequest - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 36, 
+            "activity": "github.com", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "blueimp/jQuery-File-Upload"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 35, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "javascript - How to programatically submit/send multiple files using jquery-file-upload - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 24, 
+            "activity": "github.com", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "API \u00b7 blueimp/jQuery-File-Upload Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "javascript - Programmatically trigger \"select file\" dialog box - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "upload image to node js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "javascript - Programmatically open upload file dialog in Chrome - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "upload image xmlhttprequest - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-15T12:40:00", 
+            "document": "blueimp (Sebastian Tschan)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:45:00", 
+            "document": "How to instantiate a File object in JavaScript? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:45:00", 
+            "document": "file constructor javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 34, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:50:00", 
+            "document": "javascript - how to create/initialize the file object using file path html5 - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:50:00", 
+            "document": "construct file from path javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:50:00", 
+            "document": "post file to server javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:50:00", 
+            "document": "JavaScript: Upload file - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 3, 
+            "activity": "w3.org", 
+            "date": "2015-09-15T12:50:00", 
+            "document": "File API"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T12:55:00", 
+            "document": "(Javascript) make a File object with file path - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:55:00", 
+            "document": "get files list input - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T12:55:00", 
+            "document": "get files list inpit - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 86, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T13:00:00", 
+            "document": "uploader.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:00:00", 
+            "document": "input multiple files javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:00:00", 
+            "document": "input multiple files html - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:00:00", 
+            "document": "input multiple files hml - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 7, 
+            "activity": "devtools", 
+            "date": "2015-09-15T13:10:00", 
+            "document": "Developer Tools - http://localhost:63343/wthx-interactive/uploader.html"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 65, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:10:00", 
+            "document": "chrome app - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:10:00", 
+            "document": "input on change - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:10:00", 
+            "document": "element onchange javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T13:10:00", 
+            "document": "javascript - On input change event? - Stack Overflow"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 6, 
+            "activity": "w3schools.com", 
+            "date": "2015-09-15T13:10:00", 
+            "document": "onchange Event"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T13:15:00", 
+            "document": "javascript - How can I trigger an onchange event manually? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:15:00", 
+            "document": "element onchange javascript input - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T13:35:00", 
+            "document": "javascript - Upload File With Ajax XmlHttpRequest - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:35:00", 
+            "document": "send file xmlhttprequest - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 68, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T13:45:00", 
+            "document": "javascript - No 'Access-Control-Allow-Origin' header is present on the requested resource error - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 70, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T13:45:00", 
+            "document": "javascript - \"No 'Access-Control-Allow-Origin' header is present on the requested resource\" - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:45:00", 
+            "document": "No 'Access-Control-Allow-Origin' header is present on the requested resource. - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:45:00", 
+            "document": "https://www.google.nl/search?q=No+'Access-Control-Allow-Origin'+header+is+present+on+the+requested+resource.&oq=No+'Access-Control-Allow-Origin'+header+is+present+on+the+requested+resource.&aqs=chrome..69i57j0l5.389j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 80, 
+            "activity": "sublime text", 
+            "date": "2015-09-15T13:50:00", 
+            "document": "hosts \u2014 WTHX"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T13:50:00", 
+            "document": "javascript - No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin '...' is therefore not allowed access - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T13:50:00", 
+            "document": "test.gbr - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-15T13:50:00", 
+            "document": "Package Control Messages \u2014 WTHX"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-15T13:50:00", 
+            "document": "Multiple File Upload Input"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 18, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T13:55:00", 
+            "document": "image.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 10, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T13:55:00", 
+            "document": "posts.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-09-15T13:55:00", 
+            "document": "post.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-09-15T14:00:00", 
+            "document": "chrome-app-samples/samples/hello-world at master \u00b7 GoogleChrome/chrome-app-samples"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 6, 
+            "activity": "444.hu", 
+            "date": "2015-09-15T18:20:00", 
+            "document": "Tan\u00e1cstalanul k\u00f3v\u00e1lyognak az egyre el\u00e9gedetlenebb menek\u00fcltek a hat\u00e1r szerb oldal\u00e1n !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-15T18:20:00", 
+            "document": "https://www.google.nl/search?q=\\&oq=\\&aqs=chrome..69i57.69j0j4&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }
+    ]
+}

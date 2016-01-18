@@ -1,0 +1,1364 @@
+{
+    "2015-09-08": [
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 29, 
+            "activity": "slack", 
+            "date": "2015-09-08T09:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 198, 
+            "activity": "444.hu", 
+            "date": "2015-09-08T09:45:00", 
+            "document": "\u00cdgy fogyott el a t\u00fcrelem az EU k\u00fcls\u0151 hat\u00e1r\u00e1n !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 56, 
+            "activity": "444.hu", 
+            "date": "2015-09-08T09:45:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-08T09:45:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 38, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T10:10:00", 
+            "document": "VredesPaleisSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T10:10:00", 
+            "document": "how to Locate the path of the Current project in Java, Eclipse? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T10:10:00", 
+            "document": "sql - Should I use != or <> for not equal in TSQL? - Stack Overflow"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "w3schools.com", 
+            "date": "2015-09-08T10:10:00", 
+            "document": "SQL NULL Values - IS NULL and IS NOT NULL"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T10:15:00", 
+            "document": "CAMEO.eventcodes.txt - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:15:00", 
+            "document": "international conflicts gdelt - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 13, 
+            "activity": "foreignpolicy.com", 
+            "date": "2015-09-08T10:15:00", 
+            "document": "Did the Arab Spring Really Spark a Wave of Global Protests? | Foreign Policy"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T10:20:00", 
+            "document": "results-20150907-144519.json - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 16, 
+            "activity": "foreignpolicy.com", 
+            "date": "2015-09-08T10:20:00", 
+            "document": "What Russia Could Look Like in 2035, if Putin Gets His Wish | Foreign Policy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:20:00", 
+            "document": "java beautifulsoup - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "quora.com", 
+            "date": "2015-09-08T10:20:00", 
+            "document": "(4) What is the best Java equivalent to Beautiful Soup? - Quora"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:35:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 7, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-08T10:35:00", 
+            "document": "List of FIPS country codes - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:35:00", 
+            "document": "fips 10-4 country codes - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 2, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-08T10:35:00", 
+            "document": "FIPS 10-4 - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 57, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T10:40:00", 
+            "document": "Google big query API returns \"too many free query bytes scanned for this project\" - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 81, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T10:40:00", 
+            "document": "\"Exceeded quota: too many free query bytes scanned for this project\" in Google BigQuery - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-09-08T10:40:00", 
+            "document": "untitled"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 10, 
+            "activity": "sublime text", 
+            "date": "2015-09-08T10:40:00", 
+            "document": "SELECT  GLOBALEVENTID as eventId,"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-08T10:40:00", 
+            "document": "SELECT  GLOBALEVENTID as eventId, Info"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:40:00", 
+            "document": "Your project exceeded quota for free query bytes scanned - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:40:00", 
+            "document": "google bigquery qota - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:40:00", 
+            "document": "google bigquery quota - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:40:00", 
+            "document": "https://www.google.nl/search?q=Your+project+exceeded+quota+for+free+query+bytes+scanned&oq=Your+project+exceeded+quota+for+free+query+bytes+scanned&aqs=chrome..69i57.229j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 15, 
+            "activity": "accounts.google.com", 
+            "date": "2015-09-08T10:45:00", 
+            "document": "Sign in - Google Accounts"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "google.hu", 
+            "date": "2015-09-08T10:45:00", 
+            "document": "Google Accounts"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:45:00", 
+            "document": "google bigquery free quota public database - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:50:00", 
+            "document": "gdelt bigquery - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:50:00", 
+            "document": "google gdelt - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T10:50:00", 
+            "document": "google bigquery - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T11:00:00", 
+            "document": "gdelt material conflict - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T11:00:00", 
+            "document": "international material conflict - Google Search"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 7, 
+            "activity": "groups.google.com", 
+            "date": "2015-09-08T11:00:00", 
+            "document": "(99+) GDELT Daily Global Trend Report - Material Conflict - Google Groups"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T11:00:00", 
+            "document": "international confi - Google Search"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "groups.google.com", 
+            "date": "2015-09-08T11:00:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 67, 
+            "activity": "sublime text", 
+            "date": "2015-09-08T11:05:00", 
+            "document": "results-20150908-110029.json"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 63, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:05:00", 
+            "document": "quadclasses.txt - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-08T11:05:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 37, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:10:00", 
+            "document": "results-20150908-110029.json - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-08T11:10:00", 
+            "document": "resources"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:15:00", 
+            "document": "Data.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 237, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:15:00", 
+            "document": "Event.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:20:00", 
+            "document": "Plotter.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T11:30:00", 
+            "document": "find header of news article stackoverflow - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T11:30:00", 
+            "document": "intstream loop java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T11:30:00", 
+            "document": "find header of news article - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T11:30:00", 
+            "document": "References"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 54, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T11:35:00", 
+            "document": "functional programming - converting for loop to java 8 stream - Stack Overflow"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 55, 
+            "activity": "wired.com", 
+            "date": "2015-09-08T11:35:00", 
+            "document": "Stack Overflow Man Remakes Net One Answer at a Time | WIRED"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 2, 
+            "activity": "wired.com", 
+            "date": "2015-09-08T11:35:00", 
+            "document": "www.wired.com/2012/07/stackoverflow-jeff-atwood/"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 79, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:40:00", 
+            "document": "Marker.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:45:00", 
+            "document": "IMarker.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 83, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T11:45:00", 
+            "document": "earthquake visualization map - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 28, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:50:00", 
+            "document": "SimpleMarker.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 30, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:50:00", 
+            "document": "MarkerBase.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T11:55:00", 
+            "document": "InfoMarker.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T12:05:00", 
+            "document": "abstract class java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 278, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T12:10:00", 
+            "document": "BaseMarker.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 38, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T12:15:00", 
+            "document": "ConcentricMarker.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T12:20:00", 
+            "document": "abstract method java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T12:25:00", 
+            "document": "freeze variable after assignment final java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-08T12:25:00", 
+            "document": "mfeldheim/hermap"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T12:45:00", 
+            "document": "Animatable.class - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 35, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T13:25:00", 
+            "document": "java - Why an abstract class implementing an interface can miss the declaration/implementation of one of the interface's methods? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T13:25:00", 
+            "document": "Java abstract class implements interface - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T13:25:00", 
+            "document": "abstract class implement interface - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T13:25:00", 
+            "document": "gdelt - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T13:50:00", 
+            "document": "checked exception in java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T14:20:00", 
+            "document": "java - How to efficiently remove duplicates from an array - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T14:20:00", 
+            "document": "algorithm - Java - Removing duplicates in an ArrayList - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T14:20:00", 
+            "document": "stream to set java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T14:20:00", 
+            "document": "remove duplicates java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T14:20:00", 
+            "document": "remove duplicates javascript - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T14:40:00", 
+            "document": "Stream.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 27, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T14:45:00", 
+            "document": "WeatherSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T14:45:00", 
+            "document": "IWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T14:45:00", 
+            "document": "UnfoldingMap.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 35, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T14:55:00", 
+            "document": "lambda - Copy a stream to avoid \"stream has already been operated upon or closed\" (java 8) - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T14:55:00", 
+            "document": "Can I duplicate a Stream in Java 8? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T14:55:00", 
+            "document": "duplicate stream java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T14:55:00", 
+            "document": "stream has already been operated upon or closed - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-08T14:55:00", 
+            "document": "Collectors (Java Platform SE 8 )"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T14:55:00", 
+            "document": "https://www.google.nl/search?q=stream+has+already+been+operated+upon+or+closed&oq=stream+has+already+been+operated+upon+or+closed&aqs=chrome..69i57.309j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T15:00:00", 
+            "document": "Adding array to a list in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T15:00:00", 
+            "document": "add array to list java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T15:45:00", 
+            "document": "java - How to print color in console using System.out.println? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T15:45:00", 
+            "document": "print in color java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T16:10:00", 
+            "document": "Java 8 stream's .min() and .max(): why does this compile? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T16:10:00", 
+            "document": "How to find the minimum value in an ArrayList, along with the index number? (Java) - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T16:10:00", 
+            "document": "minimum in list java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T16:10:00", 
+            "document": "minimum in list java stream - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T16:50:00", 
+            "document": "java - Static Initialization Blocks - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T16:50:00", 
+            "document": "class initializer java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T16:50:00", 
+            "document": "Use of Initializers vs Constructors in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T16:50:00", 
+            "document": "static initilization block - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 25, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T16:55:00", 
+            "document": "java - Differences between HashMap and Hashtable? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T16:55:00", 
+            "document": "hastable - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 8, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-08T16:55:00", 
+            "document": "Hash table - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T16:55:00", 
+            "document": "hashmap - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T16:55:00", 
+            "document": "hashtable vs hashmap - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T17:00:00", 
+            "document": "map - How does Java order items in a HashMap or a HashTable? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:00:00", 
+            "document": "sortedmap vs hashmap - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:00:00", 
+            "document": "hashmap order java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 39, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-08T17:05:00", 
+            "document": "java - Iterate over each Entry in a Map - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:05:00", 
+            "document": "sortedmap implementation jaa - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:05:00", 
+            "document": "hashmap vs hashtable vs treemap - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:05:00", 
+            "document": "iterate over map java - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-08T17:15:00", 
+            "document": "Fonts"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 62, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T17:25:00", 
+            "document": "Writer.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T17:25:00", 
+            "document": "Director.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T17:25:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T17:25:00", 
+            "document": "ClockControl.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T17:25:00", 
+            "document": "SceneController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-08T17:25:00", 
+            "document": "OfflineWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:35:00", 
+            "document": "color codes - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:35:00", 
+            "document": "pentacosta atlas - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:35:00", 
+            "document": "adobe kuler - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:40:00", 
+            "document": "war color scheme - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:40:00", 
+            "document": "warm color scheme - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T17:40:00", 
+            "document": "war colorsheme - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-08T17:55:00", 
+            "document": "mobile - vredespaleis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-08T17:55:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-08T17:55:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-08T17:55:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 19, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-09-08T18:00:00", 
+            "document": "Mercator_Projection.svg*"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 7, 
+            "activity": "Preview", 
+            "date": "2015-09-08T18:00:00", 
+            "document": "Mercator_Projection.jpg"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 24, 
+            "activity": "dailymail.co.uk", 
+            "date": "2015-09-08T18:10:00", 
+            "document": "Now Broadway's flocking to see Benedict Cumberbatch, BAZ BAMIGBOYE writes | Daily Mail Online"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 19, 
+            "activity": "businessinsider.com", 
+            "date": "2015-09-08T18:10:00", 
+            "document": "3 dead, 4 wounded in attack on Mali army - Business Insider"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-08T18:10:00", 
+            "document": "3-dead-4-wounded-in-attack-on-mali-army - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "dailymail.co.uk", 
+            "date": "2015-09-08T18:10:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Business", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 37, 
+            "activity": "bloomberg.com", 
+            "date": "2015-09-08T18:15:00", 
+            "document": "Cecil the Lion\u2019s Brother Comes to Terms With Loss to Become King - Bloomberg Business"
+        }, 
+        {
+            "category": "Business", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 1, 
+            "activity": "bloomberg.com", 
+            "date": "2015-09-08T18:15:00", 
+            "document": "www.bloomberg.com/news/articles/2015-08-06/cecil-the-lion-s-brother-comes-to-terms-with-loss-to-become-king"
+        }
+    ]
+}

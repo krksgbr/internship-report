@@ -1,0 +1,884 @@
+{
+    "2015-11-08": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 142, 
+            "activity": "444.hu", 
+            "date": "2015-11-08T11:45:00", 
+            "document": "Riporter nem szenvedett m\u00e9g akkor\u00e1t, mint az RT brit tud\u00f3s\u00edt\u00f3ja a ny\u00e1ri G20-cs\u00facs helysz\u00edn\u00e9n - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 263, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T11:50:00", 
+            "document": "Index - K\u00fclf\u00f6ld - 10 eur\u00f3\u00e9rt juthatott fel a bomba az orosz rep\u00fcl\u0151g\u00e9pre"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 188, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T11:55:00", 
+            "document": "Index - Gazdas\u00e1g - Legal\u00e1bb Cs\u00e1nyi S\u00e1ndort felmin\u0151s\u00edtett\u00e9k"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 55, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T11:55:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Oroszorsz\u00e1g \u00e9s K\u00edna felbor\u00edtan\u00e1 a vil\u00e1grendet"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 81, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T12:00:00", 
+            "document": "Index - Gazdas\u00e1g - Finnorsz\u00e1gban j\u00f6het az alapj\u00f6vedelem"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 99, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T12:00:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Felgy\u00fajtottak egy rend\u0151raut\u00f3t a t\u00fcntet\u0151k London k\u00f6zpontj\u00e1ban"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 241, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T12:05:00", 
+            "document": "Index - Gazdas\u00e1g - J\u00e1rjon p\u00e9nz csak az\u00e9rt, mert \u00e9l\u00fcnk?"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 129, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T12:20:00", 
+            "document": "Index - Gazdas\u00e1g - Mi\u00e9rt ker\u00fcl ennyibe egy doboz cigaretta?"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 44, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T12:20:00", 
+            "document": "Index - Gazdas\u00e1g - Elb\u00facs\u00fazhatunk az ismer\u0151s Volkswagen-kasztnikt\u00f3l"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T12:20:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 36, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T12:40:00", 
+            "document": "Index - Sport - Ez a verseny is eld\u0151lt: itt az \u00e9v oll\u00f3z\u00f3s g\u00f3lja"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 11, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T12:45:00", 
+            "document": "Index - Kult\u00far - Met\u00e1lh\u00f6rg\u00e9s m\u00e9g nem volt ilyen mag\u00e1val ragad\u00f3"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 10, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T12:45:00", 
+            "document": "Index - Vide\u00f3 - Ez\u00e9rt sz\u00edv\u00e1s Budapesten b\u00e1rhova is eljutni"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 55, 
+            "activity": "index.hu", 
+            "date": "2015-11-08T12:50:00", 
+            "document": "Index - Mindek\u00f6zben - \u0150 R \u00dc L E T ! ! ! Egy tripl\u00e1n szerencs\u00e9s magyar l\u00e1nynak aj\u00e1nd\u00e9kozott Oscart Adele! Igen, AZ az Adele!"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 58, 
+            "activity": "pinterest.com", 
+            "date": "2015-11-08T13:25:00", 
+            "document": "Pinterest: Discover and save creative ideas"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 21, 
+            "activity": "lifehacker.com", 
+            "date": "2015-11-08T13:25:00", 
+            "document": "Five Best Wishlist Tools"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T13:25:00", 
+            "document": "product wishlist app - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 4, 
+            "activity": "pinterest.com", 
+            "date": "2015-11-08T13:25:00", 
+            "document": "(3) Pinterest: Discover and save creative ideas"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 2, 
+            "activity": "pinterest.com", 
+            "date": "2015-11-08T13:25:00", 
+            "document": "https://www.pinterest.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T13:30:00", 
+            "document": "asos - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T13:30:00", 
+            "document": "norhetn threads - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 5, 
+            "activity": "facebook.com", 
+            "date": "2015-11-08T13:35:00", 
+            "document": "Log in with Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T13:35:00", 
+            "document": "outdoor research - Google Search"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 3, 
+            "activity": "accounts.google.com", 
+            "date": "2015-11-08T13:35:00", 
+            "document": "Request for Permission"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-11-08T13:35:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T13:40:00", 
+            "document": "abus lock lost key - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 115, 
+            "activity": "artofmanliness.com", 
+            "date": "2015-11-08T13:45:00", 
+            "document": "How to Pick a Lock | The Art of Manliness"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T13:45:00", 
+            "document": "how to lockpick - Google Search"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 59, 
+            "activity": "gizmodo.com", 
+            "date": "2015-11-08T13:50:00", 
+            "document": "How To Pick a Lock Using Nothing But Hairpins"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T13:50:00", 
+            "document": "abus lock picking - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:00:00", 
+            "document": "north face rage - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:00:00", 
+            "document": "north face nivis - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:05:00", 
+            "document": "aliexpress - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:15:00", 
+            "document": "north face atlas - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:20:00", 
+            "document": "the north face stratos - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:20:00", 
+            "document": "north face thermoball - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:20:00", 
+            "document": "north face themoball - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:20:00", 
+            "document": "https://www.google.nl/search?q=the+north+face+stratos&safe=off&espv=2&biw=1452&bih=801&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMInLuFy_WAyQIVBioOCh0NNQxB&dpr=2"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 67, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:25:00", 
+            "document": "rage anorak - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:25:00", 
+            "document": "Zadelpennen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:35:00", 
+            "document": "asa advanture - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:55:00", 
+            "document": "vaude escape light - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T14:55:00", 
+            "document": "vaude escape - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:05:00", 
+            "document": "the north face venture - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:25:00", 
+            "document": "arc teryx - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 39, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:30:00", 
+            "document": "jack wolfskin topaz 2 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:30:00", 
+            "document": "https://www.google.nl/search?q=arc+teryx&safe=off&sa=X&es_sm=91&biw=1452&bih=801&tbs=vw:g,p_ord:p&tbm=shop&ved=0CNICELsNKAJqFQoTCPWK58-EgckCFcRIDwodhO4EXw&bav=on.2,or.r_cp.&bvm=bv.106923889,d.ZWU&ech=1&psi=6ls_VqnMHcXyPbiGqNgL.1446992891823.5&ei=FFw_Vt7dE"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 52, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:35:00", 
+            "document": "Airrow jack wolfskin - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:35:00", 
+            "document": "Denali Texapore - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 47, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:35:00", 
+            "document": "Fj\u00e4llr\u00e4ven sarek - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:35:00", 
+            "document": "Airrow - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:35:00", 
+            "document": "Fj\u00e4llr\u00e4ven - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:35:00", 
+            "document": "Coat Airrow - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:45:00", 
+            "document": "The North Face 1985 Rage - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:50:00", 
+            "document": "The North Face Nivis - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:50:00", 
+            "document": "The North Face Contrin - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:50:00", 
+            "document": "https://www.google.nl/search?q=The+North+Face+Nivis&oq=The+North+Face+Nivis&aqs=chrome..69i57j69i64l3j69i60l2.318j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:55:00", 
+            "document": "north face quest insulated - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T15:55:00", 
+            "document": "north face quest - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 14, 
+            "activity": "ebay.com", 
+            "date": "2015-11-08T15:55:00", 
+            "document": "north face nivis | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "ebay.com", 
+            "date": "2015-11-08T15:55:00", 
+            "document": "Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:00:00", 
+            "document": "arc teryx atom - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 58, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "the north face rage mountain - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 26, 
+            "activity": "ebay.com", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "the north face rage mountain | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "the north face rage mountain yellow - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "the north face rage - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "Frost Wave wolfskin - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "Frost Wave - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 5, 
+            "activity": "ebay.com", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "the north face rage | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "Frost Wave woflskin - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "Coat Frost Wave - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "https://www.google.nl/search?q=the+north+face+rage+mountain&safe=off&es_sm=91&biw=1452&bih=801&source=lnms&sa=X&ved=0CAUQ_AUoAGoVChMIy43swo-ByQIVg0YPCh3_HwH6&dpr=2"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 1, 
+            "activity": "ebay.com", 
+            "date": "2015-11-08T16:15:00", 
+            "document": "www.ebay.com/sch/i.html?_odkw=the+north+face+rage&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xthe+north+face+rage+mountain.TRS0&_nkw=the+north+face+rage+mountain&_sacat=0"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:30:00", 
+            "document": "Kofel II vaude - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:30:00", 
+            "document": "rage mountain anorak - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:30:00", 
+            "document": "eider Leschaux - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:30:00", 
+            "document": "Kofel II - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:30:00", 
+            "document": "Coat Kofel II - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:35:00", 
+            "document": "The North Face 1985 rage - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:55:00", 
+            "document": "Loosduinsekade 7 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:55:00", 
+            "document": "Loosduinsekade 7, 2571 BM Den Haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T16:55:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 24, 
+            "activity": "facebook.com", 
+            "date": "2015-11-08T17:00:00", 
+            "document": "(4) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 13, 
+            "activity": "facebook.com", 
+            "date": "2015-11-08T17:00:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T17:00:00", 
+            "document": "Oxbow F2 SUTRA - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T17:00:00", 
+            "document": "250 eur in huf - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-11-08T17:00:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-08T17:00:00", 
+            "document": "https://www.google.nl/search?q=Oxbow+F2+SUTRA&oq=Oxbow+F2+SUTRA&aqs=chrome..69i57j69i60.365j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }
+    ]
+}

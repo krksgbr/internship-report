@@ -1,0 +1,594 @@
+{
+    "2015-09-24": [
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 142, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:10:00", 
+            "document": "TeamsView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:15:00", 
+            "document": "Config.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:15:00", 
+            "document": "WTHX2015App.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:20:00", 
+            "document": "ViewManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:20:00", 
+            "document": "IView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 66, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:25:00", 
+            "document": "ProgressView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 15, 
+            "activity": "newtab", 
+            "date": "2015-09-24T09:25:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 57, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:25:00", 
+            "document": "FilteredOverView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 209, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:30:00", 
+            "document": "GridDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:30:00", 
+            "document": "SqImg.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:55:00", 
+            "document": "LayoutTool.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 29, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T09:55:00", 
+            "document": "Tables.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 97, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T13:00:00", 
+            "document": "SessionOverView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 58, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T13:00:00", 
+            "document": "VideoPlayer.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-24T15:15:00", 
+            "document": "compartementalisering - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-24T15:15:00", 
+            "document": "compartmentalising - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-24T16:15:00", 
+            "document": "rolemodels - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:40:00", 
+            "document": "ISubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:40:00", 
+            "document": "SubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 50, 
+            "activity": "index.hu", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Az EU d\u00f6nt\u00f6tt, v\u00e9ge a nyitott ajt\u00f3k politik\u00e1j\u00e1nak, Orb\u00e1n \u00f6r\u00fclhet"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 43, 
+            "activity": "index.hu", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 26, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "Img.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "HttpClient.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "Display.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "SlideShow.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "ImgStack.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "Events.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "IDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T17:45:00", 
+            "document": "ShiftableImg.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-24T17:50:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-24T17:50:00", 
+            "document": "todaysart - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 39, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-24T17:55:00", 
+            "document": "edwinlust \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-24T17:55:00", 
+            "document": "todaysart 2015 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 4, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-24T17:55:00", 
+            "document": "edwinlust / rndr-examples \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-09-24T18:00:00", 
+            "document": "wthx-front \u2014 mongod"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 88, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-24T18:00:00", 
+            "document": "edwinlust / horizon \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 9, 
+            "activity": "Terminal", 
+            "date": "2015-09-24T18:00:00", 
+            "document": "rndr \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 9, 
+            "activity": "Terminal", 
+            "date": "2015-09-24T18:00:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "UnaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 100, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "QuarternaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "NullaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 18, 
+            "activity": "Terminal", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "git \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "SenaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "wthx-front \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "TernaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "QuinaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "git \u2014 git"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "Terminal \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "git \u2014 git-remote-http"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-24T18:05:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T18:10:00", 
+            "document": "EventBase.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-09-24T18:10:00", 
+            "document": "BinaryEvent.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-09-24T18:20:00", 
+            "document": "NSBrianWard/Glacier-Remixes"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-09-24T18:20:00", 
+            "document": "joeyfigaro (Joey Figaro)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-24T18:20:00", 
+            "document": "glacier color scheme - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-09-24T18:20:00", 
+            "document": "joeyfigaro/goals"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-24T18:20:00", 
+            "document": "Added IntelliJ IDEA glacier color scheme \u00b7 NSBrianWard/Glacier-Remixes@845cde7"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-24T18:25:00", 
+            "document": "border session - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-24T18:30:00", 
+            "document": "Iraq War Historiography - Google Search"
+        }
+    ]
+}

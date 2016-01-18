@@ -1,0 +1,554 @@
+{
+    "2015-08-09": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 16, 
+            "activity": "Gmail", 
+            "date": "2015-08-09T12:40:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 56, 
+            "activity": "slack", 
+            "date": "2015-08-09T12:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-09T12:40:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-09T12:40:00", 
+            "document": "Breitnerlaan 259A - Google Maps"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-09T12:40:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 99, 
+            "activity": "Terminal", 
+            "date": "2015-08-09T17:40:00", 
+            "document": "git \u2014 Matthew"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 60, 
+            "activity": "Terminal", 
+            "date": "2015-08-09T17:45:00", 
+            "document": "git \u2014 Amon"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 53, 
+            "activity": "newtab", 
+            "date": "2015-08-09T17:45:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 40, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 53, 
+            "activity": "Terminal", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "git \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 64, 
+            "activity": "Finder", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "NAS"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "192.168.1.67"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "start samba - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "start samba raspberry pi - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "Connect to Server"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "IdeaProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "Connecting to Server"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-09T17:55:00", 
+            "document": "gbr"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 28, 
+            "activity": "Finder", 
+            "date": "2015-08-09T18:00:00", 
+            "document": "music"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 18, 
+            "activity": "Terminal", 
+            "date": "2015-08-09T18:00:00", 
+            "document": "git \u2014 bash"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-09T18:00:00", 
+            "document": "torrents"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-09T18:00:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 29, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:15:00", 
+            "document": "Ilyen futurisztikus csodametr\u00f3k j\u00e1rnak majd az M3 vonal\u00e1n !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:15:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-09T18:20:00", 
+            "document": "jolla tablet - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 22, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:25:00", 
+            "document": "Egy dokumentumfilmbe halhat bele a New York-i milliomos !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 38, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:25:00", 
+            "document": "Nem akarta megf\u00fajni a szond\u00e1t, pof\u00e1n r\u00fagta a rend\u0151r !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 26, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:25:00", 
+            "document": "Nyolc halott embert tal\u00e1ltak a batmanp\u00f3l\u00f3s texasi f\u00e9rfi h\u00e1z\u00e1ban !!444!!!"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-09T18:25:00", 
+            "document": "git \u2014 Bvdub"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:25:00", 
+            "document": "444.hu/2015/08/09/nyolc-halott-embert-talaltak-a-batmanpolos-texasi-ferfi-hazaban/"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 36, 
+            "activity": "github.com", 
+            "date": "2015-08-09T18:40:00", 
+            "document": "mopidy/mopidy-scrobbler"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 89, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:40:00", 
+            "document": "Be\u00fclt a parlamentbe, \u00f6t \u00e9ve kussol, \u00e9s ez\u00e9rt az eg\u00e9sz\u00e9rt 55 milli\u00f3t kap !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 44, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:40:00", 
+            "document": "Az amerikai k\u00f6rnyezetv\u00e9delmi hat\u00f3s\u00e1g miatt \u00f6ml\u00f6tt m\u00e9rgez\u0151 narancss\u00e1rga trutyi a krist\u00e1lytiszta v\u00edz\u0171 patakba !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-09T18:40:00", 
+            "document": "jogamp mousewheel event - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:40:00", 
+            "document": "Na kinek van ilyen ocsm\u00e1ny tetov\u00e1l\u00e1sa? !!444!!!"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-09T18:40:00", 
+            "document": "mopidy scrobbler - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 2, 
+            "activity": "444.hu", 
+            "date": "2015-08-09T18:40:00", 
+            "document": "traffic.outbrain.com/network/redir?p=meomuk3LUwDm1cfrOsPgeOCNZs4cFALDnWRAnBdJ23AGYTz96kvToDpRpP_MWm3TyxVqP7rFheMnAhuXglFrru802ru3PH5rKRtoGlIo1QN91R8HvJg5N1Bi2j6Rp9LwbSIg2V4z3nlSd_KyT2PNDRzbzSLSoAXUAgWxfn3JqHuuSbplXSrNJTO_DZ3DLxbscfz_tfkJI8U2WVlaIJQlze-6T9"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-09T18:45:00", 
+            "document": "mopidy.conf \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 7, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:45:00", 
+            "document": "Home \u2013 Last.fm"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-08-09T18:45:00", 
+            "document": "Notifications"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 14, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:45:00", 
+            "document": "Last.fm - Listen to free music and watch videos with the largest music catalogue online"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 4, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:45:00", 
+            "document": "Inbox \u2013 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 1, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:45:00", 
+            "document": "www.last.fm/home"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 49, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:50:00", 
+            "document": "Start your Last.fm Library \u2013 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 31, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:50:00", 
+            "document": "Message: [no subject] \u2013 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 27, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:50:00", 
+            "document": "gkerekes\u2019s Music Profile \u2013 Users at Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 16, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:50:00", 
+            "document": "Atunganef\u2019s Music Profile \u2013 Users at Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 15, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:50:00", 
+            "document": "Start Scrobbling \u2013 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 12, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:50:00", 
+            "document": "Does It Scrobble \u2013 Group at Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 10, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:50:00", 
+            "document": "Friend Requests \u2013 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 9, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:50:00", 
+            "document": "vanerssaderain\u2019s Music Profile \u2013 Users at Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 5, 
+            "activity": "last.fm", 
+            "date": "2015-08-09T18:50:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-09T18:55:00", 
+            "document": "git \u2014 MF"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 27, 
+            "activity": "Terminal", 
+            "date": "2015-08-09T18:55:00", 
+            "document": "git \u2014 ncmpcpp"
+        }
+    ]
+}

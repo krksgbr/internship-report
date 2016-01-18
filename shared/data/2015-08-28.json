@@ -1,0 +1,1384 @@
+{
+    "2015-08-28": [
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 18, 
+            "activity": "facebook.com", 
+            "date": "2015-08-28T09:30:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 71, 
+            "activity": "mathsisfun.com", 
+            "date": "2015-08-28T09:30:00", 
+            "document": "Inverse Sine, Cosine, Tangent"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 46, 
+            "activity": "444.hu", 
+            "date": "2015-08-28T09:30:00", 
+            "document": "Szar a foci? N\u00e9zz esportot, \u00e9s sose n\u00e9zel vissza! !!444!!!"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 1, 
+            "activity": "t.co", 
+            "date": "2015-08-28T09:30:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 5, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-28T09:30:00", 
+            "document": "Warner Bros. Home Video Intro (slowed down by 1000%) by eslamibahman"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-28T09:30:00", 
+            "document": "Warner Bros. Home Video Intro (slowed down by 1000%) by eslamibahman | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T10:00:00", 
+            "document": "2593TB - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T10:05:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 52, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T10:05:00", 
+            "document": "Animation.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 41, 
+            "activity": "slack", 
+            "date": "2015-08-28T10:05:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T10:05:00", 
+            "document": "Triangle.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 145, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T10:10:00", 
+            "document": "VideoLayer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T10:10:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T10:10:00", 
+            "document": "Fietsenreparatie 'Stuyvesantplein' - Google Maps"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 3, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-28T10:10:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T10:10:00", 
+            "document": "Tweewielers van Woerden B.V. - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T10:10:00", 
+            "document": "Home to Fietsenreparatie 'Stuyvesantplein' - Google Maps"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 49, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T10:20:00", 
+            "document": "Timer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 35, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T10:20:00", 
+            "document": "HeartLayer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T10:25:00", 
+            "document": "Geometry.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:25:00", 
+            "document": "screenshots"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:25:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:25:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:25:00", 
+            "document": "Deep.Web.2015.HDRip.XviD.AC3-EVO"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "animation_frames"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 57, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "Java.io.File.mkdir() Method Example"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 30, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "java - How to check if a folder exists - Stack Overflow"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "animations"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "mkdir java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "directory exists java - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:30:00", 
+            "document": "New Folder With Items"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T10:35:00", 
+            "document": "File.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:35:00", 
+            "document": "3"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:40:00", 
+            "document": "De vliegher"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 12, 
+            "activity": "Preview", 
+            "date": "2015-08-28T10:45:00", 
+            "document": "168.png"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 9, 
+            "activity": "Preview", 
+            "date": "2015-08-28T10:45:00", 
+            "document": "106.png"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 7, 
+            "activity": "Preview", 
+            "date": "2015-08-28T10:45:00", 
+            "document": "37.png"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 21, 
+            "activity": "Finder", 
+            "date": "2015-08-28T10:55:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 2, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-28T10:55:00", 
+            "document": "1045.png"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 87, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-28T10:55:00", 
+            "document": "107.png"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 4, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-28T10:55:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 4, 
+            "activity": "calendar", 
+            "date": "2015-08-28T10:55:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 5, 
+            "activity": "Preview", 
+            "date": "2015-08-28T11:05:00", 
+            "document": "36.png"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 31, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-28T11:10:00", 
+            "document": "layered_sketch1.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 15, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-28T11:10:00", 
+            "document": "layered_stream.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-28T11:10:00", 
+            "document": "Red"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 5, 
+            "activity": "Preview", 
+            "date": "2015-08-28T11:15:00", 
+            "document": "De vliegher.png"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 7, 
+            "activity": "Preview", 
+            "date": "2015-08-28T11:20:00", 
+            "document": "3.png"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 13, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-28T11:20:00", 
+            "document": "7.png"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 14, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-28T11:20:00", 
+            "document": "expoinout.mov"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-28T11:20:00", 
+            "document": "easing"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-28T11:20:00", 
+            "document": "heartbeats"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-28T11:25:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T11:50:00", 
+            "document": "line.frag - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T11:50:00", 
+            "document": "linestrip.frag - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 16, 
+            "activity": "icloud.com", 
+            "date": "2015-08-28T12:05:00", 
+            "document": "iCloud Calendar \u2014 Central European Time"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 14, 
+            "activity": "icloud.com", 
+            "date": "2015-08-28T12:05:00", 
+            "document": "iCloud"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:10:00", 
+            "document": "manfred mohr - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:10:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:10:00", 
+            "document": "archival team - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "mathsisfun.com", 
+            "date": "2015-08-28T12:10:00", 
+            "document": "Equation of a Straight Line"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:10:00", 
+            "document": "find circumcircle triangle java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:10:00", 
+            "document": "subtract vectors - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 57, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:15:00", 
+            "document": "anthropocene dataset - Google Search"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 46, 
+            "activity": "TextEdit", 
+            "date": "2015-08-28T12:15:00", 
+            "document": "readME.rtf"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-28T12:15:00", 
+            "document": "ffmpegOutput.txt \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-28T12:15:00", 
+            "document": "RegimeShiftsAnthropocene_Data"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 11, 
+            "activity": "sublime text", 
+            "date": "2015-08-28T12:15:00", 
+            "document": "BipartiteMatrix-Table2014-CorrectedDriversJCR.csv \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 6, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-28T12:20:00", 
+            "document": "kpn.transition.interface.mov"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 5, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-28T12:20:00", 
+            "document": "Deep.Web.2015.HDRip.XviD.AC3-EVO.avi"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-28T12:20:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:30:00", 
+            "document": "data streams - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:30:00", 
+            "document": "anthropocene datastream - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 15, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-28T12:30:00", 
+            "document": "Data stream - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:35:00", 
+            "document": "STATIC design - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-28T12:40:00", 
+            "document": "De vliegher Info"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 8, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-28T12:40:00", 
+            "document": "Definitions: digital ontologies; humans and data on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T12:40:00", 
+            "document": "bryan ma - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-28T12:50:00", 
+            "document": "De vliegher2"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 6, 
+            "activity": "Preview", 
+            "date": "2015-08-28T12:50:00", 
+            "document": "22.png"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T12:50:00", 
+            "document": "hubbub-sketch - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T12:55:00", 
+            "document": "ShapeRenderer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T12:55:00", 
+            "document": "DrawerGL3.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T12:55:00", 
+            "document": "/Users/GaborK/IdeaProjects/sketches/lustlab-hubbub-sketch/src/main/java/net/gaborkerekes/sketches/animation/Triangle.java"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-28T13:45:00", 
+            "document": "Log In to Vimeo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-28T14:00:00", 
+            "document": "Processing \u2014 bash"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T14:05:00", 
+            "document": "technosphere - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 48, 
+            "activity": "pinterest.com", 
+            "date": "2015-08-28T14:10:00", 
+            "document": "Pinterest: Discover and save creative ideas"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "pinterest.com", 
+            "date": "2015-08-28T14:10:00", 
+            "document": "https://www.pinterest.com/mo_pop/colors-and-patterns/"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "pinterest.com", 
+            "date": "2015-08-28T14:10:00", 
+            "document": "https://www.pinterest.com/pin/create/extension/?url=https://www.google.nl/search?q=vera+molnar&safe=off&espv=2&biw=1438&bih=801&tbm=isch&tbo=u&source=univ&sa=X&ved=0CC0QsARqFQoTCMPvxcLluccCFYoF2wodX9wFdg#safe=off&tbm=isch&q=manfred+mohr&imgrc=MCuBwfFGMAFx"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "openoffice", 
+            "date": "2015-08-28T14:30:00", 
+            "document": "hubbub_questions.xlsx - OpenOffice Calc"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 56, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T14:50:00", 
+            "document": "Data.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-28T14:50:00", 
+            "document": "disk3s2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-28T14:50:00", 
+            "document": "boot"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 68, 
+            "activity": "Finder", 
+            "date": "2015-08-28T14:55:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-28T14:55:00", 
+            "document": "BOOT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-28T15:05:00", 
+            "document": "Fonts"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 10, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-28T15:15:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 92, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-28T15:25:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project *"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 6, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-28T15:25:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-28T15:40:00", 
+            "document": "Parallel Synchronized Randomness"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-28T15:40:00", 
+            "document": "Parallel Synchronized Randomness Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-28T15:40:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-28T15:40:00", 
+            "document": "report"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 48, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T15:50:00", 
+            "document": "/Users/GaborK/IdeaProjects/sketches/lustlab-hubbub-sketch/src/main/java/net/gaborkerekes/sketches"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T15:50:00", 
+            "document": "/Users/GaborK/IdeaProjects/sketches/lustlab-hubbub-sketch/src/main/java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 54, 
+            "activity": "phpstorm", 
+            "date": "2015-08-28T16:10:00", 
+            "document": "PostgreSQL - hubbub@localhost - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 29, 
+            "activity": "phpstorm", 
+            "date": "2015-08-28T16:10:00", 
+            "document": "hubbub.public.questions - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 25, 
+            "activity": "Finder", 
+            "date": "2015-08-28T16:10:00", 
+            "document": "Gabor\u2019s MacBook Pro"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "phpstorm", 
+            "date": "2015-08-28T16:10:00", 
+            "document": "Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-08-28T16:10:00", 
+            "document": "PhpStorm 8.0.3"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 209, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T16:30:00", 
+            "document": "questions.json - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-08-28T16:30:00", 
+            "document": "PhpStorm"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 32, 
+            "activity": "sublime text", 
+            "date": "2015-08-28T16:35:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T16:35:00", 
+            "document": "TimeLine.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T16:35:00", 
+            "document": "AnswerData.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 224, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T16:40:00", 
+            "document": "QuestionData.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-28T17:00:00", 
+            "document": "Unix time - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-28T17:00:00", 
+            "document": "unix timestamp - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-28T17:00:00", 
+            "document": "https://en.wikipedia.org/wiki/Unix_time"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T17:10:00", 
+            "document": "answers.json - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 35, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T17:15:00", 
+            "document": "QTimeLine.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T17:15:00", 
+            "document": "LineIntersection.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T17:20:00", 
+            "document": "HubbubSketch2.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T17:35:00", 
+            "document": "AwData.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T17:35:00", 
+            "document": "QsData.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T17:55:00", 
+            "document": "D.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 73, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T17:55:00", 
+            "document": "DataNormalizer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 23, 
+            "activity": "intellij idea", 
+            "date": "2015-08-28T17:55:00", 
+            "document": "DTime.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 16, 
+            "activity": "facebook.com", 
+            "date": "2015-08-28T18:30:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-28T18:30:00", 
+            "document": "(6) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-28T18:30:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-28T18:35:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 8, 
+            "activity": "facebook.com", 
+            "date": "2015-08-28T18:35:00", 
+            "document": "(4) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-08-28T18:35:00", 
+            "document": "N e w A e \u0455 \u0442 \u043d e \u0442 \u03b9 c"
+        }
+    ]
+}

@@ -1,0 +1,1094 @@
+{
+    "2015-11-04": [
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 13, 
+            "activity": "thepiratebay.la", 
+            "date": "2015-11-04T10:30:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 37, 
+            "activity": "newtab", 
+            "date": "2015-11-04T10:30:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 60, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T10:30:00", 
+            "document": "Salone del Mobile - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 12, 
+            "activity": "444.hu", 
+            "date": "2015-11-04T10:30:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 29, 
+            "activity": "denhaag.nl", 
+            "date": "2015-11-04T10:30:00", 
+            "document": "The Hague - Household waste calendar"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 20, 
+            "activity": "TextEdit", 
+            "date": "2015-11-04T10:30:00", 
+            "document": "Pitch Milan - students.docx"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T10:30:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T10:30:00", 
+            "document": "household waste den haag - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-04T10:30:00", 
+            "document": "Replace Inheritance with Delegation"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 45, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T10:35:00", 
+            "document": "2593 13 - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 5, 
+            "activity": "stickies", 
+            "date": "2015-11-04T10:35:00", 
+            "document": "P\t\tCODING\n_________________\u2026"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 8, 
+            "activity": "denhaag.nl", 
+            "date": "2015-11-04T10:35:00", 
+            "document": "The Hague - Oversized household waste"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-11-04T10:35:00", 
+            "document": "BEV\u00c1S\u00c1RL\u00d3LISTA\n____________\u2026"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 8, 
+            "activity": "slack", 
+            "date": "2015-11-04T10:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T10:45:00", 
+            "document": "serialization - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-04T10:50:00", 
+            "document": "Retrieve all values from HashMap keys in an ArrayList Java - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T10:50:00", 
+            "document": "list of values from hashmap - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 9, 
+            "activity": "calendar", 
+            "date": "2015-11-04T10:55:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-11-04T11:25:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 16, 
+            "activity": "444.hu", 
+            "date": "2015-11-04T11:30:00", 
+            "document": "Mindj\u00e1rt megy eb\u00e9delni? Akkor n\u00e9zze meg mi volt tegnap d\u00e9lben egy b\u00e9k\u00e9scsabai \u00e1ltal\u00e1nos iskol\u00e1ban! - 444"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 40, 
+            "activity": "Terminal", 
+            "date": "2015-11-04T11:45:00", 
+            "document": "wthx2015display \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-11-04T11:50:00", 
+            "document": "wthx-interactive \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-11-04T11:50:00", 
+            "document": "wthx-interactive \u2014 mongod"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-11-04T11:50:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-11-04T11:55:00", 
+            "document": "wthx2015display \u2014 git"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T11:55:00", 
+            "document": "git stash pop - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-04T12:00:00", 
+            "document": "git - How to remove a directory in my GitHub repository? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-04T12:00:00", 
+            "document": "git - Apply gitignore on an existing repository already tracking large number of files - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T12:00:00", 
+            "document": "apply gitignore - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T12:00:00", 
+            "document": "remove directory git - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T12:00:00", 
+            "document": "remove directory linux - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 56, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-04T12:05:00", 
+            "document": "git merge confict with .class file - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-04T12:05:00", 
+            "document": "Resolving a Git conflict with binary files - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T12:05:00", 
+            "document": "git merge class files - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-04T12:05:00", 
+            "document": "stackoverflow.com/questions/9113987/git-merge-confict-with-class-file"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-11-04T12:10:00", 
+            "document": "wthx2015display \u2014 git-remote-https"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 12, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T12:20:00", 
+            "document": "Your stream on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T12:20:00", 
+            "document": "Hear your likes, playlists, and tracks from people you follow on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T12:20:00", 
+            "document": "SoundCloud \u2013 Hear the world\u2019s sounds"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 21, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T12:25:00", 
+            "document": "Matthew Dear & Carl Craig (B2B - Trade Miami Dec 5th) by Matthew Dear"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 10, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T12:25:00", 
+            "document": "Sami Koivikko Mixtapes/eucalyptus by Lindakova07"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 173, 
+            "activity": "pycharm", 
+            "date": "2015-11-04T12:30:00", 
+            "document": "FontBuilder.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 17, 
+            "activity": "pycharm", 
+            "date": "2015-11-04T12:30:00", 
+            "document": "testingstuff.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 9, 
+            "activity": "pycharm", 
+            "date": "2015-11-04T12:30:00", 
+            "document": "PyCharm"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-11-04T12:30:00", 
+            "document": "vectorize.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-11-04T12:30:00", 
+            "document": "glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-11-04T12:30:00", 
+            "document": "helpers.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-11-04T12:30:00", 
+            "document": "__init__.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 100, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T12:35:00", 
+            "document": "probando spiro - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T12:35:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T12:35:00", 
+            "document": "spiro - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T12:35:00", 
+            "document": "spiro font editor - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T12:35:00", 
+            "document": "spiro fontforge - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T13:30:00", 
+            "document": "Nicole Moudaber - Organic Love feat. Skin (Mood Remix) [MOOD] by Nicole Moudaber"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 7, 
+            "activity": "stickies", 
+            "date": "2015-11-04T13:45:00", 
+            "document": "Music\n\nSiouxsie and the Ban\u2026"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-04T13:45:00", 
+            "document": "Burn After Reading (2008) [1080p]"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T13:45:00", 
+            "document": "DCR264 - Drumcode Radio Live - Adam Beyer live from DGTL Festival, Barcelona by adambeyer"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T14:00:00", 
+            "document": "document object model - Google Search"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:00:00", 
+            "document": "Rune Grammofon | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:00:00", 
+            "document": "Search Everything on SoundCloud"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 22, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "the official jaylib - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 33, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Jaylib - The Official (Instrumental) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 30, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "jaylib - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 30, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Anneli Drecker - Fisherman\u00b4s Blues by Rune Grammofon"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 23, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "J dilla \"Champion Sound\" - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 18, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Jaylib - Heavy (Chronic Mix) by Stones Throw Records"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 10, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Stones Throw Records | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 8, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Jono El Grande - Bach's Beach by Rune Grammofon"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Jaylib - Raw Addict - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Krokofant - C.O.T.A by Rune Grammofon"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Kid raps ove Jaylib the official - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 4, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Espen Eriksen Trio - Gravity by Rune Grammofon"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 4, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Elephant9 with Reine Fiske - Occidentali by Rune Grammofon"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-11-04T14:05:00", 
+            "document": "Phaedra - Lightbeam by Rune Grammofon"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-11-04T14:10:00", 
+            "document": "Java Set retain order? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T14:10:00", 
+            "document": "java set order - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-11-04T14:10:00", 
+            "document": "Jaylib - The Red (Album Version) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:20:00", 
+            "document": "Jaylib & Talib Kweli - Raw Shit - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:20:00", 
+            "document": "quasimoto - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:20:00", 
+            "document": "Jaylib - The Official (Rap Circle Mix) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:20:00", 
+            "document": "Quasimoto - Basic Instinct - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:20:00", 
+            "document": "The Official--JAYLIB \"Remake\" By THEWESLEyTAYLOR - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:20:00", 
+            "document": "Quasimoto - Jaylib \"React\" feat. Quasimoto - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:20:00", 
+            "document": "Jaylib - The Official Instrumental - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:20:00", 
+            "document": "The Official - JayLib - Madlib J.Rocc Circolo degli artisti Rome - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:20:00", 
+            "document": "JAYLIB - J DILLA & MADLIB - CHAMPION SOUND - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 17, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:30:00", 
+            "document": "MF DOOM Special Herbs Vol 1-2 (Full Album) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-11-04T14:30:00", 
+            "document": "Quasimoto Mixtape - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 6, 
+            "activity": "System Preferences", 
+            "date": "2015-11-04T15:05:00", 
+            "document": "Built-in Retina Display"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 4, 
+            "activity": "System Preferences", 
+            "date": "2015-11-04T15:05:00", 
+            "document": "LG TV"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "System Preferences", 
+            "date": "2015-11-04T15:05:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-11-04T15:05:00", 
+            "document": "wthx-interactive \u2014 sudo"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 1, 
+            "activity": "RescueTime", 
+            "date": "2015-11-04T15:05:00", 
+            "document": "RescueTime"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-11-04T15:05:00", 
+            "document": "wthx-interactive \u2014 git"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "System Preferences", 
+            "date": "2015-11-04T15:30:00", 
+            "document": "General"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 26, 
+            "activity": "Terminal", 
+            "date": "2015-11-04T15:35:00", 
+            "document": "wthx2015display \u2014 mongo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T15:35:00", 
+            "document": "drop database mongodb - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-04T15:35:00", 
+            "document": "final renders"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-11-04T15:35:00", 
+            "document": "wallpapers"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T16:15:00", 
+            "document": "dr ramadhin - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-11-04T16:15:00", 
+            "document": "WTHX Controller"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-04T16:55:00", 
+            "document": "The Town EXTENDED (2010)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-04T16:55:00", 
+            "document": "Orange"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-04T16:55:00", 
+            "document": "weatherData"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T17:25:00", 
+            "document": "memory leak intellij - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T18:00:00", 
+            "document": "melanie gilligen de hallen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T18:00:00", 
+            "document": "melanie de hallen - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T18:00:00", 
+            "document": "melanie de halle - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-04T18:20:00", 
+            "document": "Kokkelink's IJzersterke Team - zaagt of knipt niet alleen alle metalen op maat, maar is tevens gespecialiseerd in las- zet- en siersmeedwerk. Daarnaast ook leverancier van technische kunststoffen, handgereedschap, lasapparatuur, bevestigingsmaterialen en "
+        }
+    ]
+}

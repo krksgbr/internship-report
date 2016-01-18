@@ -1,0 +1,20 @@
+{
+  "name": "css-grid-polyfill-binaries",
+  "description": "Adds css-grid support to the client browsers using pure javascript",
+  "main": [
+    "css-polyfills.min.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "moduleType": ["globals"],
+  "keywords": [
+    "css",
+    "grid",
+    "polyfill"
+  ],
+  "authors": [
+    "François REMY <francois.remy.dev@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": []
+}

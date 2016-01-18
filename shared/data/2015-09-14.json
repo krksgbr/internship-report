@@ -1,0 +1,1964 @@
+{
+    "2015-09-14": [
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 50, 
+            "activity": "Preview", 
+            "date": "2015-09-14T09:30:00", 
+            "document": "Eco_Umberto_The_Open_Work.pdf"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 6, 
+            "activity": "calendar", 
+            "date": "2015-09-14T10:05:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-14T10:05:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 114, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-14T10:15:00", 
+            "document": "RescueTime - Your Monthly dashboard"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 35, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-14T10:15:00", 
+            "document": "RescueTime - Your Daily dashboard"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 7, 
+            "activity": "rescuetime.com", 
+            "date": "2015-09-14T10:15:00", 
+            "document": "RescueTime - Your Yearly dashboard"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 24, 
+            "activity": "imdb.com", 
+            "date": "2015-09-14T10:20:00", 
+            "document": "Sling Blade (1996) - IMDb"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "accounts.google.com", 
+            "date": "2015-09-14T10:20:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T10:20:00", 
+            "document": "slingblade - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 4, 
+            "activity": "imdb.com", 
+            "date": "2015-09-14T10:20:00", 
+            "document": "IMDb - Movies, TV and Celebrities - IMDb"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "accounts.google.com", 
+            "date": "2015-09-14T10:20:00", 
+            "document": "Request for Permission"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "imdb.com", 
+            "date": "2015-09-14T10:20:00", 
+            "document": "www.imdb.com/title/tt0117666/"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 104, 
+            "activity": "slack", 
+            "date": "2015-09-14T10:35:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T10:35:00", 
+            "document": "richard paul lohse - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T10:35:00", 
+            "document": "richard lohse - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T10:35:00", 
+            "document": "richard pau lohse - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 72, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "Relational art - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 120, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "francois morellet - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "BEV\u00c1S\u00c1RL\u00d3LISTA\n____________\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "SUMMER\n____________________\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 16, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "Uw hostingpakket gegevens z\u2026"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "jesus rafael soto - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 8, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "P\t\tREADING LIST THESIS\n____\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 8, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "Music\n\nSiouxsie and the Ban\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 6, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "NAMES TO KNOW\n_____________\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "RANDOM STUFF\n\nAntonio Gandi\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "-overlapping\n-irregular gra\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "PRACTICAL MATTERS\n_________\u2026"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "relatational aesthetics - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "francois morellet\n"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "HOSSZ\u00da T\u00c1VON\n______________\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-09-14T10:40:00", 
+            "document": "francois morellet"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 45, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T10:45:00", 
+            "document": "interface effect - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T10:45:00", 
+            "document": "software and ideology - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 29, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:10:00", 
+            "document": "pkrumins/node-gif"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 41, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:10:00", 
+            "document": "compiling a gif node js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 47, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:15:00", 
+            "document": "eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 53, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:15:00", 
+            "document": "aheckmann/gm"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 56, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-14T11:15:00", 
+            "document": "javascript - Generate Animated GIF with GM in Node.js - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:15:00", 
+            "document": "node js gif - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:15:00", 
+            "document": "node png - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:15:00", 
+            "document": "pkrumins/node-png"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:15:00", 
+            "document": "node js - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:15:00", 
+            "document": "node gif - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:20:00", 
+            "document": "gm node - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:25:00", 
+            "document": "eugeneware (Eugene Ware)"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:25:00", 
+            "document": "jnordberg/gif.js"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:25:00", 
+            "document": "gifencoder node js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:25:00", 
+            "document": "gifencoder/test at master \u00b7 eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:25:00", 
+            "document": "gifencoder/examples at master \u00b7 eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:25:00", 
+            "document": "gifencoder/lib at master \u00b7 eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-14T11:25:00", 
+            "document": "gifencoder/test/fixtures at master \u00b7 eugeneware/gifencoder"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T11:30:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T11:30:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "WTHX - [~/PhpstormProjects/WTHX]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "GaborK \u2014 node"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "PHPStromProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 9, 
+            "activity": "sublime text", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "how to read.txt"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "untitled"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "PhpStorm"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:35:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:40:00", 
+            "document": "WTHX"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:40:00", 
+            "document": "Projects"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 9, 
+            "activity": "sublime text", 
+            "date": "2015-09-14T11:40:00", 
+            "document": "untitled \u2014 WTHX"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:40:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-09-14T11:40:00", 
+            "document": "how to read.txt \u2014 WTHX"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:40:00", 
+            "document": "Web"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:40:00", 
+            "document": "webstorm - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:40:00", 
+            "document": "PhpstormProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-14T11:40:00", 
+            "document": "Basil"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 14, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T11:45:00", 
+            "document": "gifCompiler.js - WTHX - [~/PhpstormProjects/WTHX]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:45:00", 
+            "document": "phpstorm sources of node js - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:45:00", 
+            "document": "webstorm configure sources of node js - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:45:00", 
+            "document": "phpstorm configure sources of node js - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T11:45:00", 
+            "document": "GaborK \u2014 ruby"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 80, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-14T11:50:00", 
+            "document": "intellij idea - Enabling autocompletion in WebStorm for node.js modules installed via npm - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T11:50:00", 
+            "document": "node js sources location - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:00:00", 
+            "document": "png-file-stream - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:00:00", 
+            "document": "https://github.com/eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 85, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:05:00", 
+            "document": "eugeneware/png-file-stream"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 33, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:05:00", 
+            "document": "eugeneware/jpeg-js"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:05:00", 
+            "document": "gifencoder/GIFEncoder.js at master \u00b7 eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:05:00", 
+            "document": "gifencoder/streaming.js at master \u00b7 eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:05:00", 
+            "document": "gifencoder/example.js at master \u00b7 eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:05:00", 
+            "document": "gifencoder/myanimated.gif at master \u00b7 eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:05:00", 
+            "document": "gifencoder/index.js at master \u00b7 eugeneware/gifencoder"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 72, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:10:00", 
+            "document": "png-file-stream/index.js at master \u00b7 eugeneware/png-file-stream"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 50, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:10:00", 
+            "document": "animated gif node js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:10:00", 
+            "document": "png-file-stream/test at master \u00b7 eugeneware/png-file-stream"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:10:00", 
+            "document": "png-file-stream/Gruntfile.js at master \u00b7 eugeneware/png-file-stream"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 8, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-09-14T12:10:00", 
+            "document": "I once wrote node-gif (https://github.com/pkrumins/node-gif), a node.js library ... | Hacker News"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:10:00", 
+            "document": "png-file-stream/test/fixtures at master \u00b7 eugeneware/png-file-stream"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:15:00", 
+            "document": "webp support - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:15:00", 
+            "document": "graphicsmagick - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:15:00", 
+            "document": "uninstall npm - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:15:00", 
+            "document": "uninstall npm package - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:15:00", 
+            "document": "npm prune - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T12:15:00", 
+            "document": "GaborK \u2014 curl"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T12:15:00", 
+            "document": "GaborK \u2014 xcodebuild"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:20:00", 
+            "document": "gm/examples at master \u00b7 aheckmann/gm"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:20:00", 
+            "document": "animated gif graphicsmagick - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:20:00", 
+            "document": "animated gif gm node - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:20:00", 
+            "document": "gm/append.js at master \u00b7 aheckmann/gm"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:20:00", 
+            "document": "animated gif gm - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:20:00", 
+            "document": "animated graphicsmagick - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-14T12:25:00", 
+            "document": "javascript - how can i fix webstorm warning (= unresolved function ) for \"require\" (firefox add-on-sdk) - Stack Overflow"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-14T12:25:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-14T12:25:00", 
+            "document": "jpgs"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T12:25:00", 
+            "document": "webstorm unresolved function require - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-14T12:25:00", 
+            "document": "Search \u00b7 gm"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-09-14T12:30:00", 
+            "document": "08-14"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T12:30:00", 
+            "document": "final_2.jpg - WTHX - [~/PhpstormProjects/WTHX]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-14T12:30:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-14T12:30:00", 
+            "document": "screenshots"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 93, 
+            "activity": "microsoft.com", 
+            "date": "2015-09-14T15:30:00", 
+            "document": "How to Upgrade to Windows 10 - Microsoft"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T15:30:00", 
+            "document": "installing windows 10 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T15:30:00", 
+            "document": "windows 10 - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "microsoft.com", 
+            "date": "2015-09-14T15:30:00", 
+            "document": "https://www.microsoft.com/en-us/windows/windows-10-upgrade"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 76, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T15:35:00", 
+            "document": "bios windows - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T15:35:00", 
+            "document": "boot from usb windows - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T15:35:00", 
+            "document": "install windows 8 from usb - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T16:05:00", 
+            "document": "alleka - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-14T16:05:00", 
+            "document": "How To Change the Boot Order (Boot Sequence) in BIOS"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 2, 
+            "activity": "RescueTime", 
+            "date": "2015-09-14T16:20:00", 
+            "document": "RescueTime"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 5, 
+            "activity": "pycharm", 
+            "date": "2015-09-14T16:30:00", 
+            "document": "image_scraper.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T16:35:00", 
+            "document": "paypal api tutorial - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T16:40:00", 
+            "document": "wthx - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-14T16:50:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 64, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T16:50:00", 
+            "document": "rafael lozano hemmer - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 22, 
+            "activity": "Finder", 
+            "date": "2015-09-14T16:50:00", 
+            "document": "Desktop"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 31, 
+            "activity": "Finder", 
+            "date": "2015-09-14T17:00:00", 
+            "document": "wthx"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T17:00:00", 
+            "document": "hacker magazine - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T17:00:00", 
+            "document": "pier scheveningen - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-14T17:00:00", 
+            "document": "FOTO'S"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T17:00:00", 
+            "document": "hacking graphics - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-14T17:00:00", 
+            "document": "Bestanden"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 71, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-14T17:05:00", 
+            "document": "Scheveningen Pier - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 15, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-14T17:05:00", 
+            "document": "Pier Scheveningen - Scheveningen Pier - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 36, 
+            "activity": "github.com", 
+            "date": "2015-09-14T17:35:00", 
+            "document": "s-a/sublime-text-refactor"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 45, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T17:35:00", 
+            "document": "refactoring filename sublime - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T17:35:00", 
+            "document": "refactoring sublime - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-14T17:35:00", 
+            "document": "How to refactor in Sublime Text? (Ruby, Rails, JavaScript) - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 104, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "routes.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 21, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "git \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 64, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "src \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 9, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "wthx-interactive \u2014 zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 25, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "LUSTlab / WTHX-Interactive \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 7, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 6, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "Git and Mercurial code management for teams"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 5, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 4, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "Log in \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "controllers \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "git \u2014 git"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "https://bitbucket.org/account/signin/?next=/"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "git \u2014 git-remote-http"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:40:00", 
+            "document": "models \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 8, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "src/index.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "node.js - How do I install a module globally using npm? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 14, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "index.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 17, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "Gruntfile.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "package.json - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "src \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "src \u2014 clang"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "src \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "src \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T17:45:00", 
+            "document": "install globally npm - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 22, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:50:00", 
+            "document": "node_modules \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 16, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:50:00", 
+            "document": "wthx-interactive \u2014 clang"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T17:50:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T17:50:00", 
+            "document": "using npm - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T17:55:00", 
+            "document": "run node js - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 23, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "routes/routes.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 60, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "module.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 44, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "mongodb - node.js bodyParser error - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "TextExtraction.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "connect ECONNREFUSED - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 14, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "mongoose/package.json - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "Cannot find module 'body-parser' - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "stackoverflow.com/questions/20488496/node-js-error-connect-econnrefused-when-using-http-request"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "https://www.google.nl/search?q=Cannot+find+module+'body-parser'&oq=Cannot+find+module+'body-parser'&aqs=chrome..69i57j0.218j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "Running and Debugging Node.Js"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "wthx-interactive \u2014 clang++"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "wthx-interactive \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-14T18:00:00", 
+            "document": "wthx-interactive \u2014 Python"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 9, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T18:05:00", 
+            "document": "Upload.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 40, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T18:05:00", 
+            "document": "config/config.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 13, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T18:05:00", 
+            "document": "public/index.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 36, 
+            "activity": "devtools", 
+            "date": "2015-09-14T18:05:00", 
+            "document": "Developer Tools - http://localhost:63343/wthx-interactive/src/public/index.html"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 19, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T18:05:00", 
+            "document": "Socket.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-09-14T18:05:00", 
+            "document": "js/app.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T18:05:00", 
+            "document": "run node index.js - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-14T18:05:00", 
+            "document": "run node index.s - Google Search"
+        }
+    ]
+}

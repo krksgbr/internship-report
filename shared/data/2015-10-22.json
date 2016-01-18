@@ -1,0 +1,784 @@
+{
+    "2015-10-22": [
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 41, 
+            "activity": "youtube.com", 
+            "date": "2015-10-22T10:20:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-22T10:20:00", 
+            "document": "The History and Future of Everything -- Time - YouTube"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 4, 
+            "activity": "newtab", 
+            "date": "2015-10-22T10:25:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 103, 
+            "activity": "444.hu", 
+            "date": "2015-10-22T10:25:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 36, 
+            "activity": "444.hu", 
+            "date": "2015-10-22T10:25:00", 
+            "document": "Zimbabwei luxusdikt\u00e1tor kapta a rangos k\u00ednai b\u00e9ked\u00edjat - 444"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 17, 
+            "activity": "app store", 
+            "date": "2015-10-22T10:25:00", 
+            "document": "App Store"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 11, 
+            "activity": "444.hu", 
+            "date": "2015-10-22T10:25:00", 
+            "document": "J\u00f6n a Monster a Mekibe - 444"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-22T10:25:00", 
+            "document": "Iraq Explained -- ISIS, Syria and War - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 84, 
+            "activity": "Preview", 
+            "date": "2015-10-22T11:15:00", 
+            "document": "Adorno-Culture-Industry.pdf"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 32, 
+            "activity": "slack", 
+            "date": "2015-10-22T11:15:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:15:00", 
+            "document": "mamoet - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-22T11:15:00", 
+            "document": "python - Calculating the shortest distance(perpendicular distance) between a point and a line - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:15:00", 
+            "document": "point line distance java - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-22T11:15:00", 
+            "document": "Zimbabwe dictator Robert Mugabe is the latest strongman to win China\u2019s Confucius Peace Prize - Quartz"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 26, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-22T11:20:00", 
+            "document": "Matthew Dear & Carl Craig (B2B - Trade Miami Dec 5th) by Matthew Dear"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-22T11:20:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 13, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-22T11:20:00", 
+            "document": "Nao - Bad Blood by Nao"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-22T11:20:00", 
+            "document": "Your stream on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-22T11:20:00", 
+            "document": "SoundCloud \u2013 Hear the world\u2019s sounds"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 121, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:25:00", 
+            "document": "temperature - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 71, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-22T11:25:00", 
+            "document": "Temperature - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:35:00", 
+            "document": "Matthew Dear & Carl Craig (B2B - Trade Miami Dec 5th) - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:35:00", 
+            "document": "Matthew Dear & Carl Craig (B2B - Trade Miami Dec 5th) tracklist - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:40:00", 
+            "document": "water vapor - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 9, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-22T11:40:00", 
+            "document": "Humidity - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:40:00", 
+            "document": "humidity - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:40:00", 
+            "document": "https://www.google.nl/search?q=water+vapor&safe=off&espv=2&biw=1440&bih=757&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMIld_9vuXVyAIVwlsUCh01IQwL"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 42, 
+            "activity": "vimeo.com", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "Caelum - Weather data visualization on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 50, 
+            "activity": "vimeo.com", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "Global Capitals Weather Data Visualization on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 44, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "weather controlled animation - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "vimeo weather data visualization - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 22, 
+            "activity": "vimeo.com", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "My Likes on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "weather generated animation vimeo - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 20, 
+            "activity": "vimeo.com", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "Weather Data as Art on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 19, 
+            "activity": "vimeo.com", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "Watch Later on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 6, 
+            "activity": "vimeo.com", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "Vimeo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "weather data visualization - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T11:55:00", 
+            "document": "weather generated animation - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T12:00:00", 
+            "document": "Design Department at Aachen University of Applied Sciences - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T13:50:00", 
+            "document": "chain tool - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 8, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-22T13:55:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T13:55:00", 
+            "document": "simano casette removal - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-22T14:00:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-22T14:00:00", 
+            "document": "https://bitbucket.org"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 19, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-22T14:25:00", 
+            "document": "LUSTlab / pages-owncloud-activity \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 16, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-22T14:25:00", 
+            "document": "Conga by Skateb\u00e5rd"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 15, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-22T14:25:00", 
+            "document": "LUSTlab / pages-owncloud-activity / commit / 514d5bdc7988 \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 97, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T14:40:00", 
+            "document": "many to many relationship java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-22T14:40:00", 
+            "document": "java - Model structure in many to many relationship - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-22T14:40:00", 
+            "document": "stackoverflow.com/questions/14219954/model-structure-in-many-to-many-relationship"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-22T14:40:00", 
+            "document": "Miguel Senquiz Live @ Movement Detroit 2015 by htmiguel"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-22T14:45:00", 
+            "document": "hashmap - Java many to many association map - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-22T14:45:00", 
+            "document": "java - Data structure to represent many to many relationship - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T14:45:00", 
+            "document": "many to many relationship java data structure - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-22T15:05:00", 
+            "document": "Using Pairs or 2-tuples in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T15:05:00", 
+            "document": "tuple java - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 34, 
+            "activity": "calendar", 
+            "date": "2015-10-22T15:30:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-22T16:00:00", 
+            "document": "Java 8 Stream.findAny() vs finding a random element in the stream - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T16:00:00", 
+            "document": "pick random item from stream java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T16:05:00", 
+            "document": "collect generic list java stream - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T16:05:00", 
+            "document": "collect generic list java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 140, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-22T16:30:00", 
+            "document": "Generating random integers in a range with Java - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T16:30:00", 
+            "document": "random in range - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T16:35:00", 
+            "document": "random in range java 8 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T16:40:00", 
+            "document": "random in range java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-22T16:40:00", 
+            "document": "java - Get random integer in range (x, y]? - Stack Overflow"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 43, 
+            "activity": "index.hu", 
+            "date": "2015-10-22T17:25:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 55, 
+            "activity": "index.hu", 
+            "date": "2015-10-22T17:25:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Karddal t\u00e1madtak di\u00e1kokra Sv\u00e9dorsz\u00e1gban, egy tan\u00e1r meghalt"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 39, 
+            "activity": "index.hu", 
+            "date": "2015-10-22T17:25:00", 
+            "document": "Index - Belf\u00f6ld - L\u00e1szl\u00f3 Petra m\u00e9gsem perli be a felr\u00fagott menek\u00fcltet"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "thesaurus.com", 
+            "date": "2015-10-22T17:25:00", 
+            "document": "Project Synonyms, Project Antonyms | Thesaurus.com"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-22T17:25:00", 
+            "document": "You're A Melody #2 by floating points"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 67, 
+            "activity": "index.hu", 
+            "date": "2015-10-22T18:05:00", 
+            "document": "Index - Mindek\u00f6zben - M\u00e9ly\u00fct\u00e9s az amfetaminrajong\u00f3knak?"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T18:10:00", 
+            "document": "Vlamingstraat 32 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T18:10:00", 
+            "document": "Aktiesport - Google Maps"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 5, 
+            "activity": "4.bp.blogspot.com", 
+            "date": "2015-10-22T18:10:00", 
+            "document": "free+time.jpg (image)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T18:10:00", 
+            "document": "Vlamingstraat 32 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-22T18:10:00", 
+            "document": "Google Maps"
+        }
+    ]
+}

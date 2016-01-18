@@ -1,0 +1,844 @@
+{
+    "2015-10-12": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 89, 
+            "activity": "index.hu", 
+            "date": "2015-10-12T09:50:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 50, 
+            "activity": "index.hu", 
+            "date": "2015-10-12T09:50:00", 
+            "document": "Index - Sport - Egy nagyon b\u00e1tor orosz futott \u00e1t a p\u00e1ly\u00e1n"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-10-12T09:50:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 15, 
+            "activity": "index.hu", 
+            "date": "2015-10-12T09:50:00", 
+            "document": "Index - Sport - H\u00e9tg\u00f3los s\u00f6rmeccsel b\u00facs\u00faztunk az Eb-selejtez\u0151kt\u0151l"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 274, 
+            "activity": "youtube.com", 
+            "date": "2015-10-12T09:55:00", 
+            "document": "Everything You Need to Know About Planet Earth - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-12T10:15:00", 
+            "document": "AirDrop"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-12T10:15:00", 
+            "document": "Arrays \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 161, 
+            "activity": "calendar", 
+            "date": "2015-10-12T10:20:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 17, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:20:00", 
+            "document": "local \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 27, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:20:00", 
+            "document": "bin \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 9, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:20:00", 
+            "document": ".pomo \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 64, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:20:00", 
+            "document": "lib \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:20:00", 
+            "document": "node_modules \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:20:00", 
+            "document": "usr \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:20:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 13, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:25:00", 
+            "document": "pomo \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 9, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:25:00", 
+            "document": "etc \u2014 -zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:25:00", 
+            "document": "etc bin opt - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 19, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:30:00", 
+            "document": "opt \u2014 -zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:35:00", 
+            "document": "register package with brew - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:35:00", 
+            "document": "opt folder - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:35:00", 
+            "document": "package manager for local software - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:35:00", 
+            "document": "usr/local/opt - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:35:00", 
+            "document": "opt - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:40:00", 
+            "document": "properly install cli app - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:40:00", 
+            "document": "uninstall package npm g - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:40:00", 
+            "document": "etc \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:40:00", 
+            "document": "etc \u2014 npm"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:40:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:50:00", 
+            "document": "own \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 18, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:50:00", 
+            "document": "var \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:50:00", 
+            "document": "Cellar \u2014 -zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-10-12T10:50:00", 
+            "document": "opt"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-12T10:50:00", 
+            "document": "3.2.2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-12T10:50:00", 
+            "document": "0.11.3"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:50:00", 
+            "document": "local \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:50:00", 
+            "document": "opt \u2014 git"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T10:55:00", 
+            "document": "recursively copy directory - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:55:00", 
+            "document": "bin \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 5, 
+            "activity": "webstorm", 
+            "date": "2015-10-12T10:55:00", 
+            "document": "overview.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:55:00", 
+            "document": "pomo \u2014 cp"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T10:55:00", 
+            "document": "own \u2014 git"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T11:00:00", 
+            "document": "create symbolic link - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-12T11:20:00", 
+            "document": "How to symlink a file in Linux? - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T11:20:00", 
+            "document": "own \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 20, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T11:25:00", 
+            "document": "GaborK \u2014 -zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 34, 
+            "activity": "Finder", 
+            "date": "2015-10-12T11:25:00", 
+            "document": "bin"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T11:25:00", 
+            "document": "bin \u2014 say"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T11:25:00", 
+            "document": "pomo \u2014 say"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-12T11:25:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T11:25:00", 
+            "document": ".pomo \u2014 rm"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T11:25:00", 
+            "document": "bin \u2014 rm"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T11:25:00", 
+            "document": "bin \u2014 git"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 41, 
+            "activity": "sublime text", 
+            "date": "2015-10-12T11:30:00", 
+            "document": ".zshrc \u2014 .pomo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 16, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "GaborK \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 13, 
+            "activity": "sublime text", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "log.json \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "test.json \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "todo \u2014 .pomo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "reload zshrc - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "Introduction to D3 - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "javascript - D3 - how to deal with JSON data structures? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "javascript - D3.js binding an object to data and appending for each key - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "GaborK \u2014 terminal-notifier"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-12T11:30:00", 
+            "document": "Edit fiddle - JSFiddle"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 58, 
+            "activity": "facebook.com", 
+            "date": "2015-10-12T11:35:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-12T11:35:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 9, 
+            "activity": "slack", 
+            "date": "2015-10-12T12:25:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 23, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-12T12:45:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 14, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-12T12:45:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 16, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-12T14:00:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 20, 
+            "activity": "Finder", 
+            "date": "2015-10-12T14:00:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-10-12T14:00:00", 
+            "document": "content \u2014 .pomo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-12T14:00:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-12T14:00:00", 
+            "document": "https://translate.google.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T16:50:00", 
+            "document": "set minute of day datetime joda - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-12T16:50:00", 
+            "document": "java - In Joda-Time, set DateTime to start of month - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T16:50:00", 
+            "document": "set minute of day datetime - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T16:50:00", 
+            "document": "mutabledatetime - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T17:00:00", 
+            "document": "datetimeformatter - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T17:00:00", 
+            "document": "datetimeformatter joda - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T17:35:00", 
+            "document": "get millis of year datetime joda - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T17:35:00", 
+            "document": "get millis of year datetime - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 77, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T18:50:00", 
+            "document": "discipline - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-12T18:55:00", 
+            "document": "postponing gratification - Google Search"
+        }
+    ]
+}

@@ -1,0 +1,1764 @@
+{
+    "2015-08-31": [
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 1, 
+            "activity": "stickies", 
+            "date": "2015-08-31T09:05:00", 
+            "document": "P\t\tREADING LIST THESIS\n____\u2026"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T09:35:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-31T09:35:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T09:35:00", 
+            "document": "peace palace - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-08-31T09:35:00", 
+            "document": "DIMITRI"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-31T09:35:00", 
+            "document": "resources"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-31T09:35:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-31T09:40:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 16, 
+            "activity": "translate.google.com", 
+            "date": "2015-08-31T09:40:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 8, 
+            "activity": "facebook.com", 
+            "date": "2015-08-31T09:40:00", 
+            "document": "HOUSING for KABK students"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T09:40:00", 
+            "document": "episode - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-31T09:40:00", 
+            "document": "(1) HOUSING for KABK students"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 45, 
+            "activity": "444.hu", 
+            "date": "2015-08-31T10:25:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T10:25:00", 
+            "document": "squash den haag - Google Search"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 19, 
+            "activity": "denhaag.nl", 
+            "date": "2015-08-31T10:25:00", 
+            "document": "The Hague - Squash courts"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-31T10:25:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-31T10:25:00", 
+            "document": "https://soundcloud.com/heathered-pearls"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T10:30:00", 
+            "document": "gym more den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T10:35:00", 
+            "document": "sportcity openingstijden - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T10:35:00", 
+            "document": "Welkom bij Sportcentrum Mariahoeve - Sportcentrum Mariahoeve Den Haag"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 19, 
+            "activity": "Finder", 
+            "date": "2015-08-31T10:45:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T10:50:00", 
+            "document": "a day in the life of a networked designer's smart things - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 192, 
+            "activity": "users", 
+            "date": "2015-08-31T10:55:00", 
+            "document": "440_big03.pdf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T10:55:00", 
+            "document": "design as politics - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T10:55:00", 
+            "document": "a networked designer's critical path - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T11:10:00", 
+            "document": "gdelt - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "calendar", 
+            "date": "2015-08-31T11:20:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 251, 
+            "activity": "foreignpolicy.com", 
+            "date": "2015-08-31T11:25:00", 
+            "document": "Tracking the Islamic State \u2014 With Words | Foreign Policy"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 127, 
+            "activity": "devtools", 
+            "date": "2015-08-31T11:30:00", 
+            "document": "Developer Tools - https://foreignpolicy.com/2015/05/11/apple-watch-cctv-weibo-non-scandal-luxury-class/"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 23, 
+            "activity": "foreignpolicy.com", 
+            "date": "2015-08-31T11:30:00", 
+            "document": "Chinese State TV Anchor Learns the Danger of Wearing an Apple Watch | Foreign Policy"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 5, 
+            "activity": "foreignpolicy.com", 
+            "date": "2015-08-31T11:30:00", 
+            "document": "Foreign Policy | the Global Magazine of News and Ideas"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-08-31T11:30:00", 
+            "document": "chrome-devtools://devtools/bundled/devtools.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@200670/&can_dock=true&dockSide=undocked&toolbarColor=rgba(227,227,227,1)&textColor=rgba(102,102,102,1)"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 70, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T11:35:00", 
+            "document": "gdelt visualization - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T11:35:00", 
+            "document": "gdelt visuzalization - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T12:05:00", 
+            "document": "framer - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T12:05:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-31T12:05:00", 
+            "document": "random"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-31T12:05:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T12:05:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 49, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-31T12:20:00", 
+            "document": "Design methods - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 47, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T12:20:00", 
+            "document": "graphic design methodology - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 43, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T12:20:00", 
+            "document": "graphic design methodology walker gradient - Google Search"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-31T12:25:00", 
+            "document": "Heathered Pearls - Holographic Lodge in Heathered Pearls - Body Complex"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T12:35:00", 
+            "document": "ways of seeing - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 63, 
+            "activity": "Preview", 
+            "date": "2015-08-31T12:40:00", 
+            "document": "ways-of-seeing-john-berger-6.8.pdf"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 20, 
+            "activity": "Google Docs", 
+            "date": "2015-08-31T12:40:00", 
+            "document": "view-source:https://docs.google.com/viewer?url=http://waysofseeingwaysofseeing.com/ways-of-seeing-john-berger-6.8.pdf&embedded=true"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-31T12:40:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 16, 
+            "activity": "Terminal", 
+            "date": "2015-08-31T12:40:00", 
+            "document": "Thesis \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T12:40:00", 
+            "document": "download with curl - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-31T12:40:00", 
+            "document": ".ssh \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-31T12:45:00", 
+            "document": "Notes"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T13:45:00", 
+            "document": "john chris jones design methods - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 10, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-31T13:45:00", 
+            "document": "Mobile - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T13:45:00", 
+            "document": "wikipedia mobile - Google Search"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 9, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-31T13:50:00", 
+            "document": "Heathered Pearls - Personal Kiosk (ft. The Sight Below) in Heathered Pearls - Body Complex"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 47, 
+            "activity": "amazon.com", 
+            "date": "2015-08-31T13:55:00", 
+            "document": "Notes on the Synthesis of Form (Harvard Paperbacks): Christopher Alexander: 9780674627512: Amazon.com: Books"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T13:55:00", 
+            "document": "john chris jones design methods pdf - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 12, 
+            "activity": "amazon.com", 
+            "date": "2015-08-31T13:55:00", 
+            "document": "Design Methods 2, John Chris Jones - Amazon.com"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "amazon.com", 
+            "date": "2015-08-31T13:55:00", 
+            "document": "www.amazon.com/Notes-Synthesis-Form-Harvard-Paperbacks/dp/0674627512"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 15, 
+            "activity": "amazon.co.uk", 
+            "date": "2015-08-31T14:05:00", 
+            "document": "Amazon.co.uk: data flow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T14:05:00", 
+            "document": "thebookdepository - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "amazon.co.uk", 
+            "date": "2015-08-31T14:05:00", 
+            "document": "Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "amazon.co.uk", 
+            "date": "2015-08-31T14:05:00", 
+            "document": "www.amazon.co.uk"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "amazon.co.uk", 
+            "date": "2015-08-31T14:05:00", 
+            "document": "www.amazon.co.uk/s/ref=nb_sb_noss_2/278-5050039-3802968?url=search-alias=aps&field-keywords=data+flow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T14:05:00", 
+            "document": "wordery - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T14:15:00", 
+            "document": "universal growth decline design - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T14:15:00", 
+            "document": "\"universal growth and decline\" - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T14:15:00", 
+            "document": "universal growth and decline\" - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T14:20:00", 
+            "document": "Notes on the Synthesis of Form - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 5, 
+            "activity": "Preview", 
+            "date": "2015-08-31T14:25:00", 
+            "document": "Alexander_Christopher_Notes_on_the_Synthesis_of_Form.pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 184, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-31T14:25:00", 
+            "document": "Christopher Alexander - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-31T14:25:00", 
+            "document": "Notes on the Synthesis of Form - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T14:30:00", 
+            "document": "christopher alexander - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T14:30:00", 
+            "document": "Eishin Campus - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-31T14:30:00", 
+            "document": "Sala House - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-31T14:35:00", 
+            "document": "Dem Howl - Feat. Troels Abrahamsen (KOM314) by Audion"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-31T14:35:00", 
+            "document": "Search Everything on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-31T14:35:00", 
+            "document": "Audion | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 80, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-31T14:45:00", 
+            "document": "The Nature of Order - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 38, 
+            "activity": "alternativeto.net", 
+            "date": "2015-08-31T14:45:00", 
+            "document": "Open Source Evernote Alternatives - AlternativeTo.net"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 13, 
+            "activity": "alternativeto.net", 
+            "date": "2015-08-31T14:45:00", 
+            "document": "Tomboy Alternatives and Similar Software - AlternativeTo.net"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T14:45:00", 
+            "document": "open source evernote - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 10, 
+            "activity": "alternativeto.net", 
+            "date": "2015-08-31T14:50:00", 
+            "document": "Laverna Alternatives - AlternativeTo.net"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "alternativeto.net", 
+            "date": "2015-08-31T14:50:00", 
+            "document": "Zim Alternatives and Similar Software - AlternativeTo.net"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "alternativeto.net", 
+            "date": "2015-08-31T14:50:00", 
+            "document": "wikidPad Alternatives and Similar Software - AlternativeTo.net"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 129, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-31T14:55:00", 
+            "document": "Breunesse.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 53, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-31T14:55:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-31T14:55:00", 
+            "document": "Terpstra.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 11, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-31T14:55:00", 
+            "document": "Kuilman.mp4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T15:00:00", 
+            "document": "Writer.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 13, 
+            "activity": "pycharm", 
+            "date": "2015-08-31T15:10:00", 
+            "document": "testingstuff.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-08-31T15:10:00", 
+            "document": "svgparser/parser.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-08-31T15:10:00", 
+            "document": "vectorize.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 22, 
+            "activity": "pycharm", 
+            "date": "2015-08-31T15:10:00", 
+            "document": "FontBuilder.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T15:10:00", 
+            "document": "create interface in python - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 9, 
+            "activity": "pycharm", 
+            "date": "2015-08-31T15:10:00", 
+            "document": "objectsRF.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-08-31T15:10:00", 
+            "document": "glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-08-31T15:10:00", 
+            "document": "PyCharm 4.0.5"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-08-31T15:10:00", 
+            "document": "fontexport/__init__.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 5, 
+            "activity": "pycharm", 
+            "date": "2015-08-31T15:20:00", 
+            "document": "helpers.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-08-31T15:35:00", 
+            "document": "vectorize"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T15:35:00", 
+            "document": "coupling and cohesion in software design - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 126, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-31T15:40:00", 
+            "document": "oop - Cohesion & Coupling - Stack Overflow"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 3, 
+            "activity": "amazon.com", 
+            "date": "2015-08-31T15:40:00", 
+            "document": "Object-Oriented Software Construction (Book/CD-ROM) (2nd Edition): Bertrand Meyer: 9780136291558: Amazon.com: Books"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "amazon.com", 
+            "date": "2015-08-31T15:40:00", 
+            "document": "www.amazon.com/dp/0136291554/?tag=stackoverfl08-20"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T15:45:00", 
+            "document": "coupling example software - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 45, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-31T15:45:00", 
+            "document": "java - What GUI libraries are the jetbrains using? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 35, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T15:45:00", 
+            "document": "intellij idea gui framework - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 60, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-31T15:55:00", 
+            "document": "Java abstract/interface design in Python - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 61, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-31T15:55:00", 
+            "document": "Loose coupling - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T15:55:00", 
+            "document": "python interfaces vs java - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 105, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-08-31T16:00:00", 
+            "document": "java - How to create contracts in python - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 62, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-31T16:05:00", 
+            "document": "language agnostic - What is \"loose coupling?\" Please provide examples - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-31T16:05:00", 
+            "document": "Posts containing 'coupling' - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-31T16:05:00", 
+            "document": "Highest voted posts containing 'coupling' - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-31T16:05:00", 
+            "document": "Posts containing 'loose coupling' - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-31T16:05:00", 
+            "document": "Human Verification - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-31T16:05:00", 
+            "document": "oop - Coupling and cohesion - Stack Overflow"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "site"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 23, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Code - Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 39, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Dropbox - Sign up to view this shared folder"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "js"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 13, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Downloading Dropbox - Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 13, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Vredespaleis - Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 10, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Get Started - Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 5, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Sketches after 01.09.2015 - Dropbox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Vredespaleis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "isotope"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Home - Dropbox"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Sketches before 01.09.2015 - Dropbox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "dropbox", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Account"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Content Touchscreens - Dropbox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "dropbox", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "General"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "Code"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "img"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "libraries"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "dropbox.com", 
+            "date": "2015-08-31T16:10:00", 
+            "document": "https://www.dropbox.com/share"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 31, 
+            "activity": "sublime text", 
+            "date": "2015-08-31T16:15:00", 
+            "document": "script.js \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 22, 
+            "activity": "users", 
+            "date": "2015-08-31T16:15:00", 
+            "document": "test.html"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 20, 
+            "activity": "quicktime player", 
+            "date": "2015-08-31T16:15:00", 
+            "document": "Comp 2 (Converted).mov"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:15:00", 
+            "document": "Sketches after 01.09.2015"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 10, 
+            "activity": "users", 
+            "date": "2015-08-31T16:15:00", 
+            "document": "index.php"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:15:00", 
+            "document": "Sketches before 01.09.2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-31T16:15:00", 
+            "document": "Content Touchscreens"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 80, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-31T16:50:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project *"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T16:50:00", 
+            "document": "copy frame after effects - Google Search"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 1, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-31T16:50:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 2, 
+            "activity": "dropbox", 
+            "date": "2015-08-31T16:55:00", 
+            "document": "Share Your Screenshots Using Dropbox"
+        }, 
+        {
+            "category": "Presentation", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 40, 
+            "activity": "videocopilot.net", 
+            "date": "2015-08-31T17:00:00", 
+            "document": "VIDEO COPILOT | After Effects Tutorials, Plug-ins and Stock Footage for Post Production Professionals"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-31T17:00:00", 
+            "document": "64bit"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-31T17:00:00", 
+            "document": "Comp2Clip2"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-31T17:00:00", 
+            "document": "Comp2Clip.plugin \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-31T17:00:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 76, 
+            "activity": "Finder", 
+            "date": "2015-08-31T17:05:00", 
+            "document": "Applications"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 19, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-31T17:05:00", 
+            "document": "Adobe After Effects CC 2014 - postproc.aep"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T17:05:00", 
+            "document": "after effects plugin folder mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T17:05:00", 
+            "document": "after effects cc plugin folder mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T17:05:00", 
+            "document": "after effects plugin folder - Google Search"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 154, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-31T17:10:00", 
+            "document": "Adobe After Effects CC 2014 - postproc.aep *"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-08-31T17:10:00", 
+            "document": "repair"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 25, 
+            "activity": "Preview", 
+            "date": "2015-08-31T17:10:00", 
+            "document": "breunesse1"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-31T17:10:00", 
+            "document": "frame duration after effects - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 59, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T17:20:00", 
+            "document": "ColorBuffer.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 189, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T17:25:00", 
+            "document": "Image.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T17:25:00", 
+            "document": "BufferedImage.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 93, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T17:35:00", 
+            "document": "DrawerGL3.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T17:35:00", 
+            "document": "RenderTarget.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 53, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T17:35:00", 
+            "document": "SketchGL3.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T17:35:00", 
+            "document": "SketchDelegateInterface.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 93, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T17:40:00", 
+            "document": "VideoPlayer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-08-31T18:05:00", 
+            "document": "Iterable.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 59, 
+            "activity": "facebook.com", 
+            "date": "2015-08-31T18:55:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-31T18:55:00", 
+            "document": "(6) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-31T18:55:00", 
+            "document": "https://www.facebook.com"
+        }
+    ]
+}

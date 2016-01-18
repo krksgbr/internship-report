@@ -1,0 +1,1194 @@
+{
+    "2015-10-14": [
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-10-14T10:55:00", 
+            "document": "GaborK \u2014 -zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T11:00:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 24, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-14T11:00:00", 
+            "document": "wc (Unix) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T11:00:00", 
+            "document": "wc unix - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T11:00:00", 
+            "document": "xargs - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T11:00:00", 
+            "document": "wc unix sort - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T11:00:00", 
+            "document": "wc - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 77, 
+            "activity": "index.hu", 
+            "date": "2015-10-14T11:20:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 6, 
+            "activity": "huffingtonpost.co.uk", 
+            "date": "2015-10-14T11:20:00", 
+            "document": "Halloween Display Featuring Syringe-Riddled Dead Bodies Removed After Complaints"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 21, 
+            "activity": "index.hu", 
+            "date": "2015-10-14T11:20:00", 
+            "document": "Index - Mindek\u00f6zben - M\u00e9g csak okt\u00f3ber k\u00f6zepe van, de Ohi\u00f3ban m\u00e1ris t\u00falmaxolt\u00e1k a halloweent"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 35, 
+            "activity": "444.hu", 
+            "date": "2015-10-14T11:30:00", 
+            "document": "Vezet\u0151 n\u00e9lk\u00fcl elszabadult villamos bor\u00edtotta k\u00e1oszba a kazah ex-f\u0151v\u00e1rost - 444"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-14T11:30:00", 
+            "document": "The Dark Sky Forecast API Docs"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 75, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T11:40:00", 
+            "document": "What is the difference between a Singleton pattern and a static class in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T11:40:00", 
+            "document": "Difference between static class and singleton pattern? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 31, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T11:40:00", 
+            "document": "java - Difference between singleton class and static class? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T11:40:00", 
+            "document": "singleton vs static java - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-14T11:45:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-14T11:45:00", 
+            "document": "basscadet - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-14T11:45:00", 
+            "document": "Autechre - Basscadet - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-14T11:45:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-10-14T12:00:00", 
+            "document": "Autechre - Eggshell - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T12:20:00", 
+            "document": "java yaml to map - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-14T12:20:00", 
+            "document": "Autechre - Windwind - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 19, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-14T12:25:00", 
+            "document": "asomov / snakeyaml / wiki / Documentation \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 61, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-14T12:25:00", 
+            "document": "asomov / snakeyaml / wiki / Home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 15, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-14T12:25:00", 
+            "document": "asomov / snakeyaml / wiki / Howto \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T12:25:00", 
+            "document": "yaml java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 11, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-14T12:25:00", 
+            "document": "asomov / snakeyaml \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-14T12:25:00", 
+            "document": "asomov/snakeyaml"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T12:25:00", 
+            "document": "snakeyaml github - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T12:35:00", 
+            "document": "make map yaml - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T12:50:00", 
+            "document": "store Class object references in yaml java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T12:50:00", 
+            "document": "store class references in yaml java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T12:50:00", 
+            "document": "store class references in yaml - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T12:50:00", 
+            "document": "store class references in ymal - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T12:50:00", 
+            "document": "Autechre - Eggshell. HQ - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 6, 
+            "activity": "code.google.com", 
+            "date": "2015-10-14T12:55:00", 
+            "document": "Documentation - snakeyaml - YAML parser and emitter for Java - Google Project Hosting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 27, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T12:55:00", 
+            "document": "java - Load .yml file into hashmaps using snakeyaml (import junit library) - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T12:55:00", 
+            "document": "load map from yaml file - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 99, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T13:55:00", 
+            "document": "Configure list of java class objects through yaml - Stack Overflow"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 25, 
+            "activity": "thenextweb.com", 
+            "date": "2015-10-14T13:55:00", 
+            "document": "Popcorn Time for music is here"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T13:55:00", 
+            "document": "java class objects yaml - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T13:55:00", 
+            "document": "store class objects yaml - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T13:55:00", 
+            "document": "popcorn time for musc - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T13:55:00", 
+            "document": "class objects yaml - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T13:55:00", 
+            "document": "popcorntime for musc - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T14:00:00", 
+            "document": "Inbox (39) - krks.gbr@gmail.com - Gmail"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T14:05:00", 
+            "document": "yaml dump does not contain javabeans - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 50, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T14:10:00", 
+            "document": "serialization - Serializing Object to YAML in Java using snakeyaml Library - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T14:10:00", 
+            "document": "org.yaml.snakeyaml.error.YAMLException: No JavaBean properties found in - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T14:10:00", 
+            "document": "org.yaml.snakeyaml.error.YAMLException: No JavaBean properties found ib - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T14:15:00", 
+            "document": "yaml dump Class java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 14, 
+            "activity": "code.google.com", 
+            "date": "2015-10-14T14:15:00", 
+            "document": "Issue 116 - snakeyaml - \"No JavaBean properties...\" an Error? - YAML parser and emitter for Java - Google Project Hosting"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 8, 
+            "activity": "groups.google.com", 
+            "date": "2015-10-14T14:15:00", 
+            "document": "Configuring snakeyaml to ignore setters? - Google Groups"
+        }, 
+        {
+            "category": "General Communication & Scheduling", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 3, 
+            "activity": "groups.google.com", 
+            "date": "2015-10-14T14:15:00", 
+            "document": "Google Groups"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T14:45:00", 
+            "document": "java - Yaml Parsing from a config file - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T14:45:00", 
+            "document": "yaml map java - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 12, 
+            "activity": "facebook.com", 
+            "date": "2015-10-14T14:50:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 11, 
+            "activity": "facebook.com", 
+            "date": "2015-10-14T14:50:00", 
+            "document": "Moniker"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T14:50:00", 
+            "document": "moniker - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-14T14:50:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-14T14:50:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T14:55:00", 
+            "document": "java - Problems while loading initial-data.yml in play 2.0 - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T14:55:00", 
+            "document": "java - Play: errors with a yml file - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T14:55:00", 
+            "document": "org.yaml.snakeyaml.constructor.ConstructorException: Can't construct a java object for - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 35, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-14T15:00:00", 
+            "document": "Leon Trotsky - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T15:00:00", 
+            "document": "trotsky - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 60, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T15:20:00", 
+            "document": "What is an efficient way to implement a singleton pattern in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T15:20:00", 
+            "document": "singleton java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 54, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T15:55:00", 
+            "document": "can I reflectively instantiate a generic type in java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T15:55:00", 
+            "document": "load generic class from name java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T15:55:00", 
+            "document": "load generic class from name - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T15:55:00", 
+            "document": "load generic class from name jav - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 77, 
+            "activity": "444.hu", 
+            "date": "2015-10-14T16:10:00", 
+            "document": "B\u00e9bipatk\u00e1ny keveredett a Subway szendvics b\u00e9bispen\u00f3tj\u00e1ba - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 6, 
+            "activity": "444.hu", 
+            "date": "2015-10-14T16:10:00", 
+            "document": "Wagram Gazdagr\u00e9ten - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 110, 
+            "activity": "444.hu", 
+            "date": "2015-10-14T16:45:00", 
+            "document": "Belgium\u00e9 a vil\u00e1g legjobb v\u00e1logatottja - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 20, 
+            "activity": "444.hu", 
+            "date": "2015-10-14T16:45:00", 
+            "document": "Valakinek nem hi\u00e1nyzik a hasisa? - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-14T16:45:00", 
+            "document": "http://444.hu/ failed to load"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 36, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T17:25:00", 
+            "document": "java - Hashmap get returns null - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-14T17:25:00", 
+            "document": "nullpointerexception - Java HashMap get method null pointer exception - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T17:25:00", 
+            "document": "don't allow null in map - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T17:25:00", 
+            "document": "make map throw nullpointer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T17:25:00", 
+            "document": "map return null - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 69, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T17:35:00", 
+            "document": "GEMAK The Hague to 2e de Carpentierstraat 153, 2595 HJ Den Haag - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 54, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T17:35:00", 
+            "document": "2e de Carpentierstraat 153 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T17:35:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "google.com", 
+            "date": "2015-10-14T17:35:00", 
+            "document": "https://www.google.com/maps"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-14T18:30:00", 
+            "document": "Learn yaml in Y Minutes"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:35:00", 
+            "document": "broadcast hostname mac - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:35:00", 
+            "document": "python web server broadcast hostname - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:35:00", 
+            "document": "python web server broadcast host name - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:35:00", 
+            "document": "broadcast hostname on local network - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:35:00", 
+            "document": "run python web server - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:40:00", 
+            "document": "avahi mac os x - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:40:00", 
+            "document": "find mac on local network by machine name - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:40:00", 
+            "document": "avahi tutorial - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:40:00", 
+            "document": "avahi - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-14T18:40:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-14T18:40:00", 
+            "document": "Terminal \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 26, 
+            "activity": "Terminal", 
+            "date": "2015-10-14T18:45:00", 
+            "document": "GaborK \u2014 less"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-10-14T18:45:00", 
+            "document": "GaborK \u2014 scutil"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:45:00", 
+            "document": "connect to server local network mac - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "hosttest \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "hosttest \u2014 Python"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 43, 
+            "activity": "sublime text", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "index.html \u2014 .pomo, hosttest"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 32, 
+            "activity": "sublime text", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "log.json \u2014 .pomo, hosttest"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "python web server - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "hosttest"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 9, 
+            "activity": "localhost", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "http://localhost/ is not available"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Quality Assurance", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 4, 
+            "activity": "localhost:8000", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "localhost:8000"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "untitled \u2014 .pomo, hosttest"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "untitled"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-14T18:50:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 95, 
+            "activity": "localhost", 
+            "date": "2015-10-14T18:55:00", 
+            "document": "localhost"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-10-14T18:55:00", 
+            "document": "hosttest \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-14T18:55:00", 
+            "document": "hosttest \u2014 login"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-14T18:55:00", 
+            "document": "find out ip address local mac - Google Search"
+        }
+    ]
+}

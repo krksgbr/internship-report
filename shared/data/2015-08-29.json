@@ -1,0 +1,1184 @@
+{
+    "2015-08-29": [
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T11:05:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 23, 
+            "activity": "facebook.com", 
+            "date": "2015-08-29T11:05:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 16, 
+            "activity": "slack", 
+            "date": "2015-08-29T11:05:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 43, 
+            "activity": "arxiv.org", 
+            "date": "2015-08-29T11:05:00", 
+            "document": "arxiv.org/pdf/1508.06576v1.pdf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "arxiv.org", 
+            "date": "2015-08-29T11:05:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 15, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T11:05:00", 
+            "document": "knp.transition.multiplelines2.mov"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 4, 
+            "activity": "RescueTime", 
+            "date": "2015-08-29T11:05:00", 
+            "document": "RescueTime"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-08-29T11:05:00", 
+            "document": "(4) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-29T11:05:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 7, 
+            "activity": "newtab", 
+            "date": "2015-08-29T11:10:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T11:10:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T11:10:00", 
+            "document": "Clio - Faces (Italo Disco) (Good Quality) - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-29T11:10:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-29T11:10:00", 
+            "document": "fietsenwinkel theresiastraat - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T11:10:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 125, 
+            "activity": "facebook.com", 
+            "date": "2015-08-29T11:15:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-29T11:15:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-29T11:15:00", 
+            "document": "Unix time - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-29T11:20:00", 
+            "document": "away from surfaces graphic design - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 169, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T11:30:00", 
+            "document": "Animation.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 25, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T11:30:00", 
+            "document": "Vladislav Delay - Lehka - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T11:30:00", 
+            "document": "Kit Clayton - Material Problem - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T11:30:00", 
+            "document": "CARON- Out of the night. (Italo Disco 1986) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T11:30:00", 
+            "document": "kit clayton - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T11:30:00", 
+            "document": "Welcome to IntelliJ IDEA"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T11:30:00", 
+            "document": "Kit Clayton - Nele - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T11:30:00", 
+            "document": "hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T11:35:00", 
+            "document": "Triangle.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 139, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T11:35:00", 
+            "document": "Test.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T11:40:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 102, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T11:40:00", 
+            "document": "AwData.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T11:40:00", 
+            "document": "HubbubSketch2.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T11:40:00", 
+            "document": "D.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T12:05:00", 
+            "document": "AnimationCompletedCallback.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 11, 
+            "activity": "facebook.com", 
+            "date": "2015-08-29T12:15:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T12:55:00", 
+            "document": "AnimationCompleteCall.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T13:10:00", 
+            "document": "DeepChord Presents Echospace - Aequinoxium - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T13:10:00", 
+            "document": "Schizophrenia/Schizophrenia - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T13:25:00", 
+            "document": "Vainqueur - \"Elevation\" (Version1) - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 55, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T13:50:00", 
+            "document": "FrameClock.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T14:35:00", 
+            "document": "HeartLayer.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T14:45:00", 
+            "document": "DrawerGL3.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-29T15:10:00", 
+            "document": "exported_videos"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-29T15:10:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-29T15:10:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-29T15:10:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-29T15:10:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-29T15:10:00", 
+            "document": "untitled folder"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T15:20:00", 
+            "document": "ColorBuffer.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T15:20:00", 
+            "document": "VideoWriter.class - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 35, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-29T15:25:00", 
+            "document": "java - Insufficient buffer size when trying to create a texture with openGL - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 6, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T15:25:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T15:25:00", 
+            "document": "Kuilman.mp4"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-08-29T15:25:00", 
+            "document": "The Architecture of Radio - Visualizing the invisible architecture of networks / by @richardvijgen #iPad #threejs"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 3, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T15:30:00", 
+            "document": "Bosveld.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 6, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T15:30:00", 
+            "document": "Bosveld_heartbeat.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 6, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T15:30:00", 
+            "document": "Errors and Warnings"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 64, 
+            "activity": "facebook.com", 
+            "date": "2015-08-29T16:25:00", 
+            "document": "Arnas Makauskas"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 135, 
+            "activity": "444.hu", 
+            "date": "2015-08-29T16:30:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 6, 
+            "activity": "444.hu", 
+            "date": "2015-08-29T16:30:00", 
+            "document": "Nem a Ligetbe kellene hatalmas \u00e9p\u00fcleteket zs\u00fafolni, hanem a Budapest belv\u00e1ros\u00e1ban megl\u00e9v\u0151ket kellene jobban kihaszn\u00e1lni !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 21, 
+            "activity": "444.hu", 
+            "date": "2015-08-29T16:35:00", 
+            "document": "Szlov\u00e1kia hallani sem akar az eur\u00f3pai menek\u00fcltkv\u00f3t\u00e1r\u00f3l !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 55, 
+            "activity": "444.hu", 
+            "date": "2015-08-29T16:45:00", 
+            "document": "Indi\u00e1ban meger\u0151szakol\u00e1sra \u00edt\u00e9ltek k\u00e9t n\u0151t !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 11, 
+            "activity": "444.hu", 
+            "date": "2015-08-29T16:45:00", 
+            "document": "Banksy \u00fajratervezte az Eur\u00f3pai Uni\u00f3 z\u00e1szl\u00f3j\u00e1t !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-08-29T16:45:00", 
+            "document": "traffic.outbrain.com/network/redir?p=mmVYk0h52n3-LqQzaEv9mhihomF8aq4Za0rUFp7e7CiQdC98MuQR6uUNaRU5DPFLWrvEouKm-uCmEC7iQx70IGNIfKxB21J02j9YHvJmaWoaDacAzrem5SSWKsarKmuqvhJliFWy8igQSIMYSupr32oQlY_5pdNHb2RoeJGaz_Mz7QBoE_Nd6KtUm25t2hlQjjsI44xUYyd78DGGXDttRAADPI"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 31, 
+            "activity": "Finder", 
+            "date": "2015-08-29T16:50:00", 
+            "document": "sketches"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-08-29T16:50:00", 
+            "document": "Authorize GitLab.com"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-29T16:50:00", 
+            "document": "https://github.com/login/oauth/authorize?response_type=code&client_id=bbe1fe17fd3206756805&redirect_uri=https://gitlab.com/users/auth/github/callback&state=9910e6581b490744b6dc7a444f3c2d243790cb1a7082d336&scope=user:email"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 115, 
+            "activity": "Terminal", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "lustlab-hubbub-sketch \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 67, 
+            "activity": "Terminal", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "lustlab-hubbub-sketch \u2014 vim"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 48, 
+            "activity": "Finder", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "lustlab-hubbub-sketch"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 23, 
+            "activity": "sublime text", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "gitignore \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "How to exit the VIM editor? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "quit vim - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "font-cache"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T16:55:00", 
+            "document": "src"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 25, 
+            "activity": "Terminal", 
+            "date": "2015-08-29T17:00:00", 
+            "document": "lustlab-hubbub-sketch \u2014 ssh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-29T17:00:00", 
+            "document": "git - How to remove files that are listed in the .gitignore but still on the repository? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-29T17:00:00", 
+            "document": "remove files listed in gitignore - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-29T17:00:00", 
+            "document": "lustlab-hubbub-sketch \u2014 git"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-29T17:00:00", 
+            "document": ".gitignore \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 100, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T17:10:00", 
+            "document": "answers.json - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T17:10:00", 
+            "document": "jan jelinek - they, them - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 20, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T17:10:00", 
+            "document": "Super Collider - It Won't Be Long - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T17:10:00", 
+            "document": "Monolake - Macau - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T17:10:00", 
+            "document": "QsData.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T17:10:00", 
+            "document": "Ad Vanz v Gescom - Viral - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 32, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T17:15:00", 
+            "document": "Jan Jelinek - Tendency - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-29T17:25:00", 
+            "document": "Jan Jelinek - Loop Finding Jazz Records (Full Album) - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:40:00", 
+            "document": "DIMITRI"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:40:00", 
+            "document": "amazondark"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:40:00", 
+            "document": "Fauna"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:40:00", 
+            "document": "blackgoblin"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:40:00", 
+            "document": "Systems presentation 14.10.13."
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:40:00", 
+            "document": "posterarchive"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:40:00", 
+            "document": "2014-02-03"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:45:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:45:00", 
+            "document": "animation_frames"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:45:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:45:00", 
+            "document": "Bosveld"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:45:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:45:00", 
+            "document": "screenshots"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:45:00", 
+            "document": "Kuilman"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 47, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T17:50:00", 
+            "document": "Bosveld1.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-29T17:50:00", 
+            "document": "heartbeats"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 5, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T17:50:00", 
+            "document": "Bosveld_heartbeat1.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 3, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T17:50:00", 
+            "document": "Breunesse_heartbeat.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-29T17:50:00", 
+            "document": "De vliegher_heartbeat.mp4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 134, 
+            "activity": "sublime text", 
+            "date": "2015-08-29T17:55:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-29T18:15:00", 
+            "document": "DurationTester.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 66, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-08-29T18:20:00", 
+            "document": "*Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 16, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-08-29T18:20:00", 
+            "document": "Untitled-1"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "adobe illustrator cc 2014", 
+            "date": "2015-08-29T18:20:00", 
+            "document": "Untitled-1*"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 68, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-29T18:45:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project *"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 1, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-29T18:45:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 44, 
+            "activity": "google.nl", 
+            "date": "2015-08-29T18:50:00", 
+            "document": "premiere keying color range - Google Search"
+        }
+    ]
+}

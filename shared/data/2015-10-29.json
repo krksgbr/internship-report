@@ -1,0 +1,1074 @@
+{
+    "2015-10-29": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 285, 
+            "activity": "444.hu", 
+            "date": "2015-10-29T10:00:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 176, 
+            "activity": "444.hu", 
+            "date": "2015-10-29T10:05:00", 
+            "document": "MI5: Az ISIS t\u00f6meges t\u00e1mad\u00e1sokra k\u00e9sz\u00fcl Nagy-Britanni\u00e1ban - 444"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 28, 
+            "activity": "Google Spreadsheets", 
+            "date": "2015-10-29T11:05:00", 
+            "document": "kabk_rooster GO_2015-2016 DEF.xlsx - Google Sheets"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 25, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:05:00", 
+            "document": "Reggie B - Do You Wanna Ride Ft. B.Bravo,Salva & C Note - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:05:00", 
+            "document": "B. Bravo - Bubble Showers - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:05:00", 
+            "document": "Reggie B - Hypnotized - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:05:00", 
+            "document": "Reggie B - 'The Celeste\" [Official Video] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:05:00", 
+            "document": "Onra : High Hopes ft. Reggie B - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:05:00", 
+            "document": "reggie b - YouTube"
+        }, 
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "mail-attachment.googleusercontent.com", 
+            "date": "2015-10-29T11:05:00", 
+            "document": "https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=50fc3e6247&view=att&th=150b2d8346860644&attid=0.2&disp=inline&safe=1&zw&saddbat=ANGjdJ9jZRx2QWEUS3C2_WRDn_6Zp8Zklj4NhjC8-fr03SuTHMYIgGRX-boUbCBWEZtt2V6269_WEaRlVeGBIHFHHdkC-BWd_afXBZlIG"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T11:10:00", 
+            "document": "java - Initialize a static final field in the constructor - Stack Overflow"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:10:00", 
+            "document": "Leyland Kirby -- We drink to forget the coming storm (2014) [full album] - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T11:10:00", 
+            "document": "Jan Robert Leegte - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:10:00", 
+            "document": "Onra - The One feat. T3 from Slum Village - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:10:00", 
+            "document": "Onra - Long Distance ft. Olivier Daysoul - YouTube"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "TextEdit", 
+            "date": "2015-10-29T11:10:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 68, 
+            "activity": "calendar", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 24, 
+            "activity": "Google+", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "Here's how to reset the commonly 30 day trial of any program on your computer.\u2026"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 10, 
+            "activity": "facebook.com", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "Gas - Pop [Full Album] - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "reset trials mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "Madvillain - Figaro - Madvillainy (Full Album) - YouTube"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 7, 
+            "activity": "calendar", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "Colors"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "madvillainy - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "fantastical - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-29T11:15:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-29T11:20:00", 
+            "document": "wthx-interactive \u2014 -zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T11:20:00", 
+            "document": "natural language support calendar open source - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 16, 
+            "activity": "Terminal", 
+            "date": "2015-10-29T11:20:00", 
+            "document": "wthx2015display \u2014 dtrace"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-10-29T11:20:00", 
+            "document": "wthx2015display \u2014 -zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-10-29T11:20:00", 
+            "document": "trial_reset"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-10-29T11:20:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-10-29T11:20:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-29T11:20:00", 
+            "document": "wthx2015display \u2014 sudo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 93, 
+            "activity": "github.com", 
+            "date": "2015-10-29T11:25:00", 
+            "document": "Search \u00b7 fantastical"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T11:25:00", 
+            "document": "madvillainy 2 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-29T11:25:00", 
+            "document": "wspringer/typical"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T11:25:00", 
+            "document": "alfred workflow - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:25:00", 
+            "document": "Madvillain - Monkey Suite - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-29T11:25:00", 
+            "document": "GitHub"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-29T11:30:00", 
+            "document": "Madvillainy 2 - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:30:00", 
+            "document": "Madvillain - Raid - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T11:30:00", 
+            "document": "gas pop - YouTube"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 42, 
+            "activity": "slack", 
+            "date": "2015-10-29T12:00:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 27, 
+            "activity": "Terminal", 
+            "date": "2015-10-29T12:05:00", 
+            "document": "wthx-interactive \u2014 mongo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T12:05:00", 
+            "document": "Delete everything in a MongoDB database - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T12:05:00", 
+            "document": "mongo clear database - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 13, 
+            "activity": "Terminal", 
+            "date": "2015-10-29T12:10:00", 
+            "document": "wthx-interactive \u2014 mongod"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 92, 
+            "activity": "Terminal", 
+            "date": "2015-10-29T12:35:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-29T12:35:00", 
+            "document": "wthx-interactive \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-29T12:35:00", 
+            "document": "wthx-interactive \u2014 git"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T12:40:00", 
+            "document": "Frits Deys - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 7, 
+            "activity": "ebay.com", 
+            "date": "2015-10-29T12:55:00", 
+            "document": "Electronics, Cars, Fashion, Collectibles, Coupons and More | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 71, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T13:50:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T13:50:00", 
+            "document": "Gas - Zauberberg (1997) [full album] - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T13:50:00", 
+            "document": "GEMAK The Hague to Da Costalaan 3, 2281 SB Rijswijk - Google Maps"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T13:50:00", 
+            "document": "Gas - Gas 0095 - Full Album - [1995] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T13:50:00", 
+            "document": "Gas - K\u00f6nigsforst (1999) [full album] - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T13:55:00", 
+            "document": "state of view mvc - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T13:55:00", 
+            "document": "ViewState - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 20, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T13:55:00", 
+            "document": "Gas - Pop (2000) [full album] - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T14:00:00", 
+            "document": "ViewModel java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 16, 
+            "activity": "github.com", 
+            "date": "2015-10-29T14:00:00", 
+            "document": "RoboMVVM/ViewModel.java at master \u00b7 debdattabasu/RoboMVVM"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T14:00:00", 
+            "document": "asp.net mvc - ViewModel in Java (Spring) - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T14:00:00", 
+            "document": "partial view in mvc - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T14:05:00", 
+            "document": "ASP.NET MVC 2 - How do I properly switch views based on model context? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T14:05:00", 
+            "document": "switching views mvc - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T14:05:00", 
+            "document": "switching between views mvc java - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-10-29T14:15:00", 
+            "document": "Sketches after 01.09.2015"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-10-29T14:15:00", 
+            "document": "*VREDESPALEIS 3.indd"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-10-29T14:15:00", 
+            "document": "Sketches before 01.09.2015"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 4, 
+            "activity": "Preview", 
+            "date": "2015-10-29T14:15:00", 
+            "document": "VREDESPALEIS 3.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-29T14:15:00", 
+            "document": "Presentations"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-29T14:15:00", 
+            "document": "Dropbox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-29T14:15:00", 
+            "document": "materials"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-29T14:15:00", 
+            "document": "Vredespaleis"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-10-29T15:00:00", 
+            "document": "Stars Of The Lid - ...and Their Refinement of the Decline (Full Album) - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:05:00", 
+            "document": "Pahudstraat 13 to Leeuwendaallaan 14, 2281 GP Rijswijk - Google Maps"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:05:00", 
+            "document": "load json array java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:05:00", 
+            "document": "Leeuwendaallaan 14 - Google Maps"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:05:00", 
+            "document": "Leeuwendaallaan 14, 2281 GP Rijswijk - Google Maps"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 52, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T15:10:00", 
+            "document": "java - Convert a .json file to a JSONArray - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 43, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T15:10:00", 
+            "document": "java - How to parse a JSON and turn its values into an Array? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:10:00", 
+            "document": "load json array from file java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T15:10:00", 
+            "document": "How to read json file into java with simple JSON library - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:15:00", 
+            "document": "jsonarray gson - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 54, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T15:15:00", 
+            "document": "java - What\u2019s the best way to load a JSONObject from a json text file? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T15:15:00", 
+            "document": "java - Using GSON to parse a JSON array - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 89, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-29T15:20:00", 
+            "document": "How do I copy an object in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:20:00", 
+            "document": "clone object java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:20:00", 
+            "document": "clone moment object - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:25:00", 
+            "document": "json reader gson - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:25:00", 
+            "document": "load json from file java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T15:25:00", 
+            "document": "load json from file javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T16:05:00", 
+            "document": "is filereader blocking java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T16:05:00", 
+            "document": "is filereader blocking - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-10-29T16:45:00", 
+            "document": "Searching \u201cthumb\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-29T16:45:00", 
+            "document": "thumb"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-10-29T16:45:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-29T16:50:00", 
+            "document": "crankset bolt - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 36, 
+            "activity": "facebook.com", 
+            "date": "2015-10-29T17:05:00", 
+            "document": "KABK GOVT 4"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 15, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-29T17:05:00", 
+            "document": "Learn Java | Codecademy"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 13, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-29T17:05:00", 
+            "document": "Gilberto Hernandez | Codecademy"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 5, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-29T17:05:00", 
+            "document": "Gilberto Hernandez's Codebits | Codecademy"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 3, 
+            "activity": "codecademy.com", 
+            "date": "2015-10-29T17:05:00", 
+            "document": "Learn | Codecademy"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 48, 
+            "activity": "444.hu", 
+            "date": "2015-10-29T17:50:00", 
+            "document": "Soha nem tal\u00e1ln\u00e1d ki, hogy ki szivarozik ebben a s\u00f6t\u00e9t Bentley kabri\u00f3ban a K\u00e1lvin t\u00e9ren - 444"
+        }
+    ]
+}

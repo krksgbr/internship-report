@@ -1,0 +1,1124 @@
+{
+    "2015-10-02": [
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 168, 
+            "activity": "app store", 
+            "date": "2015-10-02T09:45:00", 
+            "document": "App Store"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 42, 
+            "activity": "index.hu", 
+            "date": "2015-10-02T09:45:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 104, 
+            "activity": "444.hu", 
+            "date": "2015-10-02T09:50:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 35, 
+            "activity": "444.hu", 
+            "date": "2015-10-02T09:50:00", 
+            "document": "Ha m\u00e1r felh\u00edvod a seggeddel a rend\u0151rs\u00e9get, legal\u00e1bb ne arr\u00f3l besz\u00e9lj, hogy \u00e9ppen k\u00f6r\u00f6znek !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 58, 
+            "activity": "444.hu", 
+            "date": "2015-10-02T09:50:00", 
+            "document": "P\u00e1r percig v\u00e9letlen\u00fcl elad\u00f3 volt a google.com domain, egy f\u00e9rfi meg is vette 12 doll\u00e1r\u00e9rt !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 47, 
+            "activity": "444.hu", 
+            "date": "2015-10-02T09:50:00", 
+            "document": "2015 legnagyobb milli\u00e1rdos l\u00fazere a nicaraguai csatorn\u00e1t \u00e9p\u00edt\u0151 k\u00ednai !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 22, 
+            "activity": "444.hu", 
+            "date": "2015-10-02T09:55:00", 
+            "document": "Egy dokumentumfilmbe halhat bele a New York-i milliomos !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T10:30:00", 
+            "document": "Muziekgebouw aan 't IJ to Egidiusstraat 35, 1055 GM Amsterdam - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 50, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T10:30:00", 
+            "document": "Amsterdam Centraal to Egidiusstraat 35, 1055 GM Amsterdam - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T10:30:00", 
+            "document": "Spaarndammer en Zeeheldenbuurt - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T10:30:00", 
+            "document": "Egidiusstraat 35 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T10:30:00", 
+            "document": "xiu xiu - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T10:30:00", 
+            "document": "xiu xiu amsterdam - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "google.com", 
+            "date": "2015-10-02T10:30:00", 
+            "document": "https://www.google.com/maps"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-02T10:30:00", 
+            "document": "MusicBox"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 132, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-02T10:35:00", 
+            "document": "lambda - Save a method into a variable, java 8 - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-02T10:35:00", 
+            "document": "In java can i store a method in a variable? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T10:35:00", 
+            "document": "LayoutTool.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T10:35:00", 
+            "document": "store method reference in variable java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 115, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T10:50:00", 
+            "document": "PrecipRange.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T10:50:00", 
+            "document": "WeatherScraper.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T10:50:00", 
+            "document": "WeatherRanges.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 4, 
+            "activity": "stickies", 
+            "date": "2015-10-02T10:50:00", 
+            "document": "Music\n\nSiouxsie and the Ban\u2026"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T10:55:00", 
+            "document": "2014-01-01 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 39, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T10:55:00", 
+            "document": "2014-01-14 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T10:55:00", 
+            "document": "2014-04-10 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T10:55:00", 
+            "document": "2014-04-23 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T10:55:00", 
+            "document": "2014-03-29 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:05:00", 
+            "document": "Image.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 83, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:05:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:05:00", 
+            "document": "Image.java (/Users/GaborK/git/rndr/rndr/src/main/java/net/lustlab/rndr/image)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 117, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:15:00", 
+            "document": "LiveOscController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 61, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:15:00", 
+            "document": "CleanApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:20:00", 
+            "document": "LiveDescriptor.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:20:00", 
+            "document": "AudioController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:20:00", 
+            "document": "/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller/audio/LiveOscController.java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 57, 
+            "activity": "sublime text", 
+            "date": "2015-10-02T11:25:00", 
+            "document": "2014-07-21.json"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-10-02T11:25:00", 
+            "document": "2014"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-02T11:25:00", 
+            "document": "2014_new"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:30:00", 
+            "document": "DailyWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 30, 
+            "activity": "slack", 
+            "date": "2015-10-02T11:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 69, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:50:00", 
+            "document": "weatherDataArchive_new/2014-01-01 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T11:55:00", 
+            "document": "2014-01-02 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 96, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T12:20:00", 
+            "document": "ranges - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 8, 
+            "activity": "facebook.com", 
+            "date": "2015-10-02T12:20:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T12:20:00", 
+            "document": "average precipitation netherlands - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T12:30:00", 
+            "document": "precipRanges - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T12:35:00", 
+            "document": "PrecipRangeFind.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 25, 
+            "activity": "Finder", 
+            "date": "2015-10-02T12:35:00", 
+            "document": "weatherData"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 25, 
+            "activity": "Finder", 
+            "date": "2015-10-02T12:35:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-10-02T12:35:00", 
+            "document": "2011-2014"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-10-02T12:35:00", 
+            "document": "2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-10-02T12:35:00", 
+            "document": "weatherDataArchive"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-10-02T12:35:00", 
+            "document": "2014-01-01"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T12:35:00", 
+            "document": "fixedWeatherData/2014-01-01 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 64, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T12:40:00", 
+            "document": "2014-12-31 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T12:45:00", 
+            "document": "Test.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T12:45:00", 
+            "document": "block comment intellj - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 166, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T12:50:00", 
+            "document": "Ranges.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T12:50:00", 
+            "document": "WeatherRangesFinder.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 80, 
+            "activity": "users", 
+            "date": "2015-10-02T13:45:00", 
+            "document": "Stagehandleiding-formulieren-eng201011 (1).pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 17, 
+            "activity": "Finder", 
+            "date": "2015-10-02T13:45:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 11, 
+            "activity": "Preview", 
+            "date": "2015-10-02T13:45:00", 
+            "document": "stageformulier LUSTlab Gabor"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 8, 
+            "activity": "Preview", 
+            "date": "2015-10-02T13:45:00", 
+            "document": "opgaaf loonheffingen Gabor.pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-10-02T13:45:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 3, 
+            "activity": "TextEdit", 
+            "date": "2015-10-02T13:45:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-02T13:45:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 24, 
+            "activity": "Preview", 
+            "date": "2015-10-02T13:50:00", 
+            "document": "Stagehandleiding-formulieren-eng201011 (1) (1).pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 10, 
+            "activity": "Preview", 
+            "date": "2015-10-02T13:50:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 7, 
+            "activity": "System Preferences", 
+            "date": "2015-10-02T13:50:00", 
+            "document": "Printers & Scanners"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 32, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T13:55:00", 
+            "document": "Timer.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T13:55:00", 
+            "document": "oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T14:40:00", 
+            "document": "WeatherFacade.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 110, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T14:40:00", 
+            "document": "OfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 56, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T14:55:00", 
+            "document": "JsonUtils.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-02T14:55:00", 
+            "document": "Best way to read a text file in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T14:55:00", 
+            "document": "gson from file - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-02T14:55:00", 
+            "document": "java - Parse JSON file using GSON - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T14:55:00", 
+            "document": "read file java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 38, 
+            "activity": "gist.github.com", 
+            "date": "2015-10-02T15:00:00", 
+            "document": "Converting a file to JsonObject with GSON"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 45, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T15:15:00", 
+            "document": "FakeWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 102, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T15:15:00", 
+            "document": "PerlinNoiseController_W.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T15:15:00", 
+            "document": "WeatherDataRanges.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T15:15:00", 
+            "document": "RadialPerlinNoiseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T15:15:00", 
+            "document": "RadialPulseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 30, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T15:20:00", 
+            "document": "WeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T15:20:00", 
+            "document": "LatestWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T15:25:00", 
+            "document": "baby comforter - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 9, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-02T15:30:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T15:30:00", 
+            "document": "pacifier - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-02T15:35:00", 
+            "document": "Initializing multiple variables to the same value in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T15:35:00", 
+            "document": "assign values to multiple variables java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T15:55:00", 
+            "document": "dewpoint - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 55, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T16:05:00", 
+            "document": "TestWeatherFacade.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 48, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T16:05:00", 
+            "document": "TestForecastIO.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 30, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T16:05:00", 
+            "document": "Thread.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T16:05:00", 
+            "document": "TestOfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T16:05:00", 
+            "document": "TestFakeWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 112, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T16:15:00", 
+            "document": "LiveWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 171, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-02T16:40:00", 
+            "document": "multithreading - How to properly stop the Thread in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T16:40:00", 
+            "document": "stop thread java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-02T17:15:00", 
+            "document": "java - \"implements Runnable\" vs. \"extends Thread\" - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T17:15:00", 
+            "document": "implementing runnable vs extending thread - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T17:20:00", 
+            "document": "implementing runnable vs encapsulation thread - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 9, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-02T17:20:00", 
+            "document": "java - What is more advisable to create a thread by extending a Thread class or implementing Runnable? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T17:25:00", 
+            "document": "encapsulating thread object java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T17:25:00", 
+            "document": "encapsulating thread object - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-02T17:25:00", 
+            "document": "thread object java - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T17:30:00", 
+            "document": "Timer.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T17:30:00", 
+            "document": "sources.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 57, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T17:40:00", 
+            "document": "ForecastIO.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-10-02T17:50:00", 
+            "document": "IWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }
+    ]
+}

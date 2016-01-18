@@ -1,0 +1,164 @@
+{
+    "2015-10-25": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 39, 
+            "activity": "index.hu", 
+            "date": "2015-10-25T12:55:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 65, 
+            "activity": "index.hu", 
+            "date": "2015-10-25T13:00:00", 
+            "document": "Index - Tudom\u00e1ny - November 13-\u00e1n valami nekimegy a F\u00f6ldnek"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 53, 
+            "activity": "index.hu", 
+            "date": "2015-10-25T13:00:00", 
+            "document": "Index - Mindek\u00f6zben - 15 \u00e9ve ezen a napon jelent meg a Linkin Parkt\u00f3l a Hybrid Theory!!!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 12, 
+            "activity": "444.hu", 
+            "date": "2015-10-25T13:05:00", 
+            "document": "A kerti budiban 1129 doboz cigi volt - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 87, 
+            "activity": "google.nl", 
+            "date": "2015-10-25T13:10:00", 
+            "document": "vintage fixie - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 113, 
+            "activity": "444.hu", 
+            "date": "2015-10-25T13:10:00", 
+            "document": "Dzsih\u00e1di J\u00e1nos, az Iszl\u00e1m \u00c1llam lefejez\u0151embere \u00e1ll\u00edt\u00f3lag befosott az IS-t\u0151l, \u00e9s most \u0151 is menek\u00fcl el\u0151l\u00fck - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-10-25T13:10:00", 
+            "document": "chrome paint job - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-25T13:15:00", 
+            "document": "chrome fork - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 7, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-25T13:15:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 23, 
+            "activity": "ebay.de", 
+            "date": "2015-10-25T13:20:00", 
+            "document": "chrome fork | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 16, 
+            "activity": "ebay.de", 
+            "date": "2015-10-25T13:20:00", 
+            "document": "FAGGIN Rennrad 57 Klassiker Vintage Oldtimer Stahlrahmen Retro Kult | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 15, 
+            "activity": "ebay.de", 
+            "date": "2015-10-25T13:20:00", 
+            "document": "brake caliper | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 1, 
+            "activity": "ebay.de", 
+            "date": "2015-10-25T13:20:00", 
+            "document": "www.ebay.de/itm/FAGGIN-Rennrad-57-Klassiker-Vintage-Oldtimer-Stahlrahmen-Retro-Kult-/361399626338?hash=item542518aa62:g:FNcAAOSwT6pV5MSQ"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 29, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-25T13:25:00", 
+            "document": "List of Need for Speed video games - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-10-25T13:25:00", 
+            "document": "need for speed mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-25T14:05:00", 
+            "document": "pathe - Google Search"
+        }
+    ]
+}

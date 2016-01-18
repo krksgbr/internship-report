@@ -1,0 +1,844 @@
+{
+    "2015-08-30": [
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 19, 
+            "activity": "slack", 
+            "date": "2015-08-30T11:35:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 9, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-30T11:35:00", 
+            "document": "Kuilman.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 19, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-30T11:40:00", 
+            "document": "Terpstra.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 14, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-30T11:40:00", 
+            "document": "de Boer.mp4"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-30T11:40:00", 
+            "document": "de Boer_heartbeat.mp4"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 143, 
+            "activity": "444.hu", 
+            "date": "2015-08-30T11:45:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 69, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T11:45:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 13, 
+            "activity": "Finder", 
+            "date": "2015-08-30T11:50:00", 
+            "document": "videos"
+        }, 
+        {
+            "category": "File Sharing", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 25, 
+            "activity": "rutracker.org", 
+            "date": "2015-08-30T11:50:00", 
+            "document": "rutracker.org"
+        }, 
+        {
+            "category": "File Sharing", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 7, 
+            "activity": "rutracker.org", 
+            "date": "2015-08-30T11:50:00", 
+            "document": "BitTorrent \u0442\u0440\u0435\u043a\u0435\u0440 RuTracker.org"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-08-30T11:50:00", 
+            "document": "Heathered Pearls - Interior Architecture Software - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 20, 
+            "activity": "facebook.com", 
+            "date": "2015-08-30T11:50:00", 
+            "document": "Graphic Design Meet Up: Philippe Apeloig + Georgie Stout"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-30T11:50:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-30T11:50:00", 
+            "document": "heathered pearl - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-08-30T11:50:00", 
+            "document": "heathered pearl body complex - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 21, 
+            "activity": "Terminal", 
+            "date": "2015-08-30T11:55:00", 
+            "document": "exported_videos \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 27, 
+            "activity": "Terminal", 
+            "date": "2015-08-30T11:55:00", 
+            "document": "exported_videos \u2014 bsdtar"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-08-30T11:55:00", 
+            "document": "Heathered Pearls - Abandoned Mall Utopia (ft. Shigeto) - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T11:55:00", 
+            "document": "compress folder tar gz - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-30T11:55:00", 
+            "document": "videos \u2014 bash"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-30T11:55:00", 
+            "document": "videos Info"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 166, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T12:00:00", 
+            "document": "Index - Vide\u00f3 - New Yorkb\u00f3l is j\u00f6ttek hozz\u00e1m a J\u00e9gb\u00fcf\u00e9be egy utols\u00f3t gofrizni"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 48, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T12:00:00", 
+            "document": "Index - K\u00fclf\u00f6ld - \u00datk\u00f6zben meghaltak a n\u0151k, akik k\u00f6z\u00fcl feles\u00e9get v\u00e1lasztott volna a szv\u00e1zif\u00f6ldi kir\u00e1ly"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 31, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T12:05:00", 
+            "document": "Index - Vide\u00f3 - Egy 86 \u00e9ves n\u0151cs\u00e1b\u00e1sz kalandjai a Szigeten"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-30T13:10:00", 
+            "document": "Michael messaged you"
+        }, 
+        {
+            "category": "File Sharing", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 17, 
+            "activity": "rutracker.org", 
+            "date": "2015-08-30T13:15:00", 
+            "document": "\u0422\u0440\u0435\u043a\u0435\u0440"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:15:00", 
+            "document": "heathered pearls body complex - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-08-30T13:15:00", 
+            "document": "heathered pearls - YouTube"
+        }, 
+        {
+            "category": "File Sharing", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "rutracker.org", 
+            "date": "2015-08-30T13:15:00", 
+            "document": "rutracker.org/forum/index.php"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-30T13:20:00", 
+            "document": "Heathered Pearls | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-30T13:20:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:25:00", 
+            "document": "fstab - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:25:00", 
+            "document": "list disk by uuid - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:25:00", 
+            "document": "https://www.google.nl/search?q=list+disk+by+uuid&oq=list+disk+by+uuid&aqs=chrome..69i57l2j69i60j69i65l3.2007j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 41, 
+            "activity": "calendar", 
+            "date": "2015-08-30T13:30:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:30:00", 
+            "document": "attach command to script linux - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-08-30T13:35:00", 
+            "document": "Heathered Pearls - Loyal [Full Album] - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-08-30T13:35:00", 
+            "document": "last2"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:35:00", 
+            "document": "run script linux - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:35:00", 
+            "document": "permission denied running shell script - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:40:00", 
+            "document": "create shortcut to script linux - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 182, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T13:50:00", 
+            "document": "Index - Sport - Sz\u00f6gm\u00e9r\u0151 a Real \u00faj csodafegyvere, James nem f\u00e9lt haszn\u00e1lni"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 63, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T13:50:00", 
+            "document": "Index - Sport - Tudta, hogy \u00f6n is olyan gyorsan szedi a l\u00e1b\u00e1t, mint Usain Bolt?"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:55:00", 
+            "document": "repair mopidy - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-30T13:55:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-30T13:55:00", 
+            "document": "exported_videos \u2014 ncmpcpp"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T13:55:00", 
+            "document": "https://www.google.nl/search?q=repair+mopidy&oq=repair+mopidy&aqs=chrome..69i57j69i60j69i59l2j69i60j69i65.2367j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-30T13:55:00", 
+            "document": "GlyphMaster"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 41, 
+            "activity": "sublime text", 
+            "date": "2015-08-30T14:00:00", 
+            "document": ".bashrc \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T14:00:00", 
+            "document": "script alias l - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T14:00:00", 
+            "document": "script alias - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T14:00:00", 
+            "document": "shortcut command - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T14:00:00", 
+            "document": "shortcut command linux - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T14:00:00", 
+            "document": "shortcut command linuxs script - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 66, 
+            "activity": "sublime text", 
+            "date": "2015-08-30T14:05:00", 
+            "document": ".bash_aliases \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 37, 
+            "activity": "last.fm", 
+            "date": "2015-08-30T14:05:00", 
+            "document": "Home \u2014 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "last.fm", 
+            "date": "2015-08-30T14:05:00", 
+            "document": "www.last.fm/home"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 47, 
+            "activity": "sublime text", 
+            "date": "2015-08-30T14:10:00", 
+            "document": "mopidy.conf \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 32, 
+            "activity": "last.fm", 
+            "date": "2015-08-30T14:10:00", 
+            "document": "Profile Settings \u2014 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 19, 
+            "activity": "last.fm", 
+            "date": "2015-08-30T14:10:00", 
+            "document": "www.last.fm/feedback/dismiss"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T14:10:00", 
+            "document": "mopidy config service - Google Search"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "last.fm", 
+            "date": "2015-08-30T14:10:00", 
+            "document": "MusicBox"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 230, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T14:20:00", 
+            "document": "Index - Tech - Bring\u00e1s hipszterekkel megt\u00e1madhat\u00f3 a Google robotaut\u00f3ja"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 104, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T14:25:00", 
+            "document": "Index - Sport - Szenz\u00e1ci\u00f3s eredm\u00e9nnyel, holland fut\u00f3n\u0151 a 200 vil\u00e1gbajnoka"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 78, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T14:25:00", 
+            "document": "Index - Sport - Sprintversenyt csin\u00e1ltak a vb-n a n\u0151i maratonb\u00f3l"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 52, 
+            "activity": "index.hu", 
+            "date": "2015-08-30T14:25:00", 
+            "document": "Index - Sport - Nem hajr\u00e1ztak az arany\u00e9rt, megbesz\u00e9lt\u00e9k, ki lesz a vil\u00e1gbajnok gyalogl\u00e1sban"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 7, 
+            "activity": "Adobe Bridge CC", 
+            "date": "2015-08-30T15:55:00", 
+            "document": "textlayer - Adobe Bridge"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 2, 
+            "activity": "Adobe Bridge CC", 
+            "date": "2015-08-30T15:55:00", 
+            "document": "Computer - Adobe Bridge"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "Adobe Bridge CC", 
+            "date": "2015-08-30T15:55:00", 
+            "document": "DCIM - Adobe Bridge"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "Adobe Bridge CC", 
+            "date": "2015-08-30T15:55:00", 
+            "document": "NIKON D5100 - Adobe Bridge"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 34, 
+            "activity": "Adobe Bridge CC", 
+            "date": "2015-08-30T16:00:00", 
+            "document": "101D5100 - Adobe Bridge"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-30T16:00:00", 
+            "document": "JPEG"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:00:00", 
+            "document": "zipper came apart - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-30T16:00:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:00:00", 
+            "document": "missionworkshop - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 1, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-30T16:00:00", 
+            "document": "Image Processor"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 64, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:05:00", 
+            "document": "stand in the row - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:05:00", 
+            "document": "deviant define - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:05:00", 
+            "document": "tooth zipper - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:05:00", 
+            "document": "one tooth - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:05:00", 
+            "document": "not stand in the row - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:05:00", 
+            "document": "deviant - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:10:00", 
+            "document": "close shop - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-30T16:10:00", 
+            "document": "warranty scheme - Google Search"
+        }
+    ]
+}

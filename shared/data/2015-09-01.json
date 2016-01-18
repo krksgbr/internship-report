@@ -1,0 +1,2184 @@
+{
+    "2015-09-01": [
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 23, 
+            "activity": "slack", 
+            "date": "2015-09-01T10:10:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-01T10:10:00", 
+            "document": "heartbeats"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-01T10:10:00", 
+            "document": "Archive"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-09-01T10:10:00", 
+            "document": "1"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 13, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-01T10:10:00", 
+            "document": "Terpstra.mp4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 111, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T10:15:00", 
+            "document": "HubbubSketch.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 30, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T10:15:00", 
+            "document": "Animation.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 24, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-01T10:15:00", 
+            "document": "Terpstra_heartbeat.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-01T10:20:00", 
+            "document": "heartbeats Info"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 23, 
+            "activity": "Finder", 
+            "date": "2015-09-01T10:25:00", 
+            "document": "Archive 2"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 8, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-01T10:25:00", 
+            "document": "Kuilman_heartbeat.mp4"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 3, 
+            "activity": "newtab", 
+            "date": "2015-09-01T10:30:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 26, 
+            "activity": "444.hu", 
+            "date": "2015-09-01T10:30:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "AudioApp.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "Keyframer.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 23, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "Calendar.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "App.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "lightcontroller - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "panel - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "Morgan Womble-Dahl - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "Director.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "potrace - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:05:00", 
+            "document": "net.loadbang.osc - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "Expo.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 68, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "WeatherChart.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "ExpoIn.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "framer - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "Dropbox"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "Sketches before 01.09.2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "Vredespaleis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "site"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "Sketches after 01.09.2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "Code"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-01T11:10:00", 
+            "document": "Content Touchscreens"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 96, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T11:15:00", 
+            "document": "java - What does 'synchronized' mean? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T11:15:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T11:15:00", 
+            "document": "User Brian Goetz - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T11:15:00", 
+            "document": "What is the reason why \u201csynchronized\u201d is not allowed in Java 8 interface methods? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T11:15:00", 
+            "document": "synchronized keyword in java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T11:15:00", 
+            "document": "Brian Goetz - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T11:15:00", 
+            "document": "nuk computer - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-01T11:15:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 76, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:20:00", 
+            "document": "schedule.yaml - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 25, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:20:00", 
+            "document": "scene-full.yaml - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 24, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:20:00", 
+            "document": "Scheduler.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 220, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T11:25:00", 
+            "document": "Learning Java, use of synchronized keyword - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T11:30:00", 
+            "document": "loose coupling - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-01T11:30:00", 
+            "document": "WeTransfer"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 278, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T11:35:00", 
+            "document": "oop - what is the difference between loose coupling and tight coupling in object oriented paradigm? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T11:35:00", 
+            "document": "IClassname java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 89, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T11:40:00", 
+            "document": "oop - Coupling and cohesion - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 185, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T11:40:00", 
+            "document": "language agnostic - What is \"loose coupling?\" Please provide examples - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 60, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:50:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 12, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:50:00", 
+            "document": "git \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:50:00", 
+            "document": "git \u2014 git"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:50:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:50:00", 
+            "document": "git \u2014 git-remote-http"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "Preview", 
+            "date": "2015-09-01T11:50:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 132, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:55:00", 
+            "document": "ClockControl.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:55:00", 
+            "document": "ui \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 52, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T11:55:00", 
+            "document": "Keyframer.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 22, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:55:00", 
+            "document": "lightcontroller \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:55:00", 
+            "document": "ui \u2014 less"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:55:00", 
+            "document": "colorlib \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:55:00", 
+            "document": "colorlib \u2014 git"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T11:55:00", 
+            "document": "colorlib \u2014 git-remote-http"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 32, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T12:00:00", 
+            "document": "FakeClock.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T12:25:00", 
+            "document": "show console intellij - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T12:25:00", 
+            "document": "For intelliJ 12.X how do i get the console back in the debugger? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 33, 
+            "activity": "github.com", 
+            "date": "2015-09-01T12:35:00", 
+            "document": "Themes \u00b7 robbyrussell/oh-my-zsh Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 73, 
+            "activity": "github.com", 
+            "date": "2015-09-01T12:35:00", 
+            "document": "robbyrussell/oh-my-zsh"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 88, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-01T12:35:00", 
+            "document": "Comparison of command shells - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 24, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-01T12:35:00", 
+            "document": "Z shell - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T12:35:00", 
+            "document": "zshell - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T12:35:00", 
+            "document": "alternative shell to bash - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 6, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-01T12:35:00", 
+            "document": "Zsh-demo - Z shell - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "Terminal \u2014 zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 90, 
+            "activity": "github.com", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "Installing ZSH \u00b7 robbyrussell/oh-my-zsh Wiki"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 28, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "bin \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 18, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "GaborK \u2014 nano"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "GaborK \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "ui \u2014 curl"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "ui \u2014 file"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "bin \u2014 chsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "ui \u2014 ruby"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "ui \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "ui \u2014 otool"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:40:00", 
+            "document": "ui \u2014 nice"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 26, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T12:45:00", 
+            "document": ".zshrc \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T12:45:00", 
+            "document": "index.html \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T12:45:00", 
+            "document": "set theme zsh - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-01T12:45:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T12:50:00", 
+            "document": "oh my zsh config file - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:50:00", 
+            "document": "Terminal \u2014 sudo"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 37, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:55:00", 
+            "document": "share \u2014 GaborK@Gabors-MacBook-Pro"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T12:55:00", 
+            "document": "change theme brew zsh - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:55:00", 
+            "document": "Terminal \u2014 git"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:55:00", 
+            "document": "Terminal \u2014 git-remote-http"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T12:55:00", 
+            "document": "Terminal \u2014 curl"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 63, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T13:00:00", 
+            "document": "GaborK \u2014 GaborK@Gabors-MacBook-Pro"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 20, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T13:00:00", 
+            "document": ".oh-my-zsh \u2014 GaborK@Gabors-MacBook-Pro"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 7, 
+            "activity": "gist.github.com", 
+            "date": "2015-09-01T13:00:00", 
+            "document": "My ZSH Theme"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T13:00:00", 
+            "document": "themes \u2014 GaborK@Gabors-MacBook-Pro"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T13:35:00", 
+            "document": "best zsh themes - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 10, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T13:40:00", 
+            "document": "ui \u2014 GaborK@Gabors-MacBook-Pro"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 28, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T13:40:00", 
+            "document": "lightcontroller \u2014 GaborK@Gabors-MacBook-Pro"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 7, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T13:40:00", 
+            "document": "git \u2014 GaborK@Gabors-MacBook-Pro"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 21, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T13:40:00", 
+            "document": "ui \u2014 git"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 14, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T13:40:00", 
+            "document": "control \u2014 GaborK@Gabors-MacBook-Pro"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-09-01T13:40:00", 
+            "document": "oh-my-zsh/themes at master \u00b7 robbyrussell/oh-my-zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T13:40:00", 
+            "document": "Terminal \u2014 grep"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-01T13:40:00", 
+            "document": "https://github.com/robbyrussell/oh-my-zsh/wiki/Themes"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T13:50:00", 
+            "document": "ClockControl.java (/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller/ui)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 34, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T13:50:00", 
+            "document": "/Users/GaborK/git/lightcontroller"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 32, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T13:55:00", 
+            "document": "AudioApp.java (/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T13:55:00", 
+            "document": "TernaryEvent.class - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 47, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T14:05:00", 
+            "document": "PerlinNoiseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T14:05:00", 
+            "document": "coded matters - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 55, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-01T14:10:00", 
+            "document": "avatar saying hi 3.mov"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-09-01T14:10:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 5, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-01T14:10:00", 
+            "document": "knp.transition.multiplelines2.mov"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-01T14:10:00", 
+            "document": "Comp2Clip2"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-01T14:10:00", 
+            "document": "64bit"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-01T14:10:00", 
+            "document": "Comp_2.mp4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 182, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T14:20:00", 
+            "document": "WeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T14:20:00", 
+            "document": "ClusterController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T14:20:00", 
+            "document": "MidiController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T14:20:00", 
+            "document": "MidiModel.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 65, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T14:25:00", 
+            "document": "WeatherControlled.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 30, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T14:25:00", 
+            "document": "LightController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T14:25:00", 
+            "document": "SceneController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T14:50:00", 
+            "document": "mission workshop vandal - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 43, 
+            "activity": "facebook.com", 
+            "date": "2015-09-01T14:50:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-09-01T14:50:00", 
+            "document": "(2) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-09-01T14:50:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T14:50:00", 
+            "document": "missionworkshop - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-01T14:50:00", 
+            "document": "https://www.facebook.com/ failed to load"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T14:55:00", 
+            "document": "paypal@e.paypal.n - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 30, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T15:05:00", 
+            "document": "FrameClock.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 107, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:10:00", 
+            "document": "sorin-ionescu/prezto"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 17, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:10:00", 
+            "document": "gnachman/iTerm2"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:10:00", 
+            "document": "Commits \u00b7 gnachman/iTerm2"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T15:10:00", 
+            "document": "https://www.google.nl/search?q=iterm&oq=iterm&aqs=chrome..69i57j69i60l2j69i65l3.636j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 70, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:15:00", 
+            "document": "zsh-users/zsh-syntax-highlighting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:15:00", 
+            "document": "prezto/modules/syntax-highlighting at master \u00b7 sorin-ionescu/prezto"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-01T15:15:00", 
+            "document": "Applications"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T15:15:00", 
+            "document": "zshell themes - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:15:00", 
+            "document": "https://github.com/sorin-ionescu/prezto/tree/master/modules/syntax-highlighting"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:20:00", 
+            "document": "prezto/prompt_steeef_setup at master \u00b7 sorin-ionescu/prezto"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:20:00", 
+            "document": "zsh-users"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T15:20:00", 
+            "document": "oh-my-zsh - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:20:00", 
+            "document": "https://github.com/sorin-ionescu/prezto/blob/master/modules/prompt/functions/prompt_steeef_setup"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 38, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T15:25:00", 
+            "document": ".zpreztorc \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T15:25:00", 
+            "document": "brew install prezto - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:25:00", 
+            "document": "prezto/modules/homebrew at master \u00b7 sorin-ionescu/prezto"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:25:00", 
+            "document": ".zprezto \u2014 GaborK@Gabors-MacBook-Pro"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 67, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:30:00", 
+            "document": "prompt command returns 'command not found' error \u00b7 Issue #808 \u00b7 sorin-ionescu/prezto"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T15:30:00", 
+            "document": "zsh: command not found: prompt prezto - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T15:30:00", 
+            "document": "zsh: command not found: prompt - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T15:35:00", 
+            "document": "bash - Linux : How to delete Multiple Files at once? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:35:00", 
+            "document": "Cleanly uninstall Prezto \u00b7 Issue #906 \u00b7 sorin-ionescu/prezto"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:35:00", 
+            "document": "Terminal \u2014 rm"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T15:35:00", 
+            "document": "uninstall prezto - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T15:35:00", 
+            "document": "remove multiple fiels - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T15:35:00", 
+            "document": "remove multiple files - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-01T15:35:00", 
+            "document": "https://github.com/sorin-ionescu/prezto/issues/906"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 187, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:40:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:40:00", 
+            "document": "Terminal \u2014 sh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:45:00", 
+            "document": "net \u2014 GaborK:"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 39, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:45:00", 
+            "document": "lightcontroller \u2014 GaborK:"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 17, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:45:00", 
+            "document": "GaborK \u2014 ~"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 7, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:45:00", 
+            "document": "git \u2014 GaborK:"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:45:00", 
+            "document": "GaborK \u2014 GaborK:"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:45:00", 
+            "document": "src \u2014 GaborK:"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:45:00", 
+            "document": "GaborK \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 49, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:50:00", 
+            "document": "Inspector"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 6, 
+            "activity": "gist.github.com", 
+            "date": "2015-09-01T15:50:00", 
+            "document": "vim-powerline patched fonts"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:50:00", 
+            "document": "net \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 54, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:55:00", 
+            "document": "Colors"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-09-01T15:55:00", 
+            "document": "git \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T16:00:00", 
+            "document": "FakeWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T16:00:00", 
+            "document": "IWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 64, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T16:30:00", 
+            "document": "java - Constructor in an Interface? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T16:30:00", 
+            "document": "java - How can a singleton class use an interface? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T16:30:00", 
+            "document": "interface for singleton - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T16:30:00", 
+            "document": "specify a constructor in an interface - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T16:30:00", 
+            "document": "stackoverflow.com/questions/2804041/constructor-in-an-interface"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 114, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-01T16:35:00", 
+            "document": "java - Advantage of Singleton implementing an interface - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T16:55:00", 
+            "document": "return lambda expression java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T16:55:00", 
+            "document": "return lambda expression - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 18, 
+            "activity": "stickies", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "P\t\tLUSTLAB\n________________\u2026"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "stickies mac - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 8, 
+            "activity": "stickies", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "Music\n\nSiouxsie and the Ban\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 3, 
+            "activity": "stickies", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "RANDOM STUFF\n\nAntonio Gandi\u2026"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "geometry.txt \u2014 MN_MAIN"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "a_avg0.svg \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "known_hosts \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "ColorMatrixExample.java \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "gitignore \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "controller_combinations \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "exclude.txt \u2014 FiraSans-Medium.ufo, empty.ufo, 1.38.4_0"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "calendar", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "bucket list \u2014 RD1_nestedLoops_grid"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T17:50:00", 
+            "document": "Triangle.java - hubbub-sketch - [~/IdeaProjects/sketches/lustlab-hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 142, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T17:55:00", 
+            "document": "WeatherSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 42, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:05:00", 
+            "document": "OfflineWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 58, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:05:00", 
+            "document": "PerlinNoiseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 35, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:05:00", 
+            "document": "/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller/scene/controllers/impl/PerlinNoiseController.java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:05:00", 
+            "document": "LiveWeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 110, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:10:00", 
+            "document": "RadialPulseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 67, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:10:00", 
+            "document": "RadialPerlinNoiseController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:10:00", 
+            "document": "RadialPulseController.java (/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller/scene/controllers/impl)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:10:00", 
+            "document": "/Users/GaborK/git/lightcontroller/src/main/java/net/lustlab/lightcontroller/scene/controllers/impl/RadialPulseController.java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 69, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:15:00", 
+            "document": "NebulaController.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-01T18:15:00", 
+            "document": "RadialPulseControllerWeather.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-01T18:15:00", 
+            "document": "https://www.google.nl"
+        }
+    ]
+}

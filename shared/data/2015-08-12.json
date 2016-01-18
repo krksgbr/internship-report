@@ -1,0 +1,664 @@
+{
+    "2015-08-12": [
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 9, 
+            "activity": "Terminal", 
+            "date": "2015-08-12T09:45:00", 
+            "document": "git \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 17, 
+            "activity": "Terminal", 
+            "date": "2015-08-12T09:45:00", 
+            "document": "git \u2014 03."
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-12T09:45:00", 
+            "document": "glyphcollector \u2014 Matthew"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-12T09:45:00", 
+            "document": "git \u2014 ncmpcpp"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 85, 
+            "activity": "google.nl", 
+            "date": "2015-08-12T09:50:00", 
+            "document": "Pahudstraat 13 to GEMAK The Hague - Google Maps"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 63, 
+            "activity": "444.hu", 
+            "date": "2015-08-12T09:50:00", 
+            "document": "Elk\u00e9peszt\u0151 g\u00f3llal egyenl\u00edtett a holland kapus a 95. percben !!444!!!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-12T09:50:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-12T09:50:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-12T09:50:00", 
+            "document": "GEMAK The Hague - Google Maps"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 144, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-12T09:55:00", 
+            "document": "avatar-black-white.mov"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 72, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T10:05:00", 
+            "document": "BehaviourSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-08-12T10:15:00", 
+            "document": "git \u2014 04."
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T10:30:00", 
+            "document": "Body.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T10:40:00", 
+            "document": "AvatarSketch2.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 38, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T10:45:00", 
+            "document": "Tracker.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 64, 
+            "activity": "Preview", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "first_sketches_Robin_Cursor_avatar2 (1).pdf"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "Google Drive"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "Tweede presentatie"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "Presentaties"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "Tablets and Touchwalls"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "# Materiaal"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "Interieur Den Haag fotos LUST"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "KPN"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "Cellebrite"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "Wachtrij"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "Interieur DoepelStrijkers"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T10:50:00", 
+            "document": "videowissel KPN pilotstores juli"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T11:05:00", 
+            "document": "DrawerGL3.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 13, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-12T11:10:00", 
+            "document": "Screen Shot 2015-08-12 at 11.14.04.png"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 24, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-12T11:10:00", 
+            "document": "stock2.jpg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 4, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-12T11:10:00", 
+            "document": "Screen Shot 2015-08-12 at 11.12.47.png"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 41, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-12T11:25:00", 
+            "document": "Screen Shot 2015-08-12 at 11.29.08.png"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 3, 
+            "activity": "Preview", 
+            "date": "2015-08-12T11:25:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 11, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-12T11:25:00", 
+            "document": "Screen Shot 2015-08-12 at 11.28.11.png"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 46, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-12T11:45:00", 
+            "document": "Photoshop blending mode to OpenGL ES without shaders - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 23, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T11:45:00", 
+            "document": "BlendMode.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-08-12T11:45:00", 
+            "document": "gl multiply blend - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T12:15:00", 
+            "document": "Animatable.class - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 5, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-12T12:45:00", 
+            "document": "rolling_cube2.mp4"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-12T12:45:00", 
+            "document": "sketches"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-12T12:45:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-12T12:45:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-12T12:45:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T12:45:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T12:45:00", 
+            "document": "Fauna"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 30, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T14:00:00", 
+            "document": "/Users/GaborK/git/kpnsketches/src/main/java/net/lustlab/kpnsketches/BehaviourSketch.java"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 26, 
+            "activity": "quicktime player", 
+            "date": "2015-08-12T14:40:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 2, 
+            "activity": "quicktime player", 
+            "date": "2015-08-12T14:40:00", 
+            "document": "avatar_proto"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-12T14:40:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 31, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-12T14:40:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project *"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 14, 
+            "activity": "quicktime player", 
+            "date": "2015-08-12T14:40:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 3, 
+            "activity": "quicktime player", 
+            "date": "2015-08-12T14:40:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-12T14:45:00", 
+            "document": "screenshots"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T14:45:00", 
+            "document": "stock"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-12T14:50:00", 
+            "document": "pixelStretch"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-12T14:50:00", 
+            "document": "pixelStretch_AME"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-08-12T14:55:00", 
+            "document": "sshot"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T15:20:00", 
+            "document": "LillySlideController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T15:20:00", 
+            "document": "RollingText.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T15:20:00", 
+            "document": "GmailApiQuickstart.java - HttpPractice - [~/IdeaProjects/HttpPractice]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 42, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T16:10:00", 
+            "document": "BehaviourSketch.java (/Users/GaborK/git/kpnsketches/src/main/java/net/lustlab/kpnsketches)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 53, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T16:55:00", 
+            "document": "kpnsketches - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 34, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T16:55:00", 
+            "document": "/Users/GaborK/git/kpnsketches/pom.xml"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T17:35:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-12T17:35:00", 
+            "document": "sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 55, 
+            "activity": "444.hu", 
+            "date": "2015-08-12T18:40:00", 
+            "document": "95 \u00e9ves magyar f\u00e9rfi \u00faszott vil\u00e1gcs\u00facsot a kazanyi vil\u00e1gbajnoks\u00e1gon !!444!!!"
+        }
+    ]
+}

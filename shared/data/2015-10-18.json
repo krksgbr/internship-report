@@ -1,0 +1,564 @@
+{
+    "2015-10-18": [
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 53, 
+            "activity": "blokker.nl", 
+            "date": "2015-10-18T13:15:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T13:15:00", 
+            "document": "blokker - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 4, 
+            "activity": "444.hu", 
+            "date": "2015-10-18T15:25:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 15, 
+            "activity": "newtab", 
+            "date": "2015-10-18T15:25:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:25:00", 
+            "document": "contact grill - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:25:00", 
+            "document": "tomado - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:25:00", 
+            "document": "tomado vs tefal - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 39, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:40:00", 
+            "document": "tefal contact grill - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:40:00", 
+            "document": "tomado contact grill - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:40:00", 
+            "document": "domo contact grill - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:40:00", 
+            "document": "bestron - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:40:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:40:00", 
+            "document": "domo - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 39, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:45:00", 
+            "document": "Tefal Grill GC3050 - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 25, 
+            "activity": "amazon.co.uk", 
+            "date": "2015-10-18T15:45:00", 
+            "document": "Amazon.co.uk: Princess - Small Kitchen Appliances / Kitchen & Home Appliances: Kitchen & Home"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:45:00", 
+            "document": "princess kitchen equipment - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:45:00", 
+            "document": "Tefal Ultra Compact Classic - Grill - elektrisch - 1200 sq. cm - zwart/titanium"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:45:00", 
+            "document": "Kitchen appliances - Princess"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 61, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-18T15:50:00", 
+            "document": "Russell Hobbs - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:50:00", 
+            "document": "russel hobbs - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T15:50:00", 
+            "document": "bourgini - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 65, 
+            "activity": "444.hu", 
+            "date": "2015-10-18T15:55:00", 
+            "document": "A mal\u00e1jok szerint a 23 \u00e9ves brit l\u00e1ny meztelenked\u00e9se okozta a hal\u00e1los f\u00f6ldreng\u00e9st - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 36, 
+            "activity": "444.hu", 
+            "date": "2015-10-18T15:55:00", 
+            "document": "Egy kisl\u00e1ny t\u00f6k\u00e9letesen pontos, fotorealisztikus fantomk\u00e9pe alapj\u00e1n fogt\u00e1k el a bet\u00f6r\u0151t - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 3, 
+            "activity": "444.hu", 
+            "date": "2015-10-18T16:00:00", 
+            "document": "Nem j\u00f3kedv\u00e9ben perelte be \u00f6lelkez\u0151 unoka\u00f6ccs\u00e9t a pokolb\u00e9li amerikai t\u00e1nti - 444"
+        }, 
+        {
+            "category": "Voice Chat", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 17, 
+            "activity": "Skype", 
+            "date": "2015-10-18T16:00:00", 
+            "document": "Skype"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 50, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T16:05:00", 
+            "document": "work without - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T16:05:00", 
+            "document": "munka hollandi\u00e1ban nyelvtud\u00e1s n\u00e9lk\u00fcl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T16:05:00", 
+            "document": "work without dutch - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 6, 
+            "activity": "answers.yahoo.com", 
+            "date": "2015-10-18T16:05:00", 
+            "document": "Working in Holland without knowing Dutch? | Yahoo Answers"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 110, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T16:10:00", 
+            "document": "work in netherlands - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 72, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:15:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 34, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:15:00", 
+            "document": "Index - Sport - M\u00e1rquez zseni\u00e1lis h\u00faz\u00e1ssal, utols\u00f3 k\u00f6rben nyert"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 25, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:20:00", 
+            "document": "Index - Tudom\u00e1ny - Fill\u00e9rek\u00e9rt adta el a vil\u00e1g leg\u00e9rt\u00e9kesebb c\u00e9g\u00e9t"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 136, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:25:00", 
+            "document": "Index - Sport - A legnagyobb dr\u00e1ma, ami amerikaifutballban l\u00e9tezhet"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 25, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-18T16:25:00", 
+            "document": "List of European countries by average wage - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T16:25:00", 
+            "document": "avg wage netherlands - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 117, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:30:00", 
+            "document": "Index - Sport - A n\u00e9p, ami sosem k\u00e9sz\u00fcl el id\u0151re, de most m\u00e9gis el fog"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 13, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:30:00", 
+            "document": "Index - Sport - Fiatalon szokni kell a nagy ver\u00e9seket"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 29, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:30:00", 
+            "document": "Index - Ker\u00e9kagy - Vonz\u00f3 c\u00e9lpont ez a m\u00e9regdr\u00e1ga bringa"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 225, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:35:00", 
+            "document": "Index - Sport - Ideg\u0151rl\u0151, 255 \u00fct\u00e9ses labdamenet a tollaslabda \u00faj szenz\u00e1ci\u00f3ja"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 85, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:40:00", 
+            "document": "Index - Sport - Norv\u00e9gia: \u00c1lomszer\u0171 a sorsol\u00e1s"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 53, 
+            "activity": "index.hu", 
+            "date": "2015-10-18T16:45:00", 
+            "document": "Index - Belf\u00f6ld - Meggy\u0151zte a ker\u00edt\u00e9s a horv\u00e1tokat, nem j\u00f6nnek a menek\u00fcltek"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 2, 
+            "activity": "444.hu", 
+            "date": "2015-10-18T16:50:00", 
+            "document": "Egy t\u00f3 fenek\u00e9r\u0151l ker\u00fcl \u00e9pp el\u0151 egy gy\u00f6ny\u00f6r\u0171, 16. sz\u00e1zadi mexik\u00f3i templom - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-18T16:50:00", 
+            "document": "444.hu"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T16:55:00", 
+            "document": "pfeiffer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T16:55:00", 
+            "document": "pfiffer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 100, 
+            "activity": "nl.wikipedia.org", 
+            "date": "2015-10-18T17:00:00", 
+            "document": "Klierkoorts - Wikipedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 32, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-18T17:00:00", 
+            "document": "Epstein\u2013Barr virus - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T17:00:00", 
+            "document": "cytomegalovirus - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T17:00:00", 
+            "document": "mononucleosis infectiosa - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T17:00:00", 
+            "document": "Epstein-Barr virus - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T17:05:00", 
+            "document": "vpnht - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 14, 
+            "activity": "imdb.com", 
+            "date": "2015-10-18T17:10:00", 
+            "document": "Me and Earl and the Dying Girl (2015) - IMDb"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 13, 
+            "activity": "imdb.com", 
+            "date": "2015-10-18T17:10:00", 
+            "document": "Man Up (2015) - IMDb"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T17:10:00", 
+            "document": "big hero 6 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-18T17:10:00", 
+            "document": "man up - Google Search"
+        }
+    ]
+}

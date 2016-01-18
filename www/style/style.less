@@ -1,0 +1,193 @@
+@import "../../shared/style/shared.less";
+
+@outer-padding: 20px;
+@inner-padding: 30px;
+@header-height: 18vh;
+@border: 20px;
+@scrollbar-width: 15px;
+
+body{
+    overflow: hidden;
+}
+
+#wrapper{
+    width: 100%;
+    background-color: black;
+    height: 100vh;
+    padding-right: @scrollbar-width;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left:0;
+    height: @header-height;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    border-bottom: solid 1px white;
+    font-family: "Source Serif Pro", serif;
+    z-index: 99999999;
+
+    a:hover{
+        color: #FF002B;
+    }
+
+    #options{
+        line-height: 1.2em;
+    }
+
+
+    #header-inner{
+        width: 100%;
+        height: 100%;
+        padding: 2vh @outer-padding;
+        box-sizing: border-box;
+    }
+
+    .header-col{
+        display: inline-block;
+        float: left;
+        width: 22.5%;
+        height: 100%;
+    }
+
+    #title{
+        font-size: 1.2em;
+    }
+
+    #status{
+        font-size: 0.8em;
+        width: 15%;
+    }
+}
+
+
+
+
+#calendar{
+    width: 30%;
+    height: 70%;
+    font-family: "Fira Mono", "Menlo", monospace;
+    font-size: 9px;
+    text-align: center;
+    float: left;
+
+    #weeksrow th{
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .dayname{
+        vertical-align: middle;
+        text-align: center;
+        padding-right: 2px;
+    }
+
+    #cal{
+        box-sizing: border-box;
+    }
+
+    .calendar-day{
+        height: 2vh;
+        width: 2vw;
+        cursor: pointer;
+        box-sizing: border-box;
+        &:hover{
+            border: 2px solid black;
+        }
+
+        &.selected{
+            border: 2px solid black;
+        }
+    }
+
+    #cal-legend-wrapper{
+        padding-top: 10px;
+    }
+
+    #cal-legend > div:first-child{
+        padding-right: 10px;
+
+    }
+
+    #cal-legend > div:last-child{
+        padding-left: 10px;
+    }
+
+    #cal-legend div{
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .legend-block{
+        width: 15px;
+        height: 15px;
+    }
+
+
+}
+
+
+
+
+#content{
+    margin-top: @header-height;
+    width: 100%;
+}
+
+.day{
+    padding-left: @outer-padding;
+    padding-right: @outer-padding - @scrollbar-width;
+}
+
+.log-container{
+    font-size: 12px;
+    color:white;
+
+
+    #current-time-header, .day-header{
+        width: 100%;
+        height: 4vh;
+        padding-top: 2%;
+        background-color: black;
+    }
+
+    #current-time-header{
+        top: @header-height;
+        position: fixed;
+        padding-left: @outer-padding + @inner-padding;
+    }
+
+    .day-header {
+        position: relative;
+        //padding-left: @outer-padding;
+        padding-left: @inner-padding;
+        background-color: black;
+        &.invisible{
+            visibility: hidden;
+        }
+
+    }
+
+}
+
+
+
+.entry{
+    padding-left: @inner-padding;
+
+    .category{
+        width: 14% !important;
+    }
+
+}
+
+
+
+
+
+
+

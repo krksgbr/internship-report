@@ -1,0 +1,704 @@
+{
+    "2015-10-23": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 33, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T09:45:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 9, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T09:50:00", 
+            "document": "Vas\u00e1rnap nyitva tart\u00f3 boltja van a vas\u00e1rnapi z\u00e1rva tart\u00e1st t\u00e1mogat\u00f3 n\u00e9pszavaz\u00e1st kezdem\u00e9nyez\u0151 n\u0151nek - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 78, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T09:55:00", 
+            "document": "A Templom-hegy egyszer m\u00e1r kirobbantott egy intif\u00e1d\u00e1t, most kirobbanthatja a k\u00f6vetkez\u0151t - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 83, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T09:55:00", 
+            "document": "Kispadon baszott, kibaszt\u00e1k - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 12, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T09:55:00", 
+            "document": "A sz\u00e9ls\u0151jobbal szimpatiz\u00e1lt a sv\u00e9d kardos, Darth Vader-maszkos f\u00e9rfi - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 93, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T10:00:00", 
+            "document": "Eg\u00e9szen s\u00falyos ejt\u0151erny\u0151s balesett\u0151l \u00f3vta meg a fi\u00e1t - 444"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:40:00", 
+            "document": "tvm java to javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:40:00", 
+            "document": "java to javascript - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 26, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-23T10:45:00", 
+            "document": "asm.js - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:45:00", 
+            "document": "robovm open source fork - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:45:00", 
+            "document": "asm js - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:45:00", 
+            "document": "robovm - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 53, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-23T10:50:00", 
+            "document": "Unreal Engine - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-10-23T10:50:00", 
+            "document": "Contributors to robovm/robovm"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 22, 
+            "activity": "github.com", 
+            "date": "2015-10-23T10:50:00", 
+            "document": "RoboVM"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-23T10:50:00", 
+            "document": "Pulse \u00b7 robovm/robovm"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-23T10:50:00", 
+            "document": "robovm/robovm-studio"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-23T10:50:00", 
+            "document": "robovm/robovm"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-23T10:50:00", 
+            "document": "https://github.com/robovm/robovm-studio"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 74, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:55:00", 
+            "document": "Pahudstraat 13 to Wijndaelerduin 25, The Hague - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:55:00", 
+            "document": "Pahudstraat 13 to Zuiderpark, Rotterdam - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:55:00", 
+            "document": "Pahudstraat 13 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:55:00", 
+            "document": "Pahudstraat 13 to Promen - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:55:00", 
+            "document": "Pahudstraat 13, The Hague - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T10:55:00", 
+            "document": "9292 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 91, 
+            "activity": "translate.google.com", 
+            "date": "2015-10-23T11:00:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T11:00:00", 
+            "document": "Pahudstraat 13 to Vreeswijkstraat 225, The Hague - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T11:00:00", 
+            "document": "SportCity - Google Maps"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 28, 
+            "activity": "facebook.com", 
+            "date": "2015-10-23T11:10:00", 
+            "document": "(3) MEK Squash"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 12, 
+            "activity": "facebook.com", 
+            "date": "2015-10-23T11:10:00", 
+            "document": "MEK Squash"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T11:10:00", 
+            "document": "mek squash - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T11:10:00", 
+            "document": "Mek Squash - Google Maps"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-10-23T11:10:00", 
+            "document": "(4) MEK Squash"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 24, 
+            "activity": "slack", 
+            "date": "2015-10-23T11:15:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T11:15:00", 
+            "document": "Nem k\u00f6vetett el b\u0171ncselekm\u00e9nyt a sof\u0151r, aki hal\u00e1lra g\u00e1zolt egy 16 \u00e9ves gyereket, \u00e9s m\u00e9g azel\u0151tt kiposztolta a holttest k\u00e9p\u00e9t a Twiterre, hogy a rend\u0151r\u00f6k a helysz\u00ednre \u00e9rtek - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T11:15:00", 
+            "document": "train more - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 71, 
+            "activity": "index.hu", 
+            "date": "2015-10-23T11:20:00", 
+            "document": "Index - Sport - Rossi: Aki az ellenfelem b\u00e1ntja, az nekem nem drukkerem"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 61, 
+            "activity": "facebook.com", 
+            "date": "2015-10-23T12:40:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-23T12:40:00", 
+            "document": "Page Loading..."
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 30, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-10-23T14:15:00", 
+            "document": "Java.lang.Math.exp() Method"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T14:15:00", 
+            "document": "math.exp - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 22, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T14:25:00", 
+            "document": "Egy igazi szurkul\u00f3 nem csicskul be egy 3 m\u00e9ter m\u00e9ly \u00e1roknak, ha a csapata g\u00f3lt l\u0151 - 444"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 98, 
+            "activity": "theregister.co.uk", 
+            "date": "2015-10-23T17:25:00", 
+            "document": "'10-second' theoretical hack could jog Fitbits into malware-spreading mode \u2022 The Register"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T17:25:00", 
+            "document": "Stationsweg 36 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T17:25:00", 
+            "document": "Stationsweg 36 - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 40, 
+            "activity": "Preview", 
+            "date": "2015-10-23T17:30:00", 
+            "document": "Adorno-Culture-Industry.pdf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 127, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T17:30:00", 
+            "document": "GEMAK The Hague to Mammoet Rijwielen Den Haag - Google Maps"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 25, 
+            "activity": "index.hu", 
+            "date": "2015-10-23T17:30:00", 
+            "document": "Index - Sport - Unalmasak az egyszer\u0171 g\u00f3lok, l\u0151tt egy rabon\u00e1st"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T17:30:00", 
+            "document": "Mammoet Rijwielen Den Haag - Google Maps"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-23T17:30:00", 
+            "document": "Books"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 4, 
+            "activity": "Preview", 
+            "date": "2015-10-23T17:30:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 62, 
+            "activity": "denhaag.nl", 
+            "date": "2015-10-23T17:35:00", 
+            "document": "The Hague - Football clubs"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T17:35:00", 
+            "document": "football den haag - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 8, 
+            "activity": "index.hu", 
+            "date": "2015-10-23T17:40:00", 
+            "document": "Index - Sport - A vil\u00e1g legl\u00e1tv\u00e1nyosabb l\u00e1thatatlan sportja"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 89, 
+            "activity": "index.hu", 
+            "date": "2015-10-23T17:45:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Minden id\u0151k leger\u0151sebb hurrik\u00e1nja tart Mexik\u00f3 fel\u00e9"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 21, 
+            "activity": "index.hu", 
+            "date": "2015-10-23T17:45:00", 
+            "document": "Index - K\u00fclf\u00f6ld - Egy napja nyerte meg a v\u00e1laszt\u00e1st, m\u00e1ris kitolt Obam\u00e1val"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 14, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-23T17:50:00", 
+            "document": "Golan Levin - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T17:50:00", 
+            "document": "golan levin - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T17:50:00", 
+            "document": "kikk festival - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 101, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T17:55:00", 
+            "document": "A Zara alap\u00edt\u00f3ja a vil\u00e1g leggazdagabb embere - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 65, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T17:55:00", 
+            "document": "Sok sz\u00e1z menek\u00fclt t\u00f6rt ki a szlov\u00e9n menek\u00fclt\u00e1borokb\u00f3l, ezrek menetelnek Graz fel\u00e9 - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 6, 
+            "activity": "444.hu", 
+            "date": "2015-10-23T17:55:00", 
+            "document": "Mi\u00e9rt nem hallgat Magyarorsz\u00e1gra Eur\u00f3pa? - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 59, 
+            "activity": "theguardian.com", 
+            "date": "2015-10-23T18:00:00", 
+            "document": "Wanted: an ethical tablet | Ask Jack | Technology | The Guardian"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T18:00:00", 
+            "document": "fair trade tablet - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T18:05:00", 
+            "document": "pathe - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T18:05:00", 
+            "document": "pather - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 49, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-23T18:10:00", 
+            "document": "Jolla Tablet - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 27, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-10-23T18:10:00", 
+            "document": "Sailfish OS - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T18:10:00", 
+            "document": "jolla tablet - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-23T18:10:00", 
+            "document": "jolla tablet blog - Google Search"
+        }
+    ]
+}

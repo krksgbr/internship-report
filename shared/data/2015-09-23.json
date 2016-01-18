@@ -1,0 +1,624 @@
+{
+    "2015-09-23": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 28, 
+            "activity": "444.hu", 
+            "date": "2015-09-23T09:55:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 87, 
+            "activity": "444.hu", 
+            "date": "2015-09-23T10:00:00", 
+            "document": "Ez a 32 \u00e9ves p\u00e9nzember \u00fagy d\u00f6nt\u00f6tt, hogy 55-sz\u00f6r\u00f6s\u00e9re dr\u00e1g\u00edtja az AIDS-esek sz\u00e1m\u00e1ra \u00e9letment\u0151 gy\u00f3gyszert, most nagyon ut\u00e1lja mindenki !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 64, 
+            "activity": "444.hu", 
+            "date": "2015-09-23T10:05:00", 
+            "document": "\u00c9rpataki modell: \u00e9p\u00edt\u0151k \u00e9s rombol\u00f3k, \u00f6nk\u00e9ny \u00e9s kiszolg\u00e1ltatotts\u00e1g !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 129, 
+            "activity": "444.hu", 
+            "date": "2015-09-23T10:05:00", 
+            "document": "Belek\u00f6ptek egy budapesti gimn\u00e1zium di\u00e1kjai a menek\u00fclteknek s\u00fct\u00f6tt pog\u00e1cs\u00e1ba? !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 14, 
+            "activity": "444.hu", 
+            "date": "2015-09-23T10:05:00", 
+            "document": "Sz\u00fclet\u0151ben az \u00faj N\u00e9metorsz\u00e1g !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 61, 
+            "activity": "444.hu", 
+            "date": "2015-09-23T10:05:00", 
+            "document": "A nap h\u00fcly\u00e9je: a 18 \u00e9ves fot\u00f3modell, aki megpr\u00f3b\u00e1lta megzsarolni a hokilegenda Jaromir Jagrt !!444!!!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 10, 
+            "activity": "444.hu", 
+            "date": "2015-09-23T10:05:00", 
+            "document": "Egyre zavarosabb a sz\u00edr f\u00e9rfi t\u00f6rt\u00e9nete, akire 30 TEK-est k\u00fcldtek r\u00e1 !!444!!!"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 43, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T10:30:00", 
+            "document": "Controller.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T10:30:00", 
+            "document": "Connection.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T10:30:00", 
+            "document": "Archive.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T10:30:00", 
+            "document": "HttpClient.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-09-23T10:50:00", 
+            "document": "Aphex Twin - Selected Ambient Works 85-92 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-23T10:50:00", 
+            "document": "aphex twin - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 211, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T10:55:00", 
+            "document": "WTHX2015App.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 84, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:05:00", 
+            "document": "ImageSaver.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 177, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:10:00", 
+            "document": "Config.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 36, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:10:00", 
+            "document": "LayoutTool.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:20:00", 
+            "document": "Image.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 51, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-23T11:20:00", 
+            "document": "java - Create whole path automatically when writing to a new file - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-23T11:20:00", 
+            "document": "java create file and directory if not exist - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:25:00", 
+            "document": "772c368cbea69140cd411e4417ce15d5.jpeg - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 88, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:40:00", 
+            "document": "ViewManager.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:40:00", 
+            "document": "Events.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:40:00", 
+            "document": "IView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:45:00", 
+            "document": "TextureIO.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:45:00", 
+            "document": "RNDRException.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:50:00", 
+            "document": "Texture.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:50:00", 
+            "document": "0af324ebbd22f2c9e68f6812ae7f7ee7.jpeg - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T11:50:00", 
+            "document": "f77b3f51ca692c0f211d315aa9f7152a.jpeg - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 281, 
+            "activity": "slack", 
+            "date": "2015-09-23T12:10:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 4, 
+            "activity": "Preview", 
+            "date": "2015-09-23T12:10:00", 
+            "document": "schermen09.pdf"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 1, 
+            "activity": "calendar", 
+            "date": "2015-09-23T12:25:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T12:30:00", 
+            "document": "Run/Debug Configurations"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T12:35:00", 
+            "document": "Filters.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T12:55:00", 
+            "document": "PresentationSubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 18, 
+            "activity": "phpstorm", 
+            "date": "2015-09-23T13:10:00", 
+            "document": "uploadFakerScript.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-09-23T13:10:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 4, 
+            "activity": "phpstorm", 
+            "date": "2015-09-23T13:10:00", 
+            "document": "uploadFaker.html - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 92, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T13:15:00", 
+            "document": "Table.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 35, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T14:00:00", 
+            "document": "SessionDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T14:05:00", 
+            "document": "SessionOverView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 66, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T14:05:00", 
+            "document": "SlideShow.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T14:05:00", 
+            "document": "SubView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-09-23T14:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-23T14:10:00", 
+            "document": "(4) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-23T14:10:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 91, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-23T14:25:00", 
+            "document": "udp://:1234"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 15, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-23T14:25:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 2, 
+            "activity": "VLC Media Player", 
+            "date": "2015-09-23T14:25:00", 
+            "document": "Convert & Stream"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-09-23T14:30:00", 
+            "document": "rndr \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-23T14:30:00", 
+            "document": "rndr \u2014 git-remote-http"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-23T14:30:00", 
+            "document": "rndr \u2014 git"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-23T14:30:00", 
+            "document": "wthx-interactive \u2014 zsh"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 48, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T14:35:00", 
+            "document": "VideoStreamer.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T14:50:00", 
+            "document": "Iterable.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T14:55:00", 
+            "document": "List.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T15:30:00", 
+            "document": "FilteredOverView.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T15:50:00", 
+            "document": "GridDisplay.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-23T17:05:00", 
+            "document": "Display.java - wthx2015display - [~/IdeaProjects/wthx2015display]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 36, 
+            "activity": "phpstorm", 
+            "date": "2015-09-23T18:55:00", 
+            "document": "routes.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 23, 
+            "activity": "phpstorm", 
+            "date": "2015-09-23T18:55:00", 
+            "document": "teams.js - wthx-interactive - [~/git/wthx-interactive]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 8, 
+            "activity": "phpstorm", 
+            "date": "2015-09-23T18:55:00", 
+            "document": "sockets.js - wthx-interactive - [~/git/wthx-interactive]"
+        }
+    ]
+}

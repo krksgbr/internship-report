@@ -1,0 +1,404 @@
+{
+    "2015-11-07": [
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 29, 
+            "activity": "youtube.com", 
+            "date": "2015-11-07T12:00:00", 
+            "document": "The Russians Are Coming: Georgia's Creeping Occupation - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-11-07T12:00:00", 
+            "document": "https://www.youtube.com/watch?v=bv00Weif0Sw&spfreload=10 is not available"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 253, 
+            "activity": "youtube.com", 
+            "date": "2015-11-07T12:05:00", 
+            "document": "Superpower for Hire: Rise of the Private Military - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 45, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T12:20:00", 
+            "document": "shroom quill stem - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-11-07T12:20:00", 
+            "document": "The Real 'Wolf of Wall Street'? - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T12:20:00", 
+            "document": "https://www.google.nl/search?q=shroom+quill+stem&safe=off&biw=1440&bih=757&espv=2&source=lnms&sa=X&ved=0CAYQ_AUoAGoVChMI-_KNrJn-yAIVhhgPCh3ldwbn&dpr=2"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T13:15:00", 
+            "document": "Pahudstraat 13 to Den Haag Centraal - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T13:15:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T13:15:00", 
+            "document": "Den Haag Centraal to Pahudstraat 13 - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 1, 
+            "activity": "google.com", 
+            "date": "2015-11-07T13:15:00", 
+            "document": "https://www.google.com/maps"
+        }, 
+        {
+            "category": "Voice Chat", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 30, 
+            "activity": "Skype", 
+            "date": "2015-11-07T14:25:00", 
+            "document": "Skype"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-11-07T14:50:00", 
+            "document": "fifty.dead.men.walking.(2008).eng.1cd.(3561581)"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-11-07T14:50:00", 
+            "document": "wthx-interactive"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T15:30:00", 
+            "document": "tomado contact grill - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 3, 
+            "activity": "calendar", 
+            "date": "2015-11-07T16:10:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 49, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:15:00", 
+            "document": "quill stem | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 20, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:15:00", 
+            "document": "schaftvorbau | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 37, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:15:00", 
+            "document": "vorbau 25 4 | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 5, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:15:00", 
+            "document": "Elektronik, Autos, Mode, Sammlerst\u00fccke, Gutscheine und mehr Online-Shopping | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 49, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:20:00", 
+            "document": "Vorbau Schaftvorbau Stem Fixed Fixie Singlespeed Classic Rennrad Road 1\" 80mm | eBay"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 12, 
+            "activity": "pycharm", 
+            "date": "2015-11-07T16:20:00", 
+            "document": "main.py - PayPalWaker - [~/PycharmProjects/PayPalWaker]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-11-07T16:20:00", 
+            "document": "PyCharm"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-11-07T16:20:00", 
+            "document": "PayPalWaker - [~/PycharmProjects/PayPalWaker]"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 1, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:20:00", 
+            "document": "www.ebay.de/itm/Vorbau-Schaftvorbau-Stem-Fixed-Fixie-Singlespeed-Classic-Rennrad-Road-1-80mm-/291593911539?var=&hash=item43e459fcf3:m:mYmxGb-WD1gu0yVwezlhNnw"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 71, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:25:00", 
+            "document": "Schaft-Vorbau ZOOM / Kalloy f. Diamant Mifa Lenker f. Rennrad Fixie Singlespeed | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 12, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:25:00", 
+            "document": "1 Zoll Zoom Vorbau Singlespeed / Fixie 80 mm und 100 mm *silber* + *schwarz* | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 7, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:25:00", 
+            "document": "Schaftvorbau UNO 1\" Stem Vorbau Fixie Fixed Single Speed Race Road Rennrad | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 1, 
+            "activity": "ebay.de", 
+            "date": "2015-11-07T16:25:00", 
+            "document": "www.ebay.de/itm/Vorbau-Schaftvorbau-Stem-Fixed-Fixie-Singlespeed-Classic-Rennrad-Road-1-80mm/291593911539?_trksid=p2047675.c100005.m1851&_trkparms=aid=222007&algo=SIC.MBE&ao=1&asc=34567&meid=95851b3d784e462ca156c421cb3b6882&pid=100005&rk=2&rkt=4&sd=291606"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 282, 
+            "activity": "444.hu", 
+            "date": "2015-11-07T17:35:00", 
+            "document": "Itt a besz\u00e9d, amit M\u00e9cs Imre nem mondhatott el G\u00f6ncz \u00c1rp\u00e1d temetes\u00e9n - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 57, 
+            "activity": "index.hu", 
+            "date": "2015-11-07T18:15:00", 
+            "document": "Index - Belf\u00f6ld - 630 milli\u00f3t nyert a lott\u00f3n, de \u00fajra alkoholista lett"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T18:25:00", 
+            "document": "small living room - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T18:25:00", 
+            "document": "living room - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T18:30:00", 
+            "document": "very small living room decorating ideas - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 47, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T18:35:00", 
+            "document": "ikea poang chair - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T18:35:00", 
+            "document": "draai fauteuil - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 83, 
+            "activity": "index.hu", 
+            "date": "2015-11-07T18:40:00", 
+            "document": "Index - Sport - Ez a 17 \u00e9ves sr\u00e1c olyan g\u00f3lt l\u0151tt, amilyet m\u00e1s egy \u00e9let alatt sem"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 123, 
+            "activity": "index.hu", 
+            "date": "2015-11-07T18:45:00", 
+            "document": "Index - Sport - A m\u00e1sik Falcao tud g\u00f3lt l\u0151ni, de m\u00e9g hogy!"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 89, 
+            "activity": "index.hu", 
+            "date": "2015-11-07T18:45:00", 
+            "document": "Index - Sport - Hasra esni a kapus el\u0151tt, nincs enn\u00e9l nagyobb csel"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 9, 
+            "activity": "444.hu", 
+            "date": "2015-11-07T18:45:00", 
+            "document": "Robog az iparos\u00edt\u00e1s: megsz\u0171nik a k\u00e9ttannyelv\u0171 k\u00e9pz\u00e9s Gy\u0151rben - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-11-07T18:50:00", 
+            "document": "neck pain headache - Google Search"
+        }
+    ]
+}

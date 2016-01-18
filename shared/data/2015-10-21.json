@@ -1,0 +1,524 @@
+{
+    "2015-10-21": [
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 10, 
+            "activity": "newtab", 
+            "date": "2015-10-21T09:25:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 5, 
+            "activity": "index.hu", 
+            "date": "2015-10-21T10:45:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T11:05:00", 
+            "document": "soundcloud alog miniatures - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-10-21T11:05:00", 
+            "document": "alog miniautres - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 13, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:05:00", 
+            "document": "Alog - St. Paul Sessions II (Window Magic Reimagining) by Window Magic"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T11:05:00", 
+            "document": "alog miniatures - Google Search"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:05:00", 
+            "document": "Alog - St. Paul Sessions II (Window Magic Reimagining) by Window Magic | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 10, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:25:00", 
+            "document": "Villalobos Feat. Alog - Buffalo Demon in Ricardo Villalobos - Who Are We? Ep"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:25:00", 
+            "document": "M.NOMIZED - Act 6 - Exhalation by M.NOMIZED"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:25:00", 
+            "document": "Ricardo Villalobos - Who Are We? Ep by playedby | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-21T11:30:00", 
+            "document": "oneonetwo \u2014 -zsh"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 4, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:30:00", 
+            "document": "Villalobos Feat. Jorge Gonzalez - Who Are You? in Ricardo Villalobos - Who Are We? Ep"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 83, 
+            "activity": "slack", 
+            "date": "2015-10-21T11:35:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:35:00", 
+            "document": "Anamorph_Levitation_Vinyl Speed Adjust interpretation_ARUPA013 by Arupa Music"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:35:00", 
+            "document": "Barac & Vincentiulian - In Colour (moment 001) by Barac."
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 26, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:50:00", 
+            "document": "Patricia - Drip Dawn by ghostly"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 30, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:50:00", 
+            "document": "[HXR002] B2. Radu Mirica - Sentiment De Fluture by HOXTON RECORDS"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 25, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:50:00", 
+            "document": "Dummy Mix 209 // Mark E by DummyMag"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:50:00", 
+            "document": "Invite's Choice Podcast 069 - DeepChord by Invite"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 7, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T11:55:00", 
+            "document": "AA Herbert It's Only (Dj Koze Mix) by Pampa Records"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 24, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T12:00:00", 
+            "document": "Grace by Zola Blood"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 47, 
+            "activity": "444.hu", 
+            "date": "2015-10-21T12:25:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 2, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T12:25:00", 
+            "document": "Terriers 'Stardragon' (Tuff Sherm Remix) by Major Problems"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 46, 
+            "activity": "444.hu", 
+            "date": "2015-10-21T12:30:00", 
+            "document": "Nem volt t\u00fal lelkes a Miskolcon megtal\u00e1lt kisfi\u00fa anyja, mikor a rend\u0151r\u00f6k megkerest\u00e9k - 444"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 3, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T14:15:00", 
+            "document": "Matthew Dear & Carl Craig (B2B - Trade Miami Dec 5th) by Matthew Dear"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 9, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T14:15:00", 
+            "document": "Minor Science \u2013 Hapless by The Trilogy Tapes"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T14:15:00", 
+            "document": "single speed conversion den haag - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 14, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-21T15:00:00", 
+            "document": "LUSTlab / lightcontroller / Commits \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 52, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-21T15:00:00", 
+            "document": "LUSTlab / lightcontroller / commit / 170be184d1aa \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 5, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-21T15:00:00", 
+            "document": "LUSTlab / lightcontroller \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-21T15:00:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-10-21T15:05:00", 
+            "document": "Matthew Dear | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T15:10:00", 
+            "document": "z chain - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 12, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-21T15:40:00", 
+            "document": "LUSTlab / lightcontroller / commit / 2fd1ebc474a0 \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-21T16:00:00", 
+            "document": "java - Calculate the distance from point A to line segment using Lat /Lon - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T16:00:00", 
+            "document": "point line distance java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T16:00:00", 
+            "document": "point line distance - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 5, 
+            "activity": "mathworld.wolfram.com", 
+            "date": "2015-10-21T16:00:00", 
+            "document": "Point-Line Distance--2-Dimensional -- from Wolfram MathWorld"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T16:00:00", 
+            "document": "point line distance jav - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 106, 
+            "activity": "index.hu", 
+            "date": "2015-10-21T16:35:00", 
+            "document": "Index - Belf\u00f6ld - M\u00e1r a miskolci rend\u0151rs\u00e9gen van a tal\u00e1lt kisfi\u00fa anyja"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 108, 
+            "activity": "bitbucket.org", 
+            "date": "2015-10-21T16:35:00", 
+            "document": "LUSTlab / lightcontroller / commit / 4af84054c36c \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 2, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-10-21T16:40:00", 
+            "document": "Adobe Photoshop CC 2014"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:40:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-21T16:40:00", 
+            "document": "python - Calculating the shortest distance(perpendicular distance) between a point and a line - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 20, 
+            "activity": "users", 
+            "date": "2015-10-21T16:55:00", 
+            "document": "down01309309158.pdf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T16:55:00", 
+            "document": "tektro rl720 installation - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T16:55:00", 
+            "document": "tektro cross levers - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T16:55:00", 
+            "document": "tektro brakes - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T16:55:00", 
+            "document": "tektro brakes lever - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 5, 
+            "activity": "calendar", 
+            "date": "2015-10-21T16:55:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-21T16:55:00", 
+            "document": "tektro 2122 - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 82, 
+            "activity": "index.hu", 
+            "date": "2015-10-21T17:05:00", 
+            "document": "Index - Belf\u00f6ld - L\u00e1szl\u00f3 Petra bepereln\u00e9 a felr\u00fagott menek\u00fcltet"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 12, 
+            "activity": "index.hu", 
+            "date": "2015-10-21T17:05:00", 
+            "document": "Index - Kult\u00far - A Vissza a j\u00f6v\u0151be \u00f6sszes id\u0151utaz\u00e1sa egyetlen k\u00e9pen"
+        }
+    ]
+}

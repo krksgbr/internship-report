@@ -1,0 +1,2684 @@
+{
+    "2015-07-24": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 8, 
+            "activity": "444.hu", 
+            "date": "2015-07-24T09:25:00", 
+            "document": "http://444.hu/ is not available"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 2, 
+            "activity": "index.hu", 
+            "date": "2015-07-24T09:25:00", 
+            "document": "http://index.hu/ is not available"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 191, 
+            "activity": "index.hu", 
+            "date": "2015-07-24T09:30:00", 
+            "document": "Index - Tech - Most megn\u00e9zheti, hogyan figyeli meg a magyar titkosszolg\u00e1lat"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 65, 
+            "activity": "index.hu", 
+            "date": "2015-07-24T09:30:00", 
+            "document": "Index - Tech - Ez nem sz\u00e1m\u00edt\u00f3g\u00e9p; ez a csajod"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 37, 
+            "activity": "index.hu", 
+            "date": "2015-07-24T09:30:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 96, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T09:35:00", 
+            "document": "A-F-R-O - Dark Energy - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T09:35:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T09:35:00", 
+            "document": "dark energy afro - YouTube"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 8, 
+            "activity": "slack", 
+            "date": "2015-07-24T10:00:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T10:05:00", 
+            "document": "import json to postgresql - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 11, 
+            "activity": "quora.com", 
+            "date": "2015-07-24T10:05:00", 
+            "document": "(4) I have json data like the following. How can I insert it inside postgresql table if I am using psycopg2 within Python? - Quora"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 40, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T10:05:00", 
+            "document": "PostgreSQL: insert data into table from json - Stack Overflow"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-07-24T10:05:00", 
+            "document": "Note on importing local modules and setting the PYTHONPATH"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 87, 
+            "activity": "facebook.com", 
+            "date": "2015-07-24T10:10:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T10:10:00", 
+            "document": "insert json to postgresql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 5, 
+            "activity": "gist.github.com", 
+            "date": "2015-07-24T10:10:00", 
+            "document": "Script to automate an import process from .json file to postgre DB."
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-07-24T10:10:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-07-24T10:15:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 13, 
+            "activity": "sublime text", 
+            "date": "2015-07-24T10:15:00", 
+            "document": "Amijs.json \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 6, 
+            "activity": "calendar", 
+            "date": "2015-07-24T10:15:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-24T10:15:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-24T10:15:00", 
+            "document": "json2csv-master"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 17, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "Amijs.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 10, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "*Untitled-1"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 50, 
+            "activity": "sublime text", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "untitled \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 34, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "SQL relational query - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 25, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "0bd9b54b-3400-4655-8bd8-27dc6bb760c9.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "relational queries sql - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "07-15.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "relational quieries swql - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "(1) Vera Van de Seyp"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "Vera Van de Seyp"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "README.md \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "ReadingList_archive.txt \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-07-24T10:20:00", 
+            "document": "0d7e2266-4652-4a8c-a480-895cdf2829f4.json \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-07-24T10:25:00", 
+            "document": "Exercise 15: Data Modeling"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-07-24T10:25:00", 
+            "document": "Messages"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 28, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-07-24T10:30:00", 
+            "document": "PL/SQL Arrays"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T10:30:00", 
+            "document": "sql array - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T10:30:00", 
+            "document": "php - storing array in a sql database - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T10:30:00", 
+            "document": "storing an array in sql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T10:35:00", 
+            "document": "postgresql array - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T10:40:00", 
+            "document": "Generate Insert SQL statements from a csv file - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T10:40:00", 
+            "document": "csv to sql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-07-24T10:40:00", 
+            "document": "albertz (Albert Zeyer)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T10:45:00", 
+            "document": "json_to_csv.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 13, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T10:45:00", 
+            "document": "participants.csv - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T10:55:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 13, 
+            "activity": "sublime text", 
+            "date": "2015-07-24T10:55:00", 
+            "document": "sides.glsl \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-24T10:55:00", 
+            "document": "00-intro-0"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T10:55:00", 
+            "document": "GaborK \u2014 node"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-24T10:55:00", 
+            "document": "02-intro-2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-07-24T10:55:00", 
+            "document": "hello.glsl \u2014 RD1_nestedLoops_grid, DOSOMETHING"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T10:55:00", 
+            "document": "the book of shaders - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-07-24T11:00:00", 
+            "document": "patriciogonzalezvivo (Patricio Gonzalez Vivo)"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 67, 
+            "activity": "vimeo.com", 
+            "date": "2015-07-24T11:05:00", 
+            "document": "Hyperlocator on Vimeo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-07-24T11:05:00", 
+            "document": "Learn"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:05:00", 
+            "document": "hyperlocator - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-24T11:05:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-24T11:05:00", 
+            "document": "Projects"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:05:00", 
+            "document": "https://www.google.nl/search?q=hyperlocator&safe=off&espv=2&biw=1440&bih=801&tbm=isch&imgil=VhCn8FGpSf3otM%3A%3BlG1_BR_2NoTDGM%3Bhttp%253A%252F%252Flust.nl%252F&source=iu&pf=m&fir=VhCn8FGpSf3otM%3A%2ClG1_BR_2NoTDGM%2C_&dpr=2&usg=__bmCweNkVzk6Ax5YRPYXwLzc7"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-24T11:05:00", 
+            "document": "Color Schemes etc"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-24T11:05:00", 
+            "document": "Frameworks"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 28, 
+            "activity": "Finder", 
+            "date": "2015-07-24T11:10:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 12, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T11:10:00", 
+            "document": "GaborK \u2014 git"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-07-24T11:10:00", 
+            "document": "practice"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T11:10:00", 
+            "document": "GaborK \u2014 git-remote-http"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T11:10:00", 
+            "document": "GaborK \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 74, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T11:15:00", 
+            "document": "thebookofshaders \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 51, 
+            "activity": "github.com", 
+            "date": "2015-07-24T11:15:00", 
+            "document": "patriciogonzalezvivo/thebookofshaders"
+        }, 
+        {
+            "category": "Quality Assurance", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 37, 
+            "activity": "localhost:8000", 
+            "date": "2015-07-24T11:15:00", 
+            "document": "The Book of Shaders"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T11:15:00", 
+            "document": "thebookofshaders \u2014 php"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T11:15:00", 
+            "document": "thebookofshaders \u2014 git-remote-http"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-07-24T11:15:00", 
+            "document": "Finishing random \u00b7 patriciogonzalezvivo/thebookofshaders@d83ca37"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:25:00", 
+            "document": "csv to sql python - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 54, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:25:00", 
+            "document": "generate sql table from json python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T11:25:00", 
+            "document": "Writing a csv file into SQL Server database using python - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T11:25:00", 
+            "document": "Python, converting CSV file to SQL table - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:30:00", 
+            "document": "python postgresql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:30:00", 
+            "document": "coler - Google Search"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 27, 
+            "activity": "flickr.com", 
+            "date": "2015-07-24T11:35:00", 
+            "document": "Flickr - Photo Sharing!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:35:00", 
+            "document": "color scheme generator - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:35:00", 
+            "document": "kolor - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:35:00", 
+            "document": "koler - Google Search"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "flickr.com", 
+            "date": "2015-07-24T11:35:00", 
+            "document": "Flickr, a Yahoo company | Flickr - Photo Sharing!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:35:00", 
+            "document": "adobe kolor - Google Search"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 1, 
+            "activity": "flickr.com", 
+            "date": "2015-07-24T11:35:00", 
+            "document": "https://www.flickr.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:40:00", 
+            "document": "season color palette - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:45:00", 
+            "document": "BYOBASTPOTG - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 52, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:50:00", 
+            "document": "bbq meme - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 62, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T11:55:00", 
+            "document": "json to sql python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 32, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T11:55:00", 
+            "document": "Inserting JSON into MySQL using Python - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T11:55:00", 
+            "document": "Converting from JSON to SQL with Python: Suggested libraries/techniques to look into? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T11:55:00", 
+            "document": "Convert JSON to SQLite in Python - How to map json keys to database columns properly? - Stack Overflow"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 4, 
+            "activity": "freelancer.com", 
+            "date": "2015-07-24T11:55:00", 
+            "document": "Script to Extract Data from JSON Files and insert into SQL | Python | SQL | Windows Server"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:00:00", 
+            "document": "python library to work with sql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:00:00", 
+            "document": "csvkit sql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:00:00", 
+            "document": "psycop2 vs dataset - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:00:00", 
+            "document": "bbq geek meme - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:00:00", 
+            "document": "bbq programmer meme - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:00:00", 
+            "document": "postgres python - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:00:00", 
+            "document": "csvkit json to csv - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:05:00", 
+            "document": "dataset python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 48, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T12:05:00", 
+            "document": "python - SQLAlchemy or psycopg2? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:05:00", 
+            "document": "python sql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 20, 
+            "activity": "github.com", 
+            "date": "2015-07-24T12:05:00", 
+            "document": "pudo/dataset"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 18, 
+            "activity": "reddit.com", 
+            "date": "2015-07-24T12:05:00", 
+            "document": "dataset: databases for lazy people : Python"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:05:00", 
+            "document": "psycopg2 vs sqlalchemy - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T12:05:00", 
+            "document": "What is the standard Python module for SQL queries? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 36, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:10:00", 
+            "document": "sqlalchemy example - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 16, 
+            "activity": "gist.github.com", 
+            "date": "2015-07-24T12:10:00", 
+            "document": "The code below does the same as the example snippet you've just seen: opening a database connection, creating a new table with some columns, storing some data, altering the table schema and adding another row."
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 167, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T12:15:00", 
+            "document": "PostgreSQL - hello@localhost - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 46, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-07-24T12:15:00", 
+            "document": "PostgreSQL - CREATE Table"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:15:00", 
+            "document": "create table postgres - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 4, 
+            "activity": "Preview", 
+            "date": "2015-07-24T12:15:00", 
+            "document": "Late_setup.pdf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:15:00", 
+            "document": "postgres insert into - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 35, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T12:20:00", 
+            "document": "osx - how to start postgresql server on mac os x - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:20:00", 
+            "document": "start postgres server - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 6, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T12:25:00", 
+            "document": "Create New Table"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:25:00", 
+            "document": "FATAL: database does not exist - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T12:25:00", 
+            "document": "thebookofshaders \u2014 postgres"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T12:25:00", 
+            "document": "thebookofshaders \u2014 ruby"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T12:25:00", 
+            "document": "postgresql - Rails - FATAL: database \"myapp_development\" does not exist - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:25:00", 
+            "document": "create postgresql database pycharm - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T12:25:00", 
+            "document": "Postgres on Rails FATAL: database does not exist - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T12:25:00", 
+            "document": "thebookofshaders \u2014 Python"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T12:25:00", 
+            "document": "thebookofshaders \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 46, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T12:30:00", 
+            "document": "How to Setup PostgreSQL for Rails Development on OS X - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 59, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T12:30:00", 
+            "document": "postgresql tutorial mac - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 55, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:30:00", 
+            "document": "create postgresql database - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 37, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T12:30:00", 
+            "document": "Intro to SQL with Drills and Exercises - 1 (Installing Postgres on Mac) - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 18, 
+            "activity": "System Preferences", 
+            "date": "2015-07-24T12:30:00", 
+            "document": "Network"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 15, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T12:30:00", 
+            "document": "postgresql tutorial - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T12:30:00", 
+            "document": "Example: PostgreSQL Create DB and Table - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T12:30:00", 
+            "document": "postgresql terminal mac - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-07-24T12:30:00", 
+            "document": "http://www.youtube.com/watch?v=fD7x8hd9yE4 failed to load"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:35:00", 
+            "document": "setting up postgres on mac os - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T12:35:00", 
+            "document": "GaborK \u2014 ruby"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 14, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T12:40:00", 
+            "document": "GaborK \u2014 psql"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 19, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T12:40:00", 
+            "document": "GaborK \u2014 postgres"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T12:40:00", 
+            "document": "How to exit from PostgreSQL command line utility: psql - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:40:00", 
+            "document": "logout psql - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T12:40:00", 
+            "document": "GaborK \u2014 createdb"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T12:40:00", 
+            "document": "GaborK \u2014 login"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 63, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T12:45:00", 
+            "document": "osx - Mac OS Yosemite PostgreSQL - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:45:00", 
+            "document": "create db postgres - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:45:00", 
+            "document": "setting up postgres on mac os yosemite - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 16, 
+            "activity": "gist.github.com", 
+            "date": "2015-07-24T12:45:00", 
+            "document": "Mac OS X 10.10 Yosemite Setup"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:45:00", 
+            "document": "setting up postgres on mac os yosetmite - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "gist.github.com", 
+            "date": "2015-07-24T12:45:00", 
+            "document": "https://gist.github.com/kevinelliott/0726211d17020a6abc1f"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 39, 
+            "activity": "github.com", 
+            "date": "2015-07-24T12:55:00", 
+            "document": "eddiezane/lunchy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:55:00", 
+            "document": "launchy mac gem - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:55:00", 
+            "document": "wrapper around launchctl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:55:00", 
+            "document": "launchy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:55:00", 
+            "document": "brew launchy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:55:00", 
+            "document": "launchy mac - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T12:55:00", 
+            "document": "wrapper around launchclt - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 38, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T13:00:00", 
+            "document": "9.4.1_1 \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 28, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T13:00:00", 
+            "document": "LaunchAgents \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-07-24T13:00:00", 
+            "document": "copiousfreetime/launchy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T13:00:00", 
+            "document": "gem launchy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T13:00:00", 
+            "document": "create symbolic link mac - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-07-24T13:00:00", 
+            "document": "https://github.com/copiousfreetime/launchy"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 48, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "osx - Location of postgresql database on OS X? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "postgresql - How to use the psql command to list, create, use and examine databases? - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "postgres \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "Where does PostgreSQL store the database? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "createdb command in postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "postgresql db locations - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "postgresql list databases - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "postgresql - Psql list all tables - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "postgresql database default location on linux - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "postgresql db location mac osx - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T13:05:00", 
+            "document": "9.4.1_1 \u2014 createdb"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T13:10:00", 
+            "document": "brew shutfown postgresql - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T13:10:00", 
+            "document": "GaborK \u2014 launchctl"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T13:10:00", 
+            "document": "GaborK \u2014 find"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T13:10:00", 
+            "document": "GaborK \u2014 du"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T13:10:00", 
+            "document": "GaborK \u2014 pg_ctl"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T14:10:00", 
+            "document": "where are database files stored postgre - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 44, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T14:15:00", 
+            "document": "Show tables in Postgresql - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T14:15:00", 
+            "document": "java - PSQLException: ERROR: relation \"TABLE_NAME\" does not exist - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T14:15:00", 
+            "document": "ERROR: relation \"test\" does not exist - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T14:15:00", 
+            "document": "insert table to database - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T14:15:00", 
+            "document": "ruby on rails - PGError: ERROR: relation \"table_name\" does not exist - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T14:15:00", 
+            "document": "relation \"hello\" does not exist - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T14:15:00", 
+            "document": "relation does not exist - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T14:15:00", 
+            "document": "show tables postgres - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 82, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T14:20:00", 
+            "document": "PostgreSQL - hello_db@localhost - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 37, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T14:20:00", 
+            "document": "hello.public.test - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T14:20:00", 
+            "document": "php - Cannot simply use PostgreSQL table name (\"relation does not exist\") - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T14:20:00", 
+            "document": "postgresql - Relation does not exist - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 65, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T14:25:00", 
+            "document": "hello_db.public.mytest - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 9, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T14:30:00", 
+            "document": "GaborK \u2014 Python"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T14:30:00", 
+            "document": "GaborK \u2014 clang"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 11, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T14:45:00", 
+            "document": "PostgreSQL - hubbub@localhost - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 34, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T14:45:00", 
+            "document": "hubbub.public.participants - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T14:50:00", 
+            "document": "json2csv.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 95, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T14:55:00", 
+            "document": "Amijs.outline.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 75, 
+            "activity": "Terminal", 
+            "date": "2015-07-24T14:55:00", 
+            "document": "json2csv-master \u2014 bash"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-07-24T14:55:00", 
+            "document": "https://github.com/evidens/json2csv.git failed to load"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 96, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T15:00:00", 
+            "document": "json_to_postgresql.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 3, 
+            "activity": "System Preferences", 
+            "date": "2015-07-24T15:05:00", 
+            "document": "Keyboard"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 18, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T15:10:00", 
+            "document": "hubbub.public.measurements_id_seq - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 21, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T15:10:00", 
+            "document": "hubbub.public.questions - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 39, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T15:25:00", 
+            "document": "hubbub.public.measurements - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 17, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-07-24T15:30:00", 
+            "document": "sql - Why is naming a table's Primary Key column \"Id\" considered bad practice? - Programmers Stack Exchange"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T15:30:00", 
+            "document": "does id need to be unique within table sql - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "programmers.stackexchange.com", 
+            "date": "2015-07-24T15:30:00", 
+            "document": "programmers.stackexchange.com/questions/114728/why-is-naming-a-tables-primary-key-column-id-considered-bad-practice"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T15:45:00", 
+            "document": "Parsing values from a JSON file in Python - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 8, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T15:45:00", 
+            "document": "Heleen.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T15:45:00", 
+            "document": "open json file python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T15:45:00", 
+            "document": "stackoverflow.com/questions/2835559/parsing-values-from-a-json-file-in-python"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T15:55:00", 
+            "document": "python - How to remove a key from a dictionary? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T15:55:00", 
+            "document": "remove key from dictionary python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 34, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T16:00:00", 
+            "document": "Add key to a dictionary in Python? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T16:00:00", 
+            "document": "copy dictionary python - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T16:00:00", 
+            "document": "add key to dictionary python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T16:05:00", 
+            "document": "python - Rename a dictionary key - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T16:05:00", 
+            "document": "rename key python - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 85, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T16:10:00", 
+            "document": "sql - Table Naming Dilemma: Singular vs. Plural Names - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T16:10:00", 
+            "document": "should table name be plural or singular - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T16:45:00", 
+            "document": "three values in tuple python - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T16:45:00", 
+            "document": "three values in tuple - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 32, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-07-24T17:00:00", 
+            "document": "SQL Foreign Key"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:00:00", 
+            "document": "foreign id - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:00:00", 
+            "document": "foreign id sql - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 63, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-24T17:05:00", 
+            "document": "Rizla - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 42, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:05:00", 
+            "document": "dataset python foreign key - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:05:00", 
+            "document": "foreign key postgresql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T17:05:00", 
+            "document": "foreign keys - Postgresql constraint - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:05:00", 
+            "document": "add foreign key postgresql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:05:00", 
+            "document": "rizla wiki - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-07-24T17:05:00", 
+            "document": "https://en.wikipedia.org/wiki/Rizla"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:05:00", 
+            "document": "https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&es_th=1&ie=UTF-8#safe=off&q=print+object+properties+and+methods+python is not available"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 39, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T17:10:00", 
+            "document": "ruby on rails - Integer out of range on Postgres DB - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:10:00", 
+            "document": "sqlalchemy.exc.DataError: (DataError) integer out of range - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:15:00", 
+            "document": "dataset bigint python sql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:15:00", 
+            "document": "dataset bigint - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T17:15:00", 
+            "document": "python - sqlalchemy.exc.DataError: (psycopg2.DataError) integer out of rang - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T17:25:00", 
+            "document": "postgresql - SQL base types: integer vs int? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:25:00", 
+            "document": "create table postgres example - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:25:00", 
+            "document": "Int vs integer postgresql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 84, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T17:30:00", 
+            "document": "Difference between different string types in SQL Server? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:30:00", 
+            "document": "reference postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:30:00", 
+            "document": "character vs text sql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:30:00", 
+            "document": "postgresql references example - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 69, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T17:35:00", 
+            "document": "datetime - Converting unix timestamp string to readable date in Python - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:35:00", 
+            "document": "timestamp to datetime python - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:35:00", 
+            "document": "seconds to date - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:40:00", 
+            "document": "unixtime - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 46, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T17:45:00", 
+            "document": "sql - What is causing ERROR: there is no unique constraint matching given keys for referenced table? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:45:00", 
+            "document": "there is no unique constraint matching given keys for referenced table \"participants\" - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:45:00", 
+            "document": "there is no unique constraint matching given keys for referenced table - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 53, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T17:50:00", 
+            "document": "hubbub.public.measurement - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T17:55:00", 
+            "document": "Error : date/time field value out of range: \"30/12/2014 23:58:04\" postgresql - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T17:55:00", 
+            "document": "How to change datestyle in PostgreSQL? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:55:00", 
+            "document": "DataError) date/time field value out of range: - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:55:00", 
+            "document": "set datestyle postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:55:00", 
+            "document": "DataError) date/time field value out of range: postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T17:55:00", 
+            "document": "DataError) date/time field value out of range: \"26-05-2015\" - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 8, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T18:10:00", 
+            "document": "hubbub.public.hourly_rates - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 16, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T18:15:00", 
+            "document": "hubbub.public.five_minutely_rates - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T18:20:00", 
+            "document": "print table terminal - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-24T18:20:00", 
+            "document": "print table postgresql terminal - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-24T18:20:00", 
+            "document": "PostgreSql command to see the table data - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-07-24T18:20:00", 
+            "document": "Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }
+    ]
+}

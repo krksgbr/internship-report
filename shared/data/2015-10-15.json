@@ -1,0 +1,444 @@
+{
+    "2015-10-15": [
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 120, 
+            "activity": "444.hu", 
+            "date": "2015-10-15T10:05:00", 
+            "document": "Elk\u00e9peszt\u0151: csalnak az egyetemist\u00e1k - 444"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 23, 
+            "activity": "velvet.hu", 
+            "date": "2015-10-15T10:05:00", 
+            "document": "Velvet - Randi - Az egyik menyasszony szelfibotozott, a m\u00e1sik has\u00e1t-mell\u00e9t mutogatta"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 60, 
+            "activity": "problem reporter", 
+            "date": "2015-10-15T10:35:00", 
+            "document": "Problem Report for IntelliJ IDEA-EAP"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 81, 
+            "activity": "444.hu", 
+            "date": "2015-10-15T10:40:00", 
+            "document": "Le\u00e9gett a TF tornaterme az Alkot\u00e1s \u00faton - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 55, 
+            "activity": "444.hu", 
+            "date": "2015-10-15T10:40:00", 
+            "document": "Van egymilli\u00f3d, beteszed a bankba. Mennyi marad? - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 34, 
+            "activity": "444.hu", 
+            "date": "2015-10-15T10:40:00", 
+            "document": "P\u00e1nik t\u00f6rt ki egy lengyelorsz\u00e1gi g\u00f3lyat\u00e1borban, egy di\u00e1k meghalt - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 21, 
+            "activity": "444.hu", 
+            "date": "2015-10-15T10:40:00", 
+            "document": "A mikul\u00e1st bev\u00e1lasztott\u00e1k az \u00e9szak-sarki \u00f6nkorm\u00e1nyzatba - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 19, 
+            "activity": "444.hu", 
+            "date": "2015-10-15T10:40:00", 
+            "document": "Az eddigi legprec\u00edzebb, egyben legabsztraktabb plak\u00e1trong\u00e1l\u00e1s - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-15T10:40:00", 
+            "document": "traffic.outbrain.com/network/redir?p=VjK4rEguNkQJs8PhZQwhALF--kTEtWCOr3v7AxYHqiJ3ll5mTOfhqze2Te_VSL8AbsSSdv7Yc0gbgu2iA4qXp3wtpOhE4GUakk3tPS0TyJMsBEFvVToy31CL76JgpLIQ8MnRAOzDaOenEFnHOg1Q9vW2WjfVmroXu1wDk2vKH5QWWtRzXprk-D5E_H7NQq3rq5uCak5eFlHd3qTRDTRBp94yV8"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 102, 
+            "activity": "index.hu", 
+            "date": "2015-10-15T10:50:00", 
+            "document": "Index - Kult\u00far - \u00dagy t\u0171nt, mintha Andy Vajna elb\u00f3biskolt volna a TV2-r\u0151l val\u00f3 alkudoz\u00e1son"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 72, 
+            "activity": "index.hu", 
+            "date": "2015-10-15T10:50:00", 
+            "document": "Index - Mindek\u00f6zben - Beleolvasott a k\u00f6nyvbe a boltban, azt\u00e1n a falhoz v\u00e1gta. Ez milyen k\u00f6nyv lehet?"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T11:55:00", 
+            "document": "rain - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-10-15T12:00:00", 
+            "document": "rain - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-15T12:00:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 38, 
+            "activity": "index.hu", 
+            "date": "2015-10-15T12:15:00", 
+            "document": "Index - Sport - Az ismeretlen feh\u00e9r fut\u00f3, aki \u00e9vtizedekig szenvedett b\u00e1tors\u00e1g\u00e1\u00e9rt"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 114, 
+            "activity": "index.hu", 
+            "date": "2015-10-15T12:20:00", 
+            "document": "Index - Sport - A gusztustalan meccs, ami miatt \u00f6k\u00f6lbe szorul a fer\u00f6eriek keze"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T12:25:00", 
+            "document": "convolution - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-15T14:25:00", 
+            "document": "math - javascript - normalize a number so that it falls between a range between 0 and 1 - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T14:25:00", 
+            "document": "normalize number javascript - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 30, 
+            "activity": "index.hu", 
+            "date": "2015-10-15T14:50:00", 
+            "document": "Index - Tudom\u00e1ny - Budapest kedvenc levesez\u0151je: azonos\u00edtatlan h\u00fas, mocsok \u00e9s hepatitis"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 13, 
+            "activity": "facebook.com", 
+            "date": "2015-10-15T14:50:00", 
+            "document": "(9) Hai Nam Pho Bistro"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-10-15T14:50:00", 
+            "document": "Hai Nam Pho Bistro"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T14:50:00", 
+            "document": "Hai Nam Pho - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-15T14:50:00", 
+            "document": "https://www.facebook.com/HaiNamBistro"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 47, 
+            "activity": "facebook.com", 
+            "date": "2015-10-15T14:55:00", 
+            "document": "(7) Hai Nam Pho Bistro"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 32, 
+            "activity": "facebook.com", 
+            "date": "2015-10-15T14:55:00", 
+            "document": "Gabor Kerekes"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 10, 
+            "activity": "facebook.com", 
+            "date": "2015-10-15T14:55:00", 
+            "document": "Vito Stassi"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-10-15T14:55:00", 
+            "document": "vito stassi - Facebook Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T15:35:00", 
+            "document": "club mate den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T15:35:00", 
+            "document": "marqt club mate - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-15T15:50:00", 
+            "document": "lambda - Copy a stream to avoid \"stream has already been operated upon or closed\" (java 8) - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-15T15:50:00", 
+            "document": "Java 8 Stream IllegalStateException: Stream has already been operated on or closed - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T15:50:00", 
+            "document": "stream has already been operated upon or closed - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T17:10:00", 
+            "document": "apply function on object java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 13, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-15T17:10:00", 
+            "document": "Function Object in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-10-15T17:10:00", 
+            "document": "Lazy Pen - Combining word processing with the emotion of one's handwriting"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T17:30:00", 
+            "document": "function reference java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 15, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-15T17:30:00", 
+            "document": "Function Pointers in Java - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 137, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-15T17:45:00", 
+            "document": "lambda - Save a method into a variable, java 8 - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T17:45:00", 
+            "document": "save method references java 8 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T18:00:00", 
+            "document": "pass method reference as argument java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-15T18:10:00", 
+            "document": "How do I define a method which takes a lambda as a parameter in Java 8? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T18:10:00", 
+            "document": "pass lambda expression as parameter java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-15T18:15:00", 
+            "document": "java 8 apply function - Google Search"
+        }
+    ]
+}

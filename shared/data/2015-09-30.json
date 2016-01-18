@@ -1,0 +1,2164 @@
+{
+    "2015-09-30": [
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 29, 
+            "activity": "openweathermap.org", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 9, 
+            "activity": "newtab", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 2, 
+            "activity": "slack", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "OfflineWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "public \u2014 zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "java - Using comparator to make custom sort - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "wthx-front \u2014 mongod"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "wthx-interactive \u2014 node"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 2, 
+            "activity": "wunderground.com", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "http://www.wunderground.com/weather/api/d/pricing.html?MR=1 is not available"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "wthx-front \u2014 zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "wthx-interactive \u2014 zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "java - How to get file name without the extension? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "How to convert String to long in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T09:25:00", 
+            "document": "Java.util.Arrays.binarySearch(int[] a, int key) Method Example"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 88, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T09:30:00", 
+            "document": "https://www.google.nl/search?q=ai+thinker&oq=ai+thinker&aqs=chrome..69i57.6918j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 failed to load"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 128, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:35:00", 
+            "document": "untitled \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 12, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:35:00", 
+            "document": "Serial Monitor - /dev/cu.Bluetooth-Incoming-Port \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:35:00", 
+            "document": "chapter \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:35:00", 
+            "document": "interfaces.txt \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:35:00", 
+            "document": "self-organization.txt \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:35:00", 
+            "document": "notes.txt \u2014 WTHX"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:35:00", 
+            "document": "authorship, power, literacy, graphic design.txt \u2014 WTHX"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 56, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 53, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "Blink.ino \u2014 Blink"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 54, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "arduino_test.c \u2014 WTHX"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "ai thinker - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "Applications"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "01.Basics"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "forecastio-lib-java-master"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "untitled \u2014 Blink"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "Arduino"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:45:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-30T09:45:00", 
+            "document": "Blink"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-30T10:10:00", 
+            "document": "1356994800000 - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-30T10:10:00", 
+            "document": "WeatherData.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-09-30T10:10:00", 
+            "document": "FakeWeatherDataSource.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T10:20:00", 
+            "document": "esp8266ex - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T10:20:00", 
+            "document": "esp8266ex arduino - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-09-30T10:20:00", 
+            "document": "Toolchain \u00b7 esp8266/esp8266-wiki Wiki"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T10:20:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 13, 
+            "activity": "calendar", 
+            "date": "2015-09-30T10:20:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 18, 
+            "activity": "github.com", 
+            "date": "2015-09-30T10:20:00", 
+            "document": "Hardware_ESP8266 Versions \u00b7 esp8266/esp8266-wiki Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-09-30T10:20:00", 
+            "document": "Uploading \u00b7 esp8266/esp8266-wiki Wiki"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 51, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T10:25:00", 
+            "document": "Cheap and Easy WiFi (IoT) Tutorial Part 1 - ESP8266 Setup/Intro - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 27, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T10:25:00", 
+            "document": "esp8266ex - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T10:25:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T10:25:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 73, 
+            "activity": "github.com", 
+            "date": "2015-09-30T10:30:00", 
+            "document": "chiknhed/esp8266_client"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 50, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T10:30:00", 
+            "document": "esp8266mod - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T10:30:00", 
+            "document": "esp8266mod ai thinker - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T10:30:00", 
+            "document": "esp8266mod - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T10:30:00", 
+            "document": "esp8266mode - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-30T10:30:00", 
+            "document": "https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCMQFjABahUKEwiT6a6MrJ7IAhVHvnIKHUGrDa8&url=https://github.com/chiknhed/esp8266_client&usg=AFQjCNHVGJ6OnV_viVyahGI4KV-iiHX5EA&sig2=7iD3vYW-aNNHnzfzdU2i9w&bvm=bv.103627116,d"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 124, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T10:35:00", 
+            "document": "5$ Arduino WiFi Module!? ESP8266 mini Tutorial/Review - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T10:35:00", 
+            "document": "esp8266 tutorial - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T10:35:00", 
+            "document": "ESP8266 Send Data To a Website (ESP-01/ESP-12) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T10:35:00", 
+            "document": "ESP8266 ESP-12 (AI-Thinker) Serial WIFI module Review - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T10:45:00", 
+            "document": "3.3V FTDI Serial to USB board - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:00:00", 
+            "document": "ESP8266 arduino nano - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 64, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:00:00", 
+            "document": "arduino nano 3.3V FTDI Serial to USB board - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:00:00", 
+            "document": "https://www.google.nl/search?q=3.3V+FTDI+Serial+to+USB+board&safe=off&es_sm=91&biw=1440&bih=801&source=lnms&sa=X&ved=0CAYQ_AUoAGoVChMI6uulpq-eyAIVR_ByCh3yuw5l&dpr=2"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-09-30T11:00:00", 
+            "document": "BmbPopUpWindow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:05:00", 
+            "document": "txd rxd - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 37, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T11:10:00", 
+            "document": "Connection Module Wifi ESP8266 and Arduino Nano (Realterm) - Mode Server : PDA_Control - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "Preview", 
+            "date": "2015-09-30T11:15:00", 
+            "document": "Screen Shot 2015-09-30 at 11.12.44"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 147, 
+            "activity": "Preview", 
+            "date": "2015-09-30T11:15:00", 
+            "document": "Screen Shot 2015-09-30 at 11.09.52"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:20:00", 
+            "document": "voltage divider - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:20:00", 
+            "document": "arduino nano - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 28, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:25:00", 
+            "document": "voltage divider arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:25:00", 
+            "document": "Yet another ESP8266 Arduino library for Soft Serial"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 41, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T11:30:00", 
+            "document": "Arduino Sketch upload issue - avrdude: stk500_recv(): programmer is not responding - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:30:00", 
+            "document": "stk500_recv() programmer is not responding - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 59, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:35:00", 
+            "document": "resistor color code - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:40:00", 
+            "document": "https://www.google.nl/search?q=sparkfun+voltage+divider&oq=sparkfun+voltage+divider&aqs=chrome..69i57j69i60.4319j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:40:00", 
+            "document": "sparkfun voltage divider - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:45:00", 
+            "document": "resistor color code 5 bands - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:45:00", 
+            "document": "dtr arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:45:00", 
+            "document": "dtr - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T11:50:00", 
+            "document": "https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&ved=0CE4QFjAKahUKEwiZk_utvZ7IAhUkvXIKHa2LCik&url=http://el34world.com/charts/resistor/5BandResisitor.htm&usg=AFQjCNFHl_GvTLO7GYFT-fiw047TyPDb3w&sig2=_EI7q_UZua6nKHhj3g7ZYQ&cad=rja is not avai"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 52, 
+            "activity": "Preview", 
+            "date": "2015-09-30T11:55:00", 
+            "document": "Screen Shot 2015-09-30 at 11.58.50"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 55, 
+            "activity": "Preview", 
+            "date": "2015-09-30T12:00:00", 
+            "document": "Screen Shot 2015-09-30 at 12.02.37"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T12:15:00", 
+            "document": "what is dtr arduino - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T12:15:00", 
+            "document": "data terminal ready - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T12:15:00", 
+            "document": "https://www.google.nl/search?q=what+is+dtr+arduino&oq=what+is+dtr+arduino&aqs=chrome..69i57j69i64.2943j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T12:20:00", 
+            "document": "data terminal ready arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T12:30:00", 
+            "document": "tdx rdx - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T12:30:00", 
+            "document": "5 Band Resitor Color Code Calculator"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T12:45:00", 
+            "document": "akizukidenshi.com/download/ds/espressifsystems/0B-ESP8266__Hardware_User_Guide__EN_v1.1.pdf"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-30T12:45:00", 
+            "document": "Checking Email With The ESP8266 | Hackaday"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 21, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T12:50:00", 
+            "document": "arduino serial monitor strange characters - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T12:55:00", 
+            "document": "strange ascii characters arduino - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 79, 
+            "activity": "Terminal", 
+            "date": "2015-09-30T13:00:00", 
+            "document": "Terminal \u2014 screen"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 28, 
+            "activity": "Terminal", 
+            "date": "2015-09-30T13:00:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T13:00:00", 
+            "document": "usb - Arduino Serial Monitor shows strange ASCII characters - Stack Overflow"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-09-30T13:00:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:05:00", 
+            "document": "\u00fe arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:05:00", 
+            "document": "https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDgQFjADahUKEwjlzvWFz57IAhVi83IKHZePBho&url=http://arduino.stackexchange.com/questions/13724/arduino-with-nfc-garbled-serial-monitor&usg=AFQjCNEOeTK_h1JRvwcQBb4aXzLs-N-Qfw&sig2=FEMFWZhXEY"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:05:00", 
+            "document": "https://www.google.nl/search?q=strange+characters+arduino+serial+monitor&oq=strange+characters+arduino+serial+monitor&aqs=chrome..69i57.6536j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:05:00", 
+            "document": "https://www.google.nl/search?q=\\&oq=\\&aqs=chrome..69i57.13728j0j4&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:10:00", 
+            "document": "https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCEQFjAAahUKEwjlzvWFz57IAhVi83IKHZePBho&url=http://new-supercollider-mailing-lists-forums-use-these.2681727.n2.nabble.com/SC-and-Arduino-td6984018.html&usg=AFQjCNE2JE8OKbZmjn5JFPyMkykkNCf"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:20:00", 
+            "document": "esp_iot_sdk_v0.9.5_15_01_23/esp_iot_sdk_v0.9.5/bin/at/readme.txt - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-09-30T13:20:00", 
+            "document": "FLASH_DOWNLOAD_TOOLS_v2.4_150924"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T13:20:00", 
+            "document": "tool_config.txt \u2014 Blink"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:20:00", 
+            "document": "Flash Download Tool - ESP8266 Developer Zone"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 29, 
+            "activity": "sublime text", 
+            "date": "2015-09-30T13:25:00", 
+            "document": "readme.txt \u2014 Blink"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-30T13:25:00", 
+            "document": "esp_iot_sdk_v0.9.5_15_01_23"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-30T13:25:00", 
+            "document": "at"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-30T13:25:00", 
+            "document": "esp_iot_sdk_v0.9.5"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-30T13:25:00", 
+            "document": "upgrade"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-30T13:25:00", 
+            "document": "bin"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 41, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:55:00", 
+            "document": "wunderbar arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 77, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:55:00", 
+            "document": "https://www.google.nl/search?q=wunderbar+arduino&oq=wunderbar+arduino&aqs=chrome..69i57j69i60l3j69i59j69i60.3871j0j7&sourceid=chrome&es_sm=91&ie=UTF-8 is not available"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 3, 
+            "activity": "Adobe InDesign", 
+            "date": "2015-09-30T13:55:00", 
+            "document": "*chapter.indd"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T13:55:00", 
+            "document": "strongly typed interpreted - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T14:00:00", 
+            "document": "osx - Mac Command Line - List Available Serial Ports? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:00:00", 
+            "document": "osx list serial portd - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:00:00", 
+            "document": "esp8266 firmware update - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:05:00", 
+            "document": "esp8266mod batteries - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-30T14:05:00", 
+            "document": "https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCIQFjAAahUKEwiXmqSy3J7IAhUnp3IKHc1_DS8&url=https://github.com/relayr/Arduino-Bridge-Library&usg=AFQjCNFXQ1k4l6-GHTo0p9RgukLBYtF6qQ&sig2=jSrI06xEBnEP4XsBzoa13A"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:10:00", 
+            "document": "esp8266 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 155, 
+            "activity": "github.com", 
+            "date": "2015-09-30T14:10:00", 
+            "document": "relayr/Arduino-Bridge-Library"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:10:00", 
+            "document": "arduino uart - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:10:00", 
+            "document": "wunderbar bridge - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:10:00", 
+            "document": "https://www.google.nl/search?q=wunderbar+arduino&safe=off&biw=1440&bih=757&noj=1&ei=gdALVtfVEqfOygPN_7X4Ag&start=10&sa=N is not available"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-30T14:10:00", 
+            "document": "https://github.com/relayr/Arduino-Bridge-Library is not available"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:10:00", 
+            "document": "https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCQQFjABahUKEwjylobVoZ7IAhWLPxQKHUiNBXU&url=http://www.esp8266.com/viewtopic.php?f=6&t=1172&usg=AFQjCNGu8MG31duldx5O2HMGuPhrXsccqw&sig2=ld3pD3UcMA6MnfhBRsXybw&cad=rja is not available"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:10:00", 
+            "document": "Getting Started with the ESP8266 ESP-12"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:15:00", 
+            "document": "UART to USB - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:30:00", 
+            "document": "?\u00fe arduino esp8266 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:30:00", 
+            "document": "\u00fe - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:30:00", 
+            "document": "?\u00fe - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T14:30:00", 
+            "document": "http://www.youtube.com/watch?v=XjMBcEsHEtI is not available"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:40:00", 
+            "document": "breadboard wiring direction - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:40:00", 
+            "document": "breadboard wiring - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T14:45:00", 
+            "document": "ESP8266 Arduino Code and Circuit/Schematic for Sending Commands - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:45:00", 
+            "document": "esp8266 ardiono uno - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T14:50:00", 
+            "document": "Device not configured in writeArray - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:05:00", 
+            "document": "serial monitor showing typed - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:15:00", 
+            "document": "sw 18020p arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:15:00", 
+            "document": "sw 18020p - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:20:00", 
+            "document": "sw 18020p switch arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:20:00", 
+            "document": "sw 18020p switch - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:20:00", 
+            "document": "vibration sensor arduino - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 17, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T15:20:00", 
+            "document": "SW-18020P Vibration Switch Testing \"Shaking Switch\" - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:20:00", 
+            "document": "sw 18020p sensor arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:25:00", 
+            "document": "vibration switch arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:40:00", 
+            "document": "potentiometer arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:40:00", 
+            "document": "potentiometer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 184, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:45:00", 
+            "document": "light sensor arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:45:00", 
+            "document": "wlg d6011c d arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 49, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:45:00", 
+            "document": "analog input motion sensor arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:45:00", 
+            "document": "wlg d6011c d - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:45:00", 
+            "document": "WLG - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:45:00", 
+            "document": "temperature sensor arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:45:00", 
+            "document": "analog input motion sensor - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T15:45:00", 
+            "document": "analog input motion sensor ardunio - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T16:00:00", 
+            "document": "resitor color code - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T16:00:00", 
+            "document": "resitor color code 5 bar - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 63, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T16:25:00", 
+            "document": "Connecting a 7-segment LED display to an Arduino, part 1 [Anything Arduino] (ep7) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T16:25:00", 
+            "document": "7 segment LED display from Arduino - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 42, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T17:00:00", 
+            "document": "Using a HEF4511 to connect Arduino to a 7segment LED display (part 2) [Anything Arduino] (ep 8) - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T17:00:00", 
+            "document": "Cheap and Easy WiFi (IoT) Tutorial Part 2 - ESP8266 Arduino Code - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:05:00", 
+            "document": "ams1117 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 91, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:10:00", 
+            "document": "ftdi arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 69, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:10:00", 
+            "document": "ftdi - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:10:00", 
+            "document": "ftdi micro usb dc - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 34, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:10:00", 
+            "document": "ams1117 m7 changli - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:10:00", 
+            "document": "ams1117 m7 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:10:00", 
+            "document": "esp8266 arduino uno - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 30, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "MB102 Breadboard Power Supply Module - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 11, 
+            "activity": "ebay.com", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "MB102 Breadboard Power Supply Module 3 3V 5V F Solderless Arduino Mini USB | eBay"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 33, 
+            "activity": "ebay.com", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "New MB102 Breadboard Power Supply Module 3 3V 5V F Solderless Arduino Mini USB | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "micro usb dc 3.3 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "breadboard power supply module - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 22, 
+            "activity": "ebay.com", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "Arduino Power Supply | eBay"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "MB102 Breadboard Power Supply Module 3.3V 5V - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "out1gnd dc7-12v arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "out1gnd dc7-12v - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 9, 
+            "activity": "aliexpress.com", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "Aliexpress.com : Buy Breadboard Power Supply Module Dual output 3.3V/5V with LED Indicator from Reliable module gprs suppliers on HAOYU Electronics Store | Alibaba Group"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "Google Image Result for http://electronicspanga.com/wp-content/uploads/2015/07/MB102-Breadboard-Power-Supply.png"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "Google Image Result for http://mklec.com/image/cache/data/modules/breadboard_power_module_3.3V_5V-blue-19-Edit-220x220.jpg"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "https://www.google.nl/search?q=MB102+Breadboard+Power+Supply+Module+3.3V+5V&oq=MB102+Breadboard+Power+Supply+Module+3.3V+5V&aqs=chrome..69i57.454j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:15:00", 
+            "document": "https://www.google.nl/search?q=MB102+Breadboard+Power+Supply+Module&oq=MB102+Breadboard+Power+Supply+Module&aqs=chrome..69i57j69i59j69i60l2.221j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:20:00", 
+            "document": "MB102 Breadboard Power Supply Module 3.3V 5V F - Google Search"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 21, 
+            "activity": "ebay.com", 
+            "date": "2015-09-30T17:20:00", 
+            "document": "STM32F103C8T6 Arm STM32 Minimum System Development Board Module for Arduino Dhus | eBay"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:20:00", 
+            "document": "Power Supply Module 3.3V 5V datasheet - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:20:00", 
+            "document": "Power Supply Module 3.3V 5V - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:20:00", 
+            "document": "Google Image Result for http://img.fasttechcdn.com/138/1380903/1380903-1.jpg"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:20:00", 
+            "document": "Power Supply Module 3.3V 5V datashet - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:25:00", 
+            "document": "MB102 Breadboard Power Supply Module datasheet - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 27, 
+            "activity": "facebook.com", 
+            "date": "2015-09-30T17:30:00", 
+            "document": "(9) Vera Van de Seyp - Messages"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 7, 
+            "activity": "facebook.com", 
+            "date": "2015-09-30T17:30:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 9, 
+            "activity": "facebook.com", 
+            "date": "2015-09-30T17:30:00", 
+            "document": "(9) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-09-30T17:30:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-09-30T17:30:00", 
+            "document": "(9) Messages"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 122, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T17:35:00", 
+            "document": "8x8 rgb led matrix effects - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:35:00", 
+            "document": "cile 2088rgb-5 arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:35:00", 
+            "document": "cile 2088rgb-5 - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T17:35:00", 
+            "document": "https://www.youtube.com/watch?v=rA3AUjyZgps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:35:00", 
+            "document": "Low resolution display done right"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 153, 
+            "activity": "youtube.com", 
+            "date": "2015-09-30T17:40:00", 
+            "document": "RGB LED Matrix V3 - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 62, 
+            "activity": "github.com", 
+            "date": "2015-09-30T17:40:00", 
+            "document": "logos-electromechanical/RGB-matrix-backpack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 63, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:50:00", 
+            "document": "adm1602k arduino - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T17:50:00", 
+            "document": "adm1602k - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T18:00:00", 
+            "document": "lcd example www.hacktronics.com - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-30T18:20:00", 
+            "document": "Thesis"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 6, 
+            "activity": "processing", 
+            "date": "2015-09-30T18:20:00", 
+            "document": "LCD_example | Processing 2.2.1"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 1, 
+            "activity": "processing", 
+            "date": "2015-09-30T18:20:00", 
+            "document": "sketch_150930a | Processing 2.2.1"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T18:40:00", 
+            "document": "c - Split String into String array - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T18:40:00", 
+            "document": "arduino split text - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T18:40:00", 
+            "document": "l light arduino - Google Search"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-09-30T18:40:00", 
+            "document": "Arduino Character LCD Tutorial"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T18:45:00", 
+            "document": "string array arduino - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-30T18:50:00", 
+            "document": "c++ - error: request for member '..' in '..' which is of non-class type - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T18:50:00", 
+            "document": "request for member 'length' in 'chars', which is of non-class type - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T18:50:00", 
+            "document": "request for member 'length' in 'chars', which is of non-class type string [] - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-30T18:50:00", 
+            "document": "arduino array length - Google Search"
+        }
+    ]
+}

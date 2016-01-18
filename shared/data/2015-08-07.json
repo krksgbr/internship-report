@@ -1,0 +1,1664 @@
+{
+    "2015-08-07": [
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 181, 
+            "activity": "circleofdrink.com", 
+            "date": "2015-08-07T09:25:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 16, 
+            "activity": "newtab", 
+            "date": "2015-08-07T09:25:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T09:25:00", 
+            "document": "long division steps - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T09:25:00", 
+            "document": "mate vs green tea - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T09:30:00", 
+            "document": "yerba mate den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T09:30:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T09:30:00", 
+            "document": "yerba mater nl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T09:30:00", 
+            "document": "yerba mater den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T09:30:00", 
+            "document": "yerba mate nl - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T09:40:00", 
+            "document": "Rolling.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T09:40:00", 
+            "document": "Moniker - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T09:40:00", 
+            "document": "mate dosage - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-07T09:40:00", 
+            "document": "Silk Road (marketplace) - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 29, 
+            "activity": "slack", 
+            "date": "2015-08-07T09:50:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 11, 
+            "activity": "facebook.com", 
+            "date": "2015-08-07T09:55:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 2, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-07T09:55:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 14, 
+            "activity": "facebook.com", 
+            "date": "2015-08-07T09:55:00", 
+            "document": "(4) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 11, 
+            "activity": "facebook.com", 
+            "date": "2015-08-07T09:55:00", 
+            "document": "(7) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 7, 
+            "activity": "facebook.com", 
+            "date": "2015-08-07T09:55:00", 
+            "document": "N e w A e \u0455 \u0442 \u043d e \u0442 \u03b9 c"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-08-07T09:55:00", 
+            "document": "(6) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-07T09:55:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 22, 
+            "activity": "444.hu", 
+            "date": "2015-08-07T10:00:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-08-07T10:25:00", 
+            "document": "rollingcube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 55, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T10:25:00", 
+            "document": "Rolling2.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-07T10:25:00", 
+            "document": "sketches"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T10:25:00", 
+            "document": "kpn beeldbank - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-07T10:30:00", 
+            "document": "stock"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-08-07T10:30:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-07T10:30:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-07T10:30:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 9, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:30:00", 
+            "document": "506_A3L.tif"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-07T10:30:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 7, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:30:00", 
+            "document": "first_sketches_Robin_Cursor_avatar2-12.pdf"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 5, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:30:00", 
+            "document": "510_A3L.tif"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 13, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:35:00", 
+            "document": "stock4.jpg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 34, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:35:00", 
+            "document": "stock3.jpg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 18, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:35:00", 
+            "document": "518_A3L.tif"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-07T10:35:00", 
+            "document": "human"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 7, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:35:00", 
+            "document": "4jpg"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T10:35:00", 
+            "document": "Terminal \u2014 login"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-07T10:35:00", 
+            "document": "untitled \u2014 awardwinning_grad_kabk_2014"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T10:40:00", 
+            "document": "kpn - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T10:40:00", 
+            "document": "kpn stock - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T10:40:00", 
+            "document": "kpn stock images - Google Search"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 26, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:45:00", 
+            "document": "286_A3L.tif"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 8, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:45:00", 
+            "document": "311_A3L.jpg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 3, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:45:00", 
+            "document": "stock5.jpg"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T10:45:00", 
+            "document": "stock5.jpg @ 33,X% (Crop Preview, RGB/8*)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T10:55:00", 
+            "document": "/Users/GaborK/IdeaProjects/Processing_sketches/src/lustlab/kpn/avatar/Rolling.java"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-07T12:00:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T12:10:00", 
+            "document": "3d objects not visible save frame processing - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T12:15:00", 
+            "document": "clear background transparent color processing - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T12:15:00", 
+            "document": "clear background transparent color - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T12:25:00", 
+            "document": "PGraphics.class - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T12:30:00", 
+            "document": "clear pgraphics with transparent color processing - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T12:30:00", 
+            "document": "clear canvas with transparent color processing - Google Search"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 8, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-07T13:50:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project *"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 22, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-07T13:50:00", 
+            "document": "11.png"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 30, 
+            "activity": "Adobe Bridge CC", 
+            "date": "2015-08-07T13:55:00", 
+            "document": "rollingcube - Adobe Bridge"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 14, 
+            "activity": "Finder", 
+            "date": "2015-08-07T13:55:00", 
+            "document": "Trash"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-07T13:55:00", 
+            "document": "Copy"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 10, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-07T14:00:00", 
+            "document": "rolling_cube2.mp4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-07T14:05:00", 
+            "document": "AMEEncodingLog.txt \u2014 awardwinning_grad_kabk_2014"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 10, 
+            "activity": "facebook.com", 
+            "date": "2015-08-07T14:10:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 61, 
+            "activity": "calendar", 
+            "date": "2015-08-07T14:10:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 47, 
+            "activity": "444.hu", 
+            "date": "2015-08-07T14:10:00", 
+            "document": "Thaif\u00f6ld\u00f6n 30 \u00e9vre b\u00f6rt\u00f6nbe z\u00e1rnak egy f\u00e9rfit, mert a Facebookon kritiz\u00e1lta a kir\u00e1lyt !!444!!!"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:10:00", 
+            "document": "Main.java - EvolutionOfShapes - [~/IdeaProjects/EvolutionOfShapes]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 41, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 32, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "kpn - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "Welcome to IntelliJ IDEA"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 11, 
+            "activity": "sublime text", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "cheatsheet \u2014 awardwinning_grad_kabk_2014"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "Test.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "IdeaProjects"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "Main.java - KPNCubeSketch - [~/IdeaProjects/KPNCubeSketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:15:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 92, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "IdeaProjects \u2014 bash"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "sketches - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "App.java - hubbub-sketch - [~/IdeaProjects/hubbub-sketch]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 14, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "GaborK \u2014 java"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "IdeaProjects \u2014 java"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "hubbub-sketch"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "hubbub-sketch - hubbub-sketch - [~/IdeaProjects/hubbub-sketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "pom.xml - hubbub-sketch - [~/IdeaProjects/hubbub-sketch]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "gaborkerekes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "Searching \u201cThis Mac\u201d"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "src"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "net"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "main"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-07T14:20:00", 
+            "document": "java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 50, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:25:00", 
+            "document": "AvatarSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T14:25:00", 
+            "document": "native apollo - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 42, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:25:00", 
+            "document": "App.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 17, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T14:25:00", 
+            "document": "native apollo moc - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T14:25:00", 
+            "document": "native apollo nl - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T14:25:00", 
+            "document": "70 gbp in eur - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 13, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:30:00", 
+            "document": "git \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 6, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:30:00", 
+            "document": "rndr \u2014 bash"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 28, 
+            "activity": "index.hu", 
+            "date": "2015-08-07T14:35:00", 
+            "document": "Index"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T14:35:00", 
+            "document": "20 gbp in eur - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:35:00", 
+            "document": "GaborK \u2014 xcodebuild"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:35:00", 
+            "document": "rndr \u2014 git-remote-http"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:35:00", 
+            "document": "rndr \u2014 git"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 74, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "RollingText2.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 17, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 20, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "RollingText.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "TextLayer.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "krks_gbr \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "git \u2014 git"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 5, 
+            "activity": "bitbucket.org", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "krks_gbr / home \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 3, 
+            "activity": "bitbucket.org", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "Log in \u2014 Bitbucket"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 2, 
+            "activity": "bitbucket.org", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "Git and Mercurial code management for teams"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "https://bitbucket.org"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-07T14:45:00", 
+            "document": "git \u2014 git-remote-http"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 132, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:50:00", 
+            "document": "MarchingCubes.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 28, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:50:00", 
+            "document": "kpnsketches - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 22, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:50:00", 
+            "document": "Ambilight.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T14:50:00", 
+            "document": "rndr - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T15:00:00", 
+            "document": "den haag weather - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T15:00:00", 
+            "document": "pivot - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T15:00:00", 
+            "document": "pivot cube - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 31, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T15:10:00", 
+            "document": "inception building - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 25, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T15:10:00", 
+            "document": "Inception - City Bending - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T15:10:00", 
+            "document": "inception - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T15:10:00", 
+            "document": "modular building animation - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T15:10:00", 
+            "document": "clockwork - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T15:10:00", 
+            "document": "modular - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-07T15:15:00", 
+            "document": "KPN materiaal"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-07T15:15:00", 
+            "document": "textlayer"
+        }, 
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "Adobe Bridge CC", 
+            "date": "2015-08-07T15:15:00", 
+            "document": "sketches - Adobe Bridge"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-07T15:15:00", 
+            "document": "pixelStretch"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T15:20:00", 
+            "document": "SketchGL3.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T15:20:00", 
+            "document": "kpnsketches/AvatarSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 20, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-07T15:20:00", 
+            "document": "text mask.mp4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 59, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T15:25:00", 
+            "document": "AvatarSketch2.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T15:25:00", 
+            "document": "MouseListener.class - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T15:40:00", 
+            "document": "DrawerGL3.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T16:05:00", 
+            "document": "gourmet shoes sizing chart - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 32, 
+            "activity": "translate.google.com", 
+            "date": "2015-08-07T16:15:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T16:15:00", 
+            "document": "hasab - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 30, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-07T16:25:00", 
+            "document": "ambilight-no-margins-slow.mov"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 16, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T16:25:00", 
+            "document": "inception city - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 18, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T16:25:00", 
+            "document": "Inception Scene: You're Waiting for a Train [HD] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 13, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T16:25:00", 
+            "document": "inception scene - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T16:25:00", 
+            "document": "INCEPTION - Welcome to Limbo - HD 720p - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T16:25:00", 
+            "document": "Inception - Physics Scene (City Bending) [HD] - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 226, 
+            "activity": "Preview", 
+            "date": "2015-08-07T16:30:00", 
+            "document": "140417_KPN_BB_lowres.pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 8, 
+            "activity": "Preview", 
+            "date": "2015-08-07T16:30:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 97, 
+            "activity": "intellij idea", 
+            "date": "2015-08-07T17:55:00", 
+            "document": "/Users/GaborK/git/kpnsketches/src/main/java/net/lustlab/kpnsketches/AvatarSketch2.java"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 78, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:00:00", 
+            "document": "raster noton snd - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:00:00", 
+            "document": "2562 - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:00:00", 
+            "document": "raster noton - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:00:00", 
+            "document": "snd - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 60, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:05:00", 
+            "document": "binpacking - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 32, 
+            "activity": "github.com", 
+            "date": "2015-08-07T18:05:00", 
+            "document": "Edwin-Jakobs/README.md at master \u00b7 Elegant-Setup/Edwin-Jakobs"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:05:00", 
+            "document": "raster noton snd makesnd cassette - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:05:00", 
+            "document": "mvbw edwin jakobs - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:10:00", 
+            "document": "raster noton covers - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 78, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:10:00", 
+            "document": "mark fell - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 22, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T18:10:00", 
+            "document": "binpacking - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T18:10:00", 
+            "document": "snd - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:10:00", 
+            "document": "snd album covers - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-07T18:10:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:15:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-07T18:15:00", 
+            "document": "alva noto - Google Search"
+        }
+    ]
+}

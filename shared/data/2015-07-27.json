@@ -1,0 +1,1974 @@
+{
+    "2015-07-27": [
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:50:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T09:50:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 44, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T09:55:00", 
+            "document": "Birdy - Skinny Love [Official Music Video] - YouTube"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 102, 
+            "activity": "Terminal", 
+            "date": "2015-07-27T10:00:00", 
+            "document": "GaborK \u2014 ssh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 24, 
+            "activity": "Terminal", 
+            "date": "2015-07-27T10:00:00", 
+            "document": "GaborK \u2014 ncmpcpp"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-07-27T10:15:00", 
+            "document": "GaborK \u2014 Madlib"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 4, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "weather.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 18, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "browser_tab.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 7, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "TerminalNotifier.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 7, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 5, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "some.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "session.json - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 2, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "pync/__init__.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "20140721.csv - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "reference.py - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "20140810.csv - ScrapBook - [~/PycharmProjects/ScrapBook]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T10:30:00", 
+            "document": "PyCharm 4.0.5"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:35:00", 
+            "document": "bower for beginners - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-07-27T10:35:00", 
+            "document": "GaborK \u2014 node"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 5, 
+            "activity": "System Preferences", 
+            "date": "2015-07-27T10:35:00", 
+            "document": "System Preferences"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:35:00", 
+            "document": "phpstorm postgresl - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T10:35:00", 
+            "document": "PhpStorm"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:35:00", 
+            "document": "phpstorm postgresql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:35:00", 
+            "document": "speedtest - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-07-27T10:45:00", 
+            "document": "bower_components \u2014 bash"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:45:00", 
+            "document": "bower d3 js - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-07-27T10:45:00", 
+            "document": "GaborK \u2014 git"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:50:00", 
+            "document": "bower compile - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 92, 
+            "activity": "code.tutsplus.com", 
+            "date": "2015-07-27T10:55:00", 
+            "document": "How to Setup Bower in Your Next Project - Tuts+ Code Tutorial"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:55:00", 
+            "document": "bower download packages per project - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T10:55:00", 
+            "document": "node.js - How to change bower's default components folder? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 44, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T10:55:00", 
+            "document": "node.js - Bower not copying files in project folder - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:55:00", 
+            "document": "bower tutorial - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:55:00", 
+            "document": "bower copy package to project - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T10:55:00", 
+            "document": "bower duplicated packages - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "bower workflow - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 28, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "bower workflow - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 18, 
+            "activity": "github.com", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "gulp/getting-started.md at master \u00b7 gulpjs/gulp"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "dist"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "src"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "jquery"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "using bower - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "bower.json \u2014 RD1_nestedLoops_grid, DOSOMETHING, Popcorn-Time.app"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "GaborK"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-07-27T11:00:00", 
+            "document": "bower_components"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 135, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:05:00", 
+            "document": "BOWER! - Streamline Web Workflow with Bower Package Manager - YouTube"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 57, 
+            "activity": "code.tutsplus.com", 
+            "date": "2015-07-27T11:05:00", 
+            "document": "Building Apps With the Yeoman Workflow - Tuts+ Code Tutorial"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 51, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T11:05:00", 
+            "document": "javascript - What is a clean front-end workflow with bower and gulp? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-07-27T11:05:00", 
+            "document": "Page not found \u00b7 GitHub"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:05:00", 
+            "document": "https://www.youtube.com/watch?v=Vs2wduoN9Ws"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 88, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:15:00", 
+            "document": "YEOMAN TUTORIAL - Master Front-End Workflow with Yeoman, Grunt and Bower - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:15:00", 
+            "document": "why download packages for each project bower - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:15:00", 
+            "document": "iterm - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:15:00", 
+            "document": "why download packages for each project - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 75, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:20:00", 
+            "document": "Gulp.js Build System #1 - Fundamentals - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 83, 
+            "activity": "medium.com", 
+            "date": "2015-07-27T11:20:00", 
+            "document": "Gulp vs Grunt. Why one? Why the Other? \u2014 Medium"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 44, 
+            "activity": "quora.com", 
+            "date": "2015-07-27T11:20:00", 
+            "document": "(4) Why use Bower when there is npm? - Quora"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 19, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:20:00", 
+            "document": "bower gulp - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:20:00", 
+            "document": "grunt vs gulp - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:20:00", 
+            "document": "bower waste of space - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 114, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T11:25:00", 
+            "document": "index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 39, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T11:25:00", 
+            "document": "Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T11:25:00", 
+            "document": "bootstrap/bower.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 10, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T11:30:00", 
+            "document": "PostgreSQL - hubbub@localhost - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:30:00", 
+            "document": "Databases and SQL Editor in PhpStorm - PhpStorm Video Tutorial - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 28, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:30:00", 
+            "document": "database tools phpstorm - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:35:00", 
+            "document": "relational query postgresql - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 15, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "(15) Splitting data into related tables | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "(15) Challenge: Customer's orders | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 19, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "(15) Joining tables to themselves with self-joins | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 29, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "(15) Challenge: Sequels in SQL | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 74, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "relational query - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 41, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "postgresql - Design Relational Database - Use hierarchical datamodels or avoid them? - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 12, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "(15) Restricting grouped results with HAVING | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "postgresql - Execute relational query on tables from diffrenet servers - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "Splitting data into related tables | Relational | Khan Academy"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "relational quiery - YouTube"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:40:00", 
+            "document": "https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/restricting-grouped-results-with-having"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 10, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "(15) JOINing related tables | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 6, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "(15) Joining related tables with left outer joins | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 25, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "(15) Querying IN subqueries | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 36, 
+            "activity": "quora.com", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "(4) Is there a Codecademy equivalent for learning how to query databases? - Quora"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 32, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "(15) Intro to SQL: Querying and managing data | Computer programming | Khan Academy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "codewars vs hackerrank - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 24, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "(15) Challenge: The wordiest author | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "codewars - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 9, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "(15) Calculating results with CASE | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "hackerrank - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "codecademy sql - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 2, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T11:45:00", 
+            "document": "(15) Who issues SQL queries? | More advanced SQL queries | Khan Academy"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T11:50:00", 
+            "document": "hackerrank sql - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "quora.com", 
+            "date": "2015-07-27T11:55:00", 
+            "document": "Codewars, Leetcode, Hackerrank. Online Judges Reviews - Wow this blog looks fancy"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-07-27T11:55:00", 
+            "document": "Authorize HackerRank"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 198, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T12:15:00", 
+            "document": "(15) Challenge: Bobby's Hobbies | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 65, 
+            "activity": "slack", 
+            "date": "2015-07-27T12:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 5, 
+            "activity": "translate.google.com", 
+            "date": "2015-07-27T12:40:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T13:55:00", 
+            "document": "leetcode - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 9, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T14:05:00", 
+            "document": "(15) Challenge: FriendBook | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 126, 
+            "activity": "khanacademy.org", 
+            "date": "2015-07-27T14:05:00", 
+            "document": "(15) Combining multiple joins | Relational queries in SQL | Khan Academy"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 20, 
+            "activity": "w3schools.com", 
+            "date": "2015-07-27T14:25:00", 
+            "document": "SQL GROUP BY Statement"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 6, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T14:25:00", 
+            "document": "hubbub.public.five_minutely_rates - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T14:25:00", 
+            "document": "group by - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 51, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T14:30:00", 
+            "document": "hubbub.public.participants - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T14:30:00", 
+            "document": "hubbub.public.measurements - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T14:30:00", 
+            "document": "postgresql quote column name - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T14:40:00", 
+            "document": "MySQL: \"order by\" inside of \"group by\" - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T14:40:00", 
+            "document": "order by withing group by - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T14:50:00", 
+            "document": "club mate - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:05:00", 
+            "document": "sql variables - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:05:00", 
+            "document": "export as json postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:05:00", 
+            "document": "export as json - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 39, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T15:10:00", 
+            "document": "sql - JSON output in Postgresql - Stack Overflow"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 13, 
+            "activity": "System Preferences", 
+            "date": "2015-07-27T15:15:00", 
+            "document": "Network"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:15:00", 
+            "document": "row_to_json postgresql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:15:00", 
+            "document": "array_agg - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 64, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T15:20:00", 
+            "document": "test.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:20:00", 
+            "document": "to file - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:20:00", 
+            "document": "json to file postgresql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:20:00", 
+            "document": "https://www.google.nl/search?q=to+file&oq=to+file&aqs=chrome..69i57j69i60l2j0l2j69i60.798j0j7&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 62, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T15:30:00", 
+            "document": "PostgreSQL return result set as JSON array? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:30:00", 
+            "document": "export json as object postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:30:00", 
+            "document": "export json with key - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 40, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:35:00", 
+            "document": "save result in new variable sql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T15:35:00", 
+            "document": "sql server - Storing query results into a variable and modifying it inside a Stored Procedure - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T15:35:00", 
+            "document": "sql server 2005 - SQL query, store result of SELECT in local variable - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T15:35:00", 
+            "document": "sql server 2005 - SQL Select a row and store in a SQL variable - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 29, 
+            "activity": "github.com", 
+            "date": "2015-07-27T15:55:00", 
+            "document": "fakufaku/Pomodoro"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T15:55:00", 
+            "document": "pomodoro one github - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 9, 
+            "activity": "github.com", 
+            "date": "2015-07-27T15:55:00", 
+            "document": "lolownia/org-pomodoro"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-07-27T15:55:00", 
+            "document": "https://github.com/fakufaku/Pomodoro"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 58, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "sql - Are there any way to execute a query inside the string value (like eval) in PostgreSQL? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "dynamic AS postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "dynamic query postgresql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "postgresql - dynamic sql query in postgres - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "execute postgresql example - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "dynamically generate keys postgresql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "SQL Server - evaluate a function in a dynamic query - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "evaluate function postgresql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "sql - Postgres Dynamic Query Function - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "dynamically generate column name postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "evaluate function sql - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 1, 
+            "activity": "msdn.microsoft.com", 
+            "date": "2015-07-27T16:30:00", 
+            "document": "EVALUATE( ) Function"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T16:35:00", 
+            "document": "dynamically generate alias postgresql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T16:35:00", 
+            "document": "Create Alias for PostgreSQL Table - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T16:45:00", 
+            "document": "why is sql so difficult - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 44, 
+            "activity": "phpstorm", 
+            "date": "2015-07-27T16:55:00", 
+            "document": "test2.json - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:00:00", 
+            "document": "postgresql foreach - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:10:00", 
+            "document": "foreach example postgresql - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T17:10:00", 
+            "document": "postgresql - Postgres - array for loop - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 16, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T17:10:00", 
+            "document": "postgresql - A simple pg/plsql loop example - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:15:00", 
+            "document": "print return type postgresql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:15:00", 
+            "document": "arr_agg - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 28, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T17:25:00", 
+            "document": "ruby on rails 3.1 - PostgreSQL -must appear in the GROUP BY clause or be used in an aggregate function - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:25:00", 
+            "document": "must appear in a group by clause - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:30:00", 
+            "document": "using variables postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:30:00", 
+            "document": "storing variables sql example - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:30:00", 
+            "document": "saving variables in sql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:30:00", 
+            "document": "storing variables postgresql example - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 71, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T17:35:00", 
+            "document": "sql - How to declare a variable in a PostgreSQL query - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 55, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T17:35:00", 
+            "document": "sql - How do you use script variables in PostgreSQL? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:35:00", 
+            "document": "psql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:35:00", 
+            "document": "python postgresql example - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:35:00", 
+            "document": "sql aclchemy - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 63, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T17:40:00", 
+            "document": "quieries.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 28, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T17:40:00", 
+            "document": "json_to_postgresql.py - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:40:00", 
+            "document": "sql aclchemy example - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 7, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T17:40:00", 
+            "document": "Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 21, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T17:45:00", 
+            "document": "Proper indentation for Python multiline strings - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 6, 
+            "activity": "pycharm", 
+            "date": "2015-07-27T17:45:00", 
+            "document": "exported/test.json - Hubbub_data - [~/PycharmProjects/Hubbub_data]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:45:00", 
+            "document": "multi line string python - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:55:00", 
+            "document": "cron job alarm clock music - Google Search"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 29, 
+            "activity": "code.tutsplus.com", 
+            "date": "2015-07-27T17:55:00", 
+            "document": "Scheduling Tasks with Cron Jobs - Tuts+ Code Tutorial"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T17:55:00", 
+            "document": "cron job - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 41, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:00:00", 
+            "document": "gstreamer playlist - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:00:00", 
+            "document": "cron job to play playlist - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:00:00", 
+            "document": "mplayer - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T18:00:00", 
+            "document": "How to handle playlist with gstreamer? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:00:00", 
+            "document": "gstreamer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 18, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:00:00", 
+            "document": "mplayer command line - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 11, 
+            "activity": "github.com", 
+            "date": "2015-07-27T18:00:00", 
+            "document": "Simplify GStreamer based playlist handling. \u00b7 Issue #701 \u00b7 mopidy/mopidy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:00:00", 
+            "document": "mplayer vs - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 78, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T18:05:00", 
+            "document": "sql - Save PL/pgSQL output from PostgreSQL to a CSV file - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 33, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:05:00", 
+            "document": "save queries postgreq - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:05:00", 
+            "document": "save queries in sql server - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-07-27T18:05:00", 
+            "document": "views - How to save a query in SQL Server so it is visible in Object Explorer - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:05:00", 
+            "document": "save queries postgresql - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:05:00", 
+            "document": "gstreamer m3u - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:10:00", 
+            "document": "for each postgresql - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 35, 
+            "activity": "youtube.com", 
+            "date": "2015-07-27T18:50:00", 
+            "document": "relational databse - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:50:00", 
+            "document": "mplayer vs mpv - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:50:00", 
+            "document": "playlist linux - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:50:00", 
+            "document": "udemy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:50:00", 
+            "document": "https://www.google.nl/search?q=edx&oq=edx&aqs=chrome..69i57j0l5.687j0j4&sourceid=chrome&es_sm=91&ie=UTF-8"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:50:00", 
+            "document": "edx - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 78, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-07-27T18:55:00", 
+            "document": "Mopidy \u2013 Server which can play music from multiple sources | Hacker News"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:55:00", 
+            "document": "music player linux - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:55:00", 
+            "document": "cmus mopidy - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-07-27T18:55:00", 
+            "document": "cli music player linux - Google Search"
+        }
+    ]
+}

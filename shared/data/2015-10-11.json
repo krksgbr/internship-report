@@ -1,0 +1,474 @@
+{
+    "2015-10-11": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 18, 
+            "activity": "Gmail", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 5, 
+            "activity": "localhost:3000", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "localhost:3000/pomovis"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 7, 
+            "activity": "facebook.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 8, 
+            "activity": "newtab", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 10, 
+            "activity": "facebook.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "javascript - force inner elements to overflow-x - Stack Overflow"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "creating more than one sibling elements for an array of data \u00b7 Issue #84 \u00b7 mbostock/d3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "Parse JSON in JavaScript? - Stack Overflow"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "MusicBox"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 2, 
+            "activity": "localhost:3000", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "http://localhost:3000/data is not available"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "How to get data of parent node in d3.js - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "Contributors to torvalds/linux"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "d3.js - Get one element from d3js selection, by index - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "javascript - Get the time difference between two datetimes - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-11T17:35:00", 
+            "document": "inline block - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 176, 
+            "activity": "facebook.com", 
+            "date": "2015-10-11T17:40:00", 
+            "document": "HOUSING for KABK students"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 84, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:40:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 30, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:45:00", 
+            "document": "Introduction to D3 - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 88, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:45:00", 
+            "document": "Watch Later - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 67, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:45:00", 
+            "document": "Cathedral vs. Bazaar - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 46, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:45:00", 
+            "document": "Master Relational Design - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:45:00", 
+            "document": "Modulo 02 / 01: Giovanni Anceschi - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:45:00", 
+            "document": "relational design - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:45:00", 
+            "document": "Gulp.js Build System #1 - Fundamentals - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:45:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 78, 
+            "activity": "github.com", 
+            "date": "2015-10-11T17:50:00", 
+            "document": "curran/portfolio"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 38, 
+            "activity": "github.com", 
+            "date": "2015-10-11T17:50:00", 
+            "document": "curran/screencasts"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 26, 
+            "activity": "github.com", 
+            "date": "2015-10-11T17:50:00", 
+            "document": "screencasts/introToD3 at gh-pages \u00b7 curran/screencasts"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 35, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:50:00", 
+            "document": "The World's Strongest Kid ( Toddler ) - Abnormal People Full Documentary - YouTube"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-11T17:50:00", 
+            "document": "curran (Curran Kelleher)"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:50:00", 
+            "document": "open work - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-10-11T17:50:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-11T17:50:00", 
+            "document": "https://github.com/curran"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 95, 
+            "activity": "reddit.com", 
+            "date": "2015-10-11T17:55:00", 
+            "document": "Hi! I\u2019m Mike Bostock, creator of D3.js and a former graphics editor for The New York Times. I do data visualization, design and open source. AMA! : dataisbeautiful"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-11T17:55:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 43, 
+            "activity": "github.com", 
+            "date": "2015-10-11T17:55:00", 
+            "document": "curran/model"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-11T17:55:00", 
+            "document": "mike bostock - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-11T17:55:00", 
+            "document": "model js - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 18, 
+            "activity": "Twitter", 
+            "date": "2015-10-11T18:00:00", 
+            "document": "Mike Bostock on Twitter: \"Dear Internet, We are here to answer your weird and wonderful questions! https://t.co/xZUKVPM84O http://t.co/DnrXLHWpcU\""
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-11T18:00:00", 
+            "document": "d3 js jobs - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 14, 
+            "activity": "Twitter", 
+            "date": "2015-10-11T18:05:00", 
+            "document": "Mike Bostock (@mbostock) | Twitter"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-11T18:25:00", 
+            "document": "beslist - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 77, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-11T18:35:00", 
+            "document": "d3.js - How to draw line charts with complex data structures in d3 - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 54, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-11T18:35:00", 
+            "document": "javascript - D3 - how to deal with JSON data structures? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:35:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-10-11T18:35:00", 
+            "document": "ideal data structure d3 - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:40:00", 
+            "time_spent": 47, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-10-11T18:40:00", 
+            "document": "D3: Thinking with Joins | Hacker News"
+        }
+    ]
+}

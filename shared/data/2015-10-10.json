@@ -1,0 +1,2444 @@
+{
+    "2015-10-10": [
+        {
+            "category": "Email", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 62, 
+            "activity": "Gmail", 
+            "date": "2015-10-10T11:40:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 56, 
+            "activity": "444.hu", 
+            "date": "2015-10-10T11:40:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 11, 
+            "activity": "newtab", 
+            "date": "2015-10-10T11:40:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 10, 
+            "activity": "mashable.com", 
+            "date": "2015-10-10T11:45:00", 
+            "document": "There are pictures of Justin Bieber's penis on the Internet"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 9, 
+            "activity": "444.hu", 
+            "date": "2015-10-10T11:45:00", 
+            "document": "Justin egy sz\u00e1l bieberben mutatkozott Bora Bor\u00e1n - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 138, 
+            "activity": "444.hu", 
+            "date": "2015-10-10T11:50:00", 
+            "document": "L\u00f3szart sem tettem le az asztalra, csak a sok oltogat\u00f3 ismertt\u00e9 tett - 444"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 67, 
+            "activity": "444.hu", 
+            "date": "2015-10-10T11:50:00", 
+            "document": "Nyugati kutat\u00f3knak el\u0151sz\u00f6r siker\u00fclt lef\u00e9nyk\u00e9pezni egy nagyon ritk\u00e1n l\u00e1that\u00f3 madarat. Majd r\u00f6gt\u00f6n meg is \u00f6lt\u00e9k. - 444"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 58, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T11:55:00", 
+            "document": "Page Not Found"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 5, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T11:55:00", 
+            "document": "Fanny D\u00f3sa"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 21, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T11:55:00", 
+            "document": "(2) Page Not Found"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 4, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T11:55:00", 
+            "document": "(3) Page Not Found"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 151, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T12:00:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 55, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T12:00:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:00:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:00:00", 
+            "document": "Michael Gray - The Weekend (Official Video) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:00:00", 
+            "document": "i can't wait for the weekend to begin - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T12:00:00", 
+            "document": "Tak\u00e1cs messaged you"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 43, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T12:05:00", 
+            "document": "Camila Michaliszyn"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 28, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T12:05:00", 
+            "document": "(1) Camila Michaliszyn"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 10, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T12:05:00", 
+            "document": "Arnas Makauskas"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:10:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:10:00", 
+            "document": "Stardust - Music Sounds Better With You - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:15:00", 
+            "document": "Moloko - Sing it back - YouTube"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 6, 
+            "activity": "slack", 
+            "date": "2015-10-10T12:15:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 12, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:20:00", 
+            "document": "Moloko - The Time Is Now - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 54, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:25:00", 
+            "document": "Flying Lotus - Never Catch Me ft. Kendrick Lamar - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:25:00", 
+            "document": "Flying Lotus - Coronus, The Terminator - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 24, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:25:00", 
+            "document": "Flying Lotus - Ready Err Not - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:25:00", 
+            "document": "why did flying lotus become shit - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:25:00", 
+            "document": "Fun.: We Are Young ft. Janelle Mon\u00e1e [OFFICIAL VIDEO] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T12:25:00", 
+            "document": "flying lotus you're dead - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 3, 
+            "activity": "forbes.com", 
+            "date": "2015-10-10T12:30:00", 
+            "document": "Forbes Welcome"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 3, 
+            "activity": "forbes.com", 
+            "date": "2015-10-10T12:35:00", 
+            "document": "Facebook Wants To Listen In On What You're Doing - Forbes"
+        }, 
+        {
+            "category": "Marketing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 39, 
+            "activity": "surveymonkey.com", 
+            "date": "2015-10-10T12:40:00", 
+            "document": "Ghostery Install Survey"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 11, 
+            "activity": "imgur.com", 
+            "date": "2015-10-10T12:40:00", 
+            "document": "Imgur: The most awesome images on the Internet"
+        }, 
+        {
+            "category": "General Shopping", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 7, 
+            "activity": "chrome.google.com", 
+            "date": "2015-10-10T12:40:00", 
+            "document": "Ghostery - Chrome Web Store"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:40:00", 
+            "document": "ghost chrome app extension - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-10-10T12:40:00", 
+            "document": "Window"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 130, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T12:45:00", 
+            "document": "Writing an alternative interface to Facebook - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:45:00", 
+            "document": "alternative facebook interface - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-10-10T12:50:00", 
+            "document": "bin \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-10T12:50:00", 
+            "document": "bin \u2014 node"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 33, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T12:50:00", 
+            "document": "server.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 40, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T12:50:00", 
+            "document": "io - How to handle the response in callback functions (used by cradle in nodejs for example) - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:50:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:50:00", 
+            "document": "express res send callback - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 1, 
+            "activity": "444.hu", 
+            "date": "2015-10-10T12:50:00", 
+            "document": "Az Uber ellen t\u00fcntettek a francia Uber-sof\u0151r\u00f6k - 444"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "express render - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "How do I programmatically shut down an instance of ExpressJS for testing? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "execute callback after send express - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "start server temporarily node js - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "terminate server node js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "javascript - How does res.render(view, [locals], callback) work [node.js express module]? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "stop express server - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "How to exit in Node.js - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "node.js - Node / Express: Why can I execute code after res.send? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T12:55:00", 
+            "document": "express - Execute server-side callback after res.render(); - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 89, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T13:00:00", 
+            "document": "node.js - Nodejs/express, shutdown gracefully - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 24, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T13:00:00", 
+            "document": "javascript - How to properly shutdown an ExpressJs server? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:00:00", 
+            "document": "shutdown server from client side - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:00:00", 
+            "document": "shutdown express server - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:00:00", 
+            "document": "close server from client side - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:00:00", 
+            "document": "shutdownserver from client side - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:00:00", 
+            "document": "shutdoen server from client side - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 6, 
+            "activity": "localhost:3000", 
+            "date": "2015-10-10T13:05:00", 
+            "document": "localhost:3000/pomovis"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:05:00", 
+            "document": "why you don't need jquery - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 19, 
+            "activity": "localhost:3000", 
+            "date": "2015-10-10T13:05:00", 
+            "document": "localhost:3000/data"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-10-10T13:05:00", 
+            "document": "then/then-request"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "localhost:3000", 
+            "date": "2015-10-10T13:05:00", 
+            "document": "http://localhost:3000/data is not available"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-10T13:05:00", 
+            "document": "https://github.com/then/then-request"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 57, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-10-10T13:10:00", 
+            "document": "You might not need jQuery | Hacker News"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 36, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T13:10:00", 
+            "document": "javascript - Why do some js file begin with (function() { - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:10:00", 
+            "document": "how to start a javascript file - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:10:00", 
+            "document": "window onload vs - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:10:00", 
+            "document": "window.onload javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:10:00", 
+            "document": "starting javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T13:10:00", 
+            "document": "javascript - window.onload vs document.onload - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T13:15:00", 
+            "document": "logger.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 73, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T13:15:00", 
+            "document": "script.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 8, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T13:15:00", 
+            "document": "runner.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T13:15:00", 
+            "document": "pomojs - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:15:00", 
+            "document": "how to properly set up javascript file client side - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 20, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T13:15:00", 
+            "document": "index.html - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:15:00", 
+            "document": "clean continuation passing style - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:15:00", 
+            "document": "clean continuation passing style javascript example - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 2, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T13:15:00", 
+            "document": "d3.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:20:00", 
+            "document": "make a synchronious request javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T13:25:00", 
+            "document": "javascript - Can one replace xhr.onreadystatechange with xhr.onload for AJAX calls? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:25:00", 
+            "document": "onreadystatechange vs onload - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:25:00", 
+            "document": "javascript web api make request - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:25:00", 
+            "document": "javascript xmlhttprequest - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 2, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T13:30:00", 
+            "document": "javascript - Is onload equal to readyState==4 in XMLHttpRequest? - Stack Overflow"
+        }, 
+        {
+            "category": "Engineering & Technology", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 44, 
+            "activity": "w3schools.com", 
+            "date": "2015-10-10T13:35:00", 
+            "document": "XML DOM - HttpRequest object"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:35:00", 
+            "document": "xmlhttprequest fail - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 26, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T13:35:00", 
+            "document": "javascript - XMLHttpRequest (Ajax) Error - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:35:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:35:00", 
+            "document": "get response error xmlhttprequest - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 6, 
+            "activity": "devtools", 
+            "date": "2015-10-10T13:40:00", 
+            "document": "Developer Tools - http://localhost:3000/pomovis"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T13:40:00", 
+            "document": "Parse JSON in JavaScript? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:40:00", 
+            "document": "then javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T13:40:00", 
+            "document": "parse json javascript - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 1, 
+            "activity": "localhost:3000", 
+            "date": "2015-10-10T13:45:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 118, 
+            "activity": "youtube.com", 
+            "date": "2015-10-10T13:50:00", 
+            "document": "Atoms As Big As Mountains \u2014 Neutron Stars Explained - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 23, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T14:00:00", 
+            "document": "timer.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 65, 
+            "activity": "sublime text", 
+            "date": "2015-10-10T14:00:00", 
+            "document": "log \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 26, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T14:00:00", 
+            "document": "timer_test.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 11, 
+            "activity": "Terminal", 
+            "date": "2015-10-10T14:00:00", 
+            "document": ".pomo \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "Terminal", 
+            "date": "2015-10-10T14:00:00", 
+            "document": "GaborK \u2014 -zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-10-10T14:00:00", 
+            "document": "intellij-colors-solarized-master"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-10-10T14:00:00", 
+            "document": "WebStorm10"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-10T14:00:00", 
+            "document": "node_modules \u2014 -zsh"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-10-10T14:20:00", 
+            "document": "bin \u2014 say"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-10-10T14:25:00", 
+            "document": "bin \u2014 terminal-notifier"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 36, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T14:30:00", 
+            "document": "speaker.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 16, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T14:30:00", 
+            "document": "landing.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 6, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T14:30:00", 
+            "document": "package.json - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 1, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T14:30:00", 
+            "document": "Find in Path"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 30, 
+            "activity": "sublime text", 
+            "date": "2015-10-10T14:35:00", 
+            "document": "log.json \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 5, 
+            "activity": "sublime text", 
+            "date": "2015-10-10T14:35:00", 
+            "document": "untitled \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 21, 
+            "activity": "sublime text", 
+            "date": "2015-10-10T14:35:00", 
+            "document": "log \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-10-10T14:35:00", 
+            "document": "todo \u2014 .pomo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 3, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T14:35:00", 
+            "document": "Rename"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-10-10T14:35:00", 
+            "document": "todo \u2014 pomo, Processing"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 130, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T14:40:00", 
+            "document": "moment.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:45:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T14:45:00", 
+            "document": "javascript moment format - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T14:50:00", 
+            "document": "date object javascript - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 19, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T14:55:00", 
+            "document": "EcmaScript5.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T14:55:00", 
+            "document": "data object - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T14:55:00", 
+            "document": "unix timestamp - Getting current unixtimestamp using Moment.js - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T14:55:00", 
+            "document": "moment get timestamp - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 62, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T15:00:00", 
+            "document": "mysql - Should I use field 'datetime' or 'timestamp'? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:00:00", 
+            "document": "timestamp vs date - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:00:00", 
+            "document": "1444482113 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 8, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T15:05:00", 
+            "document": "javascript - Moment js transform to date object - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:05:00", 
+            "document": "moment get date - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:05:00", 
+            "document": "moment 24 h - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 24, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T15:15:00", 
+            "document": "speak.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 19, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T15:15:00", 
+            "document": "Readme.md - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 74, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T15:30:00", 
+            "document": "README.md - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-10-10T15:30:00", 
+            "document": "bin \u2014 npm"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 2, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T15:30:00", 
+            "document": "Choose Plugins to Install or Enable"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-10-10T15:30:00", 
+            "document": "chrome-devtools://devtools/bundled/inspector.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@3b3c00f2d95c45cca18ab944acced413fb759311/&can_dock=true&dockSide=undocked"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 101, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:35:00", 
+            "document": "Gallery \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 51, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:35:00", 
+            "document": "Contributors to torvalds/linux"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:35:00", 
+            "document": "underscore js - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:35:00", 
+            "document": "Pulse \u00b7 torvalds/linux"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:35:00", 
+            "document": "timeline visualization - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:35:00", 
+            "document": "GitHub"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:35:00", 
+            "document": "d3 visualization - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:35:00", 
+            "document": "torvalds/linux"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:35:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:35:00", 
+            "document": "Search \u00b7 linux"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 32, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T15:40:00", 
+            "document": "node.js - Write javascript code that works with client side javascript and server side NodeJs modules - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:40:00", 
+            "document": "share modules between server and client side code - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T15:40:00", 
+            "document": "javascript - How can I share modules between the client and server using node.js if my module depends on another? - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 2, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T15:40:00", 
+            "document": "This should not be shown"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:40:00", 
+            "document": "requirejs - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 52, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "volojs/create-template"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 23, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "requirejs/example-multipage"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "load node js module express - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "Re-use web models from Node.js in the client-side javascript code - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "requirejs intro - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "reuse node js module on client side - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "create-template/main.js at master \u00b7 volojs/create-template"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "create-template/www at master \u00b7 volojs/create-template"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "create-template/www/app at master \u00b7 volojs/create-template"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "create-template/messages.js at master \u00b7 volojs/create-template"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "create-template/www/lib at master \u00b7 volojs/create-template"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "create-template/index.html at master \u00b7 volojs/create-template"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "example-multipage/page2.html at master \u00b7 requirejs/example-multipage"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "example-multipage/www at master \u00b7 requirejs/example-multipage"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "create-template/print.js at master \u00b7 volojs/create-template"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:45:00", 
+            "document": "create-template/require.js at master \u00b7 volojs/create-template"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:50:00", 
+            "document": "load node js module express public - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:50:00", 
+            "document": "where to put modules shared by client and server side - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 6, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "rgarcia/node-requirejs-examples"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 17, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "javascript - How do I use require.js on the serverside? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 38, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "How to structure a JavaScript project using RequireJS - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "requirejs node example - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 28, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "node-requirejs-examples/app.js at master \u00b7 rgarcia/node-requirejs-examples"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 24, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "require js node client - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 12, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "node-requirejs-examples/web.js at master \u00b7 rgarcia/node-requirejs-examples"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "node-requirejs-examples/websockets at master \u00b7 rgarcia/node-requirejs-examples"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "requirejs project structure - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 5, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "node.js - JavaScript require() on client side - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "node-requirejs-examples/basic at master \u00b7 rgarcia/node-requirejs-examples"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-10T15:55:00", 
+            "document": "node-requirejs-examples/websockets/static at master \u00b7 rgarcia/node-requirejs-examples"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:00:00", 
+            "document": "use require js on client side - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:00:00", 
+            "document": "requirejs node client tutorial - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 82, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "javascript - How to include nodejs modules in html files? - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 30, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "node.js - Can I put the npm node_modules directory outside of my 'webroot' - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 47, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "javascript - including js files with html and node.js - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "put node modules in shared folder - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "ryan-roemer/nodedc-requirejs-talk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "nodedc-requirejs-talk/shuffle.js at master \u00b7 ryan-roemer/nodedc-requirejs-talk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "nodedc-requirejs-talk/demo at master \u00b7 ryan-roemer/nodedc-requirejs-talk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "nodedc-requirejs-talk/server.js at master \u00b7 ryan-roemer/nodedc-requirejs-talk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "nodedc-requirejs-talk/demo/lib-server at master \u00b7 ryan-roemer/nodedc-requirejs-talk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 10, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "nodedc-requirejs-talk/demo/lib-client/vendor at master \u00b7 ryan-roemer/nodedc-requirejs-talk"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "link node js module to html file - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "nodedc-requirejs-talk/demo/lib-client at master \u00b7 ryan-roemer/nodedc-requirejs-talk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 4, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:05:00", 
+            "document": "nodedc-requirejs-talk/demo/lib-shared at master \u00b7 ryan-roemer/nodedc-requirejs-talk"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 47, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:10:00", 
+            "document": "npm install into arbitrary folder instead of node_modules \u00b7 Issue #3597 \u00b7 npm/npm"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T16:10:00", 
+            "document": "d3.js - D3 filtering data points - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:10:00", 
+            "document": "filter data d3 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:10:00", 
+            "document": "filter json data d3 - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:10:00", 
+            "document": "d3 data wrangling - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:10:00", 
+            "document": "library for data filtering - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T16:10:00", 
+            "document": "Filtering json data D3.js - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 77, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T16:15:00", 
+            "document": "d3.js - Array manipulation with d3.nest and rollup - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:15:00", 
+            "document": "d3 nest - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 76, 
+            "activity": "gist.github.com", 
+            "date": "2015-10-10T16:20:00", 
+            "document": "Underscore\u2019s Equivalents in D3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:20:00", 
+            "document": "gregjopa/d3-server-side-demo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 15, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:20:00", 
+            "document": "d3-server-side-demo/app.js at master \u00b7 gregjopa/d3-server-side-demo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:20:00", 
+            "document": "d3 on server side - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:20:00", 
+            "document": "d3 vs underscore - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 77, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:25:00", 
+            "document": "d3-server-side-demo/bar_chart.js at master \u00b7 gregjopa/d3-server-side-demo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 41, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:25:00", 
+            "document": "d3-server-side-demo/index.html at master \u00b7 gregjopa/d3-server-side-demo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-10-10T16:25:00", 
+            "document": "d3-server-side-demo/bar_chart_helper.js at master \u00b7 gregjopa/d3-server-side-demo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 29, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T16:30:00", 
+            "document": "overview.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T16:35:00", 
+            "document": "d3.js - d3.select(\"#element\") not working when code above the html element - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:35:00", 
+            "document": "d3 select by ide - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T16:35:00", 
+            "document": "d3 select by id - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T17:10:00", 
+            "document": "simple barchart d3 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 8, 
+            "activity": "devtools", 
+            "date": "2015-10-10T17:20:00", 
+            "document": "Developer Tools - data:text/html,chromewebdata"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 17, 
+            "activity": "localhost:3000", 
+            "date": "2015-10-10T17:25:00", 
+            "document": "http://localhost:3000/pomovis is not available"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 81, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T17:35:00", 
+            "document": "javascript - Appending multiple non-nested elements for each data member with D3.js - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T17:35:00", 
+            "document": "append multiple elements d3 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:35:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T17:35:00", 
+            "document": "User Adam Pearce - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 23, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T17:45:00", 
+            "document": "How to get data of parent node in d3.js - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T17:45:00", 
+            "document": "get data of parent element d3 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 199, 
+            "activity": "github.com", 
+            "date": "2015-10-10T17:50:00", 
+            "document": "creating more than one sibling elements for an array of data \u00b7 Issue #84 \u00b7 mbostock/d3"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T17:55:00", 
+            "document": "d3.js Sankey diagram: rectangles fill color - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-10-10T17:55:00", 
+            "document": "Colors \u00b7 mbostock/d3 Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T17:55:00", 
+            "document": "set fill on div d3 - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 3, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T17:55:00", 
+            "document": "javascript - making a div fill the entire screen with d3 - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T17:55:00", 
+            "document": "d3 fil color - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-10-10T17:55:00", 
+            "document": "d3 color - Google Search"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 4, 
+            "activity": "calendar", 
+            "date": "2015-10-10T18:00:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T18:05:00", 
+            "document": "inline block - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:20:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T18:20:00", 
+            "document": "moment - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:30:00", 
+            "time_spent": 6, 
+            "activity": "webstorm", 
+            "date": "2015-10-10T18:30:00", 
+            "document": "generateFakeData.js - pomo - [~/WebstormProjects/pomo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 51, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T18:45:00", 
+            "document": "javascript - Get the time difference between two datetimes - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:45:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T18:45:00", 
+            "document": "moment calculate difference - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 6, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-10-10T18:50:00", 
+            "document": "javascript - Convert milliseconds to hours and minutes using Momentjs - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:50:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T18:50:00", 
+            "document": "moment convert minutes to milliseconds - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "18:55:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-10-10T18:55:00", 
+            "document": "clone moment object - Google Search"
+        }
+    ]
+}

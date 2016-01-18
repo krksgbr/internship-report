@@ -1,0 +1,1424 @@
+{
+    "2015-08-10": [
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T09:05:00", 
+            "document": "gourmet footwear size guide - Google Search"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 31, 
+            "activity": "last.fm", 
+            "date": "2015-08-10T09:10:00", 
+            "document": "Matthew Herbert \u2013 Free listening, videos, concerts, stats and pictures at Last.fm"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 26, 
+            "activity": "translate.google.com", 
+            "date": "2015-08-10T09:10:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 17, 
+            "activity": "last.fm", 
+            "date": "2015-08-10T09:10:00", 
+            "document": "krks_gbr\u2019s Music Profile \u2013 Users at Last.fm"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:10:00", 
+            "document": "come on and find me herbert - YouTube"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 4, 
+            "activity": "last.fm", 
+            "date": "2015-08-10T09:10:00", 
+            "document": "Home \u2013 Last.fm"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:10:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:10:00", 
+            "document": "https://www.youtube.com"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 5, 
+            "activity": "facebook.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 43, 
+            "activity": "last.fm", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "Matthew Herbert\u2019s Concert Listing \u2013 Free listening, videos, concerts, stats and pictures at Last.fm"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 27, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "Slojak (Come On And Find Me) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 28, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "slojak - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 20, 
+            "activity": "facebook.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "(3) Facebook"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 19, 
+            "activity": "facebook.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "G\u00e1bor Kerekes - good work today"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 11, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "Wishmountain - Radio EP - [A2] - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "wishmountain - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "Wishmountain - Bottle - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "https://www.facebook.com"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "Macabre Unit - Slojak - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "Wishmountain - Radio - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "#202 (S2#51) Herbert - Deeper - YouTube"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "(4) Facebook"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:15:00", 
+            "time_spent": 1, 
+            "activity": "last.fm", 
+            "date": "2015-08-10T09:15:00", 
+            "document": "www.last.fm/music/Matthew+Herbert/+events"
+        }, 
+        {
+            "category": "Calendars", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 4, 
+            "activity": "calendar", 
+            "date": "2015-08-10T09:20:00", 
+            "document": "Calendar"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 18, 
+            "activity": "last.fm", 
+            "date": "2015-08-10T09:20:00", 
+            "document": "Matthew Dear \u2013 Free listening, videos, concerts, stats and pictures at Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 12, 
+            "activity": "last.fm", 
+            "date": "2015-08-10T09:20:00", 
+            "document": "Roots of Minimal Open Air 2015 at Kristallijn (Gent) on 29 Aug 2015 \u2013 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 5, 
+            "activity": "last.fm", 
+            "date": "2015-08-10T09:20:00", 
+            "document": "Monegros Desert Festival 2015 at Desierto de los Monegros (Fraga) on 17 Jul 2015 \u2013 Last.fm"
+        }, 
+        {
+            "category": "Music", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "09:20:00", 
+            "time_spent": 1, 
+            "activity": "last.fm", 
+            "date": "2015-08-10T09:20:00", 
+            "document": "www.last.fm/music/Matthew+Dear"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 37, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T10:00:00", 
+            "document": "weather den haag - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T10:00:00", 
+            "document": "weather den hag - Google Search"
+        }, 
+        {
+            "category": "Video Editing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 2, 
+            "activity": "adobe after effects cc 2014.0 (13.0)", 
+            "date": "2015-08-10T10:00:00", 
+            "document": "Adobe After Effects CC 2014 - Untitled Project *"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T10:05:00", 
+            "document": "scheveningse bosjes - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T10:05:00", 
+            "document": "weather - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:05:00", 
+            "time_spent": 1, 
+            "activity": "facebook.com", 
+            "date": "2015-08-10T10:05:00", 
+            "document": "Sizing Information | Footpatrol"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 73, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "Cuboid.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 47, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "Avatar1.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 41, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "Times Square 4K Screen Launch, New York on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 4, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "Universal Everything\u2019s Videos on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 29, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "Editions At Play - Moving Image Identity / Google Creative Lab on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 29, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "Aol BUILD on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 10, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "Universal Everything on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "universaleverything - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "bitbucket.org", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "krks_gbr \u2014 Bitbucket"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:10:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:10:00", 
+            "document": "WeatherChart.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:15:00", 
+            "document": "Cuboid3.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 90, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-10T10:15:00", 
+            "document": "Together / A crowd-sourced animation installation on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 26, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-10T10:15:00", 
+            "document": "#3 / Primal Creation - Architecture / Hyundai Vision Hall, South Korea / Hyundai Motor Group on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 19, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-10T10:15:00", 
+            "document": "Tai Chi / 5 Video Artworks / Framed Gallery, Tokyo on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 16, 
+            "activity": "vimeo.com", 
+            "date": "2015-08-10T10:15:00", 
+            "document": "#4 / Primal Creation - Car / Hyundai Vision Hall, South Korea / Hyundai Motor Group on Vimeo"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 7, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-10T10:40:00", 
+            "document": "Hacker News"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T10:40:00", 
+            "document": "hacker news - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-10T10:40:00", 
+            "document": "New Links | Hacker News"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:45:00", 
+            "document": "Cuboid2.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 35, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:45:00", 
+            "document": "Cub.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:45:00", 
+            "document": "Avatar.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 44, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-10T10:50:00", 
+            "document": "avatar1.mov"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 11, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-10T10:50:00", 
+            "document": "avatar2.mov"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 9, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-10T10:50:00", 
+            "document": "avatar3.mp4"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:55:00", 
+            "document": "Avatar3.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:55:00", 
+            "document": "AvatarSketch2.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:55:00", 
+            "document": "Avatar4.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T10:55:00", 
+            "document": "Avatar2.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T11:35:00", 
+            "document": "Rotations.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 11, 
+            "activity": "Google Spreadsheets", 
+            "date": "2015-08-10T11:40:00", 
+            "document": "Uren KPN - Google Sheets"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 25, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:15:00", 
+            "document": "LillySlideController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 8, 
+            "activity": "Finder", 
+            "date": "2015-08-10T14:15:00", 
+            "document": "stock"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:15:00", 
+            "document": "DemoController2.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:15:00", 
+            "document": "OverlayText2Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:15:00", 
+            "document": "stock2.jpg - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:15:00", 
+            "document": "Fill2000Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:15:00", 
+            "document": "Ambient2Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:15:00", 
+            "document": "oneonetwo.iml - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 2, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:15:00", 
+            "document": "FadeController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 12, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "videowissel KPN pilotstores juli - Google Drive"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 26, 
+            "activity": "Finder", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "stockphotos"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 6, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "My Drive - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "Presentaties - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "# Materiaal - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 5, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "KPN - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "Wachtrij - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "prephase - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "Footage from kpn store - Google Drive"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "drive.google.com", 
+            "date": "2015-08-10T14:20:00", 
+            "document": "Google Drive"
+        }, 
+        {
+            "category": "Graphic Design", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 6, 
+            "activity": "Adobe Photoshop", 
+            "date": "2015-08-10T14:25:00", 
+            "document": "stock2.jpg"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 24, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:30:00", 
+            "document": "BehaviourSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 44, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:35:00", 
+            "document": "rndr - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:35:00", 
+            "document": "kpnsketches - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 10, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-10T14:35:00", 
+            "document": "Java: how to resolve generic type of lambda parameter? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T14:35:00", 
+            "document": "cannot cast lambda parameter - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:40:00", 
+            "document": "Run/Debug Configurations"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 29, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T14:50:00", 
+            "document": "Clio - Faces (Italo Disco) (Good Quality) - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T14:50:00", 
+            "document": "clio faces - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T14:50:00", 
+            "document": "clio faces - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:55:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-08-10T14:55:00", 
+            "document": "AvatarSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 67, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-10T16:35:00", 
+            "document": "Forcing Java lambda expressions to capture non-final variables in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T16:35:00", 
+            "document": "variable used in lambda should be effectively final - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 18, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-10T16:35:00", 
+            "document": "Why do java 8 lambdas allow access to non-final class variables? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 15, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T16:35:00", 
+            "document": "non final variable lambda java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 14, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-10T16:35:00", 
+            "document": "Java 8 catch 22 with lambda expressions and effectively final - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-10T16:35:00", 
+            "document": "javafx - local variables referenced from a lambda expression must be final or effectively final - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-08-10T16:35:00", 
+            "document": "pass non final variable to lambda - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 30, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-10T17:25:00", 
+            "document": "avatar-transition-test-1.mov"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "08-04"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "07-31"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "screenshots"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "report"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "4-08"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "contracts"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "hubbub"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "veghel"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "Notes"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "Fauna"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:30:00", 
+            "document": "Internship_LustLab"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 8, 
+            "activity": "quicktime player", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "Export Progress"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 8, 
+            "activity": "quicktime player", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "Screen Selector"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 3, 
+            "activity": "quicktime player", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "Open"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "RaspberryPi"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "quicktime player", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "Screen Recording"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "PHPStromProjects"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "Frameworks"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "Learn"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "interior_sketches"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:50:00", 
+            "document": "IdeaProjects"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 8, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-10T17:55:00", 
+            "document": "transitionToInterface.mov"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 11, 
+            "activity": "facebook.com", 
+            "date": "2015-08-10T17:55:00", 
+            "document": "(1) Facebook"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:55:00", 
+            "document": "KPN materiaal"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T17:55:00", 
+            "document": "Dance - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T17:55:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 29, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "Undeground House (1996-1998) Vol.51 Mixed By Rhd in Underground Oldskool House (1996-1998)"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 16, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "Rhodesman | Free Listening on SoundCloud"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "Skateb\u00e5rd - Data Italia - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 14, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "Underground House Vol.32 Mixed By Rhd in Underground House (2000 -2015)"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 10, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "Skateb\u00e5rd - Holidays on ice in Space - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 9, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "Underground House Vol.31 (2014) Mixed By Rhd in Underground House (2000 -2015)"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "skatebard - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 5, 
+            "activity": "soundcloud.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "Soulful House (2015) Vol.1 Mixed By Rhd in Soulful House"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "skatebard ice - YouTube"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "All My Files"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "https://www.youtube.com/watch?v=ZzXBU0KD0z0"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-10T18:00:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 21, 
+            "activity": "github.com", 
+            "date": "2015-08-10T18:05:00", 
+            "document": "pybee/batavia"
+        }
+    ]
+}

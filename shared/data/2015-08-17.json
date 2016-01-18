@@ -1,0 +1,1904 @@
+{
+    "2015-08-17": [
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:00:00", 
+            "time_spent": 12, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T09:00:00", 
+            "document": "path.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:00:00", 
+            "time_spent": 11, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T09:00:00", 
+            "document": "a_avg0.svg \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "A_.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 11, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "d.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "2015 August"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "Desktop"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "d.glif \u2014 FiraSans-Medium.ufo, FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "atilde.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "aring.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "Aring_.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:05:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-17T09:05:00", 
+            "document": "output"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "09:25:00", 
+            "time_spent": 30, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T09:25:00", 
+            "document": "c.glif \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:40:00", 
+            "time_spent": 17, 
+            "activity": "slack", 
+            "date": "2015-08-17T09:40:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 80, 
+            "activity": "Terminal", 
+            "date": "2015-08-17T10:15:00", 
+            "document": "GaborK \u2014 gbr@raspi:"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 19, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T10:15:00", 
+            "document": "hosts \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T10:15:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T10:15:00", 
+            "document": "python kivy svg - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 89, 
+            "activity": "news.ycombinator.com", 
+            "date": "2015-08-17T10:20:00", 
+            "document": "I was considering Qt but decided to use Kivy[0]. Why do you think I should use Q... | Hacker News"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 74, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T10:20:00", 
+            "document": "python kivy - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 34, 
+            "activity": "github.com", 
+            "date": "2015-08-17T10:20:00", 
+            "document": "kivy-garden/garden.cefpython"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 31, 
+            "activity": "github.com", 
+            "date": "2015-08-17T10:20:00", 
+            "document": "Kivy"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T10:20:00", 
+            "document": "kivy vs qt - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-08-17T10:20:00", 
+            "document": "Search \u00b7 cefpython"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "github.com", 
+            "date": "2015-08-17T10:20:00", 
+            "document": "gfaieta/cefpython"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 75, 
+            "activity": "reddit.com", 
+            "date": "2015-08-17T10:25:00", 
+            "document": "Why don't more people use kivy? : Python"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T10:25:00", 
+            "document": "ssh to specifig port - Google Search"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 13, 
+            "activity": "stickies", 
+            "date": "2015-08-17T10:25:00", 
+            "document": "P\t\tCRYPTODESIGN\n___________\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 5, 
+            "activity": "stickies", 
+            "date": "2015-08-17T10:25:00", 
+            "document": "Uw hostingpakket gegevens z\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 3, 
+            "activity": "stickies", 
+            "date": "2015-08-17T10:25:00", 
+            "document": "P\t\tGLYPHCOLLECTOR\n_________\u2026"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 2, 
+            "activity": "stickies", 
+            "date": "2015-08-17T10:25:00", 
+            "document": "SUMMER\n____________________\u2026"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 54, 
+            "activity": "discussions.apple.com", 
+            "date": "2015-08-17T10:30:00", 
+            "document": "How to specify port when ssh to server | Apple Support Communities"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 1, 
+            "activity": "discussions.apple.com", 
+            "date": "2015-08-17T10:30:00", 
+            "document": "https://discussions.apple.com/thread/801407"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 3, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "robofab/__init__.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 7, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "glifLib.py - robofab - [/usr/local/lib/python2.7/site-packages/robofab]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "ArtnetDispatcher.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 23, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "glifExport.py - robofab - [/usr/local/lib/python2.7/site-packages/robofab]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "script2.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "UFOExporter.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 19, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "world.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "robofab"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 13, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "robofab - [/usr/local/lib/python2.7/site-packages/robofab]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 9, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "toolsFL.py - robofab - [/usr/local/lib/python2.7/site-packages/robofab]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:40:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-17T10:40:00", 
+            "document": "robofab-1.2.1-py2.7.egg-info"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 23, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T10:50:00", 
+            "document": "index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 20, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T10:50:00", 
+            "document": "Run/Debug Configurations"
+        }, 
+        {
+            "category": "Intelligence", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 8, 
+            "activity": "stickies", 
+            "date": "2015-08-17T10:50:00", 
+            "document": "P\t\tLUSTLAB\n________________\u2026"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 5, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T10:50:00", 
+            "document": "data/\u2026/index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "10:50:00", 
+            "time_spent": 1, 
+            "activity": "newtab", 
+            "date": "2015-08-17T10:50:00", 
+            "document": "Unified Font Object"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 125, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T10:55:00", 
+            "document": "streamgraph/index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 61, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T10:55:00", 
+            "document": "pulsechart/index.html - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T10:55:00", 
+            "document": "FontTester.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 10, 
+            "activity": "devtools", 
+            "date": "2015-08-17T10:55:00", 
+            "document": "Developer Tools - http://localhost:63343/Hubbub/streamgraph/index.html"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 1, 
+            "activity": "devtools", 
+            "date": "2015-08-17T10:55:00", 
+            "document": "chrome-devtools://devtools/bundled/devtools.html?&remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@200126/&can_dock=true&dockSide=undocked&toolbarColor=rgba(227,227,227,1)&textColor=rgba(102,102,102,1)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:55:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T10:55:00", 
+            "document": "d3.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 107, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 30, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "examples"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 6, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "fonts"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 22, 
+            "activity": "quicktime player", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "112.mov"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 9, 
+            "activity": "quicktime player", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "type.mov"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 5, 
+            "activity": "quicktime player", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "stripes.mov"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "CURRENT"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "SCHOOL"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "112"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "LustLab"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:00:00", 
+            "document": "kpn"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 128, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:05:00", 
+            "document": "Director.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:05:00", 
+            "document": "App.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 5, 
+            "activity": "quicktime player", 
+            "date": "2015-08-17T11:05:00", 
+            "document": "recording-incoming-call.mov"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:10:00", 
+            "document": "Scheduler.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 3, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T11:10:00", 
+            "document": "hubbub.public.measurements - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T11:10:00", 
+            "document": "pulsechart/script.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T11:10:00", 
+            "document": "pulsechart/style.css - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:10:00", 
+            "document": "LillyFlashController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:10:00", 
+            "document": "SineController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T11:10:00", 
+            "document": "hubbub.public.answers - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:10:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T11:10:00", 
+            "document": "streamgraph/style.css - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T11:15:00", 
+            "document": "add module phpstorm - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 9, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T11:15:00", 
+            "document": "bootstrap/\u2026/tab.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 4, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T11:15:00", 
+            "document": "php - PHPStorm and module references - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 6, 
+            "activity": "devtools", 
+            "date": "2015-08-17T11:15:00", 
+            "document": "Developer Tools - http://localhost:63343/Hubbub/pulsechart/index.html"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 2, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T11:15:00", 
+            "document": "jquery/\u2026/rmargin.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:15:00", 
+            "time_spent": 1, 
+            "activity": "phpstorm", 
+            "date": "2015-08-17T11:15:00", 
+            "document": "d3/d3.js - Hubbub - [~/PhpstormProjects/Hubbub]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 12, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:20:00", 
+            "document": "resources"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 10, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:20:00", 
+            "document": "pulsechart"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:20:00", 
+            "time_spent": 5, 
+            "activity": "Finder", 
+            "date": "2015-08-17T11:20:00", 
+            "document": "schedule"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:25:00", 
+            "document": "BeamController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:25:00", 
+            "document": "Ambient2Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:25:00", 
+            "document": "App.java (/Users/GaborK/git/oneonetwo/src/main/java/net/lustlab/oneonetwo)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:25:00", 
+            "document": "Ambient2Controller.java (/Users/GaborK/git/oneonetwo/src/main/java/net/lustlab/oneonetwo/controllers/impl)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:25:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:25:00", 
+            "document": "Fill2000Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:30:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:30:00", 
+            "document": "AlarmTextController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 24, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:35:00", 
+            "document": "Writer.class - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 32, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:35:00", 
+            "document": "FontImageMapRendererGL3.class - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 26, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:35:00", 
+            "document": "FontImageMap.class - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:35:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:35:00", 
+            "document": "ScrollingTextController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 90, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:40:00", 
+            "document": "Main.java - KPNCubeSketch - [~/IdeaProjects/KPNCubeSketch]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:40:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:40:00", 
+            "document": "Component.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 65, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "Ambient2Controller.java - oneonetwo - [~/git]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 26, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "ClosingComponent.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 15, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "oneonetwo - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "Welcome to IntelliJ IDEA"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "oneonetwo - oneonetwo - [~/git]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "Writer.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "oneonetwo - [~/git]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:45:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T11:45:00", 
+            "document": "oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-08-17T11:50:00", 
+            "document": "GaborK \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 15, 
+            "activity": "Terminal", 
+            "date": "2015-08-17T11:50:00", 
+            "document": "oneonetwo \u2014 bash"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 5, 
+            "activity": "Terminal", 
+            "date": "2015-08-17T11:50:00", 
+            "document": "GaborK \u2014 java"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "Terminal", 
+            "date": "2015-08-17T11:50:00", 
+            "document": "java \u2014 login"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 57, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T12:20:00", 
+            "document": "OverlayText8Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 15, 
+            "activity": "Finder", 
+            "date": "2015-08-17T12:30:00", 
+            "document": "combinations"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 12, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T12:30:00", 
+            "document": "Class.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 40, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T12:45:00", 
+            "document": "OverlayText6Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 27, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T12:45:00", 
+            "document": "OverlayTextController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T12:45:00", 
+            "document": "/Users/GaborK/git/oneonetwo/src/main/java/net/lustlab/oneonetwo/schedule/Director.java"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 52, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T12:55:00", 
+            "document": "untitled \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 78, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T12:55:00", 
+            "document": "ClusterBlipController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 6, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T13:00:00", 
+            "document": "/Users/GaborK/git/oneonetwo/src/main/java/net/lustlab/oneonetwo/controllers/impl/ClusterBlipController.java"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 51, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "comparison - Java - HashMap vs Map objects - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 41, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "data structures - What is the difference between a Map and a Dictionary? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 25, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "java map - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "map java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "collections - How to sort a Map<Key, Value> on the values in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 8, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "Java - The Map Interface"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "map vs dictionary java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "map vs hasmap - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:00:00", 
+            "document": "dictonary java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 29, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T14:05:00", 
+            "document": "parameterized - Java map, key = class, value = instance of that class - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 26, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:05:00", 
+            "document": "class map java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:05:00", 
+            "document": "class[] map - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:05:00", 
+            "document": "map - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T14:05:00", 
+            "document": "stackoverflow.com/questions/10194855/java-map-key-class-value-instance-of-that-class"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 46, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T14:20:00", 
+            "document": "Combinations.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T14:20:00", 
+            "document": "OverlayText7Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 34, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T14:20:00", 
+            "document": "How does one instantiate an array of maps in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:20:00", 
+            "document": "map array java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:25:00", 
+            "document": "hashmap vs hashset - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 202, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T14:30:00", 
+            "document": "How to create a generic array in Java? - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T14:30:00", 
+            "document": "generic array creation - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 49, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T14:35:00", 
+            "document": "java - Generic array creation error - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 125, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-08-17T15:00:00", 
+            "document": "Generating random integers in a range with Java - Stack Overflow"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "newtab", 
+            "date": "2015-08-17T15:00:00", 
+            "document": "Difference between HashMap and HashSet in Java"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T15:00:00", 
+            "document": "random in range - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 12, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T15:10:00", 
+            "document": "controller_combinations \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:15:00", 
+            "time_spent": 73, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T15:15:00", 
+            "document": "RController2.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T15:20:00", 
+            "document": "RController2WithText.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 34, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T15:20:00", 
+            "document": "RController2NoText.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:40:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T15:40:00", 
+            "document": "BeamControllerWithText.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 170, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T16:10:00", 
+            "document": "Flashing112Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 98, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T16:10:00", 
+            "document": "FlashingWithText.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T16:15:00", 
+            "document": "Ambient5ControllerWithText.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 3, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T16:15:00", 
+            "document": "Ambient5Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T16:20:00", 
+            "document": "Ambient4Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 224, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T16:45:00", 
+            "document": "Number5Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T16:45:00", 
+            "document": "OverlayText5Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:50:00", 
+            "time_spent": 83, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T16:50:00", 
+            "document": "BlinkingTextController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 269, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T16:55:00", 
+            "document": "FadingText.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 7, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:00:00", 
+            "document": "FadingTextController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 10, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:00:00", 
+            "document": "CollisionController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:10:00", 
+            "document": "Ambient4ControllerWithText.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 11, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:25:00", 
+            "document": "Ambient112Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:25:00", 
+            "document": "SirenController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:25:00", 
+            "document": "OverlayText6Controller.java (/Users/GaborK/git/oneonetwo/src/main/java/net/lustlab/oneonetwo/controllers/impl)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:25:00", 
+            "document": "OverlayText7Controller.java (/Users/GaborK/git/oneonetwo/src/main/java/net/lustlab/oneonetwo/controllers/impl)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:25:00", 
+            "document": "OverlayText8Controller.java (/Users/GaborK/git/oneonetwo/src/main/java/net/lustlab/oneonetwo/controllers/impl)"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:30:00", 
+            "document": "Flash4Controller.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:30:00", 
+            "document": "FlashController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-08-17T17:30:00", 
+            "document": "checker - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:40:00", 
+            "time_spent": 33, 
+            "activity": "intellij idea", 
+            "date": "2015-08-17T17:40:00", 
+            "document": "CheckerController.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:50:00", 
+            "time_spent": 10, 
+            "activity": "pycharm", 
+            "date": "2015-08-17T17:50:00", 
+            "document": "tools.py - glyphcollector - [~/PycharmProjects/glyphcollector]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-08-17T17:55:00", 
+            "document": "tests"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-08-17T17:55:00", 
+            "document": "svg"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "17:55:00", 
+            "time_spent": 1, 
+            "activity": "VLC Media Player", 
+            "date": "2015-08-17T17:55:00", 
+            "document": "VLC media player"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 32, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "kerning.plist \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 14, 
+            "activity": "github.com", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "robofab/intro_Kerning.py at a14c9db97a4ed0e45e48f6a64ca5511577e36940 \u00b7 robofab-developers/robofab"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 16, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "fontinfo.plist \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 14, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "lib.plist \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "fontinfo.plist \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 8, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "lib.plist \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 6, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "groups.plist \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 4, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "controller_combinations \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 2, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "metainfo.plist \u2014 FiraSans-Medium.ufo"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "Why are complex numbers in Python denoted with 'j' instead of 'i'? - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "Complex number - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "contents.plist \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "18:05:00", 
+            "time_spent": 1, 
+            "activity": "sublime text", 
+            "date": "2015-08-17T18:05:00", 
+            "document": "metainfo.plist \u2014 FiraSans-Medium.ufo, empty.ufo"
+        }
+    ]
+}

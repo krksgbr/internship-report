@@ -1,0 +1,1574 @@
+{
+    "2015-09-04": [
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 132, 
+            "activity": "slack", 
+            "date": "2015-09-04T09:55:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T09:55:00", 
+            "document": "weather den haag - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 5, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-04T09:55:00", 
+            "document": "Conflict and Mediation Event Observations - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "09:55:00", 
+            "time_spent": 6, 
+            "activity": "newtab", 
+            "date": "2015-09-04T09:55:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 4, 
+            "activity": "Terminal", 
+            "date": "2015-09-04T10:00:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 218, 
+            "activity": "facebook.com", 
+            "date": "2015-09-04T10:00:00", 
+            "document": "Facebook"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 8, 
+            "activity": "Terminal", 
+            "date": "2015-09-04T10:00:00", 
+            "document": "GaborK \u2014 TAME"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:00:00", 
+            "time_spent": 6, 
+            "activity": "facebook.com", 
+            "date": "2015-09-04T10:00:00", 
+            "document": "https://www.facebook.com/ is not available"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 32, 
+            "activity": "sublime text", 
+            "date": "2015-09-04T10:20:00", 
+            "document": "20150902.export.csv"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 2, 
+            "activity": "Terminal", 
+            "date": "2015-09-04T10:20:00", 
+            "document": "GaborK \u2014 zsh"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-04T10:20:00", 
+            "document": "Downloads"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 11, 
+            "activity": "openoffice", 
+            "date": "2015-09-04T10:20:00", 
+            "document": "OpenOffice"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 9, 
+            "activity": "444.hu", 
+            "date": "2015-09-04T10:20:00", 
+            "document": "444"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 6, 
+            "activity": "openoffice", 
+            "date": "2015-09-04T10:20:00", 
+            "document": "Text Import - [20150902.export.csv]"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:20:00", 
+            "time_spent": 5, 
+            "activity": "openoffice", 
+            "date": "2015-09-04T10:20:00", 
+            "document": "Extension Update"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:25:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-04T10:25:00", 
+            "document": "wadetb/Sublime-Text-Advanced-CSV"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 101, 
+            "activity": "openoffice", 
+            "date": "2015-09-04T10:30:00", 
+            "document": "20150902.export.csv - OpenOffice Calc"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:30:00", 
+            "time_spent": 3, 
+            "activity": "sublime text", 
+            "date": "2015-09-04T10:30:00", 
+            "document": "untitled"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 19, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T10:35:00", 
+            "document": "VredesPaleisSketch.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "10:35:00", 
+            "time_spent": 8, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T10:35:00", 
+            "document": "ClosingComponent.java - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 15, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T11:00:00", 
+            "document": "shiffman\u2019s Videos on Vimeo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "11:00:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T11:00:00", 
+            "document": "daniel shiffman vimeo - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 25, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T11:05:00", 
+            "document": "The Nature of Code on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 17, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T11:05:00", 
+            "document": "9.1 Evolutionary Computing (The Nature of Code) on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 3, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T11:05:00", 
+            "document": "shiffman on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "11:05:00", 
+            "time_spent": 3, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T11:05:00", 
+            "document": "shiffman\u2019s Channels on Vimeo"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:50:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-04T11:50:00", 
+            "document": "Documents"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 34, 
+            "activity": "Finder", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "Quick Look"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 11, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "Google Translate"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 9, 
+            "activity": "Finder", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "attachments"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "Vredespaleis"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "Images location"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "Sketches after 01.09.2015"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "Touchscreens"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "site"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "translate.google.com", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "https://translate.google.com"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "11:55:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-04T11:55:00", 
+            "document": "Dropbox"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "flickr.com", 
+            "date": "2015-09-04T12:00:00", 
+            "document": "Flickr - Photo Sharing!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T12:00:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 11, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T12:00:00", 
+            "document": "CAMEO - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:00:00", 
+            "time_spent": 2, 
+            "activity": "Preview", 
+            "date": "2015-09-04T12:00:00", 
+            "document": "ways-of-seeing-john-berger-6.8.pdf"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:05:00", 
+            "time_spent": 3, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-04T12:05:00", 
+            "document": "Cameo - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T12:15:00", 
+            "document": "gdelt - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 38, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T12:15:00", 
+            "document": "[Teaser] GDELT & BigQuery - Understand the world - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:15:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T12:15:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 267, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T12:20:00", 
+            "document": "GDELT & BigQuery: Understand the world - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T12:20:00", 
+            "document": "Google BigQuery in Action Computing on the Whole Planet with the GDELT Project \u2013 Kalev Leetaru - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "12:20:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T12:20:00", 
+            "document": "Untitled"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T12:30:00", 
+            "document": "gdelt google bigquery example - Google Search"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:50:00", 
+            "time_spent": 1, 
+            "activity": "console", 
+            "date": "2015-09-04T12:50:00", 
+            "document": "All Messages"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 10, 
+            "activity": "flickr.com", 
+            "date": "2015-09-04T13:55:00", 
+            "document": "SAM_0220 | Flickr - Photo Sharing!"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T13:55:00", 
+            "document": "Slojak (Come On And Find Me) - YouTube"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 6, 
+            "activity": "flickr.com", 
+            "date": "2015-09-04T13:55:00", 
+            "document": "Altyn Arashan | Flickr - Photo Sharing!"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T13:55:00", 
+            "document": "herbert come and fne me - YouTube"
+        }, 
+        {
+            "category": "Photos", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 7, 
+            "activity": "flickr.com", 
+            "date": "2015-09-04T13:55:00", 
+            "document": "Flickr, a Yahoo company | Flickr - Photo Sharing!"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T13:55:00", 
+            "document": "herbert 100lbs - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:55:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T13:55:00", 
+            "document": "herbert come and find me - YouTube"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 4, 
+            "activity": "gigaom.com", 
+            "date": "2015-09-04T14:00:00", 
+            "document": "This analysis of modern history is a prime example of why big data really matters | Gigaom"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 47, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T14:00:00", 
+            "document": "Herbert - 2006 - 100 Lbs (320 from lossless) - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 12, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-04T14:00:00", 
+            "document": "Search Everything on SoundCloud"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T14:00:00", 
+            "document": "herbert - YouTube"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 4, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-04T14:00:00", 
+            "document": "Your stream on SoundCloud"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T14:00:00", 
+            "document": "Come On & Find Me (feat. Sylvanna) - Jjos - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T14:00:00", 
+            "document": "herbert 100lbs - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T14:00:00", 
+            "document": "soudn - Google Search"
+        }, 
+        {
+            "category": "Internet Utilities", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 1, 
+            "activity": "soundcloud.com", 
+            "date": "2015-09-04T14:00:00", 
+            "document": "SoundCloud \u2013 Hear the world\u2019s sounds"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 71, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-04T14:05:00", 
+            "document": "Matthew Herbert - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 22, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T14:05:00", 
+            "document": "Herbert - Moving like a train (!K7) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 6, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T14:05:00", 
+            "document": "Herbert - Something Isn't Right (2006) - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T14:05:00", 
+            "document": "herbert scale - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T14:05:00", 
+            "document": "pampa records - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T14:05:00", 
+            "document": "matthew herbert - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T14:05:00", 
+            "document": "Pampa Records"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 17, 
+            "activity": "gigaom.com", 
+            "date": "2015-09-04T14:10:00", 
+            "document": "Study says: Don\u2019t buy a fitness tracker, just use your phone | Gigaom"
+        }, 
+        {
+            "category": "Science & Technology", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 29, 
+            "activity": "gigaom.com", 
+            "date": "2015-09-04T14:10:00", 
+            "document": "turkey-1998-12-21-1999-02-19.png (1600\u00d7500)"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 9, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T14:10:00", 
+            "document": "Herbert - I Hadn't Known (I Only Heard) - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T14:15:00", 
+            "document": "connect to google bigquery intellij - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 48, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T14:20:00", 
+            "document": "connect to google bigquery pycharm - Google Search"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 3, 
+            "activity": "Finder", 
+            "date": "2015-09-04T14:20:00", 
+            "document": "CDataJDBCDriverforGoogleBigQuery"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T14:20:00", 
+            "document": "connect to google bigquery itellij - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T14:20:00", 
+            "document": "Data mining now simplified with python | impythonist"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:35:00", 
+            "time_spent": 8, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T14:35:00", 
+            "document": "Secondhand Sounds - Herbert Remixes (320 from lossless)CD1 - YouTube"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 168, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T14:50:00", 
+            "document": "8.5 ICM: Pass by value vs. pass by reference on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 28, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T14:50:00", 
+            "document": "daniel shiffman in videos on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 26, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T14:50:00", 
+            "document": "Watch, share and upload your high quality videos | Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:50:00", 
+            "time_spent": 3, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T14:50:00", 
+            "document": "nature of code in videos on Vimeo"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 140, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T15:05:00", 
+            "document": "Using Big Data to Understand Global Conflict - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 26, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T15:05:00", 
+            "document": "GDELT Project - Protests & Violence Against Civilians 1979-2014 - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:05:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T15:05:00", 
+            "document": "Google I/O 2014 - The dawn of \"Fast Data\" - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 20, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T15:10:00", 
+            "document": "moloko - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 7, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T15:10:00", 
+            "document": "Kylie Minogue - Come Into My World - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:10:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T15:10:00", 
+            "document": "kylie minogue come into my world - YouTube"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T15:20:00", 
+            "document": "CAMEO.eventcodes.txt - sketches - [~/IdeaProjects/sketches]"
+        }, 
+        {
+            "category": "Systems Operations", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "15:20:00", 
+            "time_spent": 16, 
+            "activity": "Terminal", 
+            "date": "2015-09-04T15:20:00", 
+            "document": "vredespaleis \u2014 zsh"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:25:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T15:25:00", 
+            "document": "gdelt bigquery example - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T15:30:00", 
+            "document": "Inbox (34) - krks.gbr@gmail.com - Gmail"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:45:00", 
+            "time_spent": 16, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T15:45:00", 
+            "document": "what's that? - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 5, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T15:50:00", 
+            "document": "skatebard - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 3, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T15:50:00", 
+            "document": "Skateb\u00e5rd - Conga - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T15:50:00", 
+            "document": "gdelt map - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:50:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T15:50:00", 
+            "document": "skatebard conga - YouTube"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 84, 
+            "activity": "edition.cnn.com", 
+            "date": "2015-09-04T15:55:00", 
+            "document": "Drowned toddler's image stops us in our tracks - CNN.com"
+        }, 
+        {
+            "category": "International", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "15:55:00", 
+            "time_spent": 11, 
+            "activity": "english.ahram.org.eg", 
+            "date": "2015-09-04T15:55:00", 
+            "document": "Germany sends suspected jihadi recruiter back to Spain - International - World - Ahram Online"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 20, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:10:00", 
+            "document": "open source cartodb - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:10:00", 
+            "document": "gdelt returns false - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 29, 
+            "activity": "github.com", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "OpenMap-java/openmap"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 58, 
+            "activity": "github.com", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "CartoDB/cartodb"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 42, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "open source - Integrating a map into a java application - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "cartodb for java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "java map framework - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 7, 
+            "activity": "github.com", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "cartodb/account_tokens_controller.rb at master \u00b7 CartoDB/cartodb"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 5, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "java geographical map framework - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "cartodb/app/controllers at master \u00b7 CartoDB/cartodb"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 3, 
+            "activity": "github.com", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "cartodb/app at master \u00b7 CartoDB/cartodb"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-04T16:15:00", 
+            "document": "https://github.com/CartoDB/cartodb"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:25:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:25:00", 
+            "document": "cartodb exampes - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 38, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:30:00", 
+            "document": "actor pattern - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:35:00", 
+            "document": "cartodb - Google Search"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 115, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T16:45:00", 
+            "document": "Death in the City: the shape of death in Modernity on Vimeo"
+        }, 
+        {
+            "category": "General Entertainment", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 48, 
+            "activity": "vimeo.com", 
+            "date": "2015-09-04T16:45:00", 
+            "document": "Death in Venice - interactive map of London on Vimeo"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:45:00", 
+            "document": "death in venice lust - Google Search"
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 11, 
+            "activity": "facebook.com", 
+            "date": "2015-09-04T16:45:00", 
+            "document": "(2) LUST - We're currently working on Death in Venice, an exhibition..."
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 11, 
+            "activity": "facebook.com", 
+            "date": "2015-09-04T16:45:00", 
+            "document": "LUST - We're currently working on Death in Venice, an exhibition..."
+        }, 
+        {
+            "category": "General Social Networking", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "facebook.com", 
+            "date": "2015-09-04T16:45:00", 
+            "document": "(1) LUST - We're currently working on Death in Venice, an exhibition..."
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T16:45:00", 
+            "document": "vimeo death in venice - Google Search"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "16:45:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T16:45:00", 
+            "document": "Gui Boratto Dj Set Boiler Room S\u00e3o Paulo - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T17:00:00", 
+            "document": "unfoldingmaps vs - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 25, 
+            "activity": "github.com", 
+            "date": "2015-09-04T17:00:00", 
+            "document": "tillnagel/unfolding"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 20, 
+            "activity": "youtube.com", 
+            "date": "2015-09-04T17:00:00", 
+            "document": "UnfoldingMaps, Processing and TileMill - YouTube"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T17:00:00", 
+            "document": "processing mapping - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 13, 
+            "activity": "github.com", 
+            "date": "2015-09-04T17:00:00", 
+            "document": "Comparison GeoVis tools \u00b7 tillnagel/unfolding Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T17:00:00", 
+            "document": "processing map tiles - Google Search"
+        }, 
+        {
+            "category": "General Business", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:05:00", 
+            "time_spent": 3, 
+            "activity": "drive.google.com", 
+            "date": "2015-09-04T17:05:00", 
+            "document": "Downloads for OpenMap"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:10:00", 
+            "time_spent": 29, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T17:10:00", 
+            "document": "geo mapping framework java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 41, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T17:15:00", 
+            "document": "google maps java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 35, 
+            "activity": "github.com", 
+            "date": "2015-09-04T17:15:00", 
+            "document": "CartoDB/cartodb-java-client"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 23, 
+            "activity": "developers.google.com", 
+            "date": "2015-09-04T17:15:00", 
+            "document": "Google Maps Engine API Client Library for Java \u00a0|\u00a0 API Client Library for Java \u00a0|\u00a0 Google Developers"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T17:15:00", 
+            "document": "cartodb java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T17:15:00", 
+            "document": "embed map in java application - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 12, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-04T17:15:00", 
+            "document": "swing - Embed google maps in Java desktop Application - Stack Overflow"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 8, 
+            "activity": "github.com", 
+            "date": "2015-09-04T17:15:00", 
+            "document": "google/google-api-java-client-samples"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T17:15:00", 
+            "document": "cartodb javascript - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "17:15:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-04T17:15:00", 
+            "document": "unfoldingmaps - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 88, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T17:20:00", 
+            "document": "Test.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 58, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T17:20:00", 
+            "document": "HubbubSketch.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:20:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T17:20:00", 
+            "document": "IntelliJ IDEA 14.1.2"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 29, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T17:25:00", 
+            "document": "MapDisplayShader.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T17:25:00", 
+            "document": "MaskedMapDisplayShader.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 11, 
+            "activity": "Finder", 
+            "date": "2015-09-04T17:25:00", 
+            "document": "Processing"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 7, 
+            "activity": "Finder", 
+            "date": "2015-09-04T17:25:00", 
+            "document": "Unfolding"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-04T17:25:00", 
+            "document": "libraries"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 4, 
+            "activity": "Finder", 
+            "date": "2015-09-04T17:25:00", 
+            "document": "Processing_sketches"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-04T17:25:00", 
+            "document": "Programming"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 2, 
+            "activity": "Finder", 
+            "date": "2015-09-04T17:25:00", 
+            "document": "processing_libraries"
+        }, 
+        {
+            "category": "General Utilities", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "17:25:00", 
+            "time_spent": 1, 
+            "activity": "Finder", 
+            "date": "2015-09-04T17:25:00", 
+            "document": "Projects"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 51, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T17:30:00", 
+            "document": "UnfoldingMap.class - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:30:00", 
+            "time_spent": 26, 
+            "activity": "intellij idea", 
+            "date": "2015-09-04T17:30:00", 
+            "document": "AbstractMapDisplay.class - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }
+    ]
+}

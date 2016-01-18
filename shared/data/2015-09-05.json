@@ -1,0 +1,924 @@
+{
+    "2015-09-05": [
+        {
+            "category": "Uncategorized", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 60, 
+            "activity": "samavatian.com", 
+            "date": "2015-09-05T12:25:00", 
+            "document": "No Details"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T12:25:00", 
+            "document": "Test.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Browsers", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:25:00", 
+            "time_spent": 11, 
+            "activity": "newtab", 
+            "date": "2015-09-05T12:25:00", 
+            "document": "New Tab"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 41, 
+            "activity": "github.com", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "Comparison GeoVis tools \u00b7 tillnagel/unfolding Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 32, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "cartography java - Google Search"
+        }, 
+        {
+            "category": "Instant Message", 
+            "productivity": -1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 5, 
+            "activity": "slack", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "Slack"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "unfoldingmaps java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 11, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "geolocation - Cartography and road maps in java - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "unfoldingmaps vs java - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 7, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "mapping java - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 4, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "Conflict and Mediation Event Observations - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "google maps java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:30:00", 
+            "time_spent": 1, 
+            "activity": "github.com", 
+            "date": "2015-09-05T12:30:00", 
+            "document": "wadetb/Sublime-Text-Advanced-CSV"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 49, 
+            "activity": "quora.com", 
+            "date": "2015-09-05T12:35:00", 
+            "document": "(4) Which is better for my use, Openstreetmap with OpenLayers or Google Maps? - Quora"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 31, 
+            "activity": "github.com", 
+            "date": "2015-09-05T12:35:00", 
+            "document": "RenderingOsmData \u00b7 mapserver/mapserver Wiki"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 22, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:35:00", 
+            "document": "java api cartography - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:35:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:35:00", 
+            "document": "unfoldingmaps - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 144, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T12:40:00", 
+            "document": "UnfoldingMap.class - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:40:00", 
+            "time_spent": 23, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:40:00", 
+            "document": "java var1 var2 var3 - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 58, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T12:45:00", 
+            "document": "MapDisplayFactory.class - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 14, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:45:00", 
+            "document": "java source code why are variables named var - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "12:45:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T12:45:00", 
+            "document": "Google"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 35, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T12:55:00", 
+            "document": "UnfoldingMap.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "12:55:00", 
+            "time_spent": 114, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T12:55:00", 
+            "document": "OpenStreetMap.class - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 27, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:00:00", 
+            "document": "Processing_sketches.iml - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:00:00", 
+            "time_spent": 5, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:00:00", 
+            "document": "Unfolding.iml - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 50, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:05:00", 
+            "document": "OpenStreetMap.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 141, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:05:00", 
+            "document": "EventDispatcher.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 13, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:05:00", 
+            "document": "MapDisplayFactory.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:05:00", 
+            "time_spent": 14, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:05:00", 
+            "document": "AbstractMapTileUrlProvider.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 27, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T13:10:00", 
+            "document": "cloudmade map - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T13:10:00", 
+            "document": "openstreetmap java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:10:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T13:10:00", 
+            "document": "cloudmade - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 41, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T13:15:00", 
+            "document": "gvsig java - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:15:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T13:15:00", 
+            "document": "gvsig - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 100, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:20:00", 
+            "document": "OpenGLMapDisplay.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:20:00", 
+            "time_spent": 38, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:20:00", 
+            "document": "CartoDBProvider.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 57, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:25:00", 
+            "document": "TileLoader.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:25:00", 
+            "time_spent": 68, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:25:00", 
+            "document": "AbstractMapDisplay.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 171, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:30:00", 
+            "document": "MBTilesLoaderUtils.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 17, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:30:00", 
+            "document": "MBTilesMapProvider.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "13:30:00", 
+            "time_spent": 27, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T13:30:00", 
+            "document": "AbstractMapProvider.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 31, 
+            "activity": "youtube.com", 
+            "date": "2015-09-05T13:40:00", 
+            "document": "50 Cent - P.I.M.P. (Snoop Dogg Remix) ft. Snoop Dogg, G-Unit - YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 4, 
+            "activity": "youtube.com", 
+            "date": "2015-09-05T13:40:00", 
+            "document": "YouTube"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "13:40:00", 
+            "time_spent": 2, 
+            "activity": "youtube.com", 
+            "date": "2015-09-05T13:40:00", 
+            "document": "pimp - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:45:00", 
+            "time_spent": 8, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T13:45:00", 
+            "document": "front end developers amsterdam - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 19, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T13:50:00", 
+            "document": "junior android developer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "13:50:00", 
+            "time_spent": 13, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T13:50:00", 
+            "document": "android developers - Google Search"
+        }, 
+        {
+            "category": "Voice Chat", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 58, 
+            "activity": "Skype", 
+            "date": "2015-09-05T14:00:00", 
+            "document": "Skype"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 8, 
+            "activity": "openoffice", 
+            "date": "2015-09-05T14:00:00", 
+            "document": "20150902.export.csv - OpenOffice Calc"
+        }, 
+        {
+            "category": "Writing", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:00:00", 
+            "time_spent": 2, 
+            "activity": "openoffice", 
+            "date": "2015-09-05T14:00:00", 
+            "document": "OpenOffice 4.1.1 "
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 34, 
+            "activity": "github.com", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "geotools/geotools"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 20, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "api - Java equivalent of OpenLayers - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "geotools github - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "openlayers javascript - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 3, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "openlayers java - Google Search"
+        }, 
+        {
+            "category": "General News & Opinion", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "edition.cnn.com", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "Drowned toddler's image stops us in our tracks - CNN.com"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "geotools - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 2, 
+            "activity": "github.com", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "Current Call"
+        }, 
+        {
+            "category": "Video", 
+            "productivity": -2, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "youtube.com", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "GDELT & BigQuery: Understand the world - YouTube"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:05:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T14:05:00", 
+            "document": "weather den haag - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 24, 
+            "activity": "github.com", 
+            "date": "2015-09-05T14:10:00", 
+            "document": "tillnagel/unfolding"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:10:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T14:10:00", 
+            "document": "unfoldingmaps github - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 102, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T14:15:00", 
+            "document": "Java2DMapDisplay.java - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:15:00", 
+            "time_spent": 28, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T14:15:00", 
+            "document": "AbstractMapDisplay.class - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 19, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-05T14:20:00", 
+            "document": "processing - Unfolding SimpleMapApp - Image files missing - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:20:00", 
+            "time_spent": 9, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T14:20:00", 
+            "document": "The file http://a.www.toolserver.org/tiles/bw-mapnik/2/2/0.png contains bad image data, or may not be an image. - Google Search"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "14:25:00", 
+            "time_spent": 16, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T14:25:00", 
+            "document": "Category.class - Processing_sketches - [~/IdeaProjects/Processing_sketches]"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:30:00", 
+            "time_spent": 2, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T14:30:00", 
+            "document": "set provider unfolding map - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "14:40:00", 
+            "time_spent": 12, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T14:40:00", 
+            "document": "tilemill vs cartodb - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 7, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-05T16:05:00", 
+            "document": "language agnostic - Observer Design Pattern vs \"Listeners\" - Stack Overflow"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:05:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T16:05:00", 
+            "document": "listener pattern - Google Search"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 207, 
+            "activity": "tutorialspoint.com", 
+            "date": "2015-09-05T16:10:00", 
+            "document": "Design Patterns Observer Pattern"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 31, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T16:10:00", 
+            "document": "Teniersstraat - Google Maps"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T16:10:00", 
+            "document": "Tenierstraat - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:10:00", 
+            "time_spent": 1, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T16:10:00", 
+            "document": "Google Maps"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 89, 
+            "activity": "github.com", 
+            "date": "2015-09-05T16:15:00", 
+            "document": "Comparison between different Observer Pattern implementations \u00b7 millermedeiros/js-signals Wiki"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 62, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-05T16:15:00", 
+            "document": "Observer pattern - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 94, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-05T16:15:00", 
+            "document": "design patterns - Publisher-subscriber vs Observer - Stack Overflow"
+        }, 
+        {
+            "category": "General Reference & Learning", 
+            "productivity": 1, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 34, 
+            "activity": "en.wikipedia.org", 
+            "date": "2015-09-05T16:15:00", 
+            "document": "Publish\u2013subscribe pattern - Wikipedia, the free encyclopedia"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T16:15:00", 
+            "document": "publish subscribe vs observer - Google Search"
+        }, 
+        {
+            "category": "Search", 
+            "productivity": 0, 
+            "numOfPeople": 1, 
+            "time": "16:15:00", 
+            "time_spent": 10, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T16:15:00", 
+            "document": "publish subscribe pattern - Google Search"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:20:00", 
+            "time_spent": 6, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T16:20:00", 
+            "document": "observer pattern java - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 154, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-05T16:30:00", 
+            "document": "java - Interview : When should we use Observer and Observable - Stack Overflow"
+        }, 
+        {
+            "category": "Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:30:00", 
+            "time_spent": 4, 
+            "activity": "google.nl", 
+            "date": "2015-09-05T16:30:00", 
+            "document": "observer pattern java stackoverflow - Google Search"
+        }, 
+        {
+            "category": "General Software Development", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:35:00", 
+            "time_spent": 22, 
+            "activity": "stackoverflow.com", 
+            "date": "2015-09-05T16:35:00", 
+            "document": "A generic observer pattern in Java - Stack Overflow"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "16:55:00", 
+            "time_spent": 9, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T16:55:00", 
+            "document": "Director.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 18, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T17:00:00", 
+            "document": "ClockControl.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 57, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T17:00:00", 
+            "document": "Control.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 32, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T17:00:00", 
+            "document": "Director.java - lightcontroller - [~/git/lightcontroller]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 21, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T17:00:00", 
+            "document": "GameOfLife.java - oneonetwo - [~/git/oneonetwo]"
+        }, 
+        {
+            "category": "Editing & IDEs", 
+            "productivity": 2, 
+            "numOfPeople": 1, 
+            "time": "17:00:00", 
+            "time_spent": 1, 
+            "activity": "intellij idea", 
+            "date": "2015-09-05T17:00:00", 
+            "document": "lightcontroller - [~/git/lightcontroller]"
+        }
+    ]
+}
